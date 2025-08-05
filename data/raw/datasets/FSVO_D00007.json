@@ -1,0 +1,77 @@
+{
+    "dct:identifier": "FSVO_D00007",
+    "schema:image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Thomas_Cole_-_L%27Allegro.jpg",
+    "dct:title": {
+        "fr": "",
+        "de": "Antibiotikaeinstaz in der Veterinärmedizin",
+        "en": "",
+        "it": ""
+    },
+    "dct:description": {
+        "fr": "",
+        "de": "Das Informationssystem Antibiotika in der Veterinärmedizin (ISABV) erfasst detaillierte Daten zum Antibiotikaverbrauch in der Veterinärmedizin. Tierärzte und Tierärztinnen bzw. Tierarztpraxen in der Schweiz sind dazu verpflichtet, alle an Heim- und Nutztiere verabreichten oder verschriebenen Antibiotika zu melden. Diese Meldungen enthalten Informationen zu Spezies, Anzahl der behandelten Tiere, Präparatnamen, Wirkstoffen, abgegebenen Mengen, Dosis, Behandlungsfrequenz, Behandlungsdauer, Indikation und betroffenem Organsystem.\n\nVerbrauchsdaten dienen der Überwachung des Antibiotikaverbrauchs und bilden eine zentrale Grundlage der Nationalen Strategie Antibiotikaresistenzen Schweiz (StAR). Mittelfristig sollen sie die Vertriebsdaten als wichtigste Messung des Antibiotikaeinsatzes ablösen. Sie ermöglichen es, Trends im Einsatz von Antibiotika zu erkennen, Risiken gezielt zu bewerten und regulatorische sowie präventive Massnahmen evidenzbasiert zu planen. Zudem sind die Daten für die internationale Berichterstattung (z. B. an die WOAH) erforderlich und tragen dazu bei, die Entwicklung von Resistenzen bei Tieren und die damit verbundenen Risiken für die öffentliche Gesundheit einzudämmen.",
+        "en": "",
+        "it": ""
+    },
+    "dct:accessRights": "RESTRICTED",
+    "dct:publisher": "Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV",
+    "dcat:contactPoint": {
+        "schema:email": "tam@blv.admin.ch",
+        "schema:name": "BLV, TGTS, Tierarzneimittel"
+    },
+    "dct:issued": "2025-08-05",
+    "dcatap:availability": "STABLE",
+    "dcat:keyword": [
+        "Antiobiotika",
+        "Tierarzneimittel",
+        "Tierarztpraxen"
+    ],
+    "dct:accrualPeriodicity": "CONT",
+    "dct:modified": "2025-08-05",
+    "prov:qualifiedAttribution": [
+        {
+            "prov:agent": "INTERNAL",
+            "dcat:hadRole": "businessDataOwner"
+        },
+        {
+            "prov:agent": "INTERNAL",
+            "dcat:hadRole": "dataSteward"
+        }
+    ],
+    "adms:status": "published",
+    "bv:classification": "internal",
+    "bv:personalData": "personalData",
+    "bv:typeOfData": "thematicData",
+    "bv:archivalValue": true,
+    "bv:opendata_swiss": {
+        "bv:mustBePublished": false,
+        "dct:identifier": "",
+        "dcat:accessURL": ""
+    },
+    "bv:i14y": {
+        "bv:mustBePublished": true,
+        "dct:identifier": "",
+        "dcat:accessURL": ""
+    },
+    "dcat:theme": [
+        "health, agriculture"
+    ],
+    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierarzneimittel/antibiotika/ueberwachung.html",
+    "dct:spatial": "YES",
+    "dct:temporal": {
+        "dcat:start_date": "2019-01-01",
+        "dcat:end_date": "2019-12-31"
+    },
+    "dcatap:applicableLegislation": [
+        "SR 812.212.27 - Verordnung vom 18. August 2004 ü... | Fedlex"
+    ],
+    "prov:wasGeneratedBy": "",
+    "bv:retentionPeriod": "",
+    "prov:wasDerivedFrom": "",
+    "bv:geoIdentifier": "BUR",
+    "foaf:page": "",
+    "schema:comment": "",
+    "bv:itSystem": "IS ABV",
+    "dcat:inSeries": "",
+    "dct:replaces": ""
+}
