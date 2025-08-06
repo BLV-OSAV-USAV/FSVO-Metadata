@@ -1,6 +1,7 @@
 name: Combine Datasets
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
