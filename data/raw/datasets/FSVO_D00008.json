@@ -2,19 +2,13 @@
     "dct:identifier": "FSVO_D00008",
     "schema:image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Thomas_Cole_-_L%27Allegro.jpg",
     "dct:title": {
-        "fr": "",
-        "de": "Einfuhr von Tierarzneimittel",
-        "en": "",
-        "it": ""
+        "de": "Einfuhr von Tierarzneimittel"
     },
     "dct:description": {
-        "fr": "",
-        "de": "In dieser Datensammlung sind Meldungen von Tierärztinnen und Tierätzten erfasst, die Tierarzneimittel (TAM) aus dem Ausland importieren. Ein Import von TAM ist zulässig, wenn kein alternativ einsetzbares oder medizinisch gleichwertiges TAM zugelassen ist, alternative TAM zugelassen, aber nicht verfügbar sind oder zugelassene TAM für gewisse Einzelfälle ungeeignet sind (bspw. Galenik oder Dosisstärke). Je nach Kategorie benötigen Importe eine Bewilligung oder nicht. Erfasst werden Angaben zum eingeführten Präparat, Wirkstoff, vorgesehener Tierart, Anzahl Packungen, Packungsgrösse, Anwendugsbetrieb, Zulassungsland, Importland sowie die medizinische Begründung für die Einfuhr.\n\nDie Datensammlung dient der Kontrolle und Nachverfolgbarkeit ausserordentlicher Arzneimitteleinfuhren in der Veterinärmedizin. Sie ermöglicht es, Risiken im Zusammenhang mit nicht zugelassenen Arzneimitteln zu überwachen und die Einhaltung der rechtlichen Voraussetzungen zu prüfen. Zudem liefert sie wertvolle Hinweise zu Versorgungslücken auf dem Schweizer Tierarzneimittelmarkt und unterstützt die Weiterentwicklung regulatorischer Strategien zur Sicherstellung der Tiergesundheit.",
-        "en": "",
-        "it": ""
+        "de": "In dieser Datensammlung sind Meldungen von Tierärztinnen und Tierätzten erfasst, die Tierarzneimittel (TAM) aus dem Ausland importieren. Ein Import von TAM ist zulässig, wenn kein alternativ einsetzbares oder medizinisch gleichwertiges TAM zugelassen ist, alternative TAM zugelassen, aber nicht verfügbar sind oder zugelassene TAM für gewisse Einzelfälle ungeeignet sind (bspw. Galenik oder Dosisstärke). Je nach Kategorie benötigen Importe eine Bewilligung oder nicht. Erfasst werden Angaben zum eingeführten Präparat, Wirkstoff, vorgesehener Tierart, Anzahl Packungen, Packungsgrösse, Anwendugsbetrieb, Zulassungsland, Importland sowie die medizinische Begründung für die Einfuhr.\n\nDie Datensammlung dient der Kontrolle und Nachverfolgbarkeit ausserordentlicher Arzneimitteleinfuhren in der Veterinärmedizin. Sie ermöglicht es, Risiken im Zusammenhang mit nicht zugelassenen Arzneimitteln zu überwachen und die Einhaltung der rechtlichen Voraussetzungen zu prüfen. Zudem liefert sie wertvolle Hinweise zu Versorgungslücken auf dem Schweizer Tierarzneimittelmarkt und unterstützt die Weiterentwicklung regulatorischer Strategien zur Sicherstellung der Tiergesundheit."
     },
     "dct:accessRights": "RESTRICTED",
-    "dct:publisher": "Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV",
+    "dct:publisher": "BLV-OSAV-USAV-FSVO",
     "dcat:contactPoint": {
         "schema:email": "tam@blv.admin.ch",
         "schema:name": "BLV, TGTS, Tierarzneimittel"
@@ -41,20 +35,17 @@
     "adms:status": "published",
     "bv:classification": "internal",
     "bv:personalData": "personalData",
-    "bv:typeOfData": "thematicData",
+    "bv:typeOfData": "primaryThematicData",
     "bv:archivalValue": true,
     "bv:opendata_swiss": {
-        "bv:mustBePublished": false,
-        "dct:identifier": "",
-        "dcat:accessURL": ""
+        "bv:mustBePublished": false
     },
     "bv:i14y": {
-        "bv:mustBePublished": false,
-        "dct:identifier": "",
-        "dcat:accessURL": ""
+        "bv:mustBePublished": false
     },
     "dcat:theme": [
-        "health, agriculture"
+        "health",
+        "agriculture"
     ],
     "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierarzneimittel/fachgerechter-umgang-mit-tierarzneimitteln/einfuhr-tam.html",
     "dct:spatial": "YES",
@@ -65,13 +56,6 @@
     "dcatap:applicableLegislation": [
         "SR 812.212.27 - Verordnung vom 18. August 2004 ü... | Fedlex"
     ],
-    "prov:wasGeneratedBy": "",
-    "bv:retentionPeriod": "",
-    "prov:wasDerivedFrom": "",
     "bv:geoIdentifier": "BUR",
-    "foaf:page": "",
-    "schema:comment": "",
-    "bv:itSystem": "TAM-I",
-    "dcat:inSeries": "",
-    "dct:replaces": ""
+    "bv:itSystem": "TAM-I"
 }
