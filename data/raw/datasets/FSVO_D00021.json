@@ -2,7 +2,10 @@
     "dct:identifier": "FSVO_D00021",
     "schema:image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Thomas_Cole_-_L%27Allegro.jpg",
     "dct:title": {
-        "de": "Kontrollen tierärztlicher Privatapotheken"
+        "fr": "Kontrollen tierärztlicher Privatapotheken",
+        "de": "Kontrollen tierärztlicher Privatapotheken",
+        "en": "Kontrollen tierärztlicher Privatapotheken",
+        "it": "Kontrollen tierärztlicher Privatapotheken"
     },
     "dct:description": {
         "de": "Diese Datensammlung umfasst die Ergebnisse der amtlichen Kontrollen tierärztlicher Privatapotheken, wie sie durch die kantonalen Vollzugsbehörden durchgeführt und systematisch anhand von Kontrollpunkten dokumentiert werden. Erfasst werden dabei Informationen zu Betriebstyp, Lagerung, Abgabe und Anwendung von Tierarzneimitteln, zur Einhaltung der Aufzeichnungspflichten sowie zu allfälligen Beanstandungen und ergriffenen Massnahmen. Auch Angaben zur Häufigkeit und Art der Kontrollen sowie zur verantwortlichen Tierärztin oder zum Tierarzt fliessen in die Datensammlung ein.\n\nIm Rahmen der Detailhandelskontrollen werden tierärztliche Privatapotheken, Zoo- und Imkerfachgeschäfte kontrolliert."

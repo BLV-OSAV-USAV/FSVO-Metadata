@@ -2,7 +2,10 @@
     "dct:identifier": "FSVO_D0053",
     "schema:image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Thomas_Cole_-_L%27Allegro.jpg",
     "dct:title": {
-        "de": "Benchmarking Nutztierhaltungen"
+        "fr": "Benchmarking Nutztierhaltungen",
+        "de": "Benchmarking Nutztierhaltungen",
+        "en": "Benchmarking Nutztierhaltungen",
+        "it": "Benchmarking Nutztierhaltungen"
     },
     "dct:description": {
         "de": "Die Datensammlung enthält jährlich erfasste Vergleichsdaten zu Antibiotikabehandlungen bei Nutztieren pro Tierhaltung. Sie umfasst den Tierbehandlungsindex (TBI) je Nutzungskategorie und Tierart sowie den Anteil der Wirkstoffmenge, die als «Abgabe auf Vorrat» (AV%) gemeldet wird. Die Daten basieren auf den registrierten Verschreibungen und werden vor der Auswertung qualitätsgesichert. Der TBI ermöglicht einen differenzierten Vergleich des Antibiotikaeinsatzes mit ähnlichen Betrieben. Die AV%-Angabe liefert ergänzende Informationen zum Antibiotikaverbrauch, der nicht im TBI enthalten ist."

@@ -2,7 +2,10 @@
     "dct:identifier": "FSVO_D00011",
     "schema:image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Thomas_Cole_-_L%27Allegro.jpg",
     "dct:title": {
-        "de": "Laborergebnisse Antibiotikaresistenzmonitoring"
+        "fr": "Laborergebnisse Antibiotikaresistenzmonitoring",
+        "de": "Laborergebnisse Antibiotikaresistenzmonitoring",
+        "en": "Laborergebnisse Antibiotikaresistenzmonitoring",
+        "it": "Laborergebnisse Antibiotikaresistenzmonitoring"
     },
     "dct:description": {
         "de": "Die Datensammlung zum Antibiotikaresistenzmonitoring im Veterinärbereich enthält systematisch erhobene Daten aus der Labordiagnostik von Stichprobenuntersuchungen (nationaler Kontrollplan) und von bakteriellen Krankheitserregern bei Tieren. Erfasst werden Ergebnisse standardisierter Antibiogramme, einschliesslich Angaben zur Tierart, Probeherkunft, Bakterienspezies, Resistenzprofil sowie den eingesetzten Antibiotikaklassen. Die Daten stammen aus diagnostischen Untersuchungen durch akkreditierte Labors im Rahmen von nationalen Monitoringprogrammen oder klinischen Proben.\n\nZiel der Datensammlung ist es, die Verbreitung und Entwicklung von Antibiotikaresistenzen bei Nutztieren und Heimtieren in der Schweiz zu beobachten. Sie dient der Früherkennung resistenter Erreger, unterstützt die Risikobewertung und bildet eine wichtige Grundlage für die Strategie Antibiotikaresistenzen Schweiz (StAR). Die systematische Auswertung der Daten ermöglicht es, wirksame Massnahmen zur Reduktion von Resistenzen abzuleiten, veterinärmedizinische Behandlungen zu optimieren und den Schutz der öffentlichen Gesundheit zu stärken."
