@@ -4,7 +4,10 @@
         "dct:identifier": "FSVO_D00007",
         "schema:image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Thomas_Cole_-_L%27Allegro.jpg",
         "dct:title": {
-            "de": "Antibiotikaeinstaz in der Veterinärmedizin"
+            "fr": "Antibiotikaeinstaz in der Veterinärmedizin",
+            "de": "Antibiotikaeinstaz in der Veterinärmedizin",
+            "en": "Antibiotikaeinstaz in der Veterinärmedizin",
+            "it": "Antibiotikaeinstaz in der Veterinärmedizin"
         },
         "dct:description": {
             "de": "Das Informationssystem Antibiotika in der Veterinärmedizin (ISABV) erfasst detaillierte Daten zum Antibiotikaverbrauch in der Veterinärmedizin. Tierärzte und Tierärztinnen bzw. Tierarztpraxen in der Schweiz sind dazu verpflichtet, alle an Heim- und Nutztiere verabreichten oder verschriebenen Antibiotika zu melden. Diese Meldungen enthalten Informationen zu Spezies, Anzahl der behandelten Tiere, Präparatnamen, Wirkstoffen, abgegebenen Mengen, Dosis, Behandlungsfrequenz, Behandlungsdauer, Indikation und betroffenem Organsystem.\n\nVerbrauchsdaten dienen der Überwachung des Antibiotikaverbrauchs und bilden eine zentrale Grundlage der Nationalen Strategie Antibiotikaresistenzen Schweiz (StAR). Mittelfristig sollen sie die Vertriebsdaten als wichtigste Messung des Antibiotikaeinsatzes ablösen. Sie ermöglichen es, Trends im Einsatz von Antibiotika zu erkennen, Risiken gezielt zu bewerten und regulatorische sowie präventive Massnahmen evidenzbasiert zu planen. Zudem sind die Daten für die internationale Berichterstattung (z. B. an die WOAH) erforderlich und tragen dazu bei, die Entwicklung von Resistenzen bei Tieren und die damit verbundenen Risiken für die öffentliche Gesundheit einzudämmen."
@@ -51,78 +54,21 @@
         "bv:geoIdentifier": "BUR",
         "bv:itSystem": "IS ABV",
         "businessDataOwner": "INTERNAL",
-        "schemaViolations": 2,
+        "schemaViolations": 1,
         "schemaViolationMessages": [
-            "'fr' is a required property",
             "'fr' is a required property"
         ],
-        "quality": 1003.3333333333334
-    },
-    {
-        "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00008",
-        "schema:image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Thomas_Cole_-_L%27Allegro.jpg",
-        "dct:title": {
-            "de": "Einfuhr von Tierarzneimittel"
-        },
-        "dct:description": {
-            "de": "In dieser Datensammlung sind Meldungen von Tierärztinnen und Tierätzten erfasst, die Tierarzneimittel (TAM) aus dem Ausland importieren. Ein Import von TAM ist zulässig, wenn kein alternativ einsetzbares oder medizinisch gleichwertiges TAM zugelassen ist, alternative TAM zugelassen, aber nicht verfügbar sind oder zugelassene TAM für gewisse Einzelfälle ungeeignet sind (bspw. Galenik oder Dosisstärke). Je nach Kategorie benötigen Importe eine Bewilligung oder nicht. Erfasst werden Angaben zum eingeführten Präparat, Wirkstoff, vorgesehener Tierart, Anzahl Packungen, Packungsgrösse, Anwendugsbetrieb, Zulassungsland, Importland sowie die medizinische Begründung für die Einfuhr.\n\nDie Datensammlung dient der Kontrolle und Nachverfolgbarkeit ausserordentlicher Arzneimitteleinfuhren in der Veterinärmedizin. Sie ermöglicht es, Risiken im Zusammenhang mit nicht zugelassenen Arzneimitteln zu überwachen und die Einhaltung der rechtlichen Voraussetzungen zu prüfen. Zudem liefert sie wertvolle Hinweise zu Versorgungslücken auf dem Schweizer Tierarzneimittelmarkt und unterstützt die Weiterentwicklung regulatorischer Strategien zur Sicherstellung der Tiergesundheit."
-        },
-        "dct:accessRights": "RESTRICTED",
-        "dct:publisher": "BLV-OSAV-USAV-FSVO",
-        "dcat:contactPoint": {
-            "schema:email": "tam@blv.admin.ch",
-            "schema:name": "BLV, TGTS, Tierarzneimittel"
-        },
-        "dct:issued": "2025-08-05",
-        "dcatap:availability": "STABLE",
-        "dcat:keyword": [
-            "Tierarzneimittel",
-            "Versorgungssicherheit",
-            "Impfstoff"
-        ],
-        "dct:accrualPeriodicity": "CONT",
-        "dct:modified": "2025-08-05",
-        "adms:status": "published",
-        "bv:classification": "internal",
-        "bv:personalData": "personalData",
-        "bv:typeOfData": "primaryThematicData",
-        "bv:archivalValue": true,
-        "bv:opendata_swiss": {
-            "bv:mustBePublished": false
-        },
-        "bv:i14y": {
-            "bv:mustBePublished": false
-        },
-        "dcat:theme": [
-            "health",
-            "agriculture"
-        ],
-        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierarzneimittel/fachgerechter-umgang-mit-tierarzneimitteln/einfuhr-tam.html",
-        "dct:spatial": "YES",
-        "dct:temporal": {
-            "dcat:start_date": "2022-01-01",
-            "dcat:end_date": "2022-12-31"
-        },
-        "dcatap:applicableLegislation": [
-            "SR 812.212.27 - Verordnung vom 18. August 2004 ü... | Fedlex"
-        ],
-        "bv:geoIdentifier": "BUR",
-        "bv:itSystem": "TAM-I",
-        "businessDataOwner": "INTERNAL",
-        "schemaViolations": 2,
-        "schemaViolationMessages": [
-            "'fr' is a required property",
-            "'fr' is a required property"
-        ],
-        "quality": 1000.3333333333334
+        "quality": 1596.5
     },
     {
         "rdf:type": "dcat:Dataset",
         "dct:identifier": "FSVO_D00011",
         "schema:image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Thomas_Cole_-_L%27Allegro.jpg",
         "dct:title": {
-            "de": "Laborergebnisse Antibiotikaresistenzmonitoring"
+            "fr": "Laborergebnisse Antibiotikaresistenzmonitoring",
+            "de": "Laborergebnisse Antibiotikaresistenzmonitoring",
+            "en": "Laborergebnisse Antibiotikaresistenzmonitoring",
+            "it": "Laborergebnisse Antibiotikaresistenzmonitoring"
         },
         "dct:description": {
             "de": "Die Datensammlung zum Antibiotikaresistenzmonitoring im Veterinärbereich enthält systematisch erhobene Daten aus der Labordiagnostik von Stichprobenuntersuchungen (nationaler Kontrollplan) und von bakteriellen Krankheitserregern bei Tieren. Erfasst werden Ergebnisse standardisierter Antibiogramme, einschliesslich Angaben zur Tierart, Probeherkunft, Bakterienspezies, Resistenzprofil sowie den eingesetzten Antibiotikaklassen. Die Daten stammen aus diagnostischen Untersuchungen durch akkreditierte Labors im Rahmen von nationalen Monitoringprogrammen oder klinischen Proben.\n\nZiel der Datensammlung ist es, die Verbreitung und Entwicklung von Antibiotikaresistenzen bei Nutztieren und Heimtieren in der Schweiz zu beobachten. Sie dient der Früherkennung resistenter Erreger, unterstützt die Risikobewertung und bildet eine wichtige Grundlage für die Strategie Antibiotikaresistenzen Schweiz (StAR). Die systematische Auswertung der Daten ermöglicht es, wirksame Massnahmen zur Reduktion von Resistenzen abzuleiten, veterinärmedizinische Behandlungen zu optimieren und den Schutz der öffentlichen Gesundheit zu stärken."
@@ -171,19 +117,82 @@
         ],
         "bv:itSystem": "ARES",
         "businessDataOwner": "INTERNAL",
-        "schemaViolations": 2,
+        "schemaViolations": 1,
         "schemaViolationMessages": [
-            "'fr' is a required property",
             "'fr' is a required property"
         ],
-        "quality": 989.3333333333334
+        "quality": 1580.0
+    },
+    {
+        "rdf:type": "dcat:Dataset",
+        "dct:identifier": "FSVO_D00008",
+        "schema:image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Thomas_Cole_-_L%27Allegro.jpg",
+        "dct:title": {
+            "fr": "Einfuhr von Tierarzneimittel",
+            "de": "Einfuhr von Tierarzneimittel",
+            "en": "Einfuhr von Tierarzneimittel",
+            "it": "Einfuhr von Tierarzneimittel"
+        },
+        "dct:description": {
+            "de": "In dieser Datensammlung sind Meldungen von Tierärztinnen und Tierätzten erfasst, die Tierarzneimittel (TAM) aus dem Ausland importieren. Ein Import von TAM ist zulässig, wenn kein alternativ einsetzbares oder medizinisch gleichwertiges TAM zugelassen ist, alternative TAM zugelassen, aber nicht verfügbar sind oder zugelassene TAM für gewisse Einzelfälle ungeeignet sind (bspw. Galenik oder Dosisstärke). Je nach Kategorie benötigen Importe eine Bewilligung oder nicht. Erfasst werden Angaben zum eingeführten Präparat, Wirkstoff, vorgesehener Tierart, Anzahl Packungen, Packungsgrösse, Anwendugsbetrieb, Zulassungsland, Importland sowie die medizinische Begründung für die Einfuhr.\n\nDie Datensammlung dient der Kontrolle und Nachverfolgbarkeit ausserordentlicher Arzneimitteleinfuhren in der Veterinärmedizin. Sie ermöglicht es, Risiken im Zusammenhang mit nicht zugelassenen Arzneimitteln zu überwachen und die Einhaltung der rechtlichen Voraussetzungen zu prüfen. Zudem liefert sie wertvolle Hinweise zu Versorgungslücken auf dem Schweizer Tierarzneimittelmarkt und unterstützt die Weiterentwicklung regulatorischer Strategien zur Sicherstellung der Tiergesundheit."
+        },
+        "dct:accessRights": "RESTRICTED",
+        "dct:publisher": "BLV-OSAV-USAV-FSVO",
+        "dcat:contactPoint": {
+            "schema:email": "tam@blv.admin.ch",
+            "schema:name": "BLV, TGTS, Tierarzneimittel"
+        },
+        "dct:issued": "2025-08-05",
+        "dcatap:availability": "STABLE",
+        "dcat:keyword": [
+            "Tierarzneimittel",
+            "Versorgungssicherheit",
+            "Impfstoff"
+        ],
+        "dct:accrualPeriodicity": "CONT",
+        "dct:modified": "2025-08-05",
+        "adms:status": "published",
+        "bv:classification": "internal",
+        "bv:personalData": "personalData",
+        "bv:typeOfData": "primaryThematicData",
+        "bv:archivalValue": true,
+        "bv:opendata_swiss": {
+            "bv:mustBePublished": false
+        },
+        "bv:i14y": {
+            "bv:mustBePublished": false
+        },
+        "dcat:theme": [
+            "health",
+            "agriculture"
+        ],
+        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierarzneimittel/fachgerechter-umgang-mit-tierarzneimitteln/einfuhr-tam.html",
+        "dct:spatial": "YES",
+        "dct:temporal": {
+            "dcat:start_date": "2022-01-01",
+            "dcat:end_date": "2022-12-31"
+        },
+        "dcatap:applicableLegislation": [
+            "SR 812.212.27 - Verordnung vom 18. August 2004 ü... | Fedlex"
+        ],
+        "bv:geoIdentifier": "BUR",
+        "bv:itSystem": "TAM-I",
+        "businessDataOwner": "INTERNAL",
+        "schemaViolations": 1,
+        "schemaViolationMessages": [
+            "'fr' is a required property"
+        ],
+        "quality": 1569.5
     },
     {
         "rdf:type": "dcat:Dataset",
         "dct:identifier": "FSVO_D00009",
         "schema:image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Thomas_Cole_-_L%27Allegro.jpg",
         "dct:title": {
-            "de": "Vertriebsdaten von Antibiotika"
+            "fr": "Vertriebsdaten von Antibiotika",
+            "de": "Vertriebsdaten von Antibiotika",
+            "en": "Vertriebsdaten von Antibiotika",
+            "it": "Vertriebsdaten von Antibiotika"
         },
         "dct:description": {
             "de": "Diese Datensammlung enthält Informationen zu den in der Schweiz für den Veterinärbereich vertriebenen Antibiotika von Zulassungsinhabern und Grosshändlern. Alle Zulassungsinhaberinnen sind verpflichtet, alle von ihnen vertriebenen antibiotischen Tierarzneimittel jedes Jahr pro Kunde obligatorisch zu erfassen. Erfasst werden Wirkstoff, Handelsname, abgegebene Mengen, Vertriebsweg, Zulassungsinhaber sowie Verwendungszweck nach Tierart. \n\nDie Daten dienen der nationalen Überwachung des Antibiotikavertriebs und sind ein zentrales Element der Strategie Antibiotikaresistenzen Schweiz (StAR). Sie ermöglichen die Analyse von Entwicklungen im Vertrieb und unterstützen die gezielte Planung von Massnahmen zur Reduktion des Antibiotikaeinsatzes. Zudem bilden die Daten eine wichtige Grundlage für internationale Berichterstattungen, beispielsweise an die Weltorganisation für Tiergesundheit (WOAH). ISABV leistet somit einen Beitrag zur Förderung einer verantwortungsvollen Anwendung von Antibiotika und zur Bekämpfung von Resistenzen."
@@ -231,19 +240,21 @@
         "bv:geoIdentifier": "BUR",
         "bv:itSystem": "IS ABV",
         "businessDataOwner": "INTERNAL",
-        "schemaViolations": 2,
+        "schemaViolations": 1,
         "schemaViolationMessages": [
-            "'fr' is a required property",
             "'fr' is a required property"
         ],
-        "quality": 950.0
+        "quality": 1497.0
     },
     {
         "rdf:type": "dcat:Dataset",
         "dct:identifier": "FSVO_D00021",
         "schema:image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Thomas_Cole_-_L%27Allegro.jpg",
         "dct:title": {
-            "de": "Kontrollen tierärztlicher Privatapotheken"
+            "fr": "Kontrollen tierärztlicher Privatapotheken",
+            "de": "Kontrollen tierärztlicher Privatapotheken",
+            "en": "Kontrollen tierärztlicher Privatapotheken",
+            "it": "Kontrollen tierärztlicher Privatapotheken"
         },
         "dct:description": {
             "de": "Diese Datensammlung umfasst die Ergebnisse der amtlichen Kontrollen tierärztlicher Privatapotheken, wie sie durch die kantonalen Vollzugsbehörden durchgeführt und systematisch anhand von Kontrollpunkten dokumentiert werden. Erfasst werden dabei Informationen zu Betriebstyp, Lagerung, Abgabe und Anwendung von Tierarzneimitteln, zur Einhaltung der Aufzeichnungspflichten sowie zu allfälligen Beanstandungen und ergriffenen Massnahmen. Auch Angaben zur Häufigkeit und Art der Kontrollen sowie zur verantwortlichen Tierärztin oder zum Tierarzt fliessen in die Datensammlung ein.\n\nIm Rahmen der Detailhandelskontrollen werden tierärztliche Privatapotheken, Zoo- und Imkerfachgeschäfte kontrolliert."
@@ -291,19 +302,21 @@
         "bv:geoIdentifier": "BUR; TVD",
         "bv:itSystem": "Acontrol",
         "businessDataOwner": "INTERNAL",
-        "schemaViolations": 2,
+        "schemaViolations": 1,
         "schemaViolationMessages": [
-            "'fr' is a required property",
             "'fr' is a required property"
         ],
-        "quality": 828.0
+        "quality": 1332.0
     },
     {
         "rdf:type": "dcat:Dataset",
         "dct:identifier": "FSVO_D0053",
         "schema:image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Thomas_Cole_-_L%27Allegro.jpg",
         "dct:title": {
-            "de": "Benchmarking Nutztierhaltungen"
+            "fr": "Benchmarking Nutztierhaltungen",
+            "de": "Benchmarking Nutztierhaltungen",
+            "en": "Benchmarking Nutztierhaltungen",
+            "it": "Benchmarking Nutztierhaltungen"
         },
         "dct:description": {
             "de": "Die Datensammlung enthält jährlich erfasste Vergleichsdaten zu Antibiotikabehandlungen bei Nutztieren pro Tierhaltung. Sie umfasst den Tierbehandlungsindex (TBI) je Nutzungskategorie und Tierart sowie den Anteil der Wirkstoffmenge, die als «Abgabe auf Vorrat» (AV%) gemeldet wird. Die Daten basieren auf den registrierten Verschreibungen und werden vor der Auswertung qualitätsgesichert. Der TBI ermöglicht einen differenzierten Vergleich des Antibiotikaeinsatzes mit ähnlichen Betrieben. Die AV%-Angabe liefert ergänzende Informationen zum Antibiotikaverbrauch, der nicht im TBI enthalten ist."
@@ -348,11 +361,10 @@
         "bv:geoIdentifier": "BUR; TVD",
         "bv:itSystem": "PositWB",
         "businessDataOwner": "INTERNAL",
-        "schemaViolations": 2,
+        "schemaViolations": 1,
         "schemaViolationMessages": [
-            "'fr' is a required property",
             "'fr' is a required property"
         ],
-        "quality": 761.6666666666666
+        "quality": 1214.5
     }
 ]
