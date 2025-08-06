@@ -1,98 +1,6 @@
 [
     {
         "rdf:type": "dcat:Dataset",
-        "schema:image": "https://fal.media/files/panda/b__vcdaZJ763Vws9jRj-a_3728723149c44bfbb2a35c622a99ddef.jpg",
-        "dct:identifier": "fee0fa24-5a7a-4ee1-a2b4-ec0780339b4f",
-        "dct:title": {
-            "fr": "Chiffres du marché des aliments pour animaux - Quantités de production annuelles",
-            "de": "Marktzahlen Futtermittel - Jährliche Produktionsmengen",
-            "en": "Market figures for feedstuffs - Annual production quantities",
-            "it": "Dati di mercato dei mangimi - Quantità di produzione annue"
-        },
-        "dct:description": {
-            "fr": "Quantités annuelles des aliments pour animaux au niveau de la production",
-            "de": "Jährliche Mengenangaben für Futtermittel auf der Wertschöpfungsstufe Produktion",
-            "en": "Annual quantities for feedstuffs at the production level",
-            "it": "Quantità annue dei mangimi al livello della produzione"
-        },
-        "dct:accessRights": "PUBLIC",
-        "dct:publisher": "BLW-OFAG-UFAG-FOAG",
-        "dcat:contactPoint": {
-            "schema:email": "marktanalysen@blw.admin.ch",
-            "schema:name": "Bundesamt für Landwirtschaft, Fachbereich Marktanalysen"
-        },
-        "dct:issued": "2025-03-09",
-        "dct:accrualPeriodicity": "ANNUAL",
-        "dct:modified": "2025-02-18",
-        "adms:status": "published",
-        "bv:classification": "none",
-        "bv:personalData": "none",
-        "bv:archivalValue": false,
-        "bv:typeOfData": "thematicData",
-        "dcat:keyword": [
-            "market-data",
-            "quantity",
-            "feedstuff"
-        ],
-        "dcat:theme": [
-            "agriculture",
-            "administration",
-            "finances"
-        ],
-        "dcat:landingPage": "https://www.agrarmarktdaten.ch",
-        "foaf:page": [
-            {
-                "uri": "https://www.agrarmarktdaten.ch/methoden/methoden-futtermittel"
-            }
-        ],
-        "dcatap:applicableLegislation": [
-            "https://www.fedlex.admin.ch/eli/cc/1998/3033_3033_3033/de#art_27"
-        ],
-        "schema:comment": "Imported from opendata.swiss on 2025-03-10",
-        "dcat:distribution": [
-            {
-                "dct:identifier": "4dd706eb-80cc-4a4d-a227-8943f1e679fc",
-                "dcat:accessURL": "https://lindas.admin.ch/sparql#query=DESCRIBE+%3Chttps%3A%2F%2Fagriculture.ld.admin.ch%2Ffoag%2Fcube%2FFeed%2FProduction_Quantity_Year%3E%0A%0AFROM+%3Chttps%3A%2F%2Flindas.admin.ch%2Ffoag%2Fagricultural-market-data%3E%0A%0A%0A&endpoint=https%3A%2F%2Flindas.admin.ch%2Fquery",
-                "adms:status": "published",
-                "dct:format": "SPARQL",
-                "dct:modified": null,
-                "dct:title": {
-                    "fr": "SPARQL Endpoint avec présélection du graphe",
-                    "en": "SPARQL Endpoint with graph preselection",
-                    "de": "SPARQL Endpoint mit Vorauswahl des Graph",
-                    "it": ""
-                },
-                "dct:description": {
-                    "fr": "",
-                    "de": "",
-                    "en": "",
-                    "it": ""
-                },
-                "dct:license": "terms_by",
-                "schema:comment": "ID for this distribution on opendata.swiss: 3a57858f-1d01-4fc6-a88e-1a064c4d1034"
-            }
-        ],
-        "dct:temporal": {
-            "dcat:start_date": "2014-07-01",
-            "dcat:end_date": "2023-07-01"
-        },
-        "bv:externalCatalogs": [
-            {
-                "dcat:catalog": "opendata.swiss",
-                "dct:identifier": "10015a2a-933b-43d9-bb42-c4aa28d7884e"
-            }
-        ],
-        "businessDataOwner": null,
-        "schemaViolations": 3,
-        "schemaViolationMessages": [
-            "'prov:qualifiedAttribution' is a required property",
-            "'thematicData' is not one of ['', 'primaryThematicData', 'secondaryThematicData', 'referenceData', 'masterData', 'unstructuredData']",
-            "'' does not match '[a-zA-Z0-9_\\\\-\\\\s]{10,75}'"
-        ],
-        "quality": 763.25
-    },
-    {
-        "rdf:type": "dcat:Dataset",
         "dct:identifier": "FSVO_D00007",
         "schema:image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Thomas_Cole_-_L%27Allegro.jpg",
         "dct:title": {
@@ -260,5 +168,350 @@
             "'' is not of type 'array', 'null'"
         ],
         "quality": 264.84615384615387
+    },
+    {
+        "rdf:type": "dcat:Dataset",
+        "dct:identifier": "FSVO_D00011",
+        "schema:image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Thomas_Cole_-_L%27Allegro.jpg",
+        "dct:title": {
+            "fr": "",
+            "de": "Laborergebnisse Antibiotikaresistenzmonitoring",
+            "en": "",
+            "it": ""
+        },
+        "dct:description": {
+            "fr": "",
+            "de": "Die Datensammlung zum Antibiotikaresistenzmonitoring im Veterinärbereich enthält systematisch erhobene Daten aus der Labordiagnostik von Stichprobenuntersuchungen (nationaler Kontrollplan) und von bakteriellen Krankheitserregern bei Tieren. Erfasst werden Ergebnisse standardisierter Antibiogramme, einschliesslich Angaben zur Tierart, Probeherkunft, Bakterienspezies, Resistenzprofil sowie den eingesetzten Antibiotikaklassen. Die Daten stammen aus diagnostischen Untersuchungen durch akkreditierte Labors im Rahmen von nationalen Monitoringprogrammen oder klinischen Proben.\n\nZiel der Datensammlung ist es, die Verbreitung und Entwicklung von Antibiotikaresistenzen bei Nutztieren und Heimtieren in der Schweiz zu beobachten. Sie dient der Früherkennung resistenter Erreger, unterstützt die Risikobewertung und bildet eine wichtige Grundlage für die Strategie Antibiotikaresistenzen Schweiz (StAR). Die systematische Auswertung der Daten ermöglicht es, wirksame Massnahmen zur Reduktion von Resistenzen abzuleiten, veterinärmedizinische Behandlungen zu optimieren und den Schutz der öffentlichen Gesundheit zu stärken.",
+            "en": "",
+            "it": ""
+        },
+        "dct:accessRights": "RESTRICTED",
+        "dct:publisher": "Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV",
+        "dcat:contactPoint": {
+            "schema:email": "tam@blv.admin.ch",
+            "schema:name": "BLV, TGTS, Tierarzneimittel"
+        },
+        "dct:issued": "2025-08-05",
+        "dcatap:availability": "STABLE",
+        "dcat:keyword": [
+            "Antiobiotika",
+            "Antibiotikaresistenz",
+            "Labor",
+            "Hemmstofftest",
+            "Überwachung"
+        ],
+        "dct:accrualPeriodicity": "CONT",
+        "dct:modified": "2025-08-05",
+        "adms:status": "published",
+        "bv:classification": "internal",
+        "bv:personalData": "none",
+        "bv:typeOfData": "thematicData",
+        "bv:archivalValue": true,
+        "bv:opendata_swiss": {
+            "bv:mustBePublished": false,
+            "dct:identifier": "",
+            "dcat:accessURL": ""
+        },
+        "bv:i14y": {
+            "bv:mustBePublished": true,
+            "dct:identifier": "",
+            "dcat:accessURL": ""
+        },
+        "dcat:theme": [
+            "health, agriculture"
+        ],
+        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierarzneimittel/antibiotika/ueberwachung.html",
+        "dct:spatial": "NO",
+        "dct:temporal": {
+            "dcat:start_date": "2013-01-01",
+            "dcat:end_date": "2013-12-31"
+        },
+        "dcatap:applicableLegislation": [
+            "https://fedlex.data.admin.ch/eli/cc/2022/272",
+            "https://fedlex.data.admin.ch/eli/cc/2004/592"
+        ],
+        "prov:wasGeneratedBy": "",
+        "bv:retentionPeriod": "",
+        "prov:wasDerivedFrom": "",
+        "bv:geoIdentifier": "",
+        "foaf:page": "",
+        "schema:comment": "",
+        "bv:itSystem": "ARES",
+        "dcat:inSeries": "",
+        "dct:replaces": "",
+        "businessDataOwner": "INTERNAL",
+        "schemaViolations": 12,
+        "schemaViolationMessages": [
+            "'' does not match '[a-zA-Z0-9_\\\\-\\\\s]{10,75}'",
+            "'' does not match '[a-zA-Z0-9_\\\\-\\\\s]{10,75}'",
+            "'' does not match '[a-zA-Z0-9_\\\\-\\\\s]{10,75}'",
+            "'Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV' is not one of ['BLW-OFAG-UFAG-FOAG', 'BLV-OSAV-USAV-FSVO']",
+            "'thematicData' is not one of ['', 'primaryThematicData', 'secondaryThematicData', 'referenceData', 'masterData', 'unstructuredData']",
+            "'health, agriculture' is not one of ['', 'work', 'construction', 'population', 'education', 'energy', 'finances', 'geography', 'legislation', 'health', 'trade', 'industry', 'crime', 'culture', 'agriculture', 'mobility', 'public-order', 'politics', 'prices', 'territory', 'social-security', 'statistical-basis', 'tourism', 'administration', 'national-economy']",
+            "'' is not of type 'array', 'null'",
+            "'' is not of type 'integer'",
+            "'' is not of type 'array', 'null'",
+            "'' is not of type 'array', 'null'",
+            "'' is not of type 'array', 'null'",
+            "'' is not of type 'array', 'null'"
+        ],
+        "quality": 264.46153846153845
+    },
+    {
+        "rdf:type": "dcat:Dataset",
+        "dct:identifier": "FSVO_D00009",
+        "schema:image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Thomas_Cole_-_L%27Allegro.jpg",
+        "dct:title": {
+            "fr": "",
+            "de": "Vertriebsdaten von Antibiotika",
+            "en": "",
+            "it": ""
+        },
+        "dct:description": {
+            "fr": "",
+            "de": "Diese Datensammlung enthält Informationen zu den in der Schweiz für den Veterinärbereich vertriebenen Antibiotika von Zulassungsinhabern und Grosshändlern. Alle Zulassungsinhaberinnen sind verpflichtet, alle von ihnen vertriebenen antibiotischen Tierarzneimittel jedes Jahr pro Kunde obligatorisch zu erfassen. Erfasst werden Wirkstoff, Handelsname, abgegebene Mengen, Vertriebsweg, Zulassungsinhaber sowie Verwendungszweck nach Tierart. \n\nDie Daten dienen der nationalen Überwachung des Antibiotikavertriebs und sind ein zentrales Element der Strategie Antibiotikaresistenzen Schweiz (StAR). Sie ermöglichen die Analyse von Entwicklungen im Vertrieb und unterstützen die gezielte Planung von Massnahmen zur Reduktion des Antibiotikaeinsatzes. Zudem bilden die Daten eine wichtige Grundlage für internationale Berichterstattungen, beispielsweise an die Weltorganisation für Tiergesundheit (WOAH). ISABV leistet somit einen Beitrag zur Förderung einer verantwortungsvollen Anwendung von Antibiotika und zur Bekämpfung von Resistenzen.",
+            "en": "",
+            "it": ""
+        },
+        "dct:accessRights": "RESTRICTED",
+        "dct:publisher": "Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV",
+        "dcat:contactPoint": {
+            "schema:email": "tam@blv.admin.ch",
+            "schema:name": "BLV, TGTS, Tierarzneimittel"
+        },
+        "dct:issued": "2028-07-08",
+        "dcatap:availability": "STABLE",
+        "dcat:keyword": [
+            "Antiobiotika",
+            "Tierarzneimittel",
+            "Pharmafirma",
+            "Grossverteiler"
+        ],
+        "dct:accrualPeriodicity": "ANNUAL",
+        "dct:modified": "2025-08-05",
+        "adms:status": "published",
+        "bv:classification": "internal",
+        "bv:personalData": "personalData",
+        "bv:typeOfData": "thematicData",
+        "bv:archivalValue": true,
+        "bv:opendata_swiss": {
+            "bv:mustBePublished": false,
+            "dct:identifier": "",
+            "dcat:accessURL": ""
+        },
+        "bv:i14y": {
+            "bv:mustBePublished": true,
+            "dct:identifier": "",
+            "dcat:accessURL": ""
+        },
+        "dcat:theme": [
+            "health, agriculture"
+        ],
+        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierarzneimittel/antibiotika/ueberwachung.html",
+        "dct:spatial": "NO",
+        "dct:temporal": {
+            "dcat:start_date": "2008-01-01",
+            "dcat:end_date": "2008-12-31"
+        },
+        "dcatap:applicableLegislation": [
+            "SR 812.212.27 - Verordnung vom 18. August 2004 ü... | Fedlex"
+        ],
+        "prov:wasGeneratedBy": "",
+        "bv:retentionPeriod": "",
+        "prov:wasDerivedFrom": "",
+        "bv:geoIdentifier": "BUR",
+        "foaf:page": "",
+        "schema:comment": "",
+        "bv:itSystem": "IS ABV",
+        "dcat:inSeries": "",
+        "dct:replaces": "",
+        "businessDataOwner": "INTERNAL",
+        "schemaViolations": 12,
+        "schemaViolationMessages": [
+            "'' does not match '[a-zA-Z0-9_\\\\-\\\\s]{10,75}'",
+            "'' does not match '[a-zA-Z0-9_\\\\-\\\\s]{10,75}'",
+            "'' does not match '[a-zA-Z0-9_\\\\-\\\\s]{10,75}'",
+            "'Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV' is not one of ['BLW-OFAG-UFAG-FOAG', 'BLV-OSAV-USAV-FSVO']",
+            "'thematicData' is not one of ['', 'primaryThematicData', 'secondaryThematicData', 'referenceData', 'masterData', 'unstructuredData']",
+            "'health, agriculture' is not one of ['', 'work', 'construction', 'population', 'education', 'energy', 'finances', 'geography', 'legislation', 'health', 'trade', 'industry', 'crime', 'culture', 'agriculture', 'mobility', 'public-order', 'politics', 'prices', 'territory', 'social-security', 'statistical-basis', 'tourism', 'administration', 'national-economy']",
+            "'' is not of type 'array', 'null'",
+            "'' is not of type 'integer'",
+            "'' is not of type 'array', 'null'",
+            "'' is not of type 'array', 'null'",
+            "'' is not of type 'array', 'null'",
+            "'' is not of type 'array', 'null'"
+        ],
+        "quality": 253.23076923076923
+    },
+    {
+        "rdf:type": "dcat:Dataset",
+        "dct:identifier": "FSVO_D00021",
+        "schema:image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Thomas_Cole_-_L%27Allegro.jpg",
+        "dct:title": {
+            "fr": "",
+            "de": "Kontrollen tierärztlicher Privatapotheken",
+            "en": "",
+            "it": ""
+        },
+        "dct:description": {
+            "fr": "",
+            "de": "Diese Datensammlung umfasst die Ergebnisse der amtlichen Kontrollen tierärztlicher Privatapotheken, wie sie durch die kantonalen Vollzugsbehörden durchgeführt und systematisch anhand von Kontrollpunkten dokumentiert werden. Erfasst werden dabei Informationen zu Betriebstyp, Lagerung, Abgabe und Anwendung von Tierarzneimitteln, zur Einhaltung der Aufzeichnungspflichten sowie zu allfälligen Beanstandungen und ergriffenen Massnahmen. Auch Angaben zur Häufigkeit und Art der Kontrollen sowie zur verantwortlichen Tierärztin oder zum Tierarzt fliessen in die Datensammlung ein.\n\nIm Rahmen der Detailhandelskontrollen werden tierärztliche Privatapotheken, Zoo- und Imkerfachgeschäfte kontrolliert.",
+            "en": "",
+            "it": ""
+        },
+        "dct:accessRights": "SENSITIVE",
+        "dct:publisher": "Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV",
+        "dcat:contactPoint": {
+            "schema:email": "tam@blv.admin.ch",
+            "schema:name": "BLV, TGTS, Tierarzneimittel"
+        },
+        "dct:issued": "2025-08-05",
+        "dcatap:availability": "STABLE",
+        "dcat:keyword": [
+            "Antiobiotika",
+            "Tierarzneimittel",
+            "Kontrolle",
+            "Tierarztpraxen"
+        ],
+        "dct:accrualPeriodicity": "MONTHLY",
+        "dct:modified": "2025-08-05",
+        "adms:status": "published",
+        "bv:classification": "internal",
+        "bv:personalData": "personalData",
+        "bv:typeOfData": "thematicData",
+        "bv:archivalValue": true,
+        "bv:opendata_swiss": {
+            "bv:mustBePublished": false,
+            "dct:identifier": "",
+            "dcat:accessURL": ""
+        },
+        "bv:i14y": {
+            "bv:mustBePublished": true,
+            "dct:identifier": "",
+            "dcat:accessURL": ""
+        },
+        "dcat:theme": [
+            "health, agriculture"
+        ],
+        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierarzneimittel/fachgerechter-umgang-mit-tierarzneimitteln.html",
+        "dct:spatial": "YES",
+        "dct:temporal": {
+            "dcat:start_date": "2002-01-01",
+            "dcat:end_date": "2002-12-31"
+        },
+        "dcatap:applicableLegislation": [
+            ""
+        ],
+        "prov:wasGeneratedBy": "",
+        "bv:retentionPeriod": "",
+        "prov:wasDerivedFrom": "",
+        "bv:geoIdentifier": "BUR; TVD",
+        "foaf:page": "",
+        "schema:comment": "",
+        "bv:itSystem": "Acontrol",
+        "dcat:inSeries": "",
+        "dct:replaces": "",
+        "businessDataOwner": "INTERNAL",
+        "schemaViolations": 12,
+        "schemaViolationMessages": [
+            "'' does not match '[a-zA-Z0-9_\\\\-\\\\s]{10,75}'",
+            "'' does not match '[a-zA-Z0-9_\\\\-\\\\s]{10,75}'",
+            "'' does not match '[a-zA-Z0-9_\\\\-\\\\s]{10,75}'",
+            "'Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV' is not one of ['BLW-OFAG-UFAG-FOAG', 'BLV-OSAV-USAV-FSVO']",
+            "'thematicData' is not one of ['', 'primaryThematicData', 'secondaryThematicData', 'referenceData', 'masterData', 'unstructuredData']",
+            "'health, agriculture' is not one of ['', 'work', 'construction', 'population', 'education', 'energy', 'finances', 'geography', 'legislation', 'health', 'trade', 'industry', 'crime', 'culture', 'agriculture', 'mobility', 'public-order', 'politics', 'prices', 'territory', 'social-security', 'statistical-basis', 'tourism', 'administration', 'national-economy']",
+            "'' is not of type 'array', 'null'",
+            "'' is not of type 'integer'",
+            "'' is not of type 'array', 'null'",
+            "'' is not of type 'array', 'null'",
+            "'' is not of type 'array', 'null'",
+            "'' is not of type 'array', 'null'"
+        ],
+        "quality": 225.07692307692307
+    },
+    {
+        "rdf:type": "dcat:Dataset",
+        "dct:identifier": "FSVO_D0053",
+        "schema:image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Thomas_Cole_-_L%27Allegro.jpg",
+        "dct:title": {
+            "fr": "",
+            "de": "Benchmarking Nutztierhaltungen",
+            "en": "",
+            "it": ""
+        },
+        "dct:description": {
+            "fr": "",
+            "de": "Die Datensammlung enthält jährlich erfasste Vergleichsdaten zu Antibiotikabehandlungen bei Nutztieren pro Tierhaltung. Sie umfasst den Tierbehandlungsindex (TBI) je Nutzungskategorie und Tierart sowie den Anteil der Wirkstoffmenge, die als «Abgabe auf Vorrat» (AV%) gemeldet wird. Die Daten basieren auf den registrierten Verschreibungen und werden vor der Auswertung qualitätsgesichert. Der TBI ermöglicht einen differenzierten Vergleich des Antibiotikaeinsatzes mit ähnlichen Betrieben. Die AV%-Angabe liefert ergänzende Informationen zum Antibiotikaverbrauch, der nicht im TBI enthalten ist.",
+            "en": "",
+            "it": ""
+        },
+        "dct:accessRights": "RESTRICTED",
+        "dct:publisher": "Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV",
+        "dcat:contactPoint": {
+            "schema:email": "tam@blv.admin.ch",
+            "schema:name": "BLV, TGTS, Tierarzneimittel"
+        },
+        "dct:issued": "2025-08-05",
+        "dcatap:availability": "STABLE",
+        "dcat:keyword": [
+            "Antiobiotika",
+            "Tierarzneimittel",
+            "Benchmark"
+        ],
+        "dct:accrualPeriodicity": "ANNUAL",
+        "dct:modified": "2025-08-05",
+        "adms:status": "published",
+        "bv:classification": "internal",
+        "bv:personalData": "sensitivePersonalData",
+        "bv:typeOfData": "thematicData",
+        "bv:archivalValue": true,
+        "bv:opendata_swiss": {
+            "bv:mustBePublished": false,
+            "dct:identifier": "",
+            "dcat:accessURL": ""
+        },
+        "bv:i14y": {
+            "bv:mustBePublished": "",
+            "dct:identifier": "",
+            "dcat:accessURL": ""
+        },
+        "dcat:theme": [
+            "health, agriculture"
+        ],
+        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierarzneimittel/antibiotika/isabv.html",
+        "dct:spatial": "YES",
+        "dct:temporal": {
+            "dcat:start_date": "2025-01-01",
+            "dcat:end_date": "2025-12-31"
+        },
+        "dcatap:applicableLegislation": [
+            ""
+        ],
+        "prov:wasGeneratedBy": "",
+        "bv:retentionPeriod": "",
+        "prov:wasDerivedFrom": "",
+        "bv:geoIdentifier": "BUR; TVD",
+        "foaf:page": "",
+        "schema:comment": "",
+        "bv:itSystem": "PositWB",
+        "dcat:inSeries": "",
+        "dct:replaces": "",
+        "businessDataOwner": "INTERNAL",
+        "schemaViolations": 12,
+        "schemaViolationMessages": [
+            "'' does not match '[a-zA-Z0-9_\\\\-\\\\s]{10,75}'",
+            "'' does not match '[a-zA-Z0-9_\\\\-\\\\s]{10,75}'",
+            "'' does not match '[a-zA-Z0-9_\\\\-\\\\s]{10,75}'",
+            "'Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV' is not one of ['BLW-OFAG-UFAG-FOAG', 'BLV-OSAV-USAV-FSVO']",
+            "'thematicData' is not one of ['', 'primaryThematicData', 'secondaryThematicData', 'referenceData', 'masterData', 'unstructuredData']",
+            "'health, agriculture' is not one of ['', 'work', 'construction', 'population', 'education', 'energy', 'finances', 'geography', 'legislation', 'health', 'trade', 'industry', 'crime', 'culture', 'agriculture', 'mobility', 'public-order', 'politics', 'prices', 'territory', 'social-security', 'statistical-basis', 'tourism', 'administration', 'national-economy']",
+            "'' is not of type 'array', 'null'",
+            "'' is not of type 'integer'",
+            "'' is not of type 'array', 'null'",
+            "'' is not of type 'array', 'null'",
+            "'' is not of type 'array', 'null'",
+            "'' is not of type 'array', 'null'"
+        ],
+        "quality": 212.69230769230768
     }
 ]
