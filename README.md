@@ -1,5 +1,6 @@
-🚧 **This project is currently under active development.**  
-⚠️  **Data is not final and should not be used.**
+🚧 **This project is currently under active development!**  
+⚠️ **All data is arbitrary and for testing purposes only.** 
+
 
 
 [![Combine Datasets](https://github.com/BLV-OSAV-USAV/FSVO-Metadata/actions/workflows/combine-datasets.yml/badge.svg)](https://github.com/BLV-OSAV-USAV/FSVO-Metadata/actions/workflows/combine-datasets.yml)
