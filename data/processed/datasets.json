@@ -1,126 +1,604 @@
 [
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00007",
-        "schema:image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Thomas_Cole_-_L%27Allegro.jpg",
+        "dct:identifier": "FSVO_D00031",
+        "schema:image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Home_in_the_Woods_1847_Thomas_Cole.jpeg",
         "dct:title": {
-            "fr": "Antibiotikaeinstaz in der Veterinärmedizin",
-            "de": "Antibiotikaeinstaz in der Veterinärmedizin",
-            "en": "Antibiotikaeinstaz in der Veterinärmedizin",
-            "it": "Antibiotikaeinstaz in der Veterinärmedizin"
+            "de": "Tierische Lebensmittel aus Drittstaaten - Auswertung aus TRACES-NT"
         },
         "dct:description": {
-            "fr": "Das Informationssystem Antibiotika in der Veterinärmedizin (ISABV) erfasst detaillierte Daten zum Antibiotikaverbrauch in der Veterinärmedizin. Tierärzte und Tierärztinnen bzw. Tierarztpraxen in der Schweiz sind dazu verpflichtet, alle an Heim- und Nutztiere verabreichten oder verschriebenen Antibiotika zu melden. Diese Meldungen enthalten Informationen zu Spezies, Anzahl der behandelten Tiere, Präparatnamen, Wirkstoffen, abgegebenen Mengen, Dosis, Behandlungsfrequenz, Behandlungsdauer, Indikation und betroffenem Organsystem.\n\nVerbrauchsdaten dienen der Überwachung des Antibiotikaverbrauchs und bilden eine zentrale Grundlage der Nationalen Strategie Antibiotikaresistenzen Schweiz (StAR). Mittelfristig sollen sie die Vertriebsdaten als wichtigste Messung des Antibiotikaeinsatzes ablösen. Sie ermöglichen es, Trends im Einsatz von Antibiotika zu erkennen, Risiken gezielt zu bewerten und regulatorische sowie präventive Massnahmen evidenzbasiert zu planen. Zudem sind die Daten für die internationale Berichterstattung (z. B. an die WOAH) erforderlich und tragen dazu bei, die Entwicklung von Resistenzen bei Tieren und die damit verbundenen Risiken für die öffentliche Gesundheit einzudämmen.",
-            "de": "Das Informationssystem Antibiotika in der Veterinärmedizin (ISABV) erfasst detaillierte Daten zum Antibiotikaverbrauch in der Veterinärmedizin. Tierärzte und Tierärztinnen bzw. Tierarztpraxen in der Schweiz sind dazu verpflichtet, alle an Heim- und Nutztiere verabreichten oder verschriebenen Antibiotika zu melden. Diese Meldungen enthalten Informationen zu Spezies, Anzahl der behandelten Tiere, Präparatnamen, Wirkstoffen, abgegebenen Mengen, Dosis, Behandlungsfrequenz, Behandlungsdauer, Indikation und betroffenem Organsystem.\n\nVerbrauchsdaten dienen der Überwachung des Antibiotikaverbrauchs und bilden eine zentrale Grundlage der Nationalen Strategie Antibiotikaresistenzen Schweiz (StAR). Mittelfristig sollen sie die Vertriebsdaten als wichtigste Messung des Antibiotikaeinsatzes ablösen. Sie ermöglichen es, Trends im Einsatz von Antibiotika zu erkennen, Risiken gezielt zu bewerten und regulatorische sowie präventive Massnahmen evidenzbasiert zu planen. Zudem sind die Daten für die internationale Berichterstattung (z. B. an die WOAH) erforderlich und tragen dazu bei, die Entwicklung von Resistenzen bei Tieren und die damit verbundenen Risiken für die öffentliche Gesundheit einzudämmen.",
-            "en": "Das Informationssystem Antibiotika in der Veterinärmedizin (ISABV) erfasst detaillierte Daten zum Antibiotikaverbrauch in der Veterinärmedizin. Tierärzte und Tierärztinnen bzw. Tierarztpraxen in der Schweiz sind dazu verpflichtet, alle an Heim- und Nutztiere verabreichten oder verschriebenen Antibiotika zu melden. Diese Meldungen enthalten Informationen zu Spezies, Anzahl der behandelten Tiere, Präparatnamen, Wirkstoffen, abgegebenen Mengen, Dosis, Behandlungsfrequenz, Behandlungsdauer, Indikation und betroffenem Organsystem.\n\nVerbrauchsdaten dienen der Überwachung des Antibiotikaverbrauchs und bilden eine zentrale Grundlage der Nationalen Strategie Antibiotikaresistenzen Schweiz (StAR). Mittelfristig sollen sie die Vertriebsdaten als wichtigste Messung des Antibiotikaeinsatzes ablösen. Sie ermöglichen es, Trends im Einsatz von Antibiotika zu erkennen, Risiken gezielt zu bewerten und regulatorische sowie präventive Massnahmen evidenzbasiert zu planen. Zudem sind die Daten für die internationale Berichterstattung (z. B. an die WOAH) erforderlich und tragen dazu bei, die Entwicklung von Resistenzen bei Tieren und die damit verbundenen Risiken für die öffentliche Gesundheit einzudämmen.",
-            "it": "Das Informationssystem Antibiotika in der Veterinärmedizin (ISABV) erfasst detaillierte Daten zum Antibiotikaverbrauch in der Veterinärmedizin. Tierärzte und Tierärztinnen bzw. Tierarztpraxen in der Schweiz sind dazu verpflichtet, alle an Heim- und Nutztiere verabreichten oder verschriebenen Antibiotika zu melden. Diese Meldungen enthalten Informationen zu Spezies, Anzahl der behandelten Tiere, Präparatnamen, Wirkstoffen, abgegebenen Mengen, Dosis, Behandlungsfrequenz, Behandlungsdauer, Indikation und betroffenem Organsystem.\n\nVerbrauchsdaten dienen der Überwachung des Antibiotikaverbrauchs und bilden eine zentrale Grundlage der Nationalen Strategie Antibiotikaresistenzen Schweiz (StAR). Mittelfristig sollen sie die Vertriebsdaten als wichtigste Messung des Antibiotikaeinsatzes ablösen. Sie ermöglichen es, Trends im Einsatz von Antibiotika zu erkennen, Risiken gezielt zu bewerten und regulatorische sowie präventive Massnahmen evidenzbasiert zu planen. Zudem sind die Daten für die internationale Berichterstattung (z. B. an die WOAH) erforderlich und tragen dazu bei, die Entwicklung von Resistenzen bei Tieren und die damit verbundenen Risiken für die öffentliche Gesundheit einzudämmen."
+            "de": "Diese Datensammlung basiert auf Informationen aus dem europäischen System TRACES-NT und umfasst Einträge zu Sendungen tierischer Lebensmittel, die aus Drittstaaten in die Schweiz eingeführt werden. Erfasst werden unter anderem die Art, Herkunft, Menge und der Zielort der Waren sowie die Ergebnisse amtlicher Kontrollen an den Grenzkontrollstellen. Die Daten stammen direkt aus den Eingaben der zuständigen Grenzkontrollstellen und dokumentieren sämtliche relevanten Vorgänge im Rahmen der Einfuhrüberwachung. Die Datensammlung dient dem internen Datenmanagement des Bundesamts für Lebensmittelsicherheit und Veterinärwesen (BLV) und stellt eine wichtige Grundlage für den Jahresbericht zum Mehrjährigen Nationalen Kontrollplan (MNKP) sowie für die VKCS-Statistik des Verbands der Kantonschemiker der Schweiz dar. Sie ermöglicht einen schweizweiten Überblick – einschliesslich Liechtenstein – über die Einfuhren tierischer Lebensmittel aus Drittstaaten und liefert eine verlässliche Basis für die risikobasierte Analyse, die Früherkennung von Auffälligkeiten und die gezielte Weiterentwicklung von Kontrollstrategien. Damit trägt sie wesentlich zur Stärkung des Vollzugs und zur Sicherstellung der Lebensmittelsicherheit in der Schweiz bei."
         },
         "dct:accessRights": "RESTRICTED",
-        "dct:publisher": "BLV-OSAV-USAV-FSVO",
+        "dct:publisher": "Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV",
         "dcat:contactPoint": {
-            "schema:email": "tam@blv.admin.ch",
-            "schema:name": "BLV, TGTS, Tierarzneimittel"
+            "schema:email": "lme@blv.admin.ch",
+            "schema:name": "BLV, LME, Koordination und Überwachung"
         },
-        "dct:issued": "2025-08-05",
+        "dct:issued": "2025-01-01",
         "dcatap:availability": "STABLE",
         "dcat:keyword": [
-            "Antiobiotika",
-            "Tierarzneimittel",
-            "Tierarztpraxen"
+            "Kontrolle",
+            "Lebensmittel",
+            "Laboranalysen, Grenze, Drittstaaten"
         ],
-        "dct:accrualPeriodicity": "CONT",
-        "dct:modified": "2025-08-05",
+        "dct:accrualPeriodicity": "ANNUAL",
+        "dct:modified": "2025-09-10",
         "adms:status": "published",
-        "bv:classification": "internal",
-        "bv:personalData": "personalData",
-        "bv:typeOfData": "primaryThematicData",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:typeOfData": "thematicData",
         "bv:archivalValue": true,
         "bv:opendata_swiss": {
-            "bv:mustBePublished": false
+            "bv:mustBePublished": "FALSE"
         },
         "bv:i14y": {
             "bv:mustBePublished": true
         },
         "dcat:theme": [
-            "health",
-            "agriculture"
+            "health"
         ],
-        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierarzneimittel/antibiotika/ueberwachung.html",
-        "dct:spatial": "YES",
-        "dct:temporal": {
-            "dcat:start_date": "2019-01-01",
-            "dcat:end_date": "2019-12-31"
-        },
+        "dct:temporal": {},
         "dcatap:applicableLegislation": [
-            "SR 812.212.27 - Verordnung vom 18. August 2004 ü... | Fedlex"
+            ""
         ],
-        "bv:geoIdentifier": "BUR",
-        "bv:itSystem": "IS ABV",
-        "businessDataOwner": "INTERNAL",
-        "schemaViolations": 0,
-        "schemaViolationMessages": [],
-        "quality": 6898.0
+        "bv:itSystem": "TRACES",
+        "dcat:distribution": [
+            {
+                "dct:identifier": "FSVO_DIS000311",
+                "dcat:accessURL": "https://www.psm.admin.ch/",
+                "dct:title": {
+                    "fr": "Produits phytosanitaires",
+                    "de": "Pflanzenschutzmittelverzeichnis",
+                    "en": "Title",
+                    "it": "Prodotti fitosanitari"
+                },
+                "dct:description": {
+                    "fr": "Les produits phytosanitaires autorisés figurent dans un index des produits phytosanitaires. Cet index comprend des indications sur l’utilisation prévue, les restrictions d’application, le dosage, les indications relatives aux dangers et les charges liées à l’utilisation.",
+                    "de": "Die bewilligten Pflanzenschutzmittel werden im Pflanzenschutzmittelverzeichnis aufgelistet. Das Verzeichnis enthält Angaben zur vorgesehenen Anwendung, zu Anwendungseinschränkungen, Aufwandmengen, Gefahrenkennzeichnung und zu Anwendungsauflagen.",
+                    "en": "description_en",
+                    "it": "I prodotti fitosanitari autorizzati figurano in un elenco dei prodotti fitosanitari contenente indicazioni sull'applicazione prevista, restrizioni e dosi di applicazione, simboli di pericolo e condizioni d'uso."
+                },
+                "dct:modified": "2024-12-17",
+                "adms:status": "published",
+                "dct:format": "XML",
+                "dct:license": "terms_open",
+                "schema:comment": "Test"
+            }
+        ],
+        "businessDataOwner": null,
+        "schemaViolations": 7,
+        "schemaViolationMessages": [
+            "'fr' is a required property",
+            "'fr' is a required property",
+            "'Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV' is not one of ['BLW-OFAG-UFAG-FOAG', 'BLV-OSAV-USAV-FSVO']",
+            "'DataOwner' is not one of ['businessDataOwner', 'dataSteward', 'dataCustodian']",
+            "None of [{'prov:agent': 'INTERNAL', 'dcat:hadRole': 'DataOwner'}, {'prov:agent': 'INTERNAL', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
+            "'thematicData' is not one of ['', 'primaryThematicData', 'secondaryThematicData', 'referenceData', 'masterData', 'unstructuredData']",
+            "'Title' does not match '[a-zA-Z0-9_\\\\-\\\\s]{10,75}'"
+        ],
+        "quality": 534.75
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00008",
-        "schema:image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Thomas_Cole_-_L%27Allegro.jpg",
+        "dct:identifier": "FSVO_D00027",
+        "schema:image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Home_in_the_Woods_1847_Thomas_Cole.jpeg",
         "dct:title": {
-            "fr": "Einfuhr von Tierarzneimittel",
-            "de": "Einfuhr von Tierarzneimittel",
-            "en": "Einfuhr von Tierarzneimittel",
-            "it": "Einfuhr von Tierarzneimittel"
+            "de": "Betriebsbewilligungen von Lebensmittelunternehmen"
         },
         "dct:description": {
-            "fr": "In dieser Datensammlung sind Meldungen von Tierärztinnen und Tierätzten erfasst, die Tierarzneimittel (TAM) aus dem Ausland importieren. Ein Import von TAM ist zulässig, wenn kein alternativ einsetzbares oder medizinisch gleichwertiges TAM zugelassen ist, alternative TAM zugelassen, aber nicht verfügbar sind oder zugelassene TAM für gewisse Einzelfälle ungeeignet sind (bspw. Galenik oder Dosisstärke). Je nach Kategorie benötigen Importe eine Bewilligung oder nicht. Erfasst werden Angaben zum eingeführten Präparat, Wirkstoff, vorgesehener Tierart, Anzahl Packungen, Packungsgrösse, Anwendugsbetrieb, Zulassungsland, Importland sowie die medizinische Begründung für die Einfuhr.\n\nDie Datensammlung dient der Kontrolle und Nachverfolgbarkeit ausserordentlicher Arzneimitteleinfuhren in der Veterinärmedizin. Sie ermöglicht es, Risiken im Zusammenhang mit nicht zugelassenen Arzneimitteln zu überwachen und die Einhaltung der rechtlichen Voraussetzungen zu prüfen. Zudem liefert sie wertvolle Hinweise zu Versorgungslücken auf dem Schweizer Tierarzneimittelmarkt und unterstützt die Weiterentwicklung regulatorischer Strategien zur Sicherstellung der Tiergesundheit.",
-            "de": "In dieser Datensammlung sind Meldungen von Tierärztinnen und Tierätzten erfasst, die Tierarzneimittel (TAM) aus dem Ausland importieren. Ein Import von TAM ist zulässig, wenn kein alternativ einsetzbares oder medizinisch gleichwertiges TAM zugelassen ist, alternative TAM zugelassen, aber nicht verfügbar sind oder zugelassene TAM für gewisse Einzelfälle ungeeignet sind (bspw. Galenik oder Dosisstärke). Je nach Kategorie benötigen Importe eine Bewilligung oder nicht. Erfasst werden Angaben zum eingeführten Präparat, Wirkstoff, vorgesehener Tierart, Anzahl Packungen, Packungsgrösse, Anwendugsbetrieb, Zulassungsland, Importland sowie die medizinische Begründung für die Einfuhr.\n\nDie Datensammlung dient der Kontrolle und Nachverfolgbarkeit ausserordentlicher Arzneimitteleinfuhren in der Veterinärmedizin. Sie ermöglicht es, Risiken im Zusammenhang mit nicht zugelassenen Arzneimitteln zu überwachen und die Einhaltung der rechtlichen Voraussetzungen zu prüfen. Zudem liefert sie wertvolle Hinweise zu Versorgungslücken auf dem Schweizer Tierarzneimittelmarkt und unterstützt die Weiterentwicklung regulatorischer Strategien zur Sicherstellung der Tiergesundheit.",
-            "en": "In dieser Datensammlung sind Meldungen von Tierärztinnen und Tierätzten erfasst, die Tierarzneimittel (TAM) aus dem Ausland importieren. Ein Import von TAM ist zulässig, wenn kein alternativ einsetzbares oder medizinisch gleichwertiges TAM zugelassen ist, alternative TAM zugelassen, aber nicht verfügbar sind oder zugelassene TAM für gewisse Einzelfälle ungeeignet sind (bspw. Galenik oder Dosisstärke). Je nach Kategorie benötigen Importe eine Bewilligung oder nicht. Erfasst werden Angaben zum eingeführten Präparat, Wirkstoff, vorgesehener Tierart, Anzahl Packungen, Packungsgrösse, Anwendugsbetrieb, Zulassungsland, Importland sowie die medizinische Begründung für die Einfuhr.\n\nDie Datensammlung dient der Kontrolle und Nachverfolgbarkeit ausserordentlicher Arzneimitteleinfuhren in der Veterinärmedizin. Sie ermöglicht es, Risiken im Zusammenhang mit nicht zugelassenen Arzneimitteln zu überwachen und die Einhaltung der rechtlichen Voraussetzungen zu prüfen. Zudem liefert sie wertvolle Hinweise zu Versorgungslücken auf dem Schweizer Tierarzneimittelmarkt und unterstützt die Weiterentwicklung regulatorischer Strategien zur Sicherstellung der Tiergesundheit.",
-            "it": "In dieser Datensammlung sind Meldungen von Tierärztinnen und Tierätzten erfasst, die Tierarzneimittel (TAM) aus dem Ausland importieren. Ein Import von TAM ist zulässig, wenn kein alternativ einsetzbares oder medizinisch gleichwertiges TAM zugelassen ist, alternative TAM zugelassen, aber nicht verfügbar sind oder zugelassene TAM für gewisse Einzelfälle ungeeignet sind (bspw. Galenik oder Dosisstärke). Je nach Kategorie benötigen Importe eine Bewilligung oder nicht. Erfasst werden Angaben zum eingeführten Präparat, Wirkstoff, vorgesehener Tierart, Anzahl Packungen, Packungsgrösse, Anwendugsbetrieb, Zulassungsland, Importland sowie die medizinische Begründung für die Einfuhr.\n\nDie Datensammlung dient der Kontrolle und Nachverfolgbarkeit ausserordentlicher Arzneimitteleinfuhren in der Veterinärmedizin. Sie ermöglicht es, Risiken im Zusammenhang mit nicht zugelassenen Arzneimitteln zu überwachen und die Einhaltung der rechtlichen Voraussetzungen zu prüfen. Zudem liefert sie wertvolle Hinweise zu Versorgungslücken auf dem Schweizer Tierarzneimittelmarkt und unterstützt die Weiterentwicklung regulatorischer Strategien zur Sicherstellung der Tiergesundheit."
+            "de": "Diese Datensammlung umfasst alle relevanten Informationen zu Betrieben, die gemäss Artikel 11 LMG eine Bewilligung erhalten haben. Grundsätzlich unterliegen alle Lebensmittelbetriebe, die Lebensmittel tierischer Herkunft herstellen, verarbeiten, behandeln, lagern oder abgeben, dieser Bewilligungspflicht. Erfasst werden unter anderem der Name und die Adresse des Betriebes, dessen Bewilligungsnummer, die bewilligten Sektionen, Tätigkeiten und Tierarten, sowie der Bewilligungsstatus, das Datum der Erteilung sowie allfällige Bedingungen oder Auflagen. Die Einträge stammen von den zuständigen kantonalen Vollzugsbehörden, welche die Bewilligungen gemäss den gesetzlichen Anforderungen ausstellen und die entsprechenden Daten dazu dem BLV per ASAN-Eintrag melden. Das BLV publiziert und aktualisiert die Daten wöchentlich auf seiner Webseite und macht sie somit für die Öffentlichkeit zugänglich. Die Datensammlung dient der behördlichen Übersicht und Kontrolle über bewilligungspflichtige Betriebe im Bereich tierischer Lebensmittel. Sie ermöglicht die Koordination zwischen Bund und Kantonen, unterstützt die risikobasierte Planung von Kontrollen und dient als Grundlage für statistische Auswertungen. Zudem ist die Bewilligung eine Voraussetzung für die Exportfähigkeit von Lebensmitteln tierischer Herkunft in die EU. Die Datensammlung ermöglicht somit eine transparente und rechtskonforme Verwaltung der Angaben zu bewilligten Betrieben."
         },
-        "dct:accessRights": "RESTRICTED",
-        "dct:publisher": "BLV-OSAV-USAV-FSVO",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV",
         "dcat:contactPoint": {
-            "schema:email": "tam@blv.admin.ch",
-            "schema:name": "BLV, TGTS, Tierarzneimittel"
+            "schema:email": "lme@blv.admin.ch",
+            "schema:name": "BLV, LME, Lebensmittelhygiene"
         },
-        "dct:issued": "2025-08-05",
+        "dct:issued": "2006-01-01",
         "dcatap:availability": "STABLE",
         "dcat:keyword": [
-            "Tierarzneimittel",
-            "Versorgungssicherheit",
-            "Impfstoff"
+            "Lebensmittelsicherheit",
+            "Bewilligung"
         ],
-        "dct:accrualPeriodicity": "CONT",
-        "dct:modified": "2025-08-05",
+        "dct:accrualPeriodicity": "MONTHLY",
+        "dct:modified": "2025-09-10",
         "adms:status": "published",
-        "bv:classification": "internal",
+        "bv:classification": "none",
         "bv:personalData": "personalData",
-        "bv:typeOfData": "primaryThematicData",
+        "bv:typeOfData": "thematicData",
         "bv:archivalValue": true,
         "bv:opendata_swiss": {
-            "bv:mustBePublished": false
+            "bv:mustBePublished": "TRUE",
+            "dct:identifier": "lebensmittelbetriebe@bundesamt-fur-lebensmittelsicherheit-und-veterinaerwesen-blv",
+            "dcat:accessURL": "https://opendata.swiss/de/dataset/lebensmittelbetriebe"
+        },
+        "bv:i14y": {
+            "bv:mustBePublished": true
+        },
+        "dcat:theme": [
+            "health"
+        ],
+        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/rechts-und-vollzugsgrundlagen/bewilligung-und-meldung/listen-bewilligter-betriebe.html",
+        "dct:spatial": "YES",
+        "dct:temporal": {},
+        "dcatap:applicableLegislation": [
+            "https://www.fedlex.admin.ch/eli/cc/2017/62"
+        ],
+        "bv:itSystem": "ASAN",
+        "businessDataOwner": null,
+        "schemaViolations": 6,
+        "schemaViolationMessages": [
+            "'fr' is a required property",
+            "'fr' is a required property",
+            "'Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV' is not one of ['BLW-OFAG-UFAG-FOAG', 'BLV-OSAV-USAV-FSVO']",
+            "'DataOwner' is not one of ['businessDataOwner', 'dataSteward', 'dataCustodian']",
+            "None of [{'prov:agent': 'INTERNAL', 'dcat:hadRole': 'DataOwner'}, {'prov:agent': 'INTERNAL', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
+            "'thematicData' is not one of ['', 'primaryThematicData', 'secondaryThematicData', 'referenceData', 'masterData', 'unstructuredData']"
+        ],
+        "quality": 482.2857142857143
+    },
+    {
+        "rdf:type": "dcat:Dataset",
+        "dct:identifier": "FSVO_D00025",
+        "schema:image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Home_in_the_Woods_1847_Thomas_Cole.jpeg",
+        "dct:title": {
+            "de": "Ergebnisse der öffentlich-rechtlichen Milchprüfung"
+        },
+        "dct:description": {
+            "de": "Diese Datensammlung umfasst die Ergebnisse der von Suisselab im Rahmen der öffentlich-rechtlichen Milchprüfung durchgeführten Laboranalysen. Dabei werden die Keimzahl und die Zellzahl pro Einzelprobe sowie der geometrisch gemittelte Wert pro Monat erfasst. Zudem wird angegeben, ob der Hemmstofftest bei den Einzelproben positiv oder negativ ausfiel. Parallel dazu werden dieselben Ergebnisse zusammen mit den Ergebnisse privatrechtliche Untersuchungen (z. B. Gefrierpunkt) über eine andere Datenbank (dBMilch) den betroffenen Betrieben zur Verfügung gestellt. Über AGATE haben das BLV und die kantonalen Vollzugsbehörden ebenfalls Zugriff auf diese Datenbank, jedoch sehen sie nicht alle Daten. Die Daten aus den Milchprüfungen zeigen, ob die vorgeschriebenen Untersuchungen gemäss Milchprüfungsverordnung durchgeführt werden und ob die Anforderungen an die Rohmilch gemäss Hygieneverordnung eingehalten sind. Sie ermöglichen es kantonalen Vollzugsbehörden, gezielte Massnahmen einzuleiten (inklusive Milchliefersperren nach Art. 15 MiPV). Diese Datensammlung trägt zur Transparenz in der Wertschöpfungskette bei und unterstützt die behördliche Risikobewertung."
+        },
+        "dct:accessRights": "RESTRICTED",
+        "dct:publisher": "Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV",
+        "dcat:contactPoint": {
+            "schema:email": "lme@blv.admin.ch",
+            "schema:name": "BLV, LME, Lebensmittelhygiene"
+        },
+        "dct:issued": "2025-01-01",
+        "dcatap:availability": "STABLE",
+        "dcat:keyword": [
+            "Milchqualität",
+            "Laboranalysen"
+        ],
+        "dct:accrualPeriodicity": "MONTHLY",
+        "dct:modified": "2025-09-10",
+        "adms:status": "published",
+        "bv:classification": "confidential",
+        "bv:personalData": "personalData",
+        "bv:typeOfData": "thematicData",
+        "bv:archivalValue": true,
+        "bv:opendata_swiss": {
+            "bv:mustBePublished": "NO"
         },
         "bv:i14y": {
             "bv:mustBePublished": false
         },
         "dcat:theme": [
-            "health",
-            "agriculture"
+            "health"
         ],
-        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierarzneimittel/fachgerechter-umgang-mit-tierarzneimitteln/einfuhr-tam.html",
-        "dct:spatial": "YES",
-        "dct:temporal": {
-            "dcat:start_date": "2022-01-01",
-            "dcat:end_date": "2022-12-31"
-        },
+        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/lebensmittelsicherheit/verantwortlichkeiten/milchpruefung.html",
+        "dct:spatial": "NO",
+        "dct:temporal": {},
         "dcatap:applicableLegislation": [
-            "SR 812.212.27 - Verordnung vom 18. August 2004 ü... | Fedlex"
+            "https://fedlex.data.admin.ch/eli/cc/2022/272",
+            "https://www.fedlex.admin.ch/eli/cc/2010/713"
         ],
-        "bv:geoIdentifier": "BUR",
-        "bv:itSystem": "TAM-I",
-        "businessDataOwner": "INTERNAL",
-        "schemaViolations": 0,
-        "schemaViolationMessages": [],
-        "quality": 6760.0
+        "bv:itSystem": "ARES; dBMilch (BLW)",
+        "businessDataOwner": null,
+        "schemaViolations": 6,
+        "schemaViolationMessages": [
+            "'fr' is a required property",
+            "'fr' is a required property",
+            "'Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV' is not one of ['BLW-OFAG-UFAG-FOAG', 'BLV-OSAV-USAV-FSVO']",
+            "'DataOwner' is not one of ['businessDataOwner', 'dataSteward', 'dataCustodian']",
+            "None of [{'prov:agent': 'INTERNAL', 'dcat:hadRole': 'DataOwner'}, {'prov:agent': 'INTERNAL', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
+            "'thematicData' is not one of ['', 'primaryThematicData', 'secondaryThematicData', 'referenceData', 'masterData', 'unstructuredData']"
+        ],
+        "quality": 421.7142857142857
+    },
+    {
+        "rdf:type": "dcat:Dataset",
+        "dct:identifier": "FSVO_D00029",
+        "schema:image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Home_in_the_Woods_1847_Thomas_Cole.jpeg",
+        "dct:title": {
+            "de": "Befundstatistik Produktkontrolle"
+        },
+        "dct:description": {
+            "de": "Diese Datensammlung enthält aggregierte Ergebnisse aus den amtlichen Produktkontrollen von Lebensmitteln und Gebrauchsgegenständen, die jährlich von den kantonalen Lebensmittelvollzugsbehörden an das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) übermittelt werden. Erfasst werden dabei unter anderem die Art und Anzahl der analysierten Proben, festgestellte Abweichungen von rechtlichen Anforderungen sowie spezifische Befunde zu einzelnen Produktgruppen wie beispielsweise Trinkwasser, Speisefette oder Gebrauchsgegenstände mit Hautkontakt. Die Befundstatistik dient dem internen Datenmanagement des BLV und bildet eine zentrale Grundlage für die Erstellung des Jahresberichts zum Mehrjährigen Nationalen Kontrollplan (MNKP) sowie für die sogenannte VKCS-Statistik. Letztere wird in Zusammenarbeit mit dem Verband der Kantonschemiker der Schweiz (VKCS) erstellt und ermöglicht eine standardisierte und koordinierte Auswertung der Vollzugsdaten auf nationaler Ebene. Durch die systematische Erfassung und Analyse der Daten lässt sich ein gesamtschweizerischer Überblick – inklusive Liechtenstein – über die Resultate amtlicher Produktkontrollen gewinnen. Die Statistik unterstützt die risikobasierte Beurteilung der Lebensmittelsicherheit, hilft Trends bei Qualitätsmängeln frühzeitig zu erkennen, erleichtert die zielgerichtete Planung von risikomindernden Massnahmen und trägt zur Weiterentwicklung des Vollzugs bei."
+        },
+        "dct:accessRights": "RESTRICTED",
+        "dct:publisher": "Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV",
+        "dcat:contactPoint": {
+            "schema:email": "lme@blv.admin.ch",
+            "schema:name": "BLV, LME, Koordination und Überwachung"
+        },
+        "dct:issued": "2014-01-01",
+        "dcatap:availability": "STABLE",
+        "dcat:keyword": [
+            "Kontrolle",
+            "Lebensmittel",
+            "Laboranalysen"
+        ],
+        "dct:accrualPeriodicity": "ANNUAL",
+        "dct:modified": "2025-09-10",
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:typeOfData": "thematicData",
+        "bv:archivalValue": true,
+        "bv:opendata_swiss": {
+            "bv:mustBePublished": "FALSE"
+        },
+        "bv:i14y": {
+            "bv:mustBePublished": true
+        },
+        "dcat:theme": [
+            "health"
+        ],
+        "dct:temporal": {},
+        "dcatap:applicableLegislation": [
+            ""
+        ],
+        "businessDataOwner": null,
+        "schemaViolations": 6,
+        "schemaViolationMessages": [
+            "'fr' is a required property",
+            "'fr' is a required property",
+            "'Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV' is not one of ['BLW-OFAG-UFAG-FOAG', 'BLV-OSAV-USAV-FSVO']",
+            "'DataOwner' is not one of ['businessDataOwner', 'dataSteward', 'dataCustodian']",
+            "None of [{'prov:agent': 'INTERNAL', 'dcat:hadRole': 'DataOwner'}, {'prov:agent': 'INTERNAL', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
+            "'thematicData' is not one of ['', 'primaryThematicData', 'secondaryThematicData', 'referenceData', 'masterData', 'unstructuredData']"
+        ],
+        "quality": 414.85714285714283
+    },
+    {
+        "rdf:type": "dcat:Dataset",
+        "dct:identifier": "FSVO_D00024",
+        "schema:image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Home_in_the_Woods_1847_Thomas_Cole.jpeg",
+        "dct:title": {
+            "de": "Laborergebnisse der kantonalen Lebensmittelkontrolle (Produktkontrolle)"
+        },
+        "dct:description": {
+            "de": "Diese Datensammlung beinhaltet die Ergebnisse der Laboruntersuchungen von Lebensmittelproben, die im Rahmen der kantonalen Lebensmittelkontrolle in den Untersuchungsbereichen Pflanzenschutzmittelrückstände, Mykotoxine, GVO, und Trinkwasser erhoben und untersucht wurden und die an das BLV gemeldet wurden. Dabei werden unter anderem die Produktart, die Herkunft, die Analyseparameter, die Messwerte, die rechtliche Beurteilung (konform/nicht konform) sowie allfällige Beanstandungsgründe erfasst. Die Laborergebnisse  geben einen Überblick über die gesamte Schweiz und das Fürstentum Liechtenstein in Bezug auf geprüfte Lebensmittel sowie festgestellte Auffälligkeiten. Sie bilden eine Grundlage für risikobasierte Planung künftiger Kontrollen, für die Beurteilung von Trends (z. B. wiederholte Höchstwertüberschreitungen) und für die Kommunikation gegenüber Konsumentinnen und Konsumenten, Medien und internationalen Partnern."
+        },
+        "dct:accessRights": "RESTRICTED",
+        "dct:publisher": "Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV",
+        "dcat:contactPoint": {
+            "schema:email": "ares@blv.admin.ch",
+            "schema:name": "BLV, LME, Koordination und Überwachung"
+        },
+        "dct:issued": "2022-01-01",
+        "dcatap:availability": "STABLE",
+        "dcat:keyword": [
+            "Lebensmittelsicherheit",
+            "Laboranalysen"
+        ],
+        "dct:accrualPeriodicity": "MONTHLY",
+        "dct:modified": "2025-09-10",
+        "adms:status": "published",
+        "bv:classification": "confidential",
+        "bv:personalData": "personalData",
+        "bv:typeOfData": "thematicData",
+        "bv:archivalValue": true,
+        "bv:opendata_swiss": {
+            "bv:mustBePublished": "TRUE",
+            "dct:identifier": "lebensmittelkontrolle@bundesamt-fur-lebensmittelsicherheit-und-veterinaerwesen-blv",
+            "dcat:accessURL": "https://opendata.swiss/de/dataset/lebensmittelkontrolle"
+        },
+        "bv:i14y": {
+            "bv:mustBePublished": true
+        },
+        "dcat:theme": [
+            "health"
+        ],
+        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/lebensmittelsicherheit/verantwortlichkeiten.html",
+        "dct:spatial": "NO",
+        "dct:temporal": {},
+        "dcatap:applicableLegislation": [
+            "https://fedlex.data.admin.ch/eli/cc/2022/273"
+        ],
+        "bv:itSystem": "ARES",
+        "businessDataOwner": null,
+        "schemaViolations": 6,
+        "schemaViolationMessages": [
+            "'fr' is a required property",
+            "'fr' is a required property",
+            "'Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV' is not one of ['BLW-OFAG-UFAG-FOAG', 'BLV-OSAV-USAV-FSVO']",
+            "'DataOwner' is not one of ['businessDataOwner', 'dataSteward', 'dataCustodian']",
+            "None of [{'prov:agent': 'INTERNAL', 'dcat:hadRole': 'DataOwner'}, {'prov:agent': 'INTERNAL', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
+            "'thematicData' is not one of ['', 'primaryThematicData', 'secondaryThematicData', 'referenceData', 'masterData', 'unstructuredData']"
+        ],
+        "quality": 409.85714285714283
+    },
+    {
+        "rdf:type": "dcat:Dataset",
+        "dct:identifier": "FSVO_D00028",
+        "schema:image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Home_in_the_Woods_1847_Thomas_Cole.jpeg",
+        "dct:title": {
+            "de": "Rückstände und Fremdstoffe in tierischen Lebensmitteln (NFUP Schweiz)"
+        },
+        "dct:description": {
+            "de": "Diese Datensammlung beinhaltet die Ergebnisse der jährlich durchgeführten nationalen Fremdstoffuntersuchungsprogramms (NFUP) in Lebensmitteln tierischer Herkunft. Sie dokumentiert systematisch das Vorkommen von Rückständen pharmakologisch wirksamer Substanzen, von Pflanzenschutzmitteln sowie von Kontaminanten in Tieren und in Lebensmitteln tierischer Herkunft. Erfasst werden unter anderem Rückstände von Antibiotika, Antiparasitika und weiteren Medikamenten, die zur Behandlung oder Vorbeugung von Krankheiten bei Nutztieren eingesetzt werden. Die Daten (Laborergebnisse) stammen aus amtlichen Probenahmen im Rahmen des nationalen Rückstandsüberwachungsprogramms.  Zweck der Datensammlung ist die Überwachung des Vorkommens von Fremdstoffen in tierischen Lebensmitteln in der Schweiz. Sie dient sowohl dem gesundheitlichen Verbraucherschutz als auch der Erfüllung internationaler Verpflichtungen, insbesondere gegenüber der Europäischen Union. Durch das Programm wird die Exportberechtigung der Schweiz für Tiere und daraus gewonnene Lebensmittel in den EU-Raum sichergestellt.  Die Datensammlung ermöglicht nationale Trendanalysen, die frühzeitige Identifikation von Risiken sowie gezielte Kontrollmassnahmen zur Sicherstellung der Lebensmittelsicherheit."
+        },
+        "dct:accessRights": "RESTRICTED",
+        "dct:publisher": "Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV",
+        "dcat:contactPoint": {
+            "schema:email": "nfup@blv.admin.ch",
+            "schema:name": "BLV, LME, Koordination und Überwachung"
+        },
+        "dct:issued": "2012-01-01",
+        "dcatap:availability": "STABLE",
+        "dcat:keyword": [
+            "Rückstände",
+            "Veterinärmedizin",
+            "Lebensmittel, Kontaminanten"
+        ],
+        "dct:accrualPeriodicity": "ANNUAL",
+        "dct:modified": "2025-09-10",
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:typeOfData": "thematicData",
+        "bv:archivalValue": true,
+        "bv:opendata_swiss": {
+            "bv:mustBePublished": "FALSE"
+        },
+        "bv:i14y": {
+            "bv:mustBePublished": true
+        },
+        "dcat:theme": [
+            "health"
+        ],
+        "dct:temporal": {},
+        "dcatap:applicableLegislation": [
+            "Landwirtschaftsabkommen (Anhang 11) mit EU"
+        ],
+        "businessDataOwner": null,
+        "schemaViolations": 6,
+        "schemaViolationMessages": [
+            "'fr' is a required property",
+            "'fr' is a required property",
+            "'Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV' is not one of ['BLW-OFAG-UFAG-FOAG', 'BLV-OSAV-USAV-FSVO']",
+            "'DataOwner' is not one of ['businessDataOwner', 'dataSteward', 'dataCustodian']",
+            "None of [{'prov:agent': 'INTERNAL', 'dcat:hadRole': 'DataOwner'}, {'prov:agent': 'INTERNAL', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
+            "'thematicData' is not one of ['', 'primaryThematicData', 'secondaryThematicData', 'referenceData', 'masterData', 'unstructuredData']"
+        ],
+        "quality": 403.2857142857143
+    },
+    {
+        "rdf:type": "dcat:Dataset",
+        "dct:identifier": "FSVO_D00026",
+        "schema:image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Home_in_the_Woods_1847_Thomas_Cole.jpeg",
+        "dct:title": {
+            "de": "Ergebnisse der Fleischkontrolle"
+        },
+        "dct:description": {
+            "de": "Diese Datensammlung enthält die Ergebnisse der amtlichen Schlachttier- und Fleischuntersuchungen. Erfasst werden Angaben zum lebenden Tier, zu dessen Herkunft sowie zu Mängeln bezüglich Lebensmittelhygiene, Tierschutz und Dokumentation. Diese Daten werden standardisiert erfasst und zentral gespeichert. Ziel der Fleischkontrolle ist die Sicherstellung der Lebensmittelsicherheit und der Tiergesundheit im Rahmen der Schlachtung. Die gewonnen Daten ermöglichen epidemiologische Auswertungen, Trendanalysen und die Rückverfolgung auffälliger Befunde. Zudem unterstützen sie risikobasierte Kontrollstrategien und liefern Entscheidungsgrundlagen für den Vollzug und die Weiterentwicklung der gesetzlichen Vorgaben im Bereich der Fleischhygiene."
+        },
+        "dct:accessRights": "RESTRICTED",
+        "dct:publisher": "Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV",
+        "dcat:contactPoint": {
+            "schema:email": "lme@blv.admin.ch",
+            "schema:name": "BLV, LME, Lebensmittelhygiene"
+        },
+        "dct:issued": "2020-01-01",
+        "dcatap:availability": "STABLE",
+        "dcat:keyword": [
+            "Fleischkontrolle",
+            "Schlachttieruntersuchung",
+            "Lebensmittel"
+        ],
+        "dct:accrualPeriodicity": "MONTHLY",
+        "dct:modified": "2025-09-10",
+        "adms:status": "published",
+        "bv:classification": "confidential",
+        "bv:personalData": "personalData",
+        "bv:typeOfData": "thematicData",
+        "bv:archivalValue": true,
+        "bv:opendata_swiss": {
+            "bv:mustBePublished": "TRUE",
+            "dct:identifier": "fleischkontrollstatistik@bundesamt-fur-lebensmittelsicherheit-und-veterinaerwesen-blv",
+            "dcat:accessURL": "https://opendata.swiss/de/dataset/fleischkontrollstatistik"
+        },
+        "bv:i14y": {
+            "bv:mustBePublished": true
+        },
+        "dcat:theme": [
+            "health"
+        ],
+        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/lebensmittelsicherheit/verantwortlichkeiten/fleischkontrolle/fleko.html",
+        "dct:spatial": "YES",
+        "dct:temporal": {},
+        "dcatap:applicableLegislation": [
+            "https://fedlex.data.admin.ch/eli/cc/2022/272"
+        ],
+        "bv:itSystem": "FLEKO",
+        "businessDataOwner": null,
+        "schemaViolations": 6,
+        "schemaViolationMessages": [
+            "'fr' is a required property",
+            "'fr' is a required property",
+            "'Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV' is not one of ['BLW-OFAG-UFAG-FOAG', 'BLV-OSAV-USAV-FSVO']",
+            "'DataOwner' is not one of ['businessDataOwner', 'dataSteward', 'dataCustodian']",
+            "None of [{'prov:agent': 'INTERNAL', 'dcat:hadRole': 'DataOwner'}, {'prov:agent': 'INTERNAL', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
+            "'thematicData' is not one of ['', 'primaryThematicData', 'secondaryThematicData', 'referenceData', 'masterData', 'unstructuredData']"
+        ],
+        "quality": 383.14285714285717
+    },
+    {
+        "rdf:type": "dcat:Dataset",
+        "dct:identifier": "FSVO_D00023",
+        "schema:image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Home_in_the_Woods_1847_Thomas_Cole.jpeg",
+        "dct:title": {
+            "de": "Kontrollergebnisse der kantonalen Lebensmittelkontrolle (Prozesskontrolle)"
+        },
+        "dct:description": {
+            "de": "Diese Datensammlung enthält strukturierte Informationen zu den Ergebnissen der amtlichen Inspektionen, die von den kantonalen Lebensmittelvollzugsbehörden durchgeführt und dem BLV gemeldet werden. Erfasst werden unter anderem die kontrollierten Lebensmittelbetriebe, Art der Inspektionen, festgestellte Mängel, sowie ergriffene Massnahmen. Die Daten werden standardisiert und jährlich aus allen Kantonen zusammengeführt. Zweck der Datensammlung ist es, einen nationalen Überblick in Bezug auf geprüfte Betriebe sowie festgestellte Auffälligkeiten zu gewinnen. Sie dient der Früherkennung von Risiken, der Planung risikobasierter Kontrollen und der Berichterstattung an die Öffentlichkeit"
+        },
+        "dct:accessRights": "RESTRICTED",
+        "dct:publisher": "Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV",
+        "dcat:contactPoint": {
+            "schema:email": "ares@blv.admin.ch",
+            "schema:name": "BLV, LME, Koordination und Überwachung"
+        },
+        "dct:issued": "2022-01-01",
+        "dcatap:availability": "STABLE",
+        "dcat:keyword": [
+            "Kontrolle",
+            "Inspektion",
+            "Lebensmittel"
+        ],
+        "dct:accrualPeriodicity": "MONTHLY",
+        "dct:modified": "2025-09-10",
+        "adms:status": "published",
+        "bv:classification": "confidential",
+        "bv:personalData": "personalData",
+        "bv:typeOfData": "thematicData",
+        "bv:archivalValue": true,
+        "bv:opendata_swiss": {
+            "bv:mustBePublished": "TRUE",
+            "dct:identifier": "lebensmittelkontrolle@bundesamt-fur-lebensmittelsicherheit-und-veterinaerwesen-blv",
+            "dcat:accessURL": "https://opendata.swiss/de/dataset/lebensmittelkontrolle"
+        },
+        "bv:i14y": {
+            "bv:mustBePublished": true
+        },
+        "dcat:theme": [
+            "health"
+        ],
+        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/lebensmittelsicherheit/verantwortlichkeiten.html",
+        "dct:spatial": "NO",
+        "dct:temporal": {},
+        "dcatap:applicableLegislation": [
+            "https://fedlex.data.admin.ch/eli/cc/2022/272"
+        ],
+        "bv:itSystem": "ARES",
+        "businessDataOwner": null,
+        "schemaViolations": 6,
+        "schemaViolationMessages": [
+            "'fr' is a required property",
+            "'fr' is a required property",
+            "'Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV' is not one of ['BLW-OFAG-UFAG-FOAG', 'BLV-OSAV-USAV-FSVO']",
+            "'DataOwner' is not one of ['businessDataOwner', 'dataSteward', 'dataCustodian']",
+            "None of [{'prov:agent': 'INTERNAL', 'dcat:hadRole': 'DataOwner'}, {'prov:agent': 'INTERNAL', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
+            "'thematicData' is not one of ['', 'primaryThematicData', 'secondaryThematicData', 'referenceData', 'masterData', 'unstructuredData']"
+        ],
+        "quality": 376.14285714285717
+    },
+    {
+        "rdf:type": "dcat:Dataset",
+        "dct:identifier": "FSVO_D00030",
+        "schema:image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Home_in_the_Woods_1847_Thomas_Cole.jpeg",
+        "dct:title": {
+            "de": "Schwerpunktprogramme an der Grenze – Risikobasierte Importkontrollen von Lebensmitteln und Gebrauchsgegenständen"
+        },
+        "dct:description": {
+            "de": "Diese Datensammlung umfasst die Ergebnisse von risikobasierten Probenahmen im Rahmen der jährlichen Schwerpunktprogramme (SPP), die das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) in Zusammenarbeit mit dem Bundesamt für Zoll und Grenzsicherheit (BAZG) durchführt. Dabei werden an der Landesgrenze stichprobenartig ausgewählte Waren bei der Einfuhr kontrolliert. Die Proben werden für gezielte Untersuchungen an kantonale Laboratorien übermittelt. Erfasst werden Art, Herkunft und Menge der Waren, die analysierten Parameter sowie die Untersuchungsergebnisse. Die Daten dienen der Früherkennung potenzieller Risiken bei Importwaren, der Überprüfung der Einhaltung lebensmittelrechtlicher Vorgaben und der gezielten Weiterentwicklung der Risikostrategie. Sie ermöglichen eine evidenzbasierte Planung von Kontrollmassnahmen, die Priorisierung von Produktgruppen mit erhöhtem Risiko und die wirksame Zusammenarbeit zwischen Bund, Kantonen und internationalen Partnern."
+        },
+        "dct:accessRights": "RESTRICTED",
+        "dct:publisher": "Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV",
+        "dcat:contactPoint": {
+            "schema:email": "lme@blv.admin.ch",
+            "schema:name": "BLV, LME, Koordination und Überwachung"
+        },
+        "dct:issued": "2014-01-01",
+        "dcatap:availability": "STABLE",
+        "dcat:keyword": [
+            "Kontrolle",
+            "Lebensmittel",
+            "Laboranalysen",
+            "Grenze",
+            "Zoll",
+            "BAZG"
+        ],
+        "dct:accrualPeriodicity": "ANNUAL",
+        "dct:modified": "2025-09-10",
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:typeOfData": "thematicData",
+        "bv:archivalValue": true,
+        "bv:opendata_swiss": {
+            "bv:mustBePublished": "FALSE"
+        },
+        "bv:i14y": {
+            "bv:mustBePublished": true
+        },
+        "dcat:theme": [
+            "health"
+        ],
+        "dct:temporal": {},
+        "dcatap:applicableLegislation": [
+            ""
+        ],
+        "businessDataOwner": null,
+        "schemaViolations": 6,
+        "schemaViolationMessages": [
+            "'fr' is a required property",
+            "'fr' is a required property",
+            "'Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV' is not one of ['BLW-OFAG-UFAG-FOAG', 'BLV-OSAV-USAV-FSVO']",
+            "'DataOwner' is not one of ['businessDataOwner', 'dataSteward', 'dataCustodian']",
+            "None of [{'prov:agent': 'INTERNAL', 'dcat:hadRole': 'DataOwner'}, {'prov:agent': 'INTERNAL', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
+            "'thematicData' is not one of ['', 'primaryThematicData', 'secondaryThematicData', 'referenceData', 'masterData', 'unstructuredData']"
+        ],
+        "quality": 367.57142857142856
+    },
+    {
+        "rdf:type": "dcat:Dataset",
+        "dct:identifier": "FSVO_D00022",
+        "schema:image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Home_in_the_Woods_1847_Thomas_Cole.jpeg",
+        "dct:title": {
+            "de": "Stoffdatenbank (Anwendungsplattform Verbraucherschutz, APVS)"
+        },
+        "dct:description": {
+            "de": "Die Stoffdatenbank ist eine zentrale Datensammlung der Anwendungsplattform Verbraucherschutz (APVS) und dient als Master-System für Definition und Verwaltung von  Parametern, Matrizen und Höchstwerten im Bereich Lebensmittelsicherheit und Verbraucherschutz. Sie enthält strukturierte Informationen zu chemischen und biologischen Parametern, deren zugehörigen Matrizes wie bspw. Lebensmittel, Trinkwasser oder, Futtermittel, sowie den entsprechenden Höchstwerten. Zudem werden ergänzende Attribute wie z.B. Einheiten dokumentiert. Diese Sammlung dient der Standardisierung und Qualitätssicherung von Daten im Bereich Lebensmittelsicherheit und Verbraucherschutz. "
+        },
+        "dct:accessRights": "RESTRICTED",
+        "dct:publisher": "Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV",
+        "dcat:contactPoint": {
+            "schema:email": "lme@blv.admin.ch",
+            "schema:name": "BLV, LME, Koordination und Überwachung"
+        },
+        "dct:issued": "2013-01-01",
+        "dcatap:availability": "STABLE",
+        "dcat:keyword": [
+            "Limiten",
+            "Matrix",
+            "Parameter"
+        ],
+        "dct:accrualPeriodicity": "MONTHLY",
+        "dct:modified": "2025-09-10",
+        "adms:status": "published",
+        "bv:classification": "confidential",
+        "bv:personalData": "none",
+        "bv:typeOfData": "thematicData",
+        "bv:archivalValue": true,
+        "bv:opendata_swiss": {
+            "bv:mustBePublished": "FALSE"
+        },
+        "bv:i14y": {
+            "bv:mustBePublished": true
+        },
+        "dcat:theme": [
+            "health"
+        ],
+        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/lebensmittelsicherheit/stoffe-im-fokus.html",
+        "dct:spatial": "NO",
+        "dct:temporal": {},
+        "dcatap:applicableLegislation": [
+            "LMG Art. 62"
+        ],
+        "bv:itSystem": "APVS",
+        "businessDataOwner": null,
+        "schemaViolations": 6,
+        "schemaViolationMessages": [
+            "'fr' is a required property",
+            "'fr' is a required property",
+            "'Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV' is not one of ['BLW-OFAG-UFAG-FOAG', 'BLV-OSAV-USAV-FSVO']",
+            "'DataOwner' is not one of ['businessDataOwner', 'dataSteward', 'dataCustodian']",
+            "None of [{'prov:agent': 'INTERNAL', 'dcat:hadRole': 'DataOwner'}, {'prov:agent': 'INTERNAL', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
+            "'thematicData' is not one of ['', 'primaryThematicData', 'secondaryThematicData', 'referenceData', 'masterData', 'unstructuredData']"
+        ],
+        "quality": 334.14285714285717
     }
 ]
