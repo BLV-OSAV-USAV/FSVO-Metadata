@@ -67,17 +67,15 @@
             }
         ],
         "businessDataOwner": null,
-        "schemaViolations": 7,
+        "schemaViolations": 5,
         "schemaViolationMessages": [
             "'fr' is a required property",
             "'fr' is a required property",
             "'Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV' is not one of ['BLW-OFAG-UFAG-FOAG', 'BLV-OSAV-USAV-FSVO']",
-            "'DataOwner' is not one of ['businessDataOwner', 'dataSteward', 'dataCustodian']",
-            "None of [{'prov:agent': 'INTERNAL', 'dcat:hadRole': 'DataOwner'}, {'prov:agent': 'INTERNAL', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
             "'thematicData' is not one of ['', 'primaryThematicData', 'secondaryThematicData', 'referenceData', 'masterData', 'unstructuredData']",
             "'Title' does not match '[a-zA-Z0-9_\\\\-\\\\s]{10,75}'"
         ],
-        "quality": 534.75
+        "quality": 713.0
     },
     {
         "rdf:type": "dcat:Dataset",
@@ -127,16 +125,14 @@
         ],
         "bv:itSystem": "ASAN",
         "businessDataOwner": null,
-        "schemaViolations": 6,
+        "schemaViolations": 4,
         "schemaViolationMessages": [
             "'fr' is a required property",
             "'fr' is a required property",
             "'Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV' is not one of ['BLW-OFAG-UFAG-FOAG', 'BLV-OSAV-USAV-FSVO']",
-            "'DataOwner' is not one of ['businessDataOwner', 'dataSteward', 'dataCustodian']",
-            "None of [{'prov:agent': 'INTERNAL', 'dcat:hadRole': 'DataOwner'}, {'prov:agent': 'INTERNAL', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
             "'thematicData' is not one of ['', 'primaryThematicData', 'secondaryThematicData', 'referenceData', 'masterData', 'unstructuredData']"
         ],
-        "quality": 482.2857142857143
+        "quality": 675.2
     },
     {
         "rdf:type": "dcat:Dataset",
@@ -185,16 +181,14 @@
         ],
         "bv:itSystem": "ARES; dBMilch (BLW)",
         "businessDataOwner": null,
-        "schemaViolations": 6,
+        "schemaViolations": 4,
         "schemaViolationMessages": [
             "'fr' is a required property",
             "'fr' is a required property",
             "'Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV' is not one of ['BLW-OFAG-UFAG-FOAG', 'BLV-OSAV-USAV-FSVO']",
-            "'DataOwner' is not one of ['businessDataOwner', 'dataSteward', 'dataCustodian']",
-            "None of [{'prov:agent': 'INTERNAL', 'dcat:hadRole': 'DataOwner'}, {'prov:agent': 'INTERNAL', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
             "'thematicData' is not one of ['', 'primaryThematicData', 'secondaryThematicData', 'referenceData', 'masterData', 'unstructuredData']"
         ],
-        "quality": 421.7142857142857
+        "quality": 590.4
     },
     {
         "rdf:type": "dcat:Dataset",
@@ -240,16 +234,14 @@
             ""
         ],
         "businessDataOwner": null,
-        "schemaViolations": 6,
+        "schemaViolations": 4,
         "schemaViolationMessages": [
             "'fr' is a required property",
             "'fr' is a required property",
             "'Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV' is not one of ['BLW-OFAG-UFAG-FOAG', 'BLV-OSAV-USAV-FSVO']",
-            "'DataOwner' is not one of ['businessDataOwner', 'dataSteward', 'dataCustodian']",
-            "None of [{'prov:agent': 'INTERNAL', 'dcat:hadRole': 'DataOwner'}, {'prov:agent': 'INTERNAL', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
             "'thematicData' is not one of ['', 'primaryThematicData', 'secondaryThematicData', 'referenceData', 'masterData', 'unstructuredData']"
         ],
-        "quality": 414.85714285714283
+        "quality": 580.8
     },
     {
         "rdf:type": "dcat:Dataset",
@@ -299,16 +291,14 @@
         ],
         "bv:itSystem": "ARES",
         "businessDataOwner": null,
-        "schemaViolations": 6,
+        "schemaViolations": 4,
         "schemaViolationMessages": [
             "'fr' is a required property",
             "'fr' is a required property",
             "'Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV' is not one of ['BLW-OFAG-UFAG-FOAG', 'BLV-OSAV-USAV-FSVO']",
-            "'DataOwner' is not one of ['businessDataOwner', 'dataSteward', 'dataCustodian']",
-            "None of [{'prov:agent': 'INTERNAL', 'dcat:hadRole': 'DataOwner'}, {'prov:agent': 'INTERNAL', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
             "'thematicData' is not one of ['', 'primaryThematicData', 'secondaryThematicData', 'referenceData', 'masterData', 'unstructuredData']"
         ],
-        "quality": 409.85714285714283
+        "quality": 573.8
     },
     {
         "rdf:type": "dcat:Dataset",
@@ -354,16 +344,14 @@
             "Landwirtschaftsabkommen (Anhang 11) mit EU"
         ],
         "businessDataOwner": null,
-        "schemaViolations": 6,
+        "schemaViolations": 4,
         "schemaViolationMessages": [
             "'fr' is a required property",
             "'fr' is a required property",
             "'Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV' is not one of ['BLW-OFAG-UFAG-FOAG', 'BLV-OSAV-USAV-FSVO']",
-            "'DataOwner' is not one of ['businessDataOwner', 'dataSteward', 'dataCustodian']",
-            "None of [{'prov:agent': 'INTERNAL', 'dcat:hadRole': 'DataOwner'}, {'prov:agent': 'INTERNAL', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
             "'thematicData' is not one of ['', 'primaryThematicData', 'secondaryThematicData', 'referenceData', 'masterData', 'unstructuredData']"
         ],
-        "quality": 403.2857142857143
+        "quality": 564.6
     },
     {
         "rdf:type": "dcat:Dataset",
@@ -414,16 +402,14 @@
         ],
         "bv:itSystem": "FLEKO",
         "businessDataOwner": null,
-        "schemaViolations": 6,
+        "schemaViolations": 4,
         "schemaViolationMessages": [
             "'fr' is a required property",
             "'fr' is a required property",
             "'Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV' is not one of ['BLW-OFAG-UFAG-FOAG', 'BLV-OSAV-USAV-FSVO']",
-            "'DataOwner' is not one of ['businessDataOwner', 'dataSteward', 'dataCustodian']",
-            "None of [{'prov:agent': 'INTERNAL', 'dcat:hadRole': 'DataOwner'}, {'prov:agent': 'INTERNAL', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
             "'thematicData' is not one of ['', 'primaryThematicData', 'secondaryThematicData', 'referenceData', 'masterData', 'unstructuredData']"
         ],
-        "quality": 383.14285714285717
+        "quality": 536.4
     },
     {
         "rdf:type": "dcat:Dataset",
@@ -474,16 +460,14 @@
         ],
         "bv:itSystem": "ARES",
         "businessDataOwner": null,
-        "schemaViolations": 6,
+        "schemaViolations": 4,
         "schemaViolationMessages": [
             "'fr' is a required property",
             "'fr' is a required property",
             "'Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV' is not one of ['BLW-OFAG-UFAG-FOAG', 'BLV-OSAV-USAV-FSVO']",
-            "'DataOwner' is not one of ['businessDataOwner', 'dataSteward', 'dataCustodian']",
-            "None of [{'prov:agent': 'INTERNAL', 'dcat:hadRole': 'DataOwner'}, {'prov:agent': 'INTERNAL', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
             "'thematicData' is not one of ['', 'primaryThematicData', 'secondaryThematicData', 'referenceData', 'masterData', 'unstructuredData']"
         ],
-        "quality": 376.14285714285717
+        "quality": 526.6
     },
     {
         "rdf:type": "dcat:Dataset",
@@ -532,16 +516,14 @@
             ""
         ],
         "businessDataOwner": null,
-        "schemaViolations": 6,
+        "schemaViolations": 4,
         "schemaViolationMessages": [
             "'fr' is a required property",
             "'fr' is a required property",
             "'Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV' is not one of ['BLW-OFAG-UFAG-FOAG', 'BLV-OSAV-USAV-FSVO']",
-            "'DataOwner' is not one of ['businessDataOwner', 'dataSteward', 'dataCustodian']",
-            "None of [{'prov:agent': 'INTERNAL', 'dcat:hadRole': 'DataOwner'}, {'prov:agent': 'INTERNAL', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
             "'thematicData' is not one of ['', 'primaryThematicData', 'secondaryThematicData', 'referenceData', 'masterData', 'unstructuredData']"
         ],
-        "quality": 367.57142857142856
+        "quality": 514.6
     },
     {
         "rdf:type": "dcat:Dataset",
@@ -590,15 +572,13 @@
         ],
         "bv:itSystem": "APVS",
         "businessDataOwner": null,
-        "schemaViolations": 6,
+        "schemaViolations": 4,
         "schemaViolationMessages": [
             "'fr' is a required property",
             "'fr' is a required property",
             "'Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV' is not one of ['BLW-OFAG-UFAG-FOAG', 'BLV-OSAV-USAV-FSVO']",
-            "'DataOwner' is not one of ['businessDataOwner', 'dataSteward', 'dataCustodian']",
-            "None of [{'prov:agent': 'INTERNAL', 'dcat:hadRole': 'DataOwner'}, {'prov:agent': 'INTERNAL', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
             "'thematicData' is not one of ['', 'primaryThematicData', 'secondaryThematicData', 'referenceData', 'masterData', 'unstructuredData']"
         ],
-        "quality": 334.14285714285717
+        "quality": 467.8
     }
 ]
