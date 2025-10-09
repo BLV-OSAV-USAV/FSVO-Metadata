@@ -41,7 +41,7 @@ def extract_person_roles(data):
         role = attrib.get("dcat:hadRole")
         person_name = attrib.get("schema:name")  # optional, may not exist
         
-        if agent_id and role in ("businessDataOwner", "dataSteward", "dataCustodian"):
+        if agent_id and role in ("DataOwner", "dataSteward", "dataCustodian"):
             # Build a record that indicates this person has that role
             # for the current dataset.
             record = {
