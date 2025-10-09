@@ -1,0 +1,56 @@
+{
+    "dct:identifier": "FSVO_D00030",
+    "schema:image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Home_in_the_Woods_1847_Thomas_Cole.jpeg",
+    "dct:title": {
+        "de": "Schwerpunktprogramme an der Grenze – Risikobasierte Importkontrollen von Lebensmitteln und Gebrauchsgegenständen"
+    },
+    "dct:description": {
+        "de": "Diese Datensammlung umfasst die Ergebnisse von risikobasierten Probenahmen im Rahmen der jährlichen Schwerpunktprogramme (SPP), die das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) in Zusammenarbeit mit dem Bundesamt für Zoll und Grenzsicherheit (BAZG) durchführt. Dabei werden an der Landesgrenze stichprobenartig ausgewählte Waren bei der Einfuhr kontrolliert. Die Proben werden für gezielte Untersuchungen an kantonale Laboratorien übermittelt. Erfasst werden Art, Herkunft und Menge der Waren, die analysierten Parameter sowie die Untersuchungsergebnisse. Die Daten dienen der Früherkennung potenzieller Risiken bei Importwaren, der Überprüfung der Einhaltung lebensmittelrechtlicher Vorgaben und der gezielten Weiterentwicklung der Risikostrategie. Sie ermöglichen eine evidenzbasierte Planung von Kontrollmassnahmen, die Priorisierung von Produktgruppen mit erhöhtem Risiko und die wirksame Zusammenarbeit zwischen Bund, Kantonen und internationalen Partnern."
+    },
+    "dct:accessRights": "RESTRICTED",
+    "dct:publisher": "Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV",
+    "dcat:contactPoint": {
+        "schema:email": "lme@blv.admin.ch",
+        "schema:name": "BLV, LME, Koordination und Überwachung"
+    },
+    "dct:issued": "2014-01-01",
+    "dcatap:availability": "STABLE",
+    "dcat:keyword": [
+        "Kontrolle",
+        "Lebensmittel",
+        "Laboranalysen",
+        "Grenze",
+        "Zoll",
+        "BAZG"
+    ],
+    "dct:accrualPeriodicity": "ANNUAL",
+    "dct:modified": "2025-09-10",
+    "prov:qualifiedAttribution": [
+        {
+            "prov:agent": "INTERNAL",
+            "dcat:hadRole": "DataOwner"
+        },
+        {
+            "prov:agent": "INTERNAL",
+            "dcat:hadRole": "dataSteward"
+        }
+    ],
+    "adms:status": "published",
+    "bv:classification": "none",
+    "bv:personalData": "none",
+    "bv:typeOfData": "thematicData",
+    "bv:archivalValue": true,
+    "bv:opendata_swiss": {
+        "bv:mustBePublished": "FALSE"
+    },
+    "bv:i14y": {
+        "bv:mustBePublished": true
+    },
+    "dcat:theme": [
+        "health"
+    ],
+    "dct:temporal": {},
+    "dcatap:applicableLegislation": [
+        ""
+    ]
+}

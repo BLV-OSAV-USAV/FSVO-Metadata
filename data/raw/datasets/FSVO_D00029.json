@@ -1,0 +1,53 @@
+{
+    "dct:identifier": "FSVO_D00029",
+    "schema:image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Home_in_the_Woods_1847_Thomas_Cole.jpeg",
+    "dct:title": {
+        "de": "Befundstatistik Produktkontrolle"
+    },
+    "dct:description": {
+        "de": "Diese Datensammlung enthält aggregierte Ergebnisse aus den amtlichen Produktkontrollen von Lebensmitteln und Gebrauchsgegenständen, die jährlich von den kantonalen Lebensmittelvollzugsbehörden an das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) übermittelt werden. Erfasst werden dabei unter anderem die Art und Anzahl der analysierten Proben, festgestellte Abweichungen von rechtlichen Anforderungen sowie spezifische Befunde zu einzelnen Produktgruppen wie beispielsweise Trinkwasser, Speisefette oder Gebrauchsgegenstände mit Hautkontakt. Die Befundstatistik dient dem internen Datenmanagement des BLV und bildet eine zentrale Grundlage für die Erstellung des Jahresberichts zum Mehrjährigen Nationalen Kontrollplan (MNKP) sowie für die sogenannte VKCS-Statistik. Letztere wird in Zusammenarbeit mit dem Verband der Kantonschemiker der Schweiz (VKCS) erstellt und ermöglicht eine standardisierte und koordinierte Auswertung der Vollzugsdaten auf nationaler Ebene. Durch die systematische Erfassung und Analyse der Daten lässt sich ein gesamtschweizerischer Überblick – inklusive Liechtenstein – über die Resultate amtlicher Produktkontrollen gewinnen. Die Statistik unterstützt die risikobasierte Beurteilung der Lebensmittelsicherheit, hilft Trends bei Qualitätsmängeln frühzeitig zu erkennen, erleichtert die zielgerichtete Planung von risikomindernden Massnahmen und trägt zur Weiterentwicklung des Vollzugs bei."
+    },
+    "dct:accessRights": "RESTRICTED",
+    "dct:publisher": "Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV",
+    "dcat:contactPoint": {
+        "schema:email": "lme@blv.admin.ch",
+        "schema:name": "BLV, LME, Koordination und Überwachung"
+    },
+    "dct:issued": "2014-01-01",
+    "dcatap:availability": "STABLE",
+    "dcat:keyword": [
+        "Kontrolle",
+        "Lebensmittel",
+        "Laboranalysen"
+    ],
+    "dct:accrualPeriodicity": "ANNUAL",
+    "dct:modified": "2025-09-10",
+    "prov:qualifiedAttribution": [
+        {
+            "prov:agent": "INTERNAL",
+            "dcat:hadRole": "DataOwner"
+        },
+        {
+            "prov:agent": "INTERNAL",
+            "dcat:hadRole": "dataSteward"
+        }
+    ],
+    "adms:status": "published",
+    "bv:classification": "none",
+    "bv:personalData": "none",
+    "bv:typeOfData": "thematicData",
+    "bv:archivalValue": true,
+    "bv:opendata_swiss": {
+        "bv:mustBePublished": "FALSE"
+    },
+    "bv:i14y": {
+        "bv:mustBePublished": true
+    },
+    "dcat:theme": [
+        "health"
+    ],
+    "dct:temporal": {},
+    "dcatap:applicableLegislation": [
+        ""
+    ]
+}

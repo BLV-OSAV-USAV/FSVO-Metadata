@@ -1,0 +1,56 @@
+{
+    "dct:identifier": "FSVO_D00025",
+    "schema:image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Home_in_the_Woods_1847_Thomas_Cole.jpeg",
+    "dct:title": {
+        "de": "Ergebnisse der öffentlich-rechtlichen Milchprüfung"
+    },
+    "dct:description": {
+        "de": "Diese Datensammlung umfasst die Ergebnisse der von Suisselab im Rahmen der öffentlich-rechtlichen Milchprüfung durchgeführten Laboranalysen. Dabei werden die Keimzahl und die Zellzahl pro Einzelprobe sowie der geometrisch gemittelte Wert pro Monat erfasst. Zudem wird angegeben, ob der Hemmstofftest bei den Einzelproben positiv oder negativ ausfiel. Parallel dazu werden dieselben Ergebnisse zusammen mit den Ergebnisse privatrechtliche Untersuchungen (z. B. Gefrierpunkt) über eine andere Datenbank (dBMilch) den betroffenen Betrieben zur Verfügung gestellt. Über AGATE haben das BLV und die kantonalen Vollzugsbehörden ebenfalls Zugriff auf diese Datenbank, jedoch sehen sie nicht alle Daten. Die Daten aus den Milchprüfungen zeigen, ob die vorgeschriebenen Untersuchungen gemäss Milchprüfungsverordnung durchgeführt werden und ob die Anforderungen an die Rohmilch gemäss Hygieneverordnung eingehalten sind. Sie ermöglichen es kantonalen Vollzugsbehörden, gezielte Massnahmen einzuleiten (inklusive Milchliefersperren nach Art. 15 MiPV). Diese Datensammlung trägt zur Transparenz in der Wertschöpfungskette bei und unterstützt die behördliche Risikobewertung."
+    },
+    "dct:accessRights": "RESTRICTED",
+    "dct:publisher": "Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV",
+    "dcat:contactPoint": {
+        "schema:email": "lme@blv.admin.ch",
+        "schema:name": "BLV, LME, Lebensmittelhygiene"
+    },
+    "dct:issued": "2025-01-01",
+    "dcatap:availability": "STABLE",
+    "dcat:keyword": [
+        "Milchqualität",
+        "Laboranalysen"
+    ],
+    "dct:accrualPeriodicity": "MONTHLY",
+    "dct:modified": "2025-09-10",
+    "prov:qualifiedAttribution": [
+        {
+            "prov:agent": "INTERNAL",
+            "dcat:hadRole": "DataOwner"
+        },
+        {
+            "prov:agent": "INTERNAL",
+            "dcat:hadRole": "dataSteward"
+        }
+    ],
+    "adms:status": "published",
+    "bv:classification": "confidential",
+    "bv:personalData": "personalData",
+    "bv:typeOfData": "thematicData",
+    "bv:archivalValue": true,
+    "bv:opendata_swiss": {
+        "bv:mustBePublished": "NO"
+    },
+    "bv:i14y": {
+        "bv:mustBePublished": false
+    },
+    "dcat:theme": [
+        "health"
+    ],
+    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/lebensmittelsicherheit/verantwortlichkeiten/milchpruefung.html",
+    "dct:spatial": "NO",
+    "dct:temporal": {},
+    "dcatap:applicableLegislation": [
+        "https://fedlex.data.admin.ch/eli/cc/2022/272",
+        "https://www.fedlex.admin.ch/eli/cc/2010/713"
+    ],
+    "bv:itSystem": "ARES; dBMilch (BLW)"
+}
