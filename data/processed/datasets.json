@@ -579,6 +579,6 @@
             "'Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV' is not one of ['BLW-OFAG-UFAG-FOAG', 'BLV-OSAV-USAV-FSVO']",
             "'thematicData' is not one of ['', 'primaryThematicData', 'secondaryThematicData', 'referenceData', 'masterData', 'unstructuredData']"
         ],
-        "quality": 467.8
+        "quality": 467.6
     }
 ]
