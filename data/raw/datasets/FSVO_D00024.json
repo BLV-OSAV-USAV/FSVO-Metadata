@@ -2,13 +2,15 @@
     "dct:identifier": "FSVO_D00024",
     "schema:image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Home_in_the_Woods_1847_Thomas_Cole.jpeg",
     "dct:title": {
-        "de": "Laborergebnisse der kantonalen Lebensmittelkontrolle (Produktkontrolle)"
+        "fr": "Laborergebnisse der kantonalen Lebensmittelkontrolle Produktkontrolle",
+        "de": "Laborergebnisse der kantonalen Lebensmittelkontrolle Produktkontrolle"
     },
     "dct:description": {
+        "fr": "Diese Datensammlung beinhaltet die Ergebnisse der Laboruntersuchungen von Lebensmittelproben, die im Rahmen der kantonalen Lebensmittelkontrolle in den Untersuchungsbereichen Pflanzenschutzmittelrückstände, Mykotoxine, GVO, und Trinkwasser erhoben und untersucht wurden und die an das BLV gemeldet wurden. Dabei werden unter anderem die Produktart, die Herkunft, die Analyseparameter, die Messwerte, die rechtliche Beurteilung (konform/nicht konform) sowie allfällige Beanstandungsgründe erfasst. Die Laborergebnisse  geben einen Überblick über die gesamte Schweiz und das Fürstentum Liechtenstein in Bezug auf geprüfte Lebensmittel sowie festgestellte Auffälligkeiten. Sie bilden eine Grundlage für risikobasierte Planung künftiger Kontrollen, für die Beurteilung von Trends (z. B. wiederholte Höchstwertüberschreitungen) und für die Kommunikation gegenüber Konsumentinnen und Konsumenten, Medien und internationalen Partnern.",
         "de": "Diese Datensammlung beinhaltet die Ergebnisse der Laboruntersuchungen von Lebensmittelproben, die im Rahmen der kantonalen Lebensmittelkontrolle in den Untersuchungsbereichen Pflanzenschutzmittelrückstände, Mykotoxine, GVO, und Trinkwasser erhoben und untersucht wurden und die an das BLV gemeldet wurden. Dabei werden unter anderem die Produktart, die Herkunft, die Analyseparameter, die Messwerte, die rechtliche Beurteilung (konform/nicht konform) sowie allfällige Beanstandungsgründe erfasst. Die Laborergebnisse  geben einen Überblick über die gesamte Schweiz und das Fürstentum Liechtenstein in Bezug auf geprüfte Lebensmittel sowie festgestellte Auffälligkeiten. Sie bilden eine Grundlage für risikobasierte Planung künftiger Kontrollen, für die Beurteilung von Trends (z. B. wiederholte Höchstwertüberschreitungen) und für die Kommunikation gegenüber Konsumentinnen und Konsumenten, Medien und internationalen Partnern."
     },
     "dct:accessRights": "RESTRICTED",
-    "dct:publisher": "Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV",
+    "dct:publisher": "BLV-OSAV-USAV-FSVO",
     "dcat:contactPoint": {
         "schema:email": "ares@blv.admin.ch",
         "schema:name": "BLV, LME, Koordination und Überwachung"
@@ -34,7 +36,7 @@
     "adms:status": "published",
     "bv:classification": "confidential",
     "bv:personalData": "personalData",
-    "bv:typeOfData": "thematicData",
+    "bv:typeOfData": "primaryThematicData",
     "bv:archivalValue": true,
     "bv:opendata_swiss": {
         "bv:mustBePublished": "TRUE",

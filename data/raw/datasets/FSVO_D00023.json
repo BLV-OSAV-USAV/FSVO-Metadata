@@ -2,13 +2,15 @@
     "dct:identifier": "FSVO_D00023",
     "schema:image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Home_in_the_Woods_1847_Thomas_Cole.jpeg",
     "dct:title": {
-        "de": "Kontrollergebnisse der kantonalen Lebensmittelkontrolle (Prozesskontrolle)"
+        "fr": "Kontrollergebnisse der kantonalen Lebensmittelkontrolle Prozesskontrolle",
+        "de": "Kontrollergebnisse der kantonalen Lebensmittelkontrolle Prozesskontrolle"
     },
     "dct:description": {
+        "fr": "Diese Datensammlung enthält strukturierte Informationen zu den Ergebnissen der amtlichen Inspektionen, die von den kantonalen Lebensmittelvollzugsbehörden durchgeführt und dem BLV gemeldet werden. Erfasst werden unter anderem die kontrollierten Lebensmittelbetriebe, Art der Inspektionen, festgestellte Mängel, sowie ergriffene Massnahmen. Die Daten werden standardisiert und jährlich aus allen Kantonen zusammengeführt. Zweck der Datensammlung ist es, einen nationalen Überblick in Bezug auf geprüfte Betriebe sowie festgestellte Auffälligkeiten zu gewinnen. Sie dient der Früherkennung von Risiken, der Planung risikobasierter Kontrollen und der Berichterstattung an die Öffentlichkeit",
         "de": "Diese Datensammlung enthält strukturierte Informationen zu den Ergebnissen der amtlichen Inspektionen, die von den kantonalen Lebensmittelvollzugsbehörden durchgeführt und dem BLV gemeldet werden. Erfasst werden unter anderem die kontrollierten Lebensmittelbetriebe, Art der Inspektionen, festgestellte Mängel, sowie ergriffene Massnahmen. Die Daten werden standardisiert und jährlich aus allen Kantonen zusammengeführt. Zweck der Datensammlung ist es, einen nationalen Überblick in Bezug auf geprüfte Betriebe sowie festgestellte Auffälligkeiten zu gewinnen. Sie dient der Früherkennung von Risiken, der Planung risikobasierter Kontrollen und der Berichterstattung an die Öffentlichkeit"
     },
     "dct:accessRights": "RESTRICTED",
-    "dct:publisher": "Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV",
+    "dct:publisher": "BLV-OSAV-USAV-FSVO",
     "dcat:contactPoint": {
         "schema:email": "ares@blv.admin.ch",
         "schema:name": "BLV, LME, Koordination und Überwachung"
@@ -35,7 +37,7 @@
     "adms:status": "published",
     "bv:classification": "confidential",
     "bv:personalData": "personalData",
-    "bv:typeOfData": "thematicData",
+    "bv:typeOfData": "primaryThematicData",
     "bv:archivalValue": true,
     "bv:opendata_swiss": {
         "bv:mustBePublished": "TRUE",

@@ -2,13 +2,15 @@
     "dct:identifier": "FSVO_D00022",
     "schema:image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Home_in_the_Woods_1847_Thomas_Cole.jpeg",
     "dct:title": {
-        "de": "Stoffdatenbank (Anwendungsplattform Verbraucherschutz, APVS)"
+        "fr": "Stoffdatenbank Anwendungsplattform Verbraucherschutz APVS",
+        "de": "Stoffdatenbank Anwendungsplattform Verbraucherschutz APVS"
     },
     "dct:description": {
+        "fr": "Die Stoffdatenbank ist eine zentrale Datensammlung der Anwendungsplattform Verbraucherschutz (APVS) und dient als Master-System für Definition und Verwaltung von  Parametern, Matrizen und Höchstwerten im Bereich Lebensmittelsicherheit und Verbraucherschutz. Sie enthält strukturierte Informationen zu chemischen und biologischen Parametern, deren zugehörigen Matrizes wie bspw. Lebensmittel, Trinkwasser oder, Futtermittel, sowie den entsprechenden Höchstwerten. Zudem werden ergänzende Attribute wie z.B. Einheiten dokumentiert. Diese Sammlung dient der Standardisierung und Qualitätssicherung von Daten im Bereich Lebensmittelsicherheit und Verbraucherschutz. ",
         "de": "Die Stoffdatenbank ist eine zentrale Datensammlung der Anwendungsplattform Verbraucherschutz (APVS) und dient als Master-System für Definition und Verwaltung von  Parametern, Matrizen und Höchstwerten im Bereich Lebensmittelsicherheit und Verbraucherschutz. Sie enthält strukturierte Informationen zu chemischen und biologischen Parametern, deren zugehörigen Matrizes wie bspw. Lebensmittel, Trinkwasser oder, Futtermittel, sowie den entsprechenden Höchstwerten. Zudem werden ergänzende Attribute wie z.B. Einheiten dokumentiert. Diese Sammlung dient der Standardisierung und Qualitätssicherung von Daten im Bereich Lebensmittelsicherheit und Verbraucherschutz. "
     },
     "dct:accessRights": "RESTRICTED",
-    "dct:publisher": "Bundesamt für Lebensmittelsicherheit und Veterinärwesen BLV",
+    "dct:publisher": "BLV-OSAV-USAV-FSVO",
     "dcat:contactPoint": {
         "schema:email": "lme@blv.admin.ch",
         "schema:name": "BLV, LME, Koordination und Überwachung"
@@ -35,7 +37,7 @@
     "adms:status": "published",
     "bv:classification": "confidential",
     "bv:personalData": "none",
-    "bv:typeOfData": "thematicData",
+    "bv:typeOfData": "primaryThematicData",
     "bv:archivalValue": true,
     "bv:opendata_swiss": {
         "bv:mustBePublished": "FALSE"
