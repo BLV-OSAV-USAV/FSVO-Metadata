@@ -1,9 +1,11 @@
 {
     "dct:identifier": "FSVO_D00026",
-    "schema:image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Home_in_the_Woods_1847_Thomas_Cole.jpeg",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
     "dct:title": {
         "fr": "Ergebnisse der Fleischkontrolle",
-        "de": "Ergebnisse der Fleischkontrolle"
+        "de": "Ergebnisse der Fleischkontrolle",
+        "en": "Ergebnisse der Fleischkontrolle",
+        "it": "Ergebnisse der Fleischkontrolle"
     },
     "dct:description": {
         "fr": "Diese Datensammlung enthält die Ergebnisse der amtlichen Schlachttier- und Fleischuntersuchungen. Erfasst werden Angaben zum lebenden Tier, zu dessen Herkunft sowie zu Mängeln bezüglich Lebensmittelhygiene, Tierschutz und Dokumentation. Diese Daten werden standardisiert erfasst und zentral gespeichert. Ziel der Fleischkontrolle ist die Sicherstellung der Lebensmittelsicherheit und der Tiergesundheit im Rahmen der Schlachtung. Die gewonnen Daten ermöglichen epidemiologische Auswertungen, Trendanalysen und die Rückverfolgung auffälliger Befunde. Zudem unterstützen sie risikobasierte Kontrollstrategien und liefern Entscheidungsgrundlagen für den Vollzug und die Weiterentwicklung der gesetzlichen Vorgaben im Bereich der Fleischhygiene.",
@@ -26,11 +28,11 @@
     "dct:modified": "2025-09-10",
     "prov:qualifiedAttribution": [
         {
-            "prov:agent": "INTERNAL",
+            "prov:agent": "p-1582170",
             "dcat:hadRole": "DataOwner"
         },
         {
-            "prov:agent": "INTERNAL",
+            "prov:agent": "p-2380008",
             "dcat:hadRole": "dataSteward"
         }
     ],

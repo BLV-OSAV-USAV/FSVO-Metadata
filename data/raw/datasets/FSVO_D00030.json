@@ -1,9 +1,11 @@
 {
     "dct:identifier": "FSVO_D00030",
-    "schema:image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Home_in_the_Woods_1847_Thomas_Cole.jpeg",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
     "dct:title": {
         "fr": "Schwerpunktprogramme an der Grenze Risikobasierte Importkontrollen von Lebensmitteln und Gebrauchsgegenstaenden",
-        "de": "Schwerpunktprogramme an der Grenze Risikobasierte Importkontrollen von Lebensmitteln und Gebrauchsgegenstaenden"
+        "de": "Schwerpunktprogramme an der Grenze Risikobasierte Importkontrollen von Lebensmitteln und Gebrauchsgegenstaenden",
+        "en": "Schwerpunktprogramme an der Grenze Risikobasierte Importkontrollen von Lebensmitteln und Gebrauchsgegenstaenden",
+        "it": "Schwerpunktprogramme an der Grenze Risikobasierte Importkontrollen von Lebensmitteln und Gebrauchsgegenstaenden"
     },
     "dct:description": {
         "fr": "Diese Datensammlung umfasst die Ergebnisse von risikobasierten Probenahmen im Rahmen der jährlichen Schwerpunktprogramme (SPP), die das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) in Zusammenarbeit mit dem Bundesamt für Zoll und Grenzsicherheit (BAZG) durchführt. Dabei werden an der Landesgrenze stichprobenartig ausgewählte Waren bei der Einfuhr kontrolliert. Die Proben werden für gezielte Untersuchungen an kantonale Laboratorien übermittelt. Erfasst werden Art, Herkunft und Menge der Waren, die analysierten Parameter sowie die Untersuchungsergebnisse. Die Daten dienen der Früherkennung potenzieller Risiken bei Importwaren, der Überprüfung der Einhaltung lebensmittelrechtlicher Vorgaben und der gezielten Weiterentwicklung der Risikostrategie. Sie ermöglichen eine evidenzbasierte Planung von Kontrollmassnahmen, die Priorisierung von Produktgruppen mit erhöhtem Risiko und die wirksame Zusammenarbeit zwischen Bund, Kantonen und internationalen Partnern.",
@@ -29,11 +31,11 @@
     "dct:modified": "2025-09-10",
     "prov:qualifiedAttribution": [
         {
-            "prov:agent": "INTERNAL",
+            "prov:agent": "p-1YFBMPWKZ",
             "dcat:hadRole": "DataOwner"
         },
         {
-            "prov:agent": "INTERNAL",
+            "prov:agent": "p-3611054",
             "dcat:hadRole": "dataSteward"
         }
     ],
@@ -51,6 +53,7 @@
     "dcat:theme": [
         "health"
     ],
+    "dct:spatial": "NO",
     "dct:temporal": {},
     "dcatap:applicableLegislation": [
         ""

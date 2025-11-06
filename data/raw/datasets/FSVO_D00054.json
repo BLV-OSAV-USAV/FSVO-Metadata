@@ -1,0 +1,59 @@
+{
+    "dct:identifier": "FSVO_D00054",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
+    "dct:title": {
+        "fr": "Antibiotikaeinsatz in der Veterinärmedizin",
+        "de": "Antibiotikaeinsatz in der Veterinärmedizin",
+        "en": "Antibiotikaeinsatz in der Veterinärmedizin",
+        "it": "Antibiotikaeinsatz in der Veterinärmedizin"
+    },
+    "dct:description": {
+        "fr": "Le système d'information sur les antibiotiques en médecine vétérinaire (ISABV) recueille des données détaillées sur la consommation d'antibiotiques en médecine vétérinaire. Les vétérinaires et les cabinets vétérinaires en Suisse sont tenus de déclarer tous les antibiotiques administrés ou prescrits aux animaux domestiques et aux animaux de rente. Ces déclarations contiennent des informations sur les espèces, le nombre d'animaux traités, les noms des préparations, les principes actifs, les quantités délivrées, la posologie, la fréquence et la durée du traitement, l'indication et le système organique concerné.\n\nLes données Vetribes et les données de consommation servent à surveiller la consommation d'antibiotiques et constituent une base essentielle de la Stratégie nationale suisse de lutte contre la résistance aux antibiotiques (StAR). Elles permettent d'identifier les tendances en matière d'utilisation des antibiotiques, d'évaluer les risques de manière ciblée et de planifier des mesures réglementaires et préventives fondées sur des données probantes. En outre, ces données sont nécessaires pour l'établissement de rapports internationaux (p. ex. à l'OIE) et contribuent à limiter le développement de résistances chez les animaux et les risques qui en découlent pour la santé publique.",
+        "de": "Das Informationssystem Antibiotika in der Veterinärmedizin (ISABV) erfasst detaillierte Daten zum Antibiotikaverbrauch in der Veterinärmedizin. Tierärzte bzw. Tierarztpraxen in der Schweiz sind dazu verpflichtet, alle an Heim- und Nutztiere verabreichten oder verschriebenen Antibiotika zu melden. Diese Meldungen enthalten Informationen zu Spezies, Anzahl der behandelten Tiere, Präparatnamen, Wirkstoffen, abgegebenen Mengen, Dosis, Behandlungsfrequenz, Behandlungsdauer, Indikation und betroffenem Organsystem.\n\nVetribes- und Verbrauchsdaten dienen der Überwachung des Antibiotikaverbrauchs und bilden eine zentrale Grundlage der Nationalen Strategie Antibiotikaresistenzen Schweiz (StAR). Sie ermöglichen es, Trends im Einsatz von Antibiotika zu erkennen, Risiken gezielt zu bewerten und regulatorische sowie präventive Massnahmen evidenzbasiert zu planen. Zudem sind die Daten für die internationale Berichterstattung (z. B. an die WOAH) erforderlich und tragen dazu bei, die Entwicklung von Resistenzen bei Tieren und die damit verbundenen Risiken für die öffentliche Gesundheit einzudämmen."
+    },
+    "dct:accessRights": "RESTRICTED",
+    "dct:publisher": "BLV-OSAV-USAV-FSVO",
+    "dcat:contactPoint": {
+        "schema:email": "tam@blv.admin.ch",
+        "schema:name": "BLV, TGTS, Tierarzneimittel"
+    },
+    "dct:issued": "2025-01-01",
+    "dcatap:availability": "STABLE",
+    "dcat:keyword": [
+        "Tiergesundheit, Antibiotika, Tierarzneimittel, Veterinärmedizin, Resistenzmonitoring"
+    ],
+    "dct:accrualPeriodicity": "CONT",
+    "dct:modified": "2025-11-06",
+    "prov:qualifiedAttribution": [
+        {
+            "prov:agent": "p-9079817",
+            "dcat:hadRole": "DataOwner"
+        },
+        {
+            "prov:agent": "p-7891691",
+            "dcat:hadRole": "dataSteward"
+        }
+    ],
+    "adms:status": "published",
+    "bv:classification": "internal",
+    "bv:personalData": "personalData",
+    "bv:typeOfData": "primaryThematicData",
+    "bv:archivalValue": true,
+    "bv:opendata_swiss": {
+        "bv:mustBePublished": "FALSE"
+    },
+    "bv:i14y": {
+        "bv:mustBePublished": true
+    },
+    "dcat:theme": [
+        "agriculture",
+        "health"
+    ],
+    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierarzneimittel/antibiotika/sachgemaesser-antibiotikaeinsatz.html",
+    "dct:spatial": "YES",
+    "dct:temporal": {},
+    "dcatap:applicableLegislation": [
+        "Tierarzneimittelverordnung"
+    ],
+    "bv:itSystem": "IS ABV"
+}

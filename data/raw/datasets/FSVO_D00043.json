@@ -1,0 +1,89 @@
+{
+    "dct:identifier": "FSVO_D00043",
+    "schema:image": "https://www.pubhist.com/works/03/large/Willem%20van%20Aelst%20Still%20Life%20with%20Mouse.jpg",
+    "dct:title": {
+        "fr": "Tierversuchsstatistik",
+        "de": "Tierversuchsstatistik",
+        "en": "Tierversuchsstatistik",
+        "it": "Tierversuchsstatistik"
+    },
+    "dct:description": {
+        "fr": "Base de données pour les statistiques publiques sur l'expérimentation animale - « gel des données » annuel ; données historiques ; les données doivent être archivées aux Archives fédérales.",
+        "de": "Datengrundlage für die öffentliche Tierversuchsstatistik - jährlicher 'Data-Freeze'; Historische Daten; Daten müssen im Bundesarchiv archiviert werden."
+    },
+    "dct:accessRights": "RESTRICTED",
+    "dct:publisher": "BLV-OSAV-USAV-FSVO",
+    "dcat:contactPoint": {
+        "schema:email": "oberaufsicht-tv@blv.admin.ch",
+        "schema:name": "BLV, TGTS, Tierschutz"
+    },
+    "dct:issued": "2025-01-01",
+    "dcatap:availability": "STABLE",
+    "dcat:keyword": [
+        "Tierversuche, Tierversuchsstatistik, Versuchstiere, Versuchstierhaltung,  Belastungskategorien, Berichte, Versuchsdokumentation, Tiermodelle, Forschungsprojekte"
+    ],
+    "dct:accrualPeriodicity": "ANNUAL",
+    "dct:modified": "2025-11-05",
+    "prov:qualifiedAttribution": [
+        {
+            "prov:agent": "p-9097640",
+            "dcat:hadRole": "DataOwner"
+        },
+        {
+            "prov:agent": "p-1YZJ3753C",
+            "dcat:hadRole": "dataSteward"
+        }
+    ],
+    "adms:status": "published",
+    "bv:classification": "internal",
+    "bv:personalData": "none",
+    "bv:typeOfData": "primaryThematicData",
+    "bv:archivalValue": false,
+    "bv:opendata_swiss": {
+        "bv:mustBePublished": "TRUE",
+        "dct:identifier": "tierversuchsstatistik@bundesamt-fur-lebensmittelsicherheit-und-veterinaerwesen-blv",
+        "dcat:accessURL": "Tierversuche: Tierversuchsstatistik | opendata.swiss"
+    },
+    "bv:i14y": {
+        "bv:mustBePublished": true
+    },
+    "dcat:theme": [
+        "research",
+        "national-economy",
+        "industry",
+        "administration",
+        "health"
+    ],
+    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierversuche/forschende.html",
+    "dct:spatial": "NO",
+    "dct:temporal": {},
+    "dcatap:applicableLegislation": [
+        "Tierschutzgesetz (TSchG SR 455) – Art. 3 c",
+        "Art. 17",
+        "Art. 18, Art. 20, Art. 20a, Tierschutzverordnung (TSchV SR 455.1) – Art. 139–152. Tierversuchsverordnung (TVV SR 455.163). Verordnung über das Informationssystem Animex-ch (SR 455.61)"
+    ],
+    "bv:itSystem": "BI BLV",
+    "dcat:distribution": [
+        {
+            "dct:identifier": "FSVO_DIS000431",
+            "dcat:accessURL": "https://naehrwertdaten.ch/de/",
+            "dct:title": {
+                "fr": "Valeurs nutritives des aliments",
+                "de": "Nährwerte von Lebensmittel",
+                "en": "Composition of food",
+                "it": "Valori nutritivi delle derrate alimentari"
+            },
+            "dct:description": {
+                "fr": "La base de données suisse des valeurs nutritives librement consultable en ligne sur le présent site est un fichier de l’Office fédéral de la securité alimentaire et des affaires vétérinaires OSAV consacré à la composition des aliments disponibles en Suisse.",
+                "de": "Die Schweizer Nährwertdatenbank ist eine Datensammlung des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen BLV über die Zusammensetzung von in der Schweiz erhältlichen Lebensmitteln.",
+                "en": "The Swiss Food Composition Database is a data collection of the Federal Food Safety and Veterinary Office FSVO on the composition of foods that are available in Switzerland.",
+                "it": "La Banca dati svizzera dei valori nutritivi è una raccolta di dati dell’Ufficio federale della sicurezza alimentare e di veterinaria USAV sulla composizione delle derrate alimentari disponibili in Svizzera"
+            },
+            "dct:modified": "2023-06-27",
+            "adms:status": "published",
+            "dct:format": "XLS",
+            "dct:license": "terms_open",
+            "schema:comment": "Test"
+        }
+    ]
+}

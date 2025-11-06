@@ -1,0 +1,64 @@
+{
+    "dct:identifier": "FSVO_D00042",
+    "schema:image": "https://www.pubhist.com/works/03/large/Willem%20van%20Aelst%20Still%20Life%20with%20Mouse.jpg",
+    "dct:title": {
+        "fr": "Tierversuchsdaten",
+        "de": "Tierversuchsdaten",
+        "en": "Tierversuchsdaten",
+        "it": "Tierversuchsdaten"
+    },
+    "dct:description": {
+        "fr": "La collecte de données « Expérimentation animale » comprend tous les documents administratifs et toutes les informations relatifs à l'expérimentation animale en Suisse. Elle contient notamment les demandes d'autorisation, les autorisations accordées, les rapports en cours et terminés ainsi que les notifications prescrites par la loi. Outre l'expérimentation animale proprement dite, elle comprend également les autorisations relatives à la détention d'animaux de laboratoire ainsi qu'à l'élevage et à l'utilisation de lignées d'animaux de laboratoire génétiquement modifiés.\n\nLes données servent à la surveillance juridique, au contrôle de l'exécution et à l'évaluation statistique dans le domaine de l'expérimentation animale. Elles permettent une évaluation complète des aspects liés à la protection des animaux dans les projets de recherche ainsi que du respect des prescriptions légales conformément à la législation sur la protection des animaux.\n\nElles constituent en outre une base importante pour l'établissement de rapports nationaux, l'assurance qualité dans l'exécution et le développement de stratégies visant à réduire, affiner et remplacer les expériences sur les animaux (principe des 3R). Les données doivent être archivées aux Archives fédérales.",
+        "de": "Die Datensammlung «Tierversuche» umfasst sämtliche administrativen Unterlagen und Informationen zu Tierversuchen in der Schweiz. Sie beinhaltet insbesondere Bewilligungsgesuche, erteilte Bewilligungen, laufende und abgeschlossene Berichte sowie gesetzlich vorgeschriebene Meldungen. Neben Tierversuchen selbst sind auch Bewilligungen zur Haltung von Versuchstieren sowie zur Zucht und Verwendung genetisch modifizierter Versuchstierlinien enthalten.\n\nDie Daten dienen der rechtlichen Überwachung, der Vollzugskontrolle und der statistischen Auswertung im Bereich Tierversuche. Sie ermöglichen eine umfassende Beurteilung der tierschutzrelevanten Aspekte von Forschungsprojekten sowie der Einhaltung der gesetzlichen Vorgaben gemäss Tierschutzgesetzgebung.\n\nZudem bilden sie eine wichtige Grundlage für die nationale Berichterstattung, die Qualitätssicherung im Vollzug und die Weiterentwicklung von Strategien zur Reduktion, Verfeinerung und zum Ersatz von Tierversuchen (3R-Prinzip). Daten müssen im Bundesarchiv archiviert werden."
+    },
+    "dct:accessRights": "RESTRICTED",
+    "dct:publisher": "BLV-OSAV-USAV-FSVO",
+    "dcat:contactPoint": {
+        "schema:email": "oberaufsicht-tv@blv.admin.ch",
+        "schema:name": "BLV, TGTS, Tierschutz"
+    },
+    "dct:issued": "2025-01-01",
+    "dcatap:availability": "STABLE",
+    "dcat:keyword": [
+        "Tierversuche, Tierversuchsstatistik, Versuchstiere, Versuchstierhaltung, Tierversuchsbewilligung, Belastungskategorien, Berichte, Versuchsdokumentation, Tiermodelle, Forschungsprojekte"
+    ],
+    "dct:accrualPeriodicity": "CONT",
+    "dct:modified": "2025-11-05",
+    "prov:qualifiedAttribution": [
+        {
+            "prov:agent": "p-9097640",
+            "dcat:hadRole": "DataOwner"
+        },
+        {
+            "prov:agent": "p-1YZJ3753C",
+            "dcat:hadRole": "dataSteward"
+        }
+    ],
+    "adms:status": "published",
+    "bv:classification": "confidential",
+    "bv:personalData": "sensitivePersonalData",
+    "bv:typeOfData": "primaryThematicData",
+    "bv:archivalValue": true,
+    "bv:opendata_swiss": {
+        "bv:mustBePublished": "FALSE"
+    },
+    "bv:i14y": {
+        "bv:mustBePublished": true
+    },
+    "dcat:theme": [
+        "research",
+        "national-economy",
+        "industry",
+        "administration",
+        "health"
+    ],
+    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierversuche/forschende.html",
+    "dct:spatial": "YES",
+    "dct:temporal": {},
+    "dcatap:applicableLegislation": [
+        "Tierschutzgesetz (TSchG SR 455) – Art. 3 c",
+        "Art. 17",
+        "Art. 18, Art. 20, Art. 20a, Tierschutzverordnung (TSchV SR 455.1) – Art. 139–152. Tierversuchsverordnung (TVV SR 455.163). Verordnung über das Informationssystem Animex-ch (SR 455.61)"
+    ],
+    "bv:itSystem": "animex-ch"
+}

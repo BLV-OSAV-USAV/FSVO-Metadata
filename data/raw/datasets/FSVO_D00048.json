@@ -1,0 +1,63 @@
+{
+    "dct:identifier": "FSVO_D00048",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
+    "dct:title": {
+        "fr": "BVD",
+        "de": "BVD",
+        "en": "BVD",
+        "it": "BVD"
+    },
+    "dct:description": {
+        "fr": "La collecte de données « BVD » comprend toutes les données issues de différentes applications afin de gérer la surveillance et la lutte contre la BVD. L'objectif stratégique de la surveillance de la BVD est de mettre fin à la lutte contre la BVD afin d'éradiquer la maladie. L'objectif de la surveillance de la BVD est de confirmer l'absence de la maladie dans les élevages et d'examiner de manière systématique les élevages où des cas, des soupçons ou des risques de contamination ont été détectés.\n À cette fin, le programme de surveillance doit répondre aux deux exigences suivantes : confirmer l'absence de BVD dans les élevages et détecter les nouvelles infections éventuelles dans les élevages auparavant indemnes. La deuxième exigence du programme de surveillance ne peut être remplie efficacement qu'en combinaison avec une clarification épidémiologique systématique des élevages atteints, suspects ou susceptibles d'être infectés.  La collecte de données permet aux autorités cantonales d'exécution de contrôler la surveillance de la BVD et de gérer les cas d'épidémie de BVD. \nPour les éleveurs, le statut BVD et le risque BVD, appelés « feux tricolores BVD », de chaque exploitation sont visibles à tout moment sur la BDTA, ce qui devrait les sensibiliser davantage à la BVD.",
+        "de": "Die Datensammlung \"BVD\" beinhaltet alle Daten aus  verschiedenen Anwendungen, um die BVD-Überwachung und -Bekämpfung zu bewältigen. Das strategische Ziel der BVD-Überwachung ist der Abschluss der BVD-Bekämpfung, um die Seuchenfreiheit zu erreichen. Das Ziel der BVD-Überwachung ist die Bestätigung der Freiheit der BVD-freien Tierhaltungen und die konsequente Abklärung der Falls-, Verdachts- und ansteckungsverdächtigen Tierhaltungen.\n Dazu muss das Überwachungsprogramm die folgenden zwei Anforderungen erfüllen: Die Bestätigung der Freiheit der BVD-freien Tierhaltungen und die Entdeckung möglicher neuer Infektionen auf vorher freien Tierhaltungen. Die zweite Anforderung an das Überwachungsprogramm ist nur in Kombination mit einer konsequenten epidemiologischen Abklärung auf Fall-, Verdachts- und ansteckungsverdächtigen Tierhaltungen wirksam zu erfüllen.  Die Datensammlung ermöglicht den kantonalen Vollzugsbehörden das Prüfen der BVD-Überwachung und das Management der BVD-Seuchenfälle. \nFür Tierhaltende sind der BVD-Status und das BVD-Risiko, die sogenannte BVD-Ampel, jedes Betriebs jederzeit auf der TVD ersichtlich, was deren Bewusstsein für BVD erhöhen sollte. "
+    },
+    "dct:accessRights": "RESTRICTED",
+    "dct:publisher": "BLV-OSAV-USAV-FSVO",
+    "dcat:contactPoint": {
+        "schema:email": "infotgs@blv.admin.ch",
+        "schema:name": "BLV, TGTS, Tiergesundheit"
+    },
+    "dct:issued": "2025-01-01",
+    "dcatap:availability": "STABLE",
+    "dcat:keyword": [
+        "Tiergesundheit, Tierseuchenbekämpfung, Tierseuchenüberwachung, BVD"
+    ],
+    "dct:accrualPeriodicity": "CONT",
+    "dct:modified": "2025-11-06",
+    "prov:qualifiedAttribution": [
+        {
+            "prov:agent": "p-9089108",
+            "dcat:hadRole": "DataOwner"
+        },
+        {
+            "prov:agent": "p-10001804",
+            "dcat:hadRole": "dataSteward"
+        }
+    ],
+    "adms:status": "published",
+    "bv:classification": "internal",
+    "bv:personalData": "personalData",
+    "bv:typeOfData": "primaryThematicData",
+    "bv:archivalValue": true,
+    "bv:opendata_swiss": {
+        "bv:mustBePublished": "TRUE",
+        "dct:identifier": "bvd_ampel@bundesamt-fur-lebensmittelsicherheit-und-veterinaerwesen-blv",
+        "dcat:accessURL": "https://opendata.swiss/de/dataset/bvd-ampel"
+    },
+    "bv:i14y": {
+        "bv:mustBePublished": true
+    },
+    "dcat:theme": [
+        "agriculture",
+        "national-economy",
+        "health"
+    ],
+    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierseuchen/uebersicht-seuchen/alle-tierseuchen/bvd.html",
+    "dct:spatial": "YES",
+    "dct:temporal": {},
+    "dcatap:applicableLegislation": [
+        "TSV Art. 174 a-i",
+        "Art. 76a"
+    ],
+    "bv:itSystem": "BI BLW"
+}

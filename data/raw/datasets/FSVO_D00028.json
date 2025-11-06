@@ -1,9 +1,11 @@
 {
     "dct:identifier": "FSVO_D00028",
-    "schema:image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Home_in_the_Woods_1847_Thomas_Cole.jpeg",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
     "dct:title": {
         "fr": "Rueckstaende und Fremdstoffe in tierischen Lebensmitteln NFUP Schweiz",
-        "de": "Rueckstaende und Fremdstoffe in tierischen Lebensmitteln NFUP Schweiz"
+        "de": "Rueckstaende und Fremdstoffe in tierischen Lebensmitteln NFUP Schweiz",
+        "en": "Rueckstaende und Fremdstoffe in tierischen Lebensmitteln NFUP Schweiz",
+        "it": "Rueckstaende und Fremdstoffe in tierischen Lebensmitteln NFUP Schweiz"
     },
     "dct:description": {
         "fr": "Diese Datensammlung beinhaltet die Ergebnisse der jährlich durchgeführten nationalen Fremdstoffuntersuchungsprogramms (NFUP) in Lebensmitteln tierischer Herkunft. Sie dokumentiert systematisch das Vorkommen von Rückständen pharmakologisch wirksamer Substanzen, von Pflanzenschutzmitteln sowie von Kontaminanten in Tieren und in Lebensmitteln tierischer Herkunft. Erfasst werden unter anderem Rückstände von Antibiotika, Antiparasitika und weiteren Medikamenten, die zur Behandlung oder Vorbeugung von Krankheiten bei Nutztieren eingesetzt werden. Die Daten (Laborergebnisse) stammen aus amtlichen Probenahmen im Rahmen des nationalen Rückstandsüberwachungsprogramms.  Zweck der Datensammlung ist die Überwachung des Vorkommens von Fremdstoffen in tierischen Lebensmitteln in der Schweiz. Sie dient sowohl dem gesundheitlichen Verbraucherschutz als auch der Erfüllung internationaler Verpflichtungen, insbesondere gegenüber der Europäischen Union. Durch das Programm wird die Exportberechtigung der Schweiz für Tiere und daraus gewonnene Lebensmittel in den EU-Raum sichergestellt.  Die Datensammlung ermöglicht nationale Trendanalysen, die frühzeitige Identifikation von Risiken sowie gezielte Kontrollmassnahmen zur Sicherstellung der Lebensmittelsicherheit.",
@@ -26,11 +28,11 @@
     "dct:modified": "2025-09-10",
     "prov:qualifiedAttribution": [
         {
-            "prov:agent": "INTERNAL",
+            "prov:agent": "p-1YFBMPWKZ",
             "dcat:hadRole": "DataOwner"
         },
         {
-            "prov:agent": "INTERNAL",
+            "prov:agent": "p-2560681",
             "dcat:hadRole": "dataSteward"
         }
     ],
@@ -48,6 +50,7 @@
     "dcat:theme": [
         "health"
     ],
+    "dct:spatial": "NO",
     "dct:temporal": {},
     "dcatap:applicableLegislation": [
         "Landwirtschaftsabkommen (Anhang 11) mit EU"

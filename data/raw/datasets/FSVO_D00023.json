@@ -1,9 +1,11 @@
 {
     "dct:identifier": "FSVO_D00023",
-    "schema:image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Home_in_the_Woods_1847_Thomas_Cole.jpeg",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
     "dct:title": {
         "fr": "Kontrollergebnisse der kantonalen Lebensmittelkontrolle Prozesskontrolle",
-        "de": "Kontrollergebnisse der kantonalen Lebensmittelkontrolle Prozesskontrolle"
+        "de": "Kontrollergebnisse der kantonalen Lebensmittelkontrolle Prozesskontrolle",
+        "en": "Kontrollergebnisse der kantonalen Lebensmittelkontrolle Prozesskontrolle",
+        "it": "Kontrollergebnisse der kantonalen Lebensmittelkontrolle Prozesskontrolle"
     },
     "dct:description": {
         "fr": "Diese Datensammlung enthält strukturierte Informationen zu den Ergebnissen der amtlichen Inspektionen, die von den kantonalen Lebensmittelvollzugsbehörden durchgeführt und dem BLV gemeldet werden. Erfasst werden unter anderem die kontrollierten Lebensmittelbetriebe, Art der Inspektionen, festgestellte Mängel, sowie ergriffene Massnahmen. Die Daten werden standardisiert und jährlich aus allen Kantonen zusammengeführt. Zweck der Datensammlung ist es, einen nationalen Überblick in Bezug auf geprüfte Betriebe sowie festgestellte Auffälligkeiten zu gewinnen. Sie dient der Früherkennung von Risiken, der Planung risikobasierter Kontrollen und der Berichterstattung an die Öffentlichkeit",
@@ -26,11 +28,11 @@
     "dct:modified": "2025-09-10",
     "prov:qualifiedAttribution": [
         {
-            "prov:agent": "INTERNAL",
+            "prov:agent": "p-1YFBMPWKZ",
             "dcat:hadRole": "DataOwner"
         },
         {
-            "prov:agent": "INTERNAL",
+            "prov:agent": "p-2560681",
             "dcat:hadRole": "dataSteward"
         }
     ],

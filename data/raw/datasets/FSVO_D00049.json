@@ -1,0 +1,61 @@
+{
+    "dct:identifier": "FSVO_D00049",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
+    "dct:title": {
+        "fr": "Stalleinrichtungen",
+        "de": "Stalleinrichtungen",
+        "en": "Stalleinrichtungen",
+        "it": "Stalleinrichtungen"
+    },
+    "dct:description": {
+        "fr": "La collecte de données « Équipements d'étable » comprend tous les systèmes d'étable et équipements d'étable fabriqués en série, testés et approuvés pour l'élevage de bovins, porcs, moutons, chèvres, volailles et lapins. Les données sont collectées dans le cadre des activités du Centre pour la détention convenable des animaux :  ruminants et porcs ainsi que du Centre pour la détention convenable des animaux : volailles et lapins. Elle contient des informations sur les fabricants, les types de produits, les utilisations prévues, les résultats des tests, le statut d'autorisation et les conditions à remplir pour se conformer aux exigences de la législation sur la protection des animaux. Elle offre une vue d'ensemble transparente des systèmes autorisés, facilite le choix d'équipements conformes et contribue à promouvoir un élevage respectueux des animaux en Suisse.",
+        "de": "Die Datensammlung «Stalleinrichtungen» beinhaltet sämtliche geprüften und bewilligten serienmässig hergestellten Aufstallungssysteme und Stalleinrichtungen für die Haltung von Rindern, Schweinen, Schafen, Ziegen, Geflügel und Kaninchen. Die Daten werden im Rahmen der Tätigkeiten des Zentrums für tiergerechte Haltung:  Wiederkäuern und Schweinen sowie des Zentrums für tiergerechte Haltung: Geflügel und Kaninchen erfasst. Enthalten sind Informationen zu Herstellerfirmen, Produkttypen, Einsatzzwecken, Prüfergebnissen, Bewilligungsstatus und Auflagen zur Einhaltung der Anforderungen gemäss Tierschutzgesetzgebung.\n\nSie ermöglicht eine transparente Übersicht über zugelassene Systeme, erleichtert die Auswahl konformer Einrichtungen und trägt zur Förderung einer tiergerechten Nutztierhaltung in der Schweiz bei."
+    },
+    "dct:accessRights": "PUBLIC",
+    "dct:publisher": "BLV-OSAV-USAV-FSVO",
+    "dcat:contactPoint": {
+        "schema:email": "infotgs@blv.admin.ch",
+        "schema:name": "BLV, TGTS, Tierschutz"
+    },
+    "dct:issued": "2025-01-01",
+    "dcatap:availability": "STABLE",
+    "dcat:keyword": [
+        "Tierhaltung, Tiergerechtheit, Stalleinrichtungen, Aufstallungssysteme, Widerkäuer, Schweine, Geflügel, Kaninchen"
+    ],
+    "dct:accrualPeriodicity": "AS_NEEDED",
+    "dct:modified": "2025-11-06",
+    "prov:qualifiedAttribution": [
+        {
+            "prov:agent": "p-1521097",
+            "dcat:hadRole": "DataOwner"
+        },
+        {
+            "prov:agent": "p-2971195",
+            "dcat:hadRole": "dataSteward"
+        }
+    ],
+    "adms:status": "published",
+    "bv:classification": "internal",
+    "bv:personalData": "none",
+    "bv:typeOfData": "primaryThematicData",
+    "bv:archivalValue": true,
+    "bv:opendata_swiss": {
+        "bv:mustBePublished": "TRUE",
+        "dct:identifier": "stalleinrichtungen@bundesamt-fur-lebensmittelsicherheit-und-veterinaerwesen-blv",
+        "dcat:accessURL": "https://opendata.swiss/de/dataset/stalleinrichtungen-und-aufstallungssysteme"
+    },
+    "bv:i14y": {
+        "bv:mustBePublished": true
+    },
+    "dcat:theme": [
+        "agriculture"
+    ],
+    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierschutz/nutztierhaltung/stalleinrichtungen/stallliste.html",
+    "dct:spatial": "NO",
+    "dct:temporal": {},
+    "dcatap:applicableLegislation": [
+        "Tierschutzgesetz: Art. 7",
+        "Tierschutzverordnung: Art. 81,82 und 84"
+    ],
+    "bv:itSystem": "ASAN"
+}

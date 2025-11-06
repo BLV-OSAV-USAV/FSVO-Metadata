@@ -1,0 +1,81 @@
+{
+    "dct:identifier": "FSVO_D00045",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
+    "dct:title": {
+        "fr": "IBR/EBL NML Stichprobe",
+        "de": "IBR/EBL NML Stichprobe",
+        "en": "IBR/EBL NML Stichprobe",
+        "it": "IBR/EBL NML Stichprobe"
+    },
+    "dct:description": {
+        "fr": "Chaque année, sur la base de critères définis, des exploitations bovines non laitières sont sélectionnées pour être testées à l'abattoir dans le cadre des programmes nationaux de surveillance de l'IBR/EBL. La liste de ces exploitations est transmise à RiBeS. Elle comprend les exploitations et les animaux éligibles pour l'échantillonnage aléatoire ainsi que la liste des exploitations sentinelles.\n \n\nCes données servent à prouver le statut indemne de la population bovine suisse en matière d'IBR/EBL, conformément aux exigences des accords bilatéraux.",
+        "de": "Jährlich werden aufgrund von festglegten Kriterien nicht milchliefernden Rinderbetriebe ausgewählt, die im Rahmen der nationalen Überwachungsprogramme IBR/EBL am Schlachthof beprobt werden sollen - diese Betriebsliste wird RiBeS übergeben. Dazu gehören die für die Zufallsstichprobe geeigneten Betriebe und Tiere sowie die Liste der Sentinelbetriebe. \n\nDiese Daten dienen der Belegung des Freiheitsstatus der Schweizer Rinderpopulation von IBR/EBL gemäss den Anforderungen der bilateralen Verträge."
+    },
+    "dct:accessRights": "RESTRICTED",
+    "dct:publisher": "BLV-OSAV-USAV-FSVO",
+    "dcat:contactPoint": {
+        "schema:email": "infotgs@blv.admin.ch",
+        "schema:name": "BLV, TGTS, Tiergesundheit"
+    },
+    "dct:issued": "2025-01-01",
+    "dcatap:availability": "STABLE",
+    "dcat:keyword": [
+        "Tiergesundheit, Überwachung, IBR, EBL"
+    ],
+    "dct:accrualPeriodicity": "ANNUAL",
+    "dct:modified": "2025-11-05",
+    "prov:qualifiedAttribution": [
+        {
+            "prov:agent": "p-9089108",
+            "dcat:hadRole": "DataOwner"
+        },
+        {
+            "prov:agent": "p-20LQWYS00",
+            "dcat:hadRole": "dataSteward"
+        }
+    ],
+    "adms:status": "published",
+    "bv:classification": "internal",
+    "bv:personalData": "personalData",
+    "bv:typeOfData": "primaryThematicData",
+    "bv:archivalValue": false,
+    "bv:opendata_swiss": {
+        "bv:mustBePublished": "FALSE"
+    },
+    "bv:i14y": {
+        "bv:mustBePublished": true
+    },
+    "dcat:theme": [
+        "agriculture",
+        "national-economy"
+    ],
+    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tiergesundheit/ueberwachung/nationales-ueberwachungsprogramm.html",
+    "dct:spatial": "YES",
+    "dct:temporal": {},
+    "dcatap:applicableLegislation": [
+        "Tierseuchenverordnung (TSV SR 916.401)"
+    ],
+    "dcat:distribution": [
+        {
+            "dct:identifier": "FSVO_DIS000451",
+            "dcat:accessURL": "https://www.dashboard.blv.admin.ch/nutrition/food-safety/meat-inspection-statistics",
+            "dct:title": {
+                "fr": "Statistique du contrôle des viandes",
+                "de": "Fleischkontrollstatistik",
+                "en": "Title",
+                "it": "Statistica del controllo delle carni"
+            },
+            "dct:description": {
+                "fr": "Tous les animaux qui doivent être abattus dans un abattoir autorisé doivent être examinés au préalable. Après l’abattage, les personnes officielles mandatées effectuent en outre un examen des viandes. Les résultats des examens visant à déterminer si une viande est propre ou non à la consommation sont saisis dans la banque de données du contrôle des viandes (Fleko). La saisie normalisée des résultats du contrôle des animaux avant l’abattage, des motifs justifiant le caractère impropre à la consommation et des parties confisquées permettent de se faire une idée plus claire de la sécurité alimentaire, la santé et la protection des animaux. Les données du contrôle de la viande sont évaluées chaque année pour les statistiques de contrôle de la viande et les résultats sont publiés sur le tableau de bord de l'OSAV.",
+                "de": "Alle Tiere, die in einem bewilligten Schlachtbetrieb geschlachtet werden sollen, müssen vor der Schlachtung durch eine amtliche Vollzugsperson untersucht werden (Schlachttieruntersuchung). Nach der Schlachtung führen die damit beauftragten amtlichen Personen zudem eine Fleischuntersuchung durch. Die Ergebnisse der Untersuchungen zur Genusstauglichkeit werden in einer Fleischkontrolldatenbank (Fleko) erfasst. Basierend auf der standardisierten Erfassung von Befunden der Schlachttieruntersuchung, Genussuntauglichkeitsgründen und Teilkonfiskaten sind verbesserte Aussagen zur Lebensmittelsicherheit, zur Tiergesundheit und zum Tierschutz möglich. Die Daten der Fleischkontrolle werden jährlich für die Fleischkontrollstatistik ausgewertet und die Ergebnisse auf dem Dashboard des BLV veröffentlicht.",
+                "en": "description_en",
+                "it": "Prima della macellazione in una struttura autorizzata, tutti gli animali devono essere controllati. Inoltre, dopo la macellazione, le persone ufficialmente incaricate effettuano un controllo delle carni. I risultati delle analisi per l’idoneità al consumo vengono registrati nella Banca dati del controllo delle carni (Fleko). Sulla base della registrazione standardizzata dei risultati del controllo degli animali da macello, dei motivi di non idoneità al consumo e dei pezzi confiscati, è possibile ottenere informazioni più precise sulla sicurezza alimentare, la salute e la protezione degli animali. I dati del controllo della carne vengono valutati annualmente per le statistiche del controllo della carne e i risultati vengono pubblicati sul cruscotto dell'USAV."
+            },
+            "dct:modified": "2024-08-27",
+            "adms:status": "published",
+            "dct:format": "JSON, PARQUET, CSV",
+            "dct:license": "terms_open",
+            "schema:comment": "Test"
+        }
+    ]
+}

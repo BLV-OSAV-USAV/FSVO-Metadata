@@ -1,0 +1,59 @@
+{
+    "dct:identifier": "FSVO_D00052",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
+    "dct:title": {
+        "fr": "Kontrollen tierärztlicher Privatapotheken",
+        "de": "Kontrollen tierärztlicher Privatapotheken",
+        "en": "Kontrollen tierärztlicher Privatapotheken",
+        "it": "Kontrollen tierärztlicher Privatapotheken"
+    },
+    "dct:description": {
+        "fr": "Cette collecte de données comprend les résultats des contrôles officiels des pharmacies vétérinaires privées, tels qu'ils sont effectués et documentés par les autorités cantonales d'exécution. Elle recense des informations sur le type d'exploitation, le stockage, la remise et l'utilisation des médicaments vétérinaires, le respect des obligations d'enregistrement ainsi que les éventuelles réclamations et les mesures prises. Des informations sur la fréquence et le type de contrôles ainsi que sur le vétérinaire responsable sont également incluses dans la collecte de données.\n\nLes données relatives à la distribution et à la consommation servent à surveiller l'utilisation des antibiotiques et constituent une base essentielle de la Stratégie nationale suisse de lutte contre la résistance aux antibiotiques (StAR). Elles permettent d'identifier les tendances en matière d'utilisation des antibiotiques, d'évaluer les risques de manière ciblée et de planifier des mesures réglementaires et préventives fondées sur des données probantes. En outre, ces données sont nécessaires pour l'établissement de rapports internationaux (p. ex. à l'OIE) et contribuent à endiguer le développement de résistances chez les animaux et les risques qui en découlent pour la santé publique.",
+        "de": "Diese Datensammlung umfasst die Ergebnisse der amtlichen Kontrollen tierärztlicher Privatapotheken, wie sie durch die kantonalen Vollzugsbehörden durchgeführt und dokumentiert werden. Erfasst werden dabei Informationen zu Betriebstyp, Lagerung, Abgabe und Anwendung von Tierarzneimitteln, zur Einhaltung der Aufzeichnungspflichten sowie zu allfälligen Beanstandungen und ergriffenen Massnahmen. Auch Angaben zur Häufigkeit und Art der Kontrollen sowie zur verantwortlichen Tierärztin oder zum Tierarzt fliessen in die Datensammlung ein.\n\nVetriebs- und Verbrauchsdaten dienen der Überwachung des Antibiotikaverbrauchs und bilden eine zentrale Grundlage der Nationalen Strategie Antibiotikaresistenzen Schweiz (StAR). Sie ermöglichen es, Trends im Einsatz von Antibiotika zu erkennen, Risiken gezielt zu bewerten und regulatorische sowie präventive Massnahmen evidenzbasiert zu planen. Zudem sind die Daten für die internationale Berichterstattung (z. B. an die WOAH) erforderlich und tragen dazu bei, die Entwicklung von Resistenzen bei Tieren und die damit verbundenen Risiken für die öffentliche Gesundheit einzudämmen."
+    },
+    "dct:accessRights": "RESTRICTED",
+    "dct:publisher": "BLV-OSAV-USAV-FSVO",
+    "dcat:contactPoint": {
+        "schema:email": "infotgs@blv.admin.ch",
+        "schema:name": "BLV, TGTS, Tierarzneimittel"
+    },
+    "dct:issued": "2025-01-01",
+    "dcatap:availability": "STABLE",
+    "dcat:keyword": [
+        "Tiergesundheit, Antibiotika, Tierarzneimittel, Veterinärmedizin, Resistenzmonitoring"
+    ],
+    "dct:accrualPeriodicity": "CONT",
+    "dct:modified": "2025-11-06",
+    "prov:qualifiedAttribution": [
+        {
+            "prov:agent": "p-9079817",
+            "dcat:hadRole": "DataOwner"
+        },
+        {
+            "prov:agent": "p-7891691",
+            "dcat:hadRole": "dataSteward"
+        }
+    ],
+    "adms:status": "published",
+    "bv:classification": "internal",
+    "bv:personalData": "personalData",
+    "bv:typeOfData": "primaryThematicData",
+    "bv:archivalValue": true,
+    "bv:opendata_swiss": {
+        "bv:mustBePublished": "FALSE"
+    },
+    "bv:i14y": {
+        "bv:mustBePublished": true
+    },
+    "dcat:theme": [
+        "agriculture",
+        "health"
+    ],
+    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierarzneimittel/fachgerechter-umgang-mit-tierarzneimitteln/verschreibung--abgabe-und-anwendung.html",
+    "dct:spatial": "YES",
+    "dct:temporal": {},
+    "dcatap:applicableLegislation": [
+        "Tierarzneimittelverordnung"
+    ],
+    "bv:itSystem": "ACONTROL"
+}

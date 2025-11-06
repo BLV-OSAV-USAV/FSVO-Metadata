@@ -1,0 +1,63 @@
+{
+    "dct:identifier": "FSVO_D00047",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
+    "dct:title": {
+        "fr": "Moderhinkestatus",
+        "de": "Moderhinkestatus",
+        "en": "Moderhinkestatus",
+        "it": "Moderhinkestatus"
+    },
+    "dct:description": {
+        "fr": "Cette collecte de données contient des informations complètes sur le piétin-écorchure, une maladie très contagieuse et douloureuse qui touche les onglons des moutons et dont souffre environ un quart des moutons en Suisse. La banque de données sur le trafic des animaux (BDTA) répertorie le statut de chaque élevage de moutons enregistré en matière de piétin-écorchure. Celui-ci est déterminé à partir des données d'exécution des autorités – telles que les interdictions prononcées – et des résultats des diagnostics de laboratoire. Les données sont traitées de manière structurée dans le système de Business Intelligence (BI OAV) et mises à jour en permanence.\n\nLa base de données sert à surveiller, combattre et endiguer à long terme le piétin-écorchure. Elle permet aux autorités, aux éleveurs et aux vétérinaires de planifier et de mettre en œuvre des mesures ciblées. Elle facilite en outre la traçabilité des mouvements d'animaux en cas d'épidémie et accroît la transparence vis-à-vis des partenaires commerciaux. L'affichage uniforme du statut favorise le contrôle des épidémies et contribue de manière significative à la santé animale en Suisse.",
+        "de": "Diese Datensammlung beinhaltet umfassende Informationen zur Moderhinke, einer sehr ansteckenden und schmerzhaften Klauenkrankheit bei Schafen, von der rund ein Viertel der Schafe in der Schweiz betroffen ist. In der Tierverkehrsdatenbank (TVD) wird für jede registrierte Schafhaltung ein Moderhinke-Status geführt. Dieser ergibt sich aus behördlichen Vollzugsdaten – wie zum Beispiel verhängten Sperren – sowie aus diagnostischen Laborergebnissen. Die Daten werden im Business Intelligence-System (BI BLV) strukturiert verarbeitet und laufend aktualisiert.\n\nDie Datensammlung dient der Überwachung, Bekämpfung und langfristigen Eindämmung der Moderhinke. Sie ermöglicht es Behörden, Tierhaltende und Tierärztinnen, gezielte Massnahmen zu planen und umzusetzen. Zudem unterstützt sie die Nachvollziehbarkeit von Tierbewegungen im Seuchenfall und erhöht die Transparenz gegenüber Handelspartnern. Die einheitliche Statusanzeige fördert die Seuchenkontrolle und leistet einen wesentlichen Beitrag zur Tiergesundheit in der Schweiz."
+    },
+    "dct:accessRights": "RESTRICTED",
+    "dct:publisher": "BLV-OSAV-USAV-FSVO",
+    "dcat:contactPoint": {
+        "schema:email": "moderhinke@blv.admin.ch",
+        "schema:name": "BLV, TGTS, Tiergesundheit"
+    },
+    "dct:issued": "2025-01-01",
+    "dcatap:availability": "STABLE",
+    "dcat:keyword": [
+        "Schaf, Schafe, Schafhaltung, Schafherden, Moderhinke, Klauenkrankheit, bakterielle Erkrankung, Untersuchungsperiode, zu bekämpfende Tierseuche, nationales Bekämpfungsprogramm, Dichelobacter nodosus"
+    ],
+    "dct:accrualPeriodicity": "CONT",
+    "dct:modified": "2025-11-05",
+    "prov:qualifiedAttribution": [
+        {
+            "prov:agent": "p-9089108",
+            "dcat:hadRole": "DataOwner"
+        },
+        {
+            "prov:agent": "p-1YWHK15J4",
+            "dcat:hadRole": "dataSteward"
+        }
+    ],
+    "adms:status": "published",
+    "bv:classification": "internal",
+    "bv:personalData": "personalData",
+    "bv:typeOfData": "primaryThematicData",
+    "bv:archivalValue": false,
+    "bv:opendata_swiss": {
+        "bv:mustBePublished": "FALSE"
+    },
+    "bv:i14y": {
+        "bv:mustBePublished": true
+    },
+    "dcat:theme": [
+        "agriculture",
+        "national-economy",
+        "health"
+    ],
+    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierseuchen/bekaempfung/projekt-moderhinke.html",
+    "dct:spatial": "YES",
+    "dct:temporal": {
+        "dcat:start_date": "2024-10-01",
+        "dcat:end_date": null
+    },
+    "dcatap:applicableLegislation": [
+        "Tierseuchenverordnung (TSV",
+        "SR 916.401), Artikel 228–229i"
+    ]
+}

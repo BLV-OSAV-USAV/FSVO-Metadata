@@ -1,0 +1,59 @@
+{
+    "dct:identifier": "FSVO_D00053",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
+    "dct:title": {
+        "fr": "Einfuhr von Tierarzneimittel",
+        "de": "Einfuhr von Tierarzneimittel",
+        "en": "Einfuhr von Tierarzneimittel",
+        "it": "Einfuhr von Tierarzneimittel"
+    },
+    "dct:description": {
+        "fr": "Cette collecte de données recense les déclarations des vétérinaires qui importent des médicaments vétérinaires (MV) depuis l'étranger. L'importation de MVA est autorisée lorsqu'aucun MVA alternatif ou médicalement équivalent n'est autorisé, que les MVA alternatifs sont autorisés mais non disponibles ou que les MVA autorisés ne conviennent pas dans certains cas particuliers (p. ex. galénique ou dosage). Selon la catégorie, les importations nécessitent ou non une autorisation. Sont enregistrées les informations relatives à la préparation importée, à la substance active, à l'espèce animale concernée, au nombre d'emballages, à la taille des emballages, à l'établissement utilisateur, au pays d'autorisation, au pays d'importation ainsi qu'à la justification médicale de l'importation.\n\nLa collecte de données sert au contrôle et à la traçabilité des importations exceptionnelles de médicaments vétérinaires. Elle permet de surveiller les risques liés aux médicaments non autorisés et de vérifier le respect des conditions légales. Elle fournit également des informations précieuses sur les lacunes en matière d'approvisionnement sur le marché suisse des médicaments vétérinaires et soutient le développement de stratégies réglementaires visant à garantir la santé animale.",
+        "de": "In dieser Datensammlung sind Meldungen von Tierärztinnen und Tierätzten erfasst, die Tierarzneimittel (TAM) aus dem Ausland importieren. Ein Import von TAM ist zulässig, wenn kein alternativ einsetzbares oder medizinisch gleichwertiges TAM zugelassen ist, alternative TAM zugelassen, aber nicht verfügbar sind oder zugelassene TAM für gewisse Einzelfälle ungeeignet sind (bspw. Galenik oder Dosisstärke). Je nach Kategorie benötigen Importe eine Bewilligung oder nicht. Erfasst werden Angaben zum eingeführten Präparat, Wirkstoff, vorgesehener Tierart, Anzahl Packungen, Packungsgrösse, Anwendugsbetrieb, Zulassungsland, Importland sowie die medizinische Begründung für die Einfuhr.\n\nDie Datensammlung dient der Kontrolle und Nachverfolgbarkeit ausserordentlicher Arzneimitteleinfuhren in der Veterinärmedizin. Sie ermöglicht es, Risiken im Zusammenhang mit nicht zugelassenen Arzneimitteln zu überwachen und die Einhaltung der rechtlichen Voraussetzungen zu prüfen. Zudem liefert sie wertvolle Hinweise zu Versorgungslücken auf dem Schweizer Tierarzneimittelmarkt und unterstützt die Weiterentwicklung regulatorischer Strategien zur Sicherstellung der Tiergesundheit."
+    },
+    "dct:accessRights": "RESTRICTED",
+    "dct:publisher": "BLV-OSAV-USAV-FSVO",
+    "dcat:contactPoint": {
+        "schema:email": "tam@blv.admin.ch",
+        "schema:name": "BLV, TGTS, Tierarzneimittel"
+    },
+    "dct:issued": "2025-01-01",
+    "dcatap:availability": "STABLE",
+    "dcat:keyword": [
+        "Tiergesundheit, Antibiotika, Tierarzneimittel, Veterinärmedizin, Resistenzmonitoring, Einfuhr"
+    ],
+    "dct:accrualPeriodicity": "CONT",
+    "dct:modified": "2025-11-06",
+    "prov:qualifiedAttribution": [
+        {
+            "prov:agent": "p-9079817",
+            "dcat:hadRole": "DataOwner"
+        },
+        {
+            "prov:agent": "p-7891691",
+            "dcat:hadRole": "dataSteward"
+        }
+    ],
+    "adms:status": "published",
+    "bv:classification": "internal",
+    "bv:personalData": "personalData",
+    "bv:typeOfData": "primaryThematicData",
+    "bv:archivalValue": true,
+    "bv:opendata_swiss": {
+        "bv:mustBePublished": "FALSE"
+    },
+    "bv:i14y": {
+        "bv:mustBePublished": true
+    },
+    "dcat:theme": [
+        "agriculture",
+        "health"
+    ],
+    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierarzneimittel/fachgerechter-umgang-mit-tierarzneimitteln/einfuhr-tam.html",
+    "dct:spatial": "YES",
+    "dct:temporal": {},
+    "dcatap:applicableLegislation": [
+        "Tierarzneimittelverordnung"
+    ],
+    "bv:itSystem": "TAM-I"
+}

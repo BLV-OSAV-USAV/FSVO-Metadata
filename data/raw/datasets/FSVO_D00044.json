@@ -1,0 +1,58 @@
+{
+    "dct:identifier": "FSVO_D00044",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
+    "dct:title": {
+        "fr": "Brucellose Stichprobe",
+        "de": "Brucellose Stichprobe",
+        "en": "Brucellose Stichprobe",
+        "it": "Brucellose Stichprobe"
+    },
+    "dct:description": {
+        "fr": "Une sélection aléatoire annuelle basée sur les risques de n exploitations ovines et caprines selon des critères définis. Sont sélectionnées les exploitations qui n'ont pas fait l'objet d'un dépistage de la brucellose au cours des trois dernières années. Les exploitations sélectionnées pour l'échantillonnage sont enregistrées dans un programme du module des épizooties (TSM) à Asan. \n\nCes données servent à prouver que la population caprine et ovine suisse est indemne de brucellose, conformément aux exigences des accords bilatéraux.",
+        "de": "Eine jährliche risikobasierte Zufallsauswahl von n Schaf- und Ziegenbetrieben auf Basis festgelegter Kriterien. Für die Auswahl werden Betriebe herangezogen, die in den letzten drei Jahren keiner Brucellose-Untersuchung unterzogen wurden. Die ausgewählten zu beprobenden Betriebe werden in einem Programm in Asan Tierseuchenmodul (TSM) geführt. \n\nDiese Daten dienen der Belegung des Freiheitsstatus der Schweizer Ziegen- und Schafpopulation von Brucellose gemäss den Anforderungen der bilateralen Verträge."
+    },
+    "dct:accessRights": "RESTRICTED",
+    "dct:publisher": "BLV-OSAV-USAV-FSVO",
+    "dcat:contactPoint": {
+        "schema:email": "infotgs@blv.admin.ch",
+        "schema:name": "BLV, TGTS, Tiergesundheit"
+    },
+    "dct:issued": "2025-01-01",
+    "dcatap:availability": "STABLE",
+    "dcat:keyword": [
+        "Tiergesundheit, Überwachung, Brucellose"
+    ],
+    "dct:accrualPeriodicity": "ANNUAL",
+    "dct:modified": "2025-11-05",
+    "prov:qualifiedAttribution": [
+        {
+            "prov:agent": "p-9089108",
+            "dcat:hadRole": "DataOwner"
+        },
+        {
+            "prov:agent": "p-20LQWYS00",
+            "dcat:hadRole": "dataSteward"
+        }
+    ],
+    "adms:status": "published",
+    "bv:classification": "internal",
+    "bv:personalData": "personalData",
+    "bv:typeOfData": "primaryThematicData",
+    "bv:archivalValue": false,
+    "bv:opendata_swiss": {
+        "bv:mustBePublished": "FALSE"
+    },
+    "bv:i14y": {
+        "bv:mustBePublished": true
+    },
+    "dcat:theme": [
+        "agriculture",
+        "national-economy"
+    ],
+    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tiergesundheit/ueberwachung/nationales-ueberwachungsprogramm.html",
+    "dct:spatial": "YES",
+    "dct:temporal": {},
+    "dcatap:applicableLegislation": [
+        "Tierseuchenverordnung (TSV SR 916.401)"
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "dct:identifier": "FSVO_D00039",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
+    "dct:title": {
+        "fr": "Meldungen an RASFF Kontaktpunkt BLV ",
+        "de": "Meldungen an RASFF Kontaktpunkt BLV ",
+        "en": "Meldungen an RASFF Kontaktpunkt BLV ",
+        "it": "Meldungen an RASFF Kontaktpunkt BLV "
+    },
+    "dct:description": {
+        "fr": "Diese Datensammlung enthält die Meldungen der kantonalen Vollzugsbehörden an das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) über gesundheitsschädigende Lebensmittel oder Gebrauchsgegenstände. Grundlage bilden Artikel 11 der Lebensmittel- und Gebrauchsgegenständeverordnung (LMVV) sowie Artikel 84 der Lebensmittel- und Gebrauchsgegenständeverordnung (LGV). Erfasst werden Fälle, in denen Produkte an eine unbestimmte Zahl von Konsumentinnen und Konsumenten abgegeben wurden und eine potenzielle Gesundheitsgefährdung für die Bevölkerung mehrerer Kantone besteht oder bestehen könnte. Zudem dokumentiert die Sammlung Informationen aus dem europäischen Schnellwarnsystem RASFF zu gesundheitsgefährdenden Produkten, die in die Schweiz geliefert wurden. Die Daten dienen der schnellen Risikoerkennung, der nationalen und internationalen Koordination sowie der Einleitung von Schutzmassnahmen. Sie ermöglichen dem BLV, zeitnah zu reagieren, Rückrufe auszulösen und die Kantone gezielt zu informieren.   ",
+        "de": "Diese Datensammlung enthält die Meldungen der kantonalen Vollzugsbehörden an das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) über gesundheitsschädigende Lebensmittel oder Gebrauchsgegenstände. Grundlage bilden Artikel 11 der Lebensmittel- und Gebrauchsgegenständeverordnung (LMVV) sowie Artikel 84 der Lebensmittel- und Gebrauchsgegenständeverordnung (LGV). Erfasst werden Fälle, in denen Produkte an eine unbestimmte Zahl von Konsumentinnen und Konsumenten abgegeben wurden und eine potenzielle Gesundheitsgefährdung für die Bevölkerung mehrerer Kantone besteht oder bestehen könnte. Zudem dokumentiert die Sammlung Informationen aus dem europäischen Schnellwarnsystem RASFF zu gesundheitsgefährdenden Produkten, die in die Schweiz geliefert wurden. Die Daten dienen der schnellen Risikoerkennung, der nationalen und internationalen Koordination sowie der Einleitung von Schutzmassnahmen. Sie ermöglichen dem BLV, zeitnah zu reagieren, Rückrufe auszulösen und die Kantone gezielt zu informieren.   "
+    },
+    "dct:accessRights": "RESTRICTED",
+    "dct:publisher": "BLV-OSAV-USAV-FSVO",
+    "dcat:contactPoint": {
+        "schema:email": "lme@blv.admin.ch",
+        "schema:name": "BLV, LME, Koordination und Überwachung"
+    },
+    "dct:issued": "2025-01-01",
+    "dcatap:availability": "STABLE",
+    "dcat:keyword": [
+        "Lebensmittel",
+        "Gebrauchsgegenstände",
+        "Schutzmassnahmen",
+        "Rückrufe"
+    ],
+    "dct:accrualPeriodicity": "IRREGULAR",
+    "dct:modified": "2025-09-10",
+    "prov:qualifiedAttribution": [
+        {
+            "prov:agent": "p-1YFBMPWKZ",
+            "dcat:hadRole": "DataOwner"
+        },
+        {
+            "prov:agent": "p-2531965",
+            "dcat:hadRole": "dataSteward"
+        }
+    ],
+    "adms:status": "published",
+    "bv:classification": "confidential",
+    "bv:personalData": "none",
+    "bv:typeOfData": "primaryThematicData",
+    "bv:archivalValue": true,
+    "bv:opendata_swiss": {
+        "bv:mustBePublished": "FALSE"
+    },
+    "bv:i14y": {
+        "bv:mustBePublished": true
+    },
+    "dcat:theme": [
+        "health"
+    ],
+    "dct:spatial": "NO",
+    "dct:temporal": {},
+    "dcatap:applicableLegislation": [
+        ""
+    ],
+    "bv:itSystem": "RASFF",
+    "dcat:distribution": [
+        {
+            "dct:identifier": "FSVO_DIS00391",
+            "dcat:accessURL": "https://www.dashboard.blv.admin.ch/animals/epizootics/infosm/2025/11",
+            "dct:title": {
+                "fr": "Annonces des cas d‘épizootie en Suisse",
+                "de": "Tierseuchenmeldungen in der Schweiz",
+                "en": "Notifications of epizootics in Switzerland",
+                "it": "Notificie delle epizoozie in Svizzera"
+            },
+            "dct:description": {
+                "fr": "La banque de données InfoSM (= système d’information sur les annonces des cas d‘épizootie) de l’OSAV contient des informations sur tous les foyers d’épizooties soumises à l’annonce obligatoire recensés depuis 1991. Pour pouvoir interpréter correctement les données, il faut intégrer la stratégie de surveillance pour chaque épizootie au moment de la déclaration du cas. N'hésitez pas à nous contacter si vous avez des questions.\n\nLe Bulletin de l'Office fédéral de la sécurité alimentaire et des affaires vétérinaires – appelé aussi bulletin tout court – est le journal où sont publiés, à un intervalle régulier de 7 jours, les derniers cas d’épizooties.\n\nPar « obligation d'annoncer » (ordonnance sur les épizooties art. 61) on entend l'obligation pour toute personne qui détient, assume la garde ou soigne des animaux d'annoncer sans délai à un vétérinaire l'apparition d'une épizootie (loi sur les épizooties, art. 1) et tout symptôme suspect pouvant en faire craindre l’éclosion. Les épizooties des abeilles, des poissons et des animaux sauvages vivant dans la nature doivent elles aussi être annoncées, respectivement à l'inspecteur des ruchers, à l'autorité cantonale compétente pour la pêche, au service vétérinaire cantonal.",
+                "de": "Die Datenbank InfoSM (= Informationssystem Seuchenmeldungen) des BLV enthält Angaben zu sämtlichen Ausbrüchen meldepflichtiger Tierseuchen in der Schweiz seit 1991. Um die Daten korrekt interpretieren zu können, muss die Überwachungsstrategie für die einzelnen Tierseuchen zum Zeitpunkt der Fallmeldung einbezogen werden. Bei Fragen können Sie uns jederzeit Kontaktieren.\n\nDie Mitteilungen des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen – kurz Bulletin – publizieren wöchentlich die aktuellen Seuchenmeldungen.\n\nDie Meldepflicht (Tierseuchenverordnung Art. 61) verpflichtet alle Personen, die Tiere halten, betreuen oder behandeln dazu, Ausbrüche von Tierseuchen (Tierseuchengesetz Art. 1) oder verdächtige Beobachtungen einer Tierärztin oder einem Tierarzt zu melden. Die Meldepflicht gilt auch für Bienen, Fische und freilebende Wildtiere. Meldestellen sind der Bieneninspektor, die für die Fischerei zuständige kantonale Stelle resp. das kantonale Veterinäramt.",
+                "en": "description_en",
+                "it": "La banca dati InfoSM (Sistema d’informazione di notifica delle epizoozie) dell’USAV è uno strumento per la consultazione di dati concernenti tutti i focolai delle epizoozie presenti in Svizzera e soggette all’obbligo di notifica dal 1991. Per interpretare correttamente i dati, è necessario includere la strategia di sorveglianza per le singole epizoozie al momento della segnalazione del caso. ontattateci per qualsiasi domanda.\n\nIl Bollettino dell’USAV pubblica le attuali notifiche di epizoozie a scadenza settimanale.\n\nIn base all'obbligo di notifica (art. 61 dell'ordinanza sulle epizoozie), chi detiene, custodisce o cura animali ha l'obbligo di notificare a un veterinario la comparsa di un'epizoozia (art. 1 della legge sulle epizoozie) e qualsiasi fatto sospetto. L'obbligo di notifica vige anche per api, pesci e animali selvatici in libertà. La notifica può essere effettuata presso l'ispettore degli apiari, l'organo cantonale competente per i pesci o l'Ufficio veterinario cantonale."
+            },
+            "dct:modified": "2025-03-20",
+            "adms:status": "published",
+            "dct:format": "SPARQL, JSON",
+            "dct:license": "terms_open",
+            "schema:comment": "Test"
+        },
+        {
+            "dct:identifier": "FSVO_DIS00392",
+            "dcat:accessURL": "https://www.dashboard.blv.admin.ch/animals/health/animal_health_statistics",
+            "dct:title": {
+                "fr": "Statistique de la santé animale",
+                "de": "Tiergesundheitsstatistik",
+                "en": "Title",
+                "it": "Statistiche sulla salute degli animali"
+            },
+            "dct:description": {
+                "fr": "L'OFAG publie chaque année une statistique de la santé animale. Cette vue d'ensemble montre l'apparition d'épizooties soumises à déclaration et se base sur les prescriptions légales. L'objectif est de donner une image claire de la propagation et de l'évolution des épizooties. L'obligation de déclarer les épizooties et les suspicions d'épizooties est fixée dans la Loi sur les épizooties, article 11 (LFE, RS 916.40) et précisée dans l' Ordonnance sur les épizooties, article 61 (OEp, RS 916.401).",
+                "de": "Das BLV veröffentlicht jährlich eine Tiergesundheitsstatistik. Diese Übersicht zeigt das Auftreten meldepflichtiger Tierseuchen und basiert auf den gesetzlichen Vorgaben. Ziel ist es, ein klares Bild über die Verbreitung und Entwicklung von Tierseuchen zu schaffen. Die Meldepflicht für Tierseuchen und seuchenverdächtigen Erscheinungen ist im Tierseuchengesetz Artikel 11 (TSG, SR 916.40) festgelegt und in der Tierseuchenverordnung Artikel 61(TSV, SR 916.401) präzisiert.",
+                "en": "description_en",
+                "it": "L'USAV pubblica annualmente le statistiche sulla salute degli animali. Questa panoramica mostra l'insorgenza delle malattie animali soggette a obbligo di notifica e si basa sui requisiti di legge. L'obiettivo è quello di creare un quadro chiaro della diffusione e dello sviluppo delle malattie animali. L'obbligo di dichiarare epizoozie e casi sospetti è stabilito nella Legge sulle epizoozie, articolo 11 (LSE, RS 916.40) e specificato nell' Ordinanza sulle epizoozie, articolo 61(OSE, RS 916.401)."
+            },
+            "dct:modified": "2025-03-20",
+            "adms:status": "published",
+            "dct:format": "csv, JSON, PARQUET",
+            "dct:license": "terms_open",
+            "schema:comment": "Test"
+        },
+        {
+            "dct:identifier": "FSVO_DIS00393",
+            "dcat:accessURL": "https://www.blv.admin.ch/blv/de/home/tiere/tierseuchen/uebersicht-seuchen/alle-tierseuchen/ai/ai-aktuell.html",
+            "dct:title": {
+                "fr": "Surveillance de l'influenza aviaire (IA) chez les oiseaux sauvages",
+                "de": "Überwachung von Wildvögeln auf Aviäre Influenza (AI)",
+                "en": "Sorveglianza dei volatili selvatici per l'influenza aviaria (IA)",
+                "it": "Title"
+            },
+            "dct:description": {
+                "fr": "L'influenza aviaire (IA) est une maladie virale très contagieuse et aiguë qui touche principalement les espèces aviaires telles que les poulets et les dindes. Les oiseaux sauvages sont considérés comme le réservoir naturel de l'agent pathogène, raison pour laquelle ils jouent un rôle central dans la propagation. Les oiseaux aquatiques et les rapaces en particulier peuvent non seulement être porteurs, mais aussi tomber malades et mourir. Afin de protéger les troupeaux d'animaux d'élevage, les oiseaux sauvages trouvés morts ou malades sont soumis à des tests de dépistage de l'IA. Les données mises à disposition ici contiennent les résultats de ces analyses depuis janvier 2018 et contribuent à mieux surveiller la propagation de la maladie et à soutenir les mesures préventives.",
+                "de": "Die Aviäre Influenza (AI) ist eine hochansteckende und akut verlaufende Viruserkrankung, die vor allem Geflügelarten wie Hühner und Truten betrifft. Wildvögel gelten als natürliches Erregerreservoir, weshalb sie eine zentrale Rolle bei der Verbreitung spielen. Besonders Wasservögel und Greifvögel können nicht nur Träger sein, sondern auch erkranken und sterben. Zum Schutz von Nutztierbeständen werden tot und krank aufgefundene Wildvögel auf AI untersucht. Die hier bereitgestellten Daten enthalten die Ergebnisse dieser Untersuchungen seit Januar 2018 und tragen dazu bei, die Verbreitung der Krankheit besser zu überwachen und präventive Massnahmen zu unterstützen.",
+                "en": "description_en",
+                "it": "L'influenza aviaria (IA) è una malattia virale acuta e altamente contagiosa che colpisce principalmente le specie avicole come polli e tacchini. Gli uccelli selvatici sono considerati un serbatoio naturale dell'agente patogeno, motivo per cui svolgono un ruolo centrale nella diffusione della malattia. In particolare, gli uccelli acquatici e i rapaci possono non solo essere portatori, ma anche ammalarsi e morire. Per proteggere le popolazioni di bestiame, gli uccelli selvatici trovati morti e malati vengono analizzati per l'IA. I dati qui forniti contengono i risultati di questi test da gennaio 2018 e aiutano a monitorare meglio la diffusione della malattia e a sostenere le misure preventive."
+            },
+            "dct:modified": "2025-03-20",
+            "adms:status": "published",
+            "dct:format": "CSV, SPARQL, JSON, KML",
+            "dct:license": "terms_open",
+            "schema:comment": "Test"
+        }
+    ]
+}

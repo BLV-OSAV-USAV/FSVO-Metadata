@@ -1,0 +1,61 @@
+{
+    "dct:identifier": "FSVO_D00035",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
+    "dct:title": {
+        "fr": "menuCH Kids",
+        "de": "menuCH Kids",
+        "en": "menuCH Kids",
+        "it": "menuCH Kids"
+    },
+    "dct:description": {
+        "fr": "Die vorliegende Datensammlung stellt erstmals umfassende und repräsentative Informationen zur Ernährungssituation von Kindern und Jugendlichen im Alter von sechs bis siebzehn Jahren in der Schweiz bereit. Erfasst wurden unter anderem Daten zum Lebensmittelverzehr, zu Mahlzeitenstrukturen, zur Energie- und Nährstoffzufuhr sowie zum Bewegungsverhalten, zur Körpergrösse, zum Körpergewicht und zu weiteren gesundheitsrelevanten Parametern. Die Erhebung erfolgte im Rahmen der nationalen Ernährungserhebung menuCH-Kids unter Anwendung standardisierter Methoden und qualitätsgesicherter Datenaufbereitung. Ziel dieser Datensammlung ist die Generierung evidenzbasierter Erkenntnisse zum Ernährungsverhalten junger Menschen in der Schweiz. Die erhobenen Daten dienen als Grundlage für die Entwicklung wissenschaftlich fundierter Ernährungsempfehlungen, für präventivmedizinische Interventionen sowie für gesundheits- und bildungspolitische Strategien. Darüber hinaus ermöglicht die Datensammlung die frühzeitige Identifikation von Risikogruppen, die Analyse von Unterschieden hinsichtlich Alter, geografischer Herkunft und sozioökonomischem Status sowie die Ableitung gezielter Massnahmen zur Förderung einer ausgewogenen Ernährung im Kindes- und Jugendalter.",
+        "de": "Die vorliegende Datensammlung stellt erstmals umfassende und repräsentative Informationen zur Ernährungssituation von Kindern und Jugendlichen im Alter von sechs bis siebzehn Jahren in der Schweiz bereit. Erfasst wurden unter anderem Daten zum Lebensmittelverzehr, zu Mahlzeitenstrukturen, zur Energie- und Nährstoffzufuhr sowie zum Bewegungsverhalten, zur Körpergrösse, zum Körpergewicht und zu weiteren gesundheitsrelevanten Parametern. Die Erhebung erfolgte im Rahmen der nationalen Ernährungserhebung menuCH-Kids unter Anwendung standardisierter Methoden und qualitätsgesicherter Datenaufbereitung. Ziel dieser Datensammlung ist die Generierung evidenzbasierter Erkenntnisse zum Ernährungsverhalten junger Menschen in der Schweiz. Die erhobenen Daten dienen als Grundlage für die Entwicklung wissenschaftlich fundierter Ernährungsempfehlungen, für präventivmedizinische Interventionen sowie für gesundheits- und bildungspolitische Strategien. Darüber hinaus ermöglicht die Datensammlung die frühzeitige Identifikation von Risikogruppen, die Analyse von Unterschieden hinsichtlich Alter, geografischer Herkunft und sozioökonomischem Status sowie die Ableitung gezielter Massnahmen zur Förderung einer ausgewogenen Ernährung im Kindes- und Jugendalter."
+    },
+    "dct:accessRights": "PUBLIC",
+    "dct:publisher": "BLV-OSAV-USAV-FSVO",
+    "dcat:contactPoint": {
+        "schema:email": "ernaehrung@blv.admin.ch",
+        "schema:name": "BLV, LME, Ernährung"
+    },
+    "dct:issued": "2023-01-01",
+    "dcatap:availability": "STABLE",
+    "dcat:keyword": [
+        "Lebensmittel",
+        "Ernährung",
+        "Kinder",
+        "Jugendliche"
+    ],
+    "dct:accrualPeriodicity": "IRREGULAR",
+    "dct:modified": "2025-09-10",
+    "prov:qualifiedAttribution": [
+        {
+            "prov:agent": "p-7711752",
+            "dcat:hadRole": "DataOwner"
+        },
+        {
+            "prov:agent": "p-2708753",
+            "dcat:hadRole": "dataSteward"
+        }
+    ],
+    "adms:status": "published",
+    "bv:classification": "none",
+    "bv:personalData": "none",
+    "bv:typeOfData": "primaryThematicData",
+    "bv:archivalValue": true,
+    "bv:opendata_swiss": {
+        "bv:mustBePublished": "TRUE"
+    },
+    "bv:i14y": {
+        "bv:mustBePublished": true
+    },
+    "dcat:theme": [
+        "health"
+    ],
+    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/forschung/gesundheitliche-risiken/ernaehrungsrisiken/menuch-kids.html",
+    "dct:spatial": "YES",
+    "dct:temporal": {},
+    "dcatap:applicableLegislation": [
+        ""
+    ],
+    "bv:itSystem": "FSVO Data Repository"
+}

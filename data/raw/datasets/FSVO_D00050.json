@@ -1,0 +1,59 @@
+{
+    "dct:identifier": "FSVO_D00050",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
+    "dct:title": {
+        "fr": "Vertriebsdaten von Antibiotika",
+        "de": "Vertriebsdaten von Antibiotika",
+        "en": "Vertriebsdaten von Antibiotika",
+        "it": "Vertriebsdaten von Antibiotika"
+    },
+    "dct:description": {
+        "fr": "Cette collecte de données contient des informations sur les antibiotiques commercialisés en Suisse dans le domaine vétérinaire par les titulaires d'autorisations et les grossistes. Tous les distributeurs sont tenus d'enregistrer chaque année tous les médicaments vétérinaires antibiotiques qu'ils commercialisent. Sont enregistrés le principe actif, le nom commercial, les quantités vendues, le titulaire de l'autorisation et l'utilisation prévue par espèce animale.\n \n\nLes données servent à la surveillance nationale de la distribution d'antibiotiques et constituent un élément central de la stratégie suisse de lutte contre la résistance aux antibiotiques (StAR). Elles permettent d'analyser les évolutions dans la distribution et facilitent la planification ciblée de mesures visant à réduire l'utilisation d'antibiotiques. En outre, ces données constituent une base importante pour les rapports internationaux, par exemple à l'Organisation mondiale de la santé animale (OIE). L'ISABV contribue ainsi à promouvoir une utilisation responsable des antibiotiques et à lutter contre la résistance.",
+        "de": "Diese Datensammlung enthält Informationen zu in der Schweiz für den Veterinärbereich vertriebenen Antibiotika von Zulassungsinhabern und Grosshändlern. Alle Inverkehrbringer sind verpflichtet, alle von ihnen vertriebenen antibiotischen Tierarzneimittel jedes Jahr obligatorisch zu erfassen. Erfasst werden Wirkstoff, Handelsname, abgegebene Mengen, Zulassungsinhaber sowie Verwendungszweck nach Tierart. \n\nDie Daten dienen der nationalen Überwachung des Antibiotikavertriebs und sind ein zentrales Element der Strategie Antibiotikaresistenzen Schweiz (StAR). Sie ermöglichen die Analyse von Entwicklungen im Vertrieb und unterstützen die gezielte Planung von Massnahmen zur Reduktion des Antibiotikaeinsatzes. Zudem bilden die Daten eine wichtige Grundlage für internationale Berichterstattungen, beispielsweise an die Weltorganisation für Tiergesundheit (WOAH). ISABV leistet somit einen Beitrag zur Förderung einer verantwortungsvollen Anwendung von Antibiotika und zur Bekämpfung von Resistenzen."
+    },
+    "dct:accessRights": "RESTRICTED",
+    "dct:publisher": "BLV-OSAV-USAV-FSVO",
+    "dcat:contactPoint": {
+        "schema:email": "tam@blv.admin.ch",
+        "schema:name": "BLV, TGTS, Tierarzneimittel"
+    },
+    "dct:issued": "2025-01-01",
+    "dcatap:availability": "STABLE",
+    "dcat:keyword": [
+        "Tiergesundheit, Antibiotika, Tierarzneimittel, Veterinärmedizin, Resistenzmonitoring"
+    ],
+    "dct:accrualPeriodicity": "CONT",
+    "dct:modified": "2025-11-06",
+    "prov:qualifiedAttribution": [
+        {
+            "prov:agent": "p-9079817",
+            "dcat:hadRole": "DataOwner"
+        },
+        {
+            "prov:agent": "p-7891691",
+            "dcat:hadRole": "dataSteward"
+        }
+    ],
+    "adms:status": "published",
+    "bv:classification": "internal",
+    "bv:personalData": "personalData",
+    "bv:typeOfData": "primaryThematicData",
+    "bv:archivalValue": true,
+    "bv:opendata_swiss": {
+        "bv:mustBePublished": "FALSE"
+    },
+    "bv:i14y": {
+        "bv:mustBePublished": true
+    },
+    "dcat:theme": [
+        "agriculture",
+        "health"
+    ],
+    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierarzneimittel/antibiotika/ueberwachung.html",
+    "dct:spatial": "YES",
+    "dct:temporal": {},
+    "dcatap:applicableLegislation": [
+        "Tierarzneimittelverordnung"
+    ],
+    "bv:itSystem": "IS ABV"
+}

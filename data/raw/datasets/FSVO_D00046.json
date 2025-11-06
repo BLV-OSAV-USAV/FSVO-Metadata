@@ -1,0 +1,81 @@
+{
+    "dct:identifier": "FSVO_D00046",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
+    "dct:title": {
+        "fr": "IBR/EBL ML Stichprobe",
+        "de": "IBR/EBL ML Stichprobe",
+        "en": "IBR/EBL ML Stichprobe",
+        "it": "IBR/EBL ML Stichprobe"
+    },
+    "dct:description": {
+        "fr": "Chaque année, des exploitations laitières sont sélectionnées sur la base de critères définis et font l'objet d'analyses dans le cadre des programmes nationaux de surveillance du lait en citerne. La liste de ces exploitations est transmise à Suisselab. Les exploitations sentinelles IBR/EBL en font partie.\n\nCes données servent à prouver le statut indemne de la population bovine suisse en matière d'IBR/EBL, conformément aux exigences des accords bilatéraux.",
+        "de": "Jährlich werden aufgrund von festglegten Kriterien milchliefernden Rinderbetriebe ausgewählt, die im Rahmen der nationalen Überwachungsprogramme mittels Tankmilch untersucht werden. Diese Betriebsliste wird Suisselab übergeben. Dazu gehören die Sentinelbetriebe IBR/EBL.\n\nDiese Daten dienen der Belegung des Freiheitsstatus der Schweizer Rinderpopulation von IBR/EBL gemäss den Anforderungen der bilateralen Verträge."
+    },
+    "dct:accessRights": "RESTRICTED",
+    "dct:publisher": "BLV-OSAV-USAV-FSVO",
+    "dcat:contactPoint": {
+        "schema:email": "infotgs@blv.admin.ch",
+        "schema:name": "BLV, TGTS, Tiergesundheit"
+    },
+    "dct:issued": "2025-01-01",
+    "dcatap:availability": "STABLE",
+    "dcat:keyword": [
+        "Tiergesundheit, Überwachung, IBR, EBL, Milchproduzenten"
+    ],
+    "dct:accrualPeriodicity": "ANNUAL",
+    "dct:modified": "2025-11-05",
+    "prov:qualifiedAttribution": [
+        {
+            "prov:agent": "p-9089108",
+            "dcat:hadRole": "DataOwner"
+        },
+        {
+            "prov:agent": "p-20LQWYS00",
+            "dcat:hadRole": "dataSteward"
+        }
+    ],
+    "adms:status": "published",
+    "bv:classification": "internal",
+    "bv:personalData": "personalData",
+    "bv:typeOfData": "primaryThematicData",
+    "bv:archivalValue": false,
+    "bv:opendata_swiss": {
+        "bv:mustBePublished": "FALSE"
+    },
+    "bv:i14y": {
+        "bv:mustBePublished": true
+    },
+    "dcat:theme": [
+        "agriculture",
+        "national-economy"
+    ],
+    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tiergesundheit/ueberwachung/nationales-ueberwachungsprogramm.html",
+    "dct:spatial": "YES",
+    "dct:temporal": {},
+    "dcatap:applicableLegislation": [
+        "Tierseuchenverordnung (TSV SR 916.401)"
+    ],
+    "dcat:distribution": [
+        {
+            "dct:identifier": "FSVO_DIS000461",
+            "dcat:accessURL": "https://www.blv.admin.ch/blv/de/home/tiere/tierseuchen/bekaempfung/projekt-moderhinke.html",
+            "dct:title": {
+                "fr": "Lutte à l’échelle nationale contre le piétin chez les moutons",
+                "de": "Schweizweite Bekämpfung der Moderhinke bei Schafen",
+                "en": "Title",
+                "it": "Lotta nazionale contro la zoppina negli ovini"
+            },
+            "dct:description": {
+                "fr": "Le 1er octobre 2024 la lutte à l’échelle nationale contre le piétin a commencé. Cette maladie contagieuse et douloureuse affecte les troupeaux ovins. L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV), en collaboration avec les services vétérinaires cantonaux et les acteurs importants de la branche, a élaboré les différentes étapes du programme de lutte. Cette initiative stratégique vise à faire baisser le nombre d’exploitations touchées à moins de 1 %sur cinq ans au maximum. Elle permettra ainsi d’améliorer le bien-être des moutons et de soutenir les éleveurs suisses. Pendand les cinq ans à venir, durant la période allant du 1er octobre au 31 mars, toutes les exploitations ovines seront contrôlées. Les données fournies contiennent les résultats de ces périodes d'étude.",
+                "de": "Am 1. Oktober 2024 begann die schweizweite Bekämpfung der Moderhinke. Diese ansteckende und schmerzhafte Krankheit befällt vor allem Schafe. Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) hat in Zusammenarbeit mit den kantonalen Veterinärdiensten und den wichtigsten Akteuren der Branche die verschiedenen Schritte des Bekämpfungsprogramms erarbeitet. Mit dieser strategischen Initiative soll die Zahl der von Moderhinke betroffenen Betriebe in maximal fünf Jahren auf unter ein Prozent gesenkt werden. Dies ermöglicht, das Wohlbefinden der Schafe zu verbessern und die Schafhalterinnen und Schafhalter zu unterstützen. In den kommenden fünf Jahren werden daher zwischen dem 1. Oktober und dem 31. März alle Schafhaltungen untersucht. Die bereitgestellten Daten enthalten die Ergebnisse dieser Untersuchungsperioden.",
+                "en": "description_en",
+                "it": "L'influenza aviaire (IA) est une maladie virale très contagieuse et aiguë qui touche principalement les espèces aviaires telles que les poulets et les dindes. Les oiseaux sauvages sont considérés comme le réservoir naturel de l'agent pathogène, raison pour laquelle ils jouent un rôle central dans la propagation. Les oiseaux aquatiques et les rapaces en particulier peuvent non seulement être porteurs, mais aussi tomber malades et mourir. Afin de protéger les troupeaux d'animaux d'élevage, les oiseaux sauvages trouvés morts ou malades sont soumis à des tests de dépistage de l'IA. Les données mises à disposition ici contiennent les résultats de ces analyses depuis janvier 2018 et contribuent à mieux surveiller la propagation de la maladie et à soutenir les mesures préventives."
+            },
+            "dct:modified": "2025-03-20",
+            "adms:status": "published",
+            "dct:format": "CSV",
+            "dct:license": "terms_open",
+            "schema:comment": "Test"
+        }
+    ]
+}

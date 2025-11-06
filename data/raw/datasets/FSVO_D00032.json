@@ -1,0 +1,58 @@
+{
+    "dct:identifier": "FSVO_D00032",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
+    "dct:title": {
+        "fr": "Kontrollen der Lebensmittelhygiene tierischer Herkunft ",
+        "de": "Kontrollen der Lebensmittelhygiene tierischer Herkunft ",
+        "en": "Kontrollen der Lebensmittelhygiene tierischer Herkunft ",
+        "it": "Kontrollen der Lebensmittelhygiene tierischer Herkunft "
+    },
+    "dct:description": {
+        "fr": "Die rechtlichen Vorgaben betreffend Hygiene in der tierischen Primärproduktion (z.B. Milchvieh-, Schweine- oder Geflügelhaltungen) und spezifisch betreffend Hygiene in der Milchproduktion werden im Rahmen der Primärproduktionskontrollen durch die kantonalen Veterinärämter oder in deren Auftrag kontrolliert. Die Kontrollergebnisse dieser beiden Rubriken müssen zeitgerecht und umfassend zusammen mit den Ergebnissen der übrigen Rubriken im Rahmen der Primärproduktionskontrolle in Acontrol erfasst und so dem BLV zur Verfügung gestellt werden. Da die  Kontrollpunkte im System vorgegeben sind, ist es möglich über Acontrol einen Überblick über die aktuelle Situation der schweizer tierischen Primärproduktionsbetriebe in Zusammenhang mit der Einhaltung der Hygienevorgaben zu erlangen. Zudem können dem System weiter Informationen zu Kontrollfrequenz, Betriebsart, Hygienestatus, festgestellte Mängel sowie die ergriffenen Massnahmen entnommen werden. Die Sammlung ermöglicht kantonsübergreifende Auswertungen, die Früherkennung systematischer Schwachstellen sowie die gezielte Planung von Schulungen, Beratungen und weiteren Vollzugsmassnahmen zugunsten der Lebensmittelsicherheit. Sie dient der Beurteilung der hygienischen Ausgangslage für die Produktion tierischer Lebensmittel, unterstützt die Risikoeinschätzung und trägt zur kontinuierlichen Verbesserung der Betriebshygiene bei.",
+        "de": "Die rechtlichen Vorgaben betreffend Hygiene in der tierischen Primärproduktion (z.B. Milchvieh-, Schweine- oder Geflügelhaltungen) und spezifisch betreffend Hygiene in der Milchproduktion werden im Rahmen der Primärproduktionskontrollen durch die kantonalen Veterinärämter oder in deren Auftrag kontrolliert. Die Kontrollergebnisse dieser beiden Rubriken müssen zeitgerecht und umfassend zusammen mit den Ergebnissen der übrigen Rubriken im Rahmen der Primärproduktionskontrolle in Acontrol erfasst und so dem BLV zur Verfügung gestellt werden. Da die  Kontrollpunkte im System vorgegeben sind, ist es möglich über Acontrol einen Überblick über die aktuelle Situation der schweizer tierischen Primärproduktionsbetriebe in Zusammenhang mit der Einhaltung der Hygienevorgaben zu erlangen. Zudem können dem System weiter Informationen zu Kontrollfrequenz, Betriebsart, Hygienestatus, festgestellte Mängel sowie die ergriffenen Massnahmen entnommen werden. Die Sammlung ermöglicht kantonsübergreifende Auswertungen, die Früherkennung systematischer Schwachstellen sowie die gezielte Planung von Schulungen, Beratungen und weiteren Vollzugsmassnahmen zugunsten der Lebensmittelsicherheit. Sie dient der Beurteilung der hygienischen Ausgangslage für die Produktion tierischer Lebensmittel, unterstützt die Risikoeinschätzung und trägt zur kontinuierlichen Verbesserung der Betriebshygiene bei."
+    },
+    "dct:accessRights": "RESTRICTED",
+    "dct:publisher": "BLV-OSAV-USAV-FSVO",
+    "dcat:contactPoint": {
+        "schema:email": "lme@blv.admin.ch",
+        "schema:name": "BLV, LME, Lebensmittelhygiene"
+    },
+    "dct:issued": "2025-09-10",
+    "dcatap:availability": "STABLE",
+    "dcat:keyword": [
+        "Kontrollen Primärproduktion",
+        "Lebensmittelhygiene"
+    ],
+    "dct:accrualPeriodicity": "MONTHLY",
+    "dct:modified": "2025-09-10",
+    "prov:qualifiedAttribution": [
+        {
+            "prov:agent": "p-1582170",
+            "dcat:hadRole": "DataOwner"
+        },
+        {
+            "prov:agent": "p-9531742",
+            "dcat:hadRole": "dataSteward"
+        }
+    ],
+    "adms:status": "published",
+    "bv:classification": "confidential",
+    "bv:personalData": "personalData",
+    "bv:typeOfData": "primaryThematicData",
+    "bv:archivalValue": true,
+    "bv:opendata_swiss": {
+        "bv:mustBePublished": "FALSE"
+    },
+    "bv:i14y": {
+        "bv:mustBePublished": true
+    },
+    "dcat:theme": [
+        "health"
+    ],
+    "dct:spatial": "NO",
+    "dct:temporal": {},
+    "dcatap:applicableLegislation": [
+        "https://www.fedlex.admin.ch/eli/cc/2020/459/de"
+    ],
+    "bv:itSystem": "Acontrol"
+}

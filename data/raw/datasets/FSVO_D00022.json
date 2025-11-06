@@ -1,9 +1,11 @@
 {
     "dct:identifier": "FSVO_D00022",
-    "schema:image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Home_in_the_Woods_1847_Thomas_Cole.jpeg",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
     "dct:title": {
         "fr": "Stoffdatenbank Anwendungsplattform Verbraucherschutz APVS",
-        "de": "Stoffdatenbank Anwendungsplattform Verbraucherschutz APVS"
+        "de": "Stoffdatenbank Anwendungsplattform Verbraucherschutz APVS",
+        "en": "Stoffdatenbank Anwendungsplattform Verbraucherschutz APVS",
+        "it": "Stoffdatenbank Anwendungsplattform Verbraucherschutz APVS"
     },
     "dct:description": {
         "fr": "Die Stoffdatenbank ist eine zentrale Datensammlung der Anwendungsplattform Verbraucherschutz (APVS) und dient als Master-System für Definition und Verwaltung von  Parametern, Matrizen und Höchstwerten im Bereich Lebensmittelsicherheit und Verbraucherschutz. Sie enthält strukturierte Informationen zu chemischen und biologischen Parametern, deren zugehörigen Matrizes wie bspw. Lebensmittel, Trinkwasser oder, Futtermittel, sowie den entsprechenden Höchstwerten. Zudem werden ergänzende Attribute wie z.B. Einheiten dokumentiert. Diese Sammlung dient der Standardisierung und Qualitätssicherung von Daten im Bereich Lebensmittelsicherheit und Verbraucherschutz. ",
@@ -26,11 +28,11 @@
     "dct:modified": "2025-09-10",
     "prov:qualifiedAttribution": [
         {
-            "prov:agent": "INTERNAL",
+            "prov:agent": "p-1YFBMPWKZ",
             "dcat:hadRole": "DataOwner"
         },
         {
-            "prov:agent": "INTERNAL",
+            "prov:agent": "p-2560681",
             "dcat:hadRole": "dataSteward"
         }
     ],
