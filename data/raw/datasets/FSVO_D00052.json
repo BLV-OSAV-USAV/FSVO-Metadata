@@ -20,7 +20,11 @@
     "dct:issued": "2025-01-01",
     "dcatap:availability": "STABLE",
     "dcat:keyword": [
-        "Tiergesundheit, Antibiotika, Tierarzneimittel, Veterinärmedizin, Resistenzmonitoring"
+        "Tiergesundheit",
+        "Antibiotika",
+        "Tierarzneimittel",
+        "Veterinärmedizin",
+        "Resistenzmonitoring"
     ],
     "dct:accrualPeriodicity": "CONT",
     "dct:modified": "2025-11-06",
