@@ -343,7 +343,11 @@
         "dct:issued": "2025-01-01",
         "dcatap:availability": "STABLE",
         "dcat:keyword": [
-            "Tiergesundheit, Antibiotika, Tierarzneimittel, Veterinärmedizin, Resistenzmonitoring"
+            "Tiergesundheit",
+            "Antibiotika",
+            "Tierarzneimittel",
+            "Veterinärmedizin",
+            "Resistenzmonitoring"
         ],
         "dct:accrualPeriodicity": "CONT",
         "dct:modified": "2025-11-06",
@@ -372,7 +376,7 @@
         "businessDataOwner": null,
         "schemaViolations": 0,
         "schemaViolationMessages": [],
-        "quality": 4401.0
+        "quality": 4441.0
     },
     {
         "rdf:type": "dcat:Dataset",
@@ -397,7 +401,12 @@
         "dct:issued": "2025-01-01",
         "dcatap:availability": "STABLE",
         "dcat:keyword": [
-            "Tiergesundheit, Antibiotika, Tierarzneimittel, Veterinärmedizin, Resistenzmonitoring, Einfuhr"
+            "Tiergesundheit",
+            "Antibiotika",
+            "Tierarzneimittel",
+            "Veterinärmedizin",
+            "Resistenzmonitoring",
+            "Einfuhr"
         ],
         "dct:accrualPeriodicity": "CONT",
         "dct:modified": "2025-11-06",
@@ -426,60 +435,7 @@
         "businessDataOwner": null,
         "schemaViolations": 0,
         "schemaViolationMessages": [],
-        "quality": 4390.0
-    },
-    {
-        "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00028",
-        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
-        "dct:title": {
-            "fr": "Rueckstaende und Fremdstoffe in tierischen Lebensmitteln NFUP Schweiz",
-            "de": "Rueckstaende und Fremdstoffe in tierischen Lebensmitteln NFUP Schweiz",
-            "en": "Rueckstaende und Fremdstoffe in tierischen Lebensmitteln NFUP Schweiz",
-            "it": "Rueckstaende und Fremdstoffe in tierischen Lebensmitteln NFUP Schweiz"
-        },
-        "dct:description": {
-            "fr": "Diese Datensammlung beinhaltet die Ergebnisse der jährlich durchgeführten nationalen Fremdstoffuntersuchungsprogramms (NFUP) in Lebensmitteln tierischer Herkunft. Sie dokumentiert systematisch das Vorkommen von Rückständen pharmakologisch wirksamer Substanzen, von Pflanzenschutzmitteln sowie von Kontaminanten in Tieren und in Lebensmitteln tierischer Herkunft. Erfasst werden unter anderem Rückstände von Antibiotika, Antiparasitika und weiteren Medikamenten, die zur Behandlung oder Vorbeugung von Krankheiten bei Nutztieren eingesetzt werden. Die Daten (Laborergebnisse) stammen aus amtlichen Probenahmen im Rahmen des nationalen Rückstandsüberwachungsprogramms.  Zweck der Datensammlung ist die Überwachung des Vorkommens von Fremdstoffen in tierischen Lebensmitteln in der Schweiz. Sie dient sowohl dem gesundheitlichen Verbraucherschutz als auch der Erfüllung internationaler Verpflichtungen, insbesondere gegenüber der Europäischen Union. Durch das Programm wird die Exportberechtigung der Schweiz für Tiere und daraus gewonnene Lebensmittel in den EU-Raum sichergestellt.  Die Datensammlung ermöglicht nationale Trendanalysen, die frühzeitige Identifikation von Risiken sowie gezielte Kontrollmassnahmen zur Sicherstellung der Lebensmittelsicherheit.",
-            "de": "Diese Datensammlung beinhaltet die Ergebnisse der jährlich durchgeführten nationalen Fremdstoffuntersuchungsprogramms (NFUP) in Lebensmitteln tierischer Herkunft. Sie dokumentiert systematisch das Vorkommen von Rückständen pharmakologisch wirksamer Substanzen, von Pflanzenschutzmitteln sowie von Kontaminanten in Tieren und in Lebensmitteln tierischer Herkunft. Erfasst werden unter anderem Rückstände von Antibiotika, Antiparasitika und weiteren Medikamenten, die zur Behandlung oder Vorbeugung von Krankheiten bei Nutztieren eingesetzt werden. Die Daten (Laborergebnisse) stammen aus amtlichen Probenahmen im Rahmen des nationalen Rückstandsüberwachungsprogramms.  Zweck der Datensammlung ist die Überwachung des Vorkommens von Fremdstoffen in tierischen Lebensmitteln in der Schweiz. Sie dient sowohl dem gesundheitlichen Verbraucherschutz als auch der Erfüllung internationaler Verpflichtungen, insbesondere gegenüber der Europäischen Union. Durch das Programm wird die Exportberechtigung der Schweiz für Tiere und daraus gewonnene Lebensmittel in den EU-Raum sichergestellt.  Die Datensammlung ermöglicht nationale Trendanalysen, die frühzeitige Identifikation von Risiken sowie gezielte Kontrollmassnahmen zur Sicherstellung der Lebensmittelsicherheit."
-        },
-        "dct:accessRights": "RESTRICTED",
-        "dct:publisher": "BLV-OSAV-USAV-FSVO",
-        "dcat:contactPoint": {
-            "schema:email": "nfup@blv.admin.ch",
-            "schema:name": "BLV, LME, Koordination und Überwachung"
-        },
-        "dct:issued": "2012-01-01",
-        "dcatap:availability": "STABLE",
-        "dcat:keyword": [
-            "Rückstände",
-            "Veterinärmedizin",
-            "Lebensmittel, Kontaminanten"
-        ],
-        "dct:accrualPeriodicity": "ANNUAL",
-        "dct:modified": "2025-09-10",
-        "adms:status": "published",
-        "bv:classification": "none",
-        "bv:personalData": "none",
-        "bv:typeOfData": "primaryThematicData",
-        "bv:archivalValue": true,
-        "bv:opendata_swiss": {
-            "bv:mustBePublished": "FALSE"
-        },
-        "bv:i14y": {
-            "bv:mustBePublished": true
-        },
-        "dcat:theme": [
-            "health"
-        ],
-        "dct:spatial": "NO",
-        "dct:temporal": {},
-        "dcatap:applicableLegislation": [
-            "Landwirtschaftsabkommen (Anhang 11) mit EU"
-        ],
-        "businessDataOwner": null,
-        "schemaViolations": 0,
-        "schemaViolationMessages": [],
-        "quality": 4388.0
+        "quality": 4440.0
     },
     {
         "rdf:type": "dcat:Dataset",
@@ -504,7 +460,11 @@
         "dct:issued": "2025-01-01",
         "dcatap:availability": "STABLE",
         "dcat:keyword": [
-            "Tiergesundheit, Antibiotika, Tierarzneimittel, Veterinärmedizin, Resistenzmonitoring"
+            "Tiergesundheit",
+            "Antibiotika",
+            "Tierarzneimittel",
+            "Veterinärmedizin",
+            "Resistenzmonitoring"
         ],
         "dct:accrualPeriodicity": "CONT",
         "dct:modified": "2025-11-06",
@@ -533,7 +493,61 @@
         "businessDataOwner": null,
         "schemaViolations": 0,
         "schemaViolationMessages": [],
-        "quality": 4372.0
+        "quality": 4412.0
+    },
+    {
+        "rdf:type": "dcat:Dataset",
+        "dct:identifier": "FSVO_D00028",
+        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
+        "dct:title": {
+            "fr": "Rueckstaende und Fremdstoffe in tierischen Lebensmitteln NFUP Schweiz",
+            "de": "Rueckstaende und Fremdstoffe in tierischen Lebensmitteln NFUP Schweiz",
+            "en": "Rueckstaende und Fremdstoffe in tierischen Lebensmitteln NFUP Schweiz",
+            "it": "Rueckstaende und Fremdstoffe in tierischen Lebensmitteln NFUP Schweiz"
+        },
+        "dct:description": {
+            "fr": "Diese Datensammlung beinhaltet die Ergebnisse der jährlich durchgeführten nationalen Fremdstoffuntersuchungsprogramms (NFUP) in Lebensmitteln tierischer Herkunft. Sie dokumentiert systematisch das Vorkommen von Rückständen pharmakologisch wirksamer Substanzen, von Pflanzenschutzmitteln sowie von Kontaminanten in Tieren und in Lebensmitteln tierischer Herkunft. Erfasst werden unter anderem Rückstände von Antibiotika, Antiparasitika und weiteren Medikamenten, die zur Behandlung oder Vorbeugung von Krankheiten bei Nutztieren eingesetzt werden. Die Daten (Laborergebnisse) stammen aus amtlichen Probenahmen im Rahmen des nationalen Rückstandsüberwachungsprogramms.  Zweck der Datensammlung ist die Überwachung des Vorkommens von Fremdstoffen in tierischen Lebensmitteln in der Schweiz. Sie dient sowohl dem gesundheitlichen Verbraucherschutz als auch der Erfüllung internationaler Verpflichtungen, insbesondere gegenüber der Europäischen Union. Durch das Programm wird die Exportberechtigung der Schweiz für Tiere und daraus gewonnene Lebensmittel in den EU-Raum sichergestellt.  Die Datensammlung ermöglicht nationale Trendanalysen, die frühzeitige Identifikation von Risiken sowie gezielte Kontrollmassnahmen zur Sicherstellung der Lebensmittelsicherheit.",
+            "de": "Diese Datensammlung beinhaltet die Ergebnisse der jährlich durchgeführten nationalen Fremdstoffuntersuchungsprogramms (NFUP) in Lebensmitteln tierischer Herkunft. Sie dokumentiert systematisch das Vorkommen von Rückständen pharmakologisch wirksamer Substanzen, von Pflanzenschutzmitteln sowie von Kontaminanten in Tieren und in Lebensmitteln tierischer Herkunft. Erfasst werden unter anderem Rückstände von Antibiotika, Antiparasitika und weiteren Medikamenten, die zur Behandlung oder Vorbeugung von Krankheiten bei Nutztieren eingesetzt werden. Die Daten (Laborergebnisse) stammen aus amtlichen Probenahmen im Rahmen des nationalen Rückstandsüberwachungsprogramms.  Zweck der Datensammlung ist die Überwachung des Vorkommens von Fremdstoffen in tierischen Lebensmitteln in der Schweiz. Sie dient sowohl dem gesundheitlichen Verbraucherschutz als auch der Erfüllung internationaler Verpflichtungen, insbesondere gegenüber der Europäischen Union. Durch das Programm wird die Exportberechtigung der Schweiz für Tiere und daraus gewonnene Lebensmittel in den EU-Raum sichergestellt.  Die Datensammlung ermöglicht nationale Trendanalysen, die frühzeitige Identifikation von Risiken sowie gezielte Kontrollmassnahmen zur Sicherstellung der Lebensmittelsicherheit."
+        },
+        "dct:accessRights": "RESTRICTED",
+        "dct:publisher": "BLV-OSAV-USAV-FSVO",
+        "dcat:contactPoint": {
+            "schema:email": "nfup@blv.admin.ch",
+            "schema:name": "BLV, LME, Koordination und Überwachung"
+        },
+        "dct:issued": "2012-01-01",
+        "dcatap:availability": "STABLE",
+        "dcat:keyword": [
+            "Rückstände",
+            "Veterinärmedizin",
+            "Lebensmittel",
+            "Kontaminanten"
+        ],
+        "dct:accrualPeriodicity": "ANNUAL",
+        "dct:modified": "2025-09-10",
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:typeOfData": "primaryThematicData",
+        "bv:archivalValue": true,
+        "bv:opendata_swiss": {
+            "bv:mustBePublished": "FALSE"
+        },
+        "bv:i14y": {
+            "bv:mustBePublished": true
+        },
+        "dcat:theme": [
+            "health"
+        ],
+        "dct:spatial": "NO",
+        "dct:temporal": {},
+        "dcatap:applicableLegislation": [
+            "Landwirtschaftsabkommen (Anhang 11) mit EU"
+        ],
+        "businessDataOwner": null,
+        "schemaViolations": 0,
+        "schemaViolationMessages": [],
+        "quality": 4398.0
     },
     {
         "rdf:type": "dcat:Dataset",
@@ -1613,7 +1627,9 @@
         "dcat:keyword": [
             "Kontrolle",
             "Lebensmittel",
-            "Laboranalysen, Grenze, Drittstaaten"
+            "Laboranalysen",
+            "Grenze",
+            "Drittstaaten"
         ],
         "dct:accrualPeriodicity": "ANNUAL",
         "dct:modified": "2025-09-10",
@@ -1665,7 +1681,7 @@
         "schemaViolationMessages": [
             "'Title' does not match '[a-zA-Z0-9_\\\\-\\\\s]{10,75}'"
         ],
-        "quality": 2909.5
+        "quality": 2919.5
     },
     {
         "rdf:type": "dcat:Dataset",
