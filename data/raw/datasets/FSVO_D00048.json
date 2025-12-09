@@ -1,6 +1,6 @@
 {
     "dct:identifier": "FSVO_D00048",
-    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
     "dct:title": {
         "fr": "BVD",
         "de": "BVD",
@@ -20,14 +20,17 @@
     "dct:issued": "2025-01-01",
     "dcatap:availability": "STABLE",
     "dcat:keyword": [
-        "Tiergesundheit, Tierseuchenbekämpfung, Tierseuchenüberwachung, BVD"
+        "Tiergesundheit",
+        "Tierseuchenbekämpfung",
+        "Tierseuchenüberwachung",
+        "BVD"
     ],
     "dct:accrualPeriodicity": "CONT",
     "dct:modified": "2025-11-06",
     "prov:qualifiedAttribution": [
         {
             "prov:agent": "p-9089108",
-            "dcat:hadRole": "DataOwner"
+            "dcat:hadRole": "dataOwner"
         },
         {
             "prov:agent": "p-10001804",

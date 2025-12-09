@@ -1,0 +1,65 @@
+{
+    "dct:identifier": "FSVO_D00060",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
+    "dct:title": {
+        "fr": "Tierseuchendiagnostik (aRes-DB)",
+        "de": "Tierseuchendiagnostik (aRes-DB)",
+        "en": "Tierseuchendiagnostik (aRes-DB)",
+        "it": "Tierseuchendiagnostik (aRes-DB)"
+    },
+    "dct:description": {
+        "fr": "La collecte de données « Ares » comprend les résultats de laboratoire liés au diagnostic, à la surveillance et à la lutte contre les épizooties en Suisse. Elle recense les résultats d'analyses positifs et négatifs provenant de laboratoires de diagnostic accrédités, complétés par des informations sur l'espèce animale, l'exploitation d'origine, le matériel d'échantillonnage, la date de l'analyse et la méthode utilisée. Les données proviennent de programmes nationaux de surveillance, d'enquêtes ciblées en cas d'épidémie et d'examens diagnostiques individuels en cas de suspicion.\n\nL'objectif de cette base de données est de créer une vue d'ensemble centralisée, structurée et exploitable de la santé animale. Les données servent à prouver l'absence de certaines épizooties et le succès des mesures de lutte contre celles-ci, à identifier les foyers de maladie, à analyser les risques et à soutenir les enquêtes épidémiologiques. Ares permet une surveillance ciblée, améliore la coordination des mesures de lutte et fournit la base scientifique pour les décisions stratégiques de l'OSAV dans le domaine de la santé animale.",
+        "de": "Die Datensammlung «Ares» beinhaltet die Laborresultate im Zusammenhang mit der Diagnostik, Überwachung und Bekämpfung von Tierseuchen in der Schweiz. Erfasst werden sowohl positive wie negative Untersuchungsergebnisse aus akkreditierten Diagnostiklaboratorien, ergänzt durch Angaben zu Tierart, Herkunftsbetrieb, Probenmaterial, Untersuchungsdatum sowie angewandter Methodik. Die Daten stammen aus nationalen Überwachungsprogrammen, gezielten Abklärungen im Seuchenfall sowie aus diagnostischen Einzeluntersuchungen bei Verdachtsmeldungen.\n\nZiel der Datensammlung ist es, eine zentrale, strukturierte und auswertbare Übersicht zur Tiergesundheit zu schaffen. Die Daten dienen dem Freiheitsnachweis und dem Bekämpfungserfolg bestimmter Tierseuchen, der Identifikation von Krankheitsausbrüchen, der Risikoanalyse und der Unterstützung bei epidemiologischen Abklärungen. Ares ermöglicht ein gezieltes Monitoring, verbessert die Koordination von Bekämpfungsmassnahmen und liefert die wissenschaftliche Grundlage für strategische Entscheidungen des BLV im Bereich Tiergesundheit."
+    },
+    "dct:accessRights": "RESTRICTED",
+    "dct:publisher": "BLV-OSAV-USAV-FSVO",
+    "dcat:contactPoint": {
+        "schema:email": "infotgts@blv.admin.ch",
+        "schema:name": "BLV, TGTS, Tiergesundheit"
+    },
+    "dct:issued": "2025-01-01",
+    "dcatap:availability": "STABLE",
+    "dcat:keyword": [
+        "Tierseuchendiagnostik",
+        "Tierseuchen",
+        "Überwachung",
+        "Bekämpfung",
+        "Labore",
+        "Laborresultate"
+    ],
+    "dct:accrualPeriodicity": "CONT",
+    "dct:modified": "2025-12-02",
+    "prov:qualifiedAttribution": [
+        {
+            "prov:agent": "p-9089108",
+            "dcat:hadRole": "dataOwner"
+        },
+        {
+            "prov:agent": "p-9737669",
+            "dcat:hadRole": "dataSteward"
+        }
+    ],
+    "adms:status": "published",
+    "bv:classification": "internal",
+    "bv:personalData": "personalData",
+    "bv:typeOfData": "primaryThematicData",
+    "bv:archivalValue": true,
+    "bv:opendata_swiss": {
+        "bv:mustBePublished": "FALSE"
+    },
+    "bv:i14y": {
+        "bv:mustBePublished": true
+    },
+    "dcat:theme": [
+        "agriculture",
+        "national-economy",
+        "health"
+    ],
+    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tiergesundheit/ueberwachung.html",
+    "dct:spatial": "YES",
+    "dct:temporal": {},
+    "dcatap:applicableLegislation": [
+        "TSV Art 312c Abs 2: ISLMK-V Art1 Abs 1 b"
+    ],
+    "bv:itSystem": "ARES"
+}

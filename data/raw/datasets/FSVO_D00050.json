@@ -1,6 +1,6 @@
 {
     "dct:identifier": "FSVO_D00050",
-    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/Medicine.jpg",
     "dct:title": {
         "fr": "Vertriebsdaten von Antibiotika",
         "de": "Vertriebsdaten von Antibiotika",
@@ -20,14 +20,18 @@
     "dct:issued": "2025-01-01",
     "dcatap:availability": "STABLE",
     "dcat:keyword": [
-        "Tiergesundheit, Antibiotika, Tierarzneimittel, Veterinärmedizin, Resistenzmonitoring"
+        "Tiergesundheit",
+        "Antibiotika",
+        "Tierarzneimittel",
+        "Veterinärmedizin",
+        "Resistenzmonitoring"
     ],
     "dct:accrualPeriodicity": "CONT",
     "dct:modified": "2025-11-06",
     "prov:qualifiedAttribution": [
         {
             "prov:agent": "p-9079817",
-            "dcat:hadRole": "DataOwner"
+            "dcat:hadRole": "dataOwner"
         },
         {
             "prov:agent": "p-7891691",

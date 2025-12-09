@@ -1,0 +1,56 @@
+{
+    "dct:identifier": "FSVO_D00062",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
+    "dct:title": {
+        "fr": "LMS (Learning Management System) ",
+        "de": "LMS (Learning Management System) ",
+        "en": "LMS (Learning Management System) ",
+        "it": "LMS (Learning Management System) "
+    },
+    "dct:description": {
+        "fr": "Tous les participants y sont enregistrés. Les données de base sont le numéro AVS, puis le nom, le prénom, l'adresse e-mail, la langue, le sexe et l'adresse de facturation.",
+        "de": "Alle Kurse und Teilnehmenden werden dort erfasst. Als Basisdaten dient der AHV Nummer, dann noch Name, Vorname, Email Adresse, Sprache, Geschlecht und Rechnungsadresse. \nAlle Kurse sind in LMS erfasst, inklusiv Stundenpläne, Räumlichkeiten, Referierenden und Kursunterlagen."
+    },
+    "dct:accessRights": "RESTRICTED",
+    "dct:publisher": "BLV-OSAV-USAV-FSVO",
+    "dcat:contactPoint": {
+        "schema:email": "formation@blv.admin.ch",
+        "schema:name": "BLV, Bildung und Forschung"
+    },
+    "dct:issued": "2025-01-01",
+    "dcatap:availability": "STABLE",
+    "dcat:keyword": [
+        "Formale Bildung"
+    ],
+    "dct:accrualPeriodicity": "CONT",
+    "dct:modified": "2025-12-09",
+    "prov:qualifiedAttribution": [
+        {
+            "prov:agent": "p-2870835",
+            "dcat:hadRole": "dataOwner"
+        },
+        {
+            "prov:agent": "p-8552269",
+            "dcat:hadRole": "dataSteward"
+        }
+    ],
+    "adms:status": "published",
+    "bv:classification": "internal",
+    "bv:personalData": "personalData",
+    "bv:typeOfData": "unstructuredData",
+    "bv:archivalValue": false,
+    "bv:opendata_swiss": {
+        "bv:mustBePublished": "FALSE"
+    },
+    "bv:i14y": {
+        "bv:mustBePublished": true
+    },
+    "dcat:theme": [
+        "education"
+    ],
+    "dct:spatial": "NO",
+    "dct:temporal": {},
+    "dcatap:applicableLegislation": [
+        "SR 916.402 - Verordnung vom 16. November 2011 über die Aus-, Weiter- und Fortbildung der Personen im öffentlichen Veterinärwesen | Fedlex"
+    ]
+}

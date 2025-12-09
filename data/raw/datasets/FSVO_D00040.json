@@ -30,7 +30,7 @@
     "prov:qualifiedAttribution": [
         {
             "prov:agent": "p-9756818",
-            "dcat:hadRole": "DataOwner"
+            "dcat:hadRole": "dataOwner"
         },
         {
             "prov:agent": "p-9756818",

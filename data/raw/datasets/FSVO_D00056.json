@@ -1,0 +1,62 @@
+{
+    "dct:identifier": "FSVO_D00056",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
+    "dct:title": {
+        "fr": "Früherkennung kleiner Beutekäfer (Apinella)",
+        "de": "Früherkennung kleiner Beutekäfer (Apinella)",
+        "en": "Früherkennung kleiner Beutekäfer (Apinella)",
+        "it": "Früherkennung kleiner Beutekäfer (Apinella)"
+    },
+    "dct:description": {
+        "fr": "La base de données « Apinella » recueille systématiquement des informations sur la surveillance du petit coléoptère (Aethina tumida) en Suisse. Elle contient notamment des données sur l'emplacement des ruchers, les résultats de la surveillance des pièges et des analyses en laboratoire, les signalements des apiculteurs et les schémas historiques d'infestation. Elle intègre également les données de mouvement issues de la banque de données sur le trafic des animaux (BDTA) afin d'analyser les voies de propagation des colonies d'abeilles potentiellement touchées.\n\nCes données servent principalement à détecter précocement une éventuelle introduction ou apparition du petit coléoptère, qui représente un danger considérable pour la santé des abeilles et donc aussi pour l'agriculture. Grâce à la collecte et à l'évaluation systématiques des données, l'OSAV peut réagir rapidement aux cas suspects, effectuer des contrôles ciblés et prendre des mesures de lutte.\n\nLa collecte de données permet une analyse efficace des risques, facilite la planification stratégique en cas d'épidémie et renforce la collaboration avec les apiculteurs et les autorités cantonales chargées de l'exécution. Elle est un élément central pour maintenir la Suisse indemne de maladies dans le domaine de la santé des abeilles.",
+        "de": "Die Datensammlung «Apinella» erfasst systematisch Informationen zur Überwachung des Kleinen Beutekäfers (Aethina tumida) in der Schweiz. Sie beinhaltet unter anderem Standortdaten von Bienenständen, Ergebnisse von Fallenmonitoring und Laboranalysen, Meldungen von Imkerinnen und Imkern sowie historische Befallsmuster. Zusätzlich werden Bewegungsdaten aus der Tierverkehrsdatenbank (TVD) mit einbezogen, um Verbringungswege potenziell betroffener Bienenvölker zu analysieren.\n\nDiese Daten dienen primär der Früherkennung eines möglichen Eintrags oder Ausbruchs des Kleinen Beutekäfers, der eine erhebliche Gefahr für die Bienengesundheit und damit auch für die Landwirtschaft darstellt. Durch die systematische Sammlung und Auswertung kann das BLV rasch auf Verdachtsfälle reagieren, gezielte Kontrollen durchführen und Massnahmen zur Bekämpfung einleiten.\n\nDie Datensammlung ermöglicht eine effiziente Risikoanalyse, unterstützt die strategische Planung im Seuchenfall und stärkt die Zusammenarbeit mit Imkerinnen und Imkern sowie den kantonalen Vollzugsstellen. Sie ist ein zentrales Element zur Aufrechterhaltung der Seuchenfreiheit der Schweiz im Bereich Bienengesundheit."
+    },
+    "dct:accessRights": "RESTRICTED",
+    "dct:publisher": "BLV-OSAV-USAV-FSVO",
+    "dcat:contactPoint": {
+        "schema:email": "infotgts@blv.admin.ch",
+        "schema:name": "BLV, TGTS, Tiergesundheit"
+    },
+    "dct:issued": "2025-01-01",
+    "dcatap:availability": "STABLE",
+    "dcat:keyword": [
+        "Tiergesundheit",
+        "Überwachung",
+        "Beutekäfer",
+        "Bienen"
+    ],
+    "dct:accrualPeriodicity": "CONT",
+    "dct:modified": "2025-12-02",
+    "prov:qualifiedAttribution": [
+        {
+            "prov:agent": "p-9089108",
+            "dcat:hadRole": "dataOwner"
+        },
+        {
+            "prov:agent": "p-9737669",
+            "dcat:hadRole": "dataSteward"
+        }
+    ],
+    "adms:status": "published",
+    "bv:classification": "internal",
+    "bv:personalData": "personalData",
+    "bv:typeOfData": "primaryThematicData",
+    "bv:archivalValue": false,
+    "bv:opendata_swiss": {
+        "bv:mustBePublished": "FALSE"
+    },
+    "bv:i14y": {
+        "bv:mustBePublished": true
+    },
+    "dcat:theme": [
+        "agriculture",
+        "national-economy"
+    ],
+    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierseuchen/uebersicht-seuchen/alle-tierseuchen/kleiner-beutenkaefer.html",
+    "dct:spatial": "YES",
+    "dct:temporal": {},
+    "dcatap:applicableLegislation": [
+        ""
+    ],
+    "bv:itSystem": "APINELLA"
+}

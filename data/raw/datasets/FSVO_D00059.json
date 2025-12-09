@@ -1,0 +1,64 @@
+{
+    "dct:identifier": "FSVO_D00059",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
+    "dct:title": {
+        "fr": "Tierseuchenmeldungen (InfoSM)",
+        "de": "Tierseuchenmeldungen (InfoSM)",
+        "en": "Tierseuchenmeldungen (InfoSM)",
+        "it": "Tierseuchenmeldungen (InfoSM)"
+    },
+    "dct:description": {
+        "fr": "La collecte de données « Déclarations d'épizooties » sert à enregistrer, vérifier et gérer les cas d'épizooties soumis à déclaration en Suisse. Elle contient des données structurées sur les cas confirmés d'épizooties, y compris l'espèce animale, le nombre d'animaux concernés, les exploitations concernées, les diagnostics, les mesures prises et la répartition géographique. Les services vétérinaires cantonaux enregistrent ces notifications dans l'application ASAN. Après un examen technique, les cas sont validés pour publication par l'Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV).\n\nLa collecte de données permet d'avoir une vue d'ensemble centralisée et actualisée de la situation épidémiologique et sert de base aux obligations de déclaration nationales et internationales. Elle sert à la détection précoce des foyers, à la coordination des mesures de lutte et à l'évaluation des risques. La collecte de données contribue ainsi de manière décisive à la santé animale, au respect des obligations internationales et au maintien du statut de pays indemne de maladies animales en Suisse.",
+        "de": "Die Datensammlung «Tierseuchenmeldungen» dient der Erfassung, Prüfung und Verwaltung meldepflichtiger Tierseuchenfälle in der Schweiz. Sie enthält strukturierte Daten zu  Bestätigungsfällen von Tierseuchen, inklusive Tierart, Anzahl betroffener Tiere, betroffener Betriebe, Diagnosen, Massnahmen und geografischer Verteilung. Die kantonalen Veterinärdienste erfassen diese Meldungen in der Applikation ASAN. Nach einer fachlichen Prüfung werden die Fälle vom Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) zur Veröffentlichung freigegeben.\n\nDie Datensammlung ermöglicht die zentrale, aktuelle Übersicht über das Seuchengeschehen und bildet die Grundlage für nationale und internationale Meldepflichten. Sie dient der Früherkennung von Ausbrüchen, der Koordination von Bekämpfungsmassnahmen sowie der Risikobewertung. Die Datensammlung trägt damit entscheidend zur Tiergesundheit, zur Einhaltung internationaler Verpflichtungen und zur Aufrechterhaltung des Tierseuchenfreiheitsstatus der Schweiz bei."
+    },
+    "dct:accessRights": "RESTRICTED",
+    "dct:publisher": "BLV-OSAV-USAV-FSVO",
+    "dcat:contactPoint": {
+        "schema:email": "infotgts@blv.admin.ch",
+        "schema:name": "BLV, TGTS, Tiergesundheit"
+    },
+    "dct:issued": "2025-01-01",
+    "dcatap:availability": "STABLE",
+    "dcat:keyword": [
+        "InfoSM",
+        "Tierseuchen",
+        "meldepflicht",
+        "ASAN"
+    ],
+    "dct:accrualPeriodicity": "CONT",
+    "dct:modified": "2025-12-02",
+    "prov:qualifiedAttribution": [
+        {
+            "prov:agent": "p-9089108",
+            "dcat:hadRole": "dataOwner"
+        },
+        {
+            "prov:agent": "p-1ZWYN10VX",
+            "dcat:hadRole": "dataSteward"
+        }
+    ],
+    "adms:status": "published",
+    "bv:classification": "internal",
+    "bv:personalData": "personalData",
+    "bv:typeOfData": "primaryThematicData",
+    "bv:archivalValue": false,
+    "bv:opendata_swiss": {
+        "bv:mustBePublished": "FALSE",
+        "dct:identifier": "tierseuchen@bundesamt-fur-lebensmittelsicherheit-und-veterinaerwesen-blv",
+        "dcat:accessURL": "https://opendata.swiss/de/dataset/meldepflichtige-tierseuchen-in-der-schweiz"
+    },
+    "bv:i14y": {
+        "bv:mustBePublished": true
+    },
+    "dcat:theme": [
+        "agriculture",
+        "national-economy"
+    ],
+    "dcat:landingPage": "https://www.dashboard.blv.admin.ch/animals/epizootics/infosm/2025/44",
+    "dct:spatial": "YES",
+    "dct:temporal": {},
+    "dcatap:applicableLegislation": [
+        "TSG, TSV (Art. 64, 65), BStatV (Tiergesundheitsstatistik 09.39)"
+    ],
+    "bv:itSystem": "ASAN"
+}

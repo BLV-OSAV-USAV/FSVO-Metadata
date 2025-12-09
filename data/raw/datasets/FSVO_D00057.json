@@ -1,0 +1,61 @@
+{
+    "dct:identifier": "FSVO_D00057",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
+    "dct:title": {
+        "fr": "Salmonellenüberwachung: Liste der Mastpouletbetriebe",
+        "de": "Salmonellenüberwachung: Liste der Mastpouletbetriebe",
+        "en": "Salmonellenüberwachung: Liste der Mastpouletbetriebe",
+        "it": "Salmonellenüberwachung: Liste der Mastpouletbetriebe"
+    },
+    "dct:description": {
+        "fr": "Pour planifier la surveillance des salmonelles, les associations d'éleveurs de volaille exigent chaque année une liste des exploitations d'engraissement. Celles-ci ne peuvent pas être couvertes par les déclarations de mise en stabulation dans la BDTA, car les valeurs seuils se réfèrent au nombre de places disponibles.",
+        "de": "Für die Planung der Salmonellenüberwachung wird von den Geflügelzuchtverbänden jährlich eine Liste der Mastbetriebe eingefordert. Diese können nicht über die Einstallungsmeldungen in der TVD abgedeckt werden, da die Schwellenwerte sich auf die Anzahl verfügbaren Plätze bezieht."
+    },
+    "dct:accessRights": "RESTRICTED",
+    "dct:publisher": "BLV-OSAV-USAV-FSVO",
+    "dcat:contactPoint": {
+        "schema:email": "infotgts@blv.admin.ch",
+        "schema:name": "BLV, TGTS, Tiergesundheit"
+    },
+    "dct:issued": "2025-01-01",
+    "dcatap:availability": "STABLE",
+    "dcat:keyword": [
+        "Geflüge",
+        "Überwachung",
+        "Tierseuchen"
+    ],
+    "dct:accrualPeriodicity": "ANNUAL",
+    "dct:modified": "2025-12-02",
+    "prov:qualifiedAttribution": [
+        {
+            "prov:agent": "p-9089108",
+            "dcat:hadRole": "dataOwner"
+        },
+        {
+            "prov:agent": "p-5484119",
+            "dcat:hadRole": "dataSteward"
+        }
+    ],
+    "adms:status": "published",
+    "bv:classification": "internal",
+    "bv:personalData": "personalData",
+    "bv:typeOfData": "primaryThematicData",
+    "bv:archivalValue": false,
+    "bv:opendata_swiss": {
+        "bv:mustBePublished": "FALSE"
+    },
+    "bv:i14y": {
+        "bv:mustBePublished": true
+    },
+    "dcat:theme": [
+        "agriculture",
+        "national-economy"
+    ],
+    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tiergesundheit/ueberwachung/nationales-ueberwachungsprogramm.html",
+    "dct:spatial": "YES",
+    "dct:temporal": {},
+    "dcatap:applicableLegislation": [
+        "TSV Art. 76a"
+    ],
+    "bv:itSystem": "ASAN"
+}

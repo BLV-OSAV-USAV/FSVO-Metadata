@@ -1,6 +1,6 @@
 {
     "dct:identifier": "FSVO_D00042",
-    "schema:image": "https://www.pubhist.com/works/03/large/Willem%20van%20Aelst%20Still%20Life%20with%20Mouse.jpg",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/StillLifeWithMouse.jpg",
     "dct:title": {
         "fr": "Tierversuchsdaten",
         "de": "Tierversuchsdaten",
@@ -20,14 +20,23 @@
     "dct:issued": "2025-01-01",
     "dcatap:availability": "STABLE",
     "dcat:keyword": [
-        "Tierversuche, Tierversuchsstatistik, Versuchstiere, Versuchstierhaltung, Tierversuchsbewilligung, Belastungskategorien, Berichte, Versuchsdokumentation, Tiermodelle, Forschungsprojekte"
+        "Tierversuche",
+        "Tierversuchsstatistik",
+        "Versuchstiere",
+        "Versuchstierhaltung",
+        "Tierversuchsbewilligung",
+        "Belastungskategorien",
+        "Berichte",
+        "Versuchsdokumentation",
+        "Tiermodelle",
+        "Forschungsprojekte"
     ],
     "dct:accrualPeriodicity": "CONT",
     "dct:modified": "2025-11-05",
     "prov:qualifiedAttribution": [
         {
             "prov:agent": "p-9097640",
-            "dcat:hadRole": "DataOwner"
+            "dcat:hadRole": "dataOwner"
         },
         {
             "prov:agent": "p-1YZJ3753C",

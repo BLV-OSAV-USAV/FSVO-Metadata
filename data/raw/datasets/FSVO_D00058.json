@@ -1,0 +1,61 @@
+{
+    "dct:identifier": "FSVO_D00058",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
+    "dct:title": {
+        "fr": "Stichprobenplanung AI/ND / Liste Sentinelbetriebe AI/ND",
+        "de": "Stichprobenplanung AI/ND / Liste Sentinelbetriebe AI/ND",
+        "en": "Stichprobenplanung AI/ND / Liste Sentinelbetriebe AI/ND",
+        "it": "Stichprobenplanung AI/ND / Liste Sentinelbetriebe AI/ND"
+    },
+    "dct:description": {
+        "fr": "Chaque année, des exploitations avicoles sont sélectionnées sur la base de critères définis (facteurs de risque spécifiques) et doivent faire l'objet d'un échantillonnage sentinelle  par les cantons. La liste est importée dans Asan.",
+        "de": "Jährlich werden aufgrund von festgelegten Kriterien (spezifische Risikofaktoren) Geflügelbetriebe ausgewählt, die im Rahmen der Sentinelstichprobe  von den Kantonen beprobt werden müssen. Die Liste wird in Asan eingelesen."
+    },
+    "dct:accessRights": "RESTRICTED",
+    "dct:publisher": "BLV-OSAV-USAV-FSVO",
+    "dcat:contactPoint": {
+        "schema:email": "infotgts@blv.admin.ch",
+        "schema:name": "BLV, TGTS, Tiergesundheit"
+    },
+    "dct:issued": "2025-01-01",
+    "dcatap:availability": "STABLE",
+    "dcat:keyword": [
+        "Geflüge",
+        "Überwachung",
+        "Tierseuchen"
+    ],
+    "dct:accrualPeriodicity": "ANNUAL",
+    "dct:modified": "2025-12-02",
+    "prov:qualifiedAttribution": [
+        {
+            "prov:agent": "p-9089108",
+            "dcat:hadRole": "dataOwner"
+        },
+        {
+            "prov:agent": "p-21CLDTPPV",
+            "dcat:hadRole": "dataSteward"
+        }
+    ],
+    "adms:status": "published",
+    "bv:classification": "internal",
+    "bv:personalData": "personalData",
+    "bv:typeOfData": "primaryThematicData",
+    "bv:archivalValue": false,
+    "bv:opendata_swiss": {
+        "bv:mustBePublished": "FALSE"
+    },
+    "bv:i14y": {
+        "bv:mustBePublished": true
+    },
+    "dcat:theme": [
+        "agriculture",
+        "national-economy"
+    ],
+    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tiergesundheit/ueberwachung/nationales-ueberwachungsprogramm.html",
+    "dct:spatial": "YES",
+    "dct:temporal": {},
+    "dcatap:applicableLegislation": [
+        "TSV Art. 76a"
+    ],
+    "bv:itSystem": "ASAN"
+}

@@ -1,6 +1,6 @@
 {
     "dct:identifier": "FSVO_D00047",
-    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
     "dct:title": {
         "fr": "Moderhinkestatus",
         "de": "Moderhinkestatus",
@@ -20,14 +20,24 @@
     "dct:issued": "2025-01-01",
     "dcatap:availability": "STABLE",
     "dcat:keyword": [
-        "Schaf, Schafe, Schafhaltung, Schafherden, Moderhinke, Klauenkrankheit, bakterielle Erkrankung, Untersuchungsperiode, zu bekämpfende Tierseuche, nationales Bekämpfungsprogramm, Dichelobacter nodosus"
+        "Schaf",
+        "Schafe",
+        "Schafhaltung",
+        "Schafherden",
+        "Moderhinke",
+        "Klauenkrankheit",
+        "bakterielle Erkrankung",
+        "Untersuchungsperiode",
+        "zu bekämpfende Tierseuche",
+        "nationales Bekämpfungsprogramm",
+        "Dichelobacter nodosus"
     ],
     "dct:accrualPeriodicity": "CONT",
     "dct:modified": "2025-11-05",
     "prov:qualifiedAttribution": [
         {
             "prov:agent": "p-9089108",
-            "dcat:hadRole": "DataOwner"
+            "dcat:hadRole": "dataOwner"
         },
         {
             "prov:agent": "p-1YWHK15J4",
@@ -59,5 +69,6 @@
     "dcatap:applicableLegislation": [
         "Tierseuchenverordnung (TSV",
         "SR 916.401), Artikel 228–229i"
-    ]
+    ],
+    "bv:itSystem": "BI BLW"
 }

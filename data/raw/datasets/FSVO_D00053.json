@@ -1,6 +1,6 @@
 {
     "dct:identifier": "FSVO_D00053",
-    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/Medicine.jpg",
     "dct:title": {
         "fr": "Einfuhr von Tierarzneimittel",
         "de": "Einfuhr von Tierarzneimittel",
@@ -32,7 +32,7 @@
     "prov:qualifiedAttribution": [
         {
             "prov:agent": "p-9079817",
-            "dcat:hadRole": "DataOwner"
+            "dcat:hadRole": "dataOwner"
         },
         {
             "prov:agent": "p-7891691",

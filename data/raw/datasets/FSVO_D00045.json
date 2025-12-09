@@ -1,6 +1,6 @@
 {
     "dct:identifier": "FSVO_D00045",
-    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
     "dct:title": {
         "fr": "IBR/EBL NML Stichprobe",
         "de": "IBR/EBL NML Stichprobe",
@@ -20,14 +20,17 @@
     "dct:issued": "2025-01-01",
     "dcatap:availability": "STABLE",
     "dcat:keyword": [
-        "Tiergesundheit, Überwachung, IBR, EBL"
+        "Tiergesundheit",
+        "Überwachung",
+        "IBR",
+        "EBL"
     ],
     "dct:accrualPeriodicity": "ANNUAL",
     "dct:modified": "2025-11-05",
     "prov:qualifiedAttribution": [
         {
             "prov:agent": "p-9089108",
-            "dcat:hadRole": "DataOwner"
+            "dcat:hadRole": "dataOwner"
         },
         {
             "prov:agent": "p-20LQWYS00",
@@ -55,6 +58,7 @@
     "dcatap:applicableLegislation": [
         "Tierseuchenverordnung (TSV SR 916.401)"
     ],
+    "bv:itSystem": "ARES",
     "dcat:distribution": [
         {
             "dct:identifier": "FSVO_DIS000451",
