@@ -37,7 +37,7 @@
         }
     ],
     "adms:status": "published",
-    "bv:classification": "confidential",
+    "bv:classification": "none",
     "bv:personalData": "none",
     "bv:typeOfData": "primaryThematicData",
     "bv:archivalValue": true,

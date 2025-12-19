@@ -35,7 +35,7 @@
         }
     ],
     "adms:status": "published",
-    "bv:classification": "open",
+    "bv:classification": "none",
     "bv:personalData": "none",
     "bv:typeOfData": "unstructuredData",
     "bv:archivalValue": true,

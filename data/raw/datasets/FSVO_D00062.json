@@ -35,7 +35,7 @@
         }
     ],
     "adms:status": "published",
-    "bv:classification": "internal",
+    "bv:classification": "none",
     "bv:personalData": "personalData",
     "bv:typeOfData": "unstructuredData",
     "bv:archivalValue": false,
