@@ -30,7 +30,7 @@
         "dct:accrualPeriodicity": "IRREGULAR",
         "dct:modified": "2025-09-10",
         "adms:status": "published",
-        "bv:classification": "confidential",
+        "bv:classification": "none",
         "bv:personalData": "none",
         "bv:typeOfData": "primaryThematicData",
         "bv:archivalValue": true,
@@ -123,7 +123,7 @@
             "'Title' does not match '[a-zA-Z0-9_\\\\-\\\\s]{10,75}'",
             "'Title' does not match '[a-zA-Z0-9_\\\\-\\\\s]{10,75}'"
         ],
-        "quality": 2229.6666666666665
+        "quality": 2228.3333333333335
     },
     {
         "rdf:type": "dcat:Dataset",
@@ -156,7 +156,7 @@
         "dct:accrualPeriodicity": "DAILY",
         "dct:modified": "2025-09-10",
         "adms:status": "published",
-        "bv:classification": "confidential",
+        "bv:classification": "none",
         "bv:personalData": "personalData",
         "bv:typeOfData": "primaryThematicData",
         "bv:archivalValue": true,
@@ -205,7 +205,7 @@
             "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
             "None of [{'prov:agent': 'p-9756818', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-9756818', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema"
         ],
-        "quality": 2102.0
+        "quality": 2099.3333333333335
     },
     {
         "rdf:type": "dcat:Dataset",
@@ -239,7 +239,7 @@
         "dct:accrualPeriodicity": "DAILY",
         "dct:modified": "2025-09-10",
         "adms:status": "published",
-        "bv:classification": "confidential",
+        "bv:classification": "none",
         "bv:personalData": "personalData",
         "bv:typeOfData": "primaryThematicData",
         "bv:archivalValue": true,
@@ -288,7 +288,7 @@
             "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
             "None of [{'prov:agent': 'p-8859490', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-4501168', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema"
         ],
-        "quality": 2070.3333333333335
+        "quality": 2067.6666666666665
     },
     {
         "rdf:type": "dcat:Dataset",
@@ -462,7 +462,7 @@
         "dct:accrualPeriodicity": "ANNUAL",
         "dct:modified": "2025-11-05",
         "adms:status": "published",
-        "bv:classification": "internal",
+        "bv:classification": "none",
         "bv:personalData": "personalData",
         "bv:typeOfData": "primaryThematicData",
         "bv:archivalValue": false,
@@ -513,7 +513,7 @@
             "None of [{'prov:agent': 'p-9089108', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-20LQWYS00', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
             "'Title' does not match '[a-zA-Z0-9_\\\\-\\\\s]{10,75}'"
         ],
-        "quality": 1547.25
+        "quality": 1546.25
     },
     {
         "rdf:type": "dcat:Dataset",
@@ -626,7 +626,7 @@
         "dct:accrualPeriodicity": "MONTHLY",
         "dct:modified": "2025-09-10",
         "adms:status": "published",
-        "bv:classification": "confidential",
+        "bv:classification": "none",
         "bv:personalData": "personalData",
         "bv:typeOfData": "primaryThematicData",
         "bv:archivalValue": true,
@@ -651,7 +651,7 @@
             "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
             "None of [{'prov:agent': 'p-1582170', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-9531742', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema"
         ],
-        "quality": 1540.6666666666667
+        "quality": 1538.0
     },
     {
         "rdf:type": "dcat:Dataset",
@@ -685,7 +685,7 @@
         "dct:accrualPeriodicity": "ANNUAL",
         "dct:modified": "2025-11-05",
         "adms:status": "published",
-        "bv:classification": "internal",
+        "bv:classification": "none",
         "bv:personalData": "personalData",
         "bv:typeOfData": "primaryThematicData",
         "bv:archivalValue": false,
@@ -736,7 +736,7 @@
             "None of [{'prov:agent': 'p-9089108', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-20LQWYS00', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
             "'Title' does not match '[a-zA-Z0-9_\\\\-\\\\s]{10,75}'"
         ],
-        "quality": 1537.0
+        "quality": 1536.0
     },
     {
         "rdf:type": "dcat:Dataset",
@@ -825,7 +825,7 @@
         "dct:accrualPeriodicity": "CONT",
         "dct:modified": "2025-12-02",
         "adms:status": "published",
-        "bv:classification": "internal",
+        "bv:classification": "none",
         "bv:personalData": "personalData",
         "bv:typeOfData": "primaryThematicData",
         "bv:archivalValue": false,
@@ -852,7 +852,7 @@
             "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
             "None of [{'prov:agent': 'p-9089108', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-9737669', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema"
         ],
-        "quality": 1484.6666666666667
+        "quality": 1483.3333333333333
     },
     {
         "rdf:type": "dcat:Dataset",
@@ -886,7 +886,7 @@
         "dct:accrualPeriodicity": "CONT",
         "dct:modified": "2025-11-06",
         "adms:status": "published",
-        "bv:classification": "internal",
+        "bv:classification": "none",
         "bv:personalData": "personalData",
         "bv:typeOfData": "primaryThematicData",
         "bv:archivalValue": true,
@@ -913,7 +913,7 @@
             "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
             "None of [{'prov:agent': 'p-9079817', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-7891691', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema"
         ],
-        "quality": 1477.0
+        "quality": 1475.6666666666667
     },
     {
         "rdf:type": "dcat:Dataset",
@@ -948,7 +948,7 @@
         "dct:accrualPeriodicity": "CONT",
         "dct:modified": "2025-11-06",
         "adms:status": "published",
-        "bv:classification": "internal",
+        "bv:classification": "none",
         "bv:personalData": "personalData",
         "bv:typeOfData": "primaryThematicData",
         "bv:archivalValue": true,
@@ -975,7 +975,7 @@
             "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
             "None of [{'prov:agent': 'p-9079817', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-7891691', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema"
         ],
-        "quality": 1476.6666666666667
+        "quality": 1475.3333333333333
     },
     {
         "rdf:type": "dcat:Dataset",
@@ -1015,7 +1015,7 @@
         "dct:accrualPeriodicity": "CONT",
         "dct:modified": "2025-11-05",
         "adms:status": "published",
-        "bv:classification": "internal",
+        "bv:classification": "none",
         "bv:personalData": "personalData",
         "bv:typeOfData": "primaryThematicData",
         "bv:archivalValue": false,
@@ -1047,68 +1047,7 @@
             "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
             "None of [{'prov:agent': 'p-9089108', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-1YWHK15J4', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema"
         ],
-        "quality": 1468.0
-    },
-    {
-        "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00054",
-        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/Medicine.jpg",
-        "dct:title": {
-            "fr": "Antibiotikaeinsatz in der Veterinärmedizin",
-            "de": "Antibiotikaeinsatz in der Veterinärmedizin",
-            "en": "Antibiotikaeinsatz in der Veterinärmedizin",
-            "it": "Antibiotikaeinsatz in der Veterinärmedizin"
-        },
-        "dct:description": {
-            "fr": "Le système d'information sur les antibiotiques en médecine vétérinaire (ISABV) recueille des données détaillées sur la consommation d'antibiotiques en médecine vétérinaire. Les vétérinaires et les cabinets vétérinaires en Suisse sont tenus de déclarer tous les antibiotiques administrés ou prescrits aux animaux domestiques et aux animaux de rente. Ces déclarations contiennent des informations sur les espèces, le nombre d'animaux traités, les noms des préparations, les principes actifs, les quantités délivrées, la posologie, la fréquence et la durée du traitement, l'indication et le système organique concerné.\n\nLes données Vetribes et les données de consommation servent à surveiller la consommation d'antibiotiques et constituent une base essentielle de la Stratégie nationale suisse de lutte contre la résistance aux antibiotiques (StAR). Elles permettent d'identifier les tendances en matière d'utilisation des antibiotiques, d'évaluer les risques de manière ciblée et de planifier des mesures réglementaires et préventives fondées sur des données probantes. En outre, ces données sont nécessaires pour l'établissement de rapports internationaux (p. ex. à l'OIE) et contribuent à limiter le développement de résistances chez les animaux et les risques qui en découlent pour la santé publique.",
-            "de": "Das Informationssystem Antibiotika in der Veterinärmedizin (ISABV) erfasst detaillierte Daten zum Antibiotikaverbrauch in der Veterinärmedizin. Tierärzte bzw. Tierarztpraxen in der Schweiz sind dazu verpflichtet, alle an Heim- und Nutztiere verabreichten oder verschriebenen Antibiotika zu melden. Diese Meldungen enthalten Informationen zu Spezies, Anzahl der behandelten Tiere, Präparatnamen, Wirkstoffen, abgegebenen Mengen, Dosis, Behandlungsfrequenz, Behandlungsdauer, Indikation und betroffenem Organsystem.\n\nVetribes- und Verbrauchsdaten dienen der Überwachung des Antibiotikaverbrauchs und bilden eine zentrale Grundlage der Nationalen Strategie Antibiotikaresistenzen Schweiz (StAR). Sie ermöglichen es, Trends im Einsatz von Antibiotika zu erkennen, Risiken gezielt zu bewerten und regulatorische sowie präventive Massnahmen evidenzbasiert zu planen. Zudem sind die Daten für die internationale Berichterstattung (z. B. an die WOAH) erforderlich und tragen dazu bei, die Entwicklung von Resistenzen bei Tieren und die damit verbundenen Risiken für die öffentliche Gesundheit einzudämmen."
-        },
-        "dct:accessRights": "RESTRICTED",
-        "dct:publisher": "BLV-OSAV-USAV-FSVO",
-        "dcat:contactPoint": {
-            "schema:email": "tam@blv.admin.ch",
-            "schema:name": "BLV, TGTS, Tierarzneimittel"
-        },
-        "dct:issued": "2025-01-01",
-        "dcatap:availability": "STABLE",
-        "dcat:keyword": [
-            "Tiergesundheit",
-            "Antibiotika",
-            "Tierarzneimittel",
-            "Veterinärmedizin",
-            "Resistenzmonitoring"
-        ],
-        "dct:accrualPeriodicity": "CONT",
-        "dct:modified": "2025-11-06",
-        "adms:status": "published",
-        "bv:classification": "internal",
-        "bv:personalData": "personalData",
-        "bv:typeOfData": "primaryThematicData",
-        "bv:archivalValue": true,
-        "bv:opendata_swiss": {
-            "bv:mustBePublished": "FALSE"
-        },
-        "bv:i14y": {
-            "bv:mustBePublished": true
-        },
-        "dcat:theme": [
-            "agriculture",
-            "health"
-        ],
-        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierarzneimittel/antibiotika/sachgemaesser-antibiotikaeinsatz.html",
-        "dct:spatial": "YES",
-        "dct:temporal": {},
-        "dcatap:applicableLegislation": [
-            "Tierarzneimittelverordnung"
-        ],
-        "bv:itSystem": "IS ABV",
-        "businessDataOwner": null,
-        "schemaViolations": 2,
-        "schemaViolationMessages": [
-            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
-            "None of [{'prov:agent': 'p-9079817', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-7891691', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema"
-        ],
-        "quality": 1467.3333333333333
+        "quality": 1466.6666666666667
     },
     {
         "rdf:type": "dcat:Dataset",
@@ -1164,6 +1103,67 @@
         "schemaViolationMessages": [
             "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
             "None of [{'prov:agent': 'p-1YFBMPWKZ', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-2560681', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema"
+        ],
+        "quality": 1466.0
+    },
+    {
+        "rdf:type": "dcat:Dataset",
+        "dct:identifier": "FSVO_D00054",
+        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/Medicine.jpg",
+        "dct:title": {
+            "fr": "Antibiotikaeinsatz in der Veterinärmedizin",
+            "de": "Antibiotikaeinsatz in der Veterinärmedizin",
+            "en": "Antibiotikaeinsatz in der Veterinärmedizin",
+            "it": "Antibiotikaeinsatz in der Veterinärmedizin"
+        },
+        "dct:description": {
+            "fr": "Le système d'information sur les antibiotiques en médecine vétérinaire (ISABV) recueille des données détaillées sur la consommation d'antibiotiques en médecine vétérinaire. Les vétérinaires et les cabinets vétérinaires en Suisse sont tenus de déclarer tous les antibiotiques administrés ou prescrits aux animaux domestiques et aux animaux de rente. Ces déclarations contiennent des informations sur les espèces, le nombre d'animaux traités, les noms des préparations, les principes actifs, les quantités délivrées, la posologie, la fréquence et la durée du traitement, l'indication et le système organique concerné.\n\nLes données Vetribes et les données de consommation servent à surveiller la consommation d'antibiotiques et constituent une base essentielle de la Stratégie nationale suisse de lutte contre la résistance aux antibiotiques (StAR). Elles permettent d'identifier les tendances en matière d'utilisation des antibiotiques, d'évaluer les risques de manière ciblée et de planifier des mesures réglementaires et préventives fondées sur des données probantes. En outre, ces données sont nécessaires pour l'établissement de rapports internationaux (p. ex. à l'OIE) et contribuent à limiter le développement de résistances chez les animaux et les risques qui en découlent pour la santé publique.",
+            "de": "Das Informationssystem Antibiotika in der Veterinärmedizin (ISABV) erfasst detaillierte Daten zum Antibiotikaverbrauch in der Veterinärmedizin. Tierärzte bzw. Tierarztpraxen in der Schweiz sind dazu verpflichtet, alle an Heim- und Nutztiere verabreichten oder verschriebenen Antibiotika zu melden. Diese Meldungen enthalten Informationen zu Spezies, Anzahl der behandelten Tiere, Präparatnamen, Wirkstoffen, abgegebenen Mengen, Dosis, Behandlungsfrequenz, Behandlungsdauer, Indikation und betroffenem Organsystem.\n\nVetribes- und Verbrauchsdaten dienen der Überwachung des Antibiotikaverbrauchs und bilden eine zentrale Grundlage der Nationalen Strategie Antibiotikaresistenzen Schweiz (StAR). Sie ermöglichen es, Trends im Einsatz von Antibiotika zu erkennen, Risiken gezielt zu bewerten und regulatorische sowie präventive Massnahmen evidenzbasiert zu planen. Zudem sind die Daten für die internationale Berichterstattung (z. B. an die WOAH) erforderlich und tragen dazu bei, die Entwicklung von Resistenzen bei Tieren und die damit verbundenen Risiken für die öffentliche Gesundheit einzudämmen."
+        },
+        "dct:accessRights": "RESTRICTED",
+        "dct:publisher": "BLV-OSAV-USAV-FSVO",
+        "dcat:contactPoint": {
+            "schema:email": "tam@blv.admin.ch",
+            "schema:name": "BLV, TGTS, Tierarzneimittel"
+        },
+        "dct:issued": "2025-01-01",
+        "dcatap:availability": "STABLE",
+        "dcat:keyword": [
+            "Tiergesundheit",
+            "Antibiotika",
+            "Tierarzneimittel",
+            "Veterinärmedizin",
+            "Resistenzmonitoring"
+        ],
+        "dct:accrualPeriodicity": "CONT",
+        "dct:modified": "2025-11-06",
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "personalData",
+        "bv:typeOfData": "primaryThematicData",
+        "bv:archivalValue": true,
+        "bv:opendata_swiss": {
+            "bv:mustBePublished": "FALSE"
+        },
+        "bv:i14y": {
+            "bv:mustBePublished": true
+        },
+        "dcat:theme": [
+            "agriculture",
+            "health"
+        ],
+        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierarzneimittel/antibiotika/sachgemaesser-antibiotikaeinsatz.html",
+        "dct:spatial": "YES",
+        "dct:temporal": {},
+        "dcatap:applicableLegislation": [
+            "Tierarzneimittelverordnung"
+        ],
+        "bv:itSystem": "IS ABV",
+        "businessDataOwner": null,
+        "schemaViolations": 2,
+        "schemaViolationMessages": [
+            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
+            "None of [{'prov:agent': 'p-9079817', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-7891691', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema"
         ],
         "quality": 1466.0
     },
@@ -1279,7 +1279,7 @@
         "dct:accrualPeriodicity": "MONTHLY",
         "dct:modified": "2025-09-10",
         "adms:status": "published",
-        "bv:classification": "confidential",
+        "bv:classification": "none",
         "bv:personalData": "personalData",
         "bv:typeOfData": "primaryThematicData",
         "bv:archivalValue": true,
@@ -1306,7 +1306,7 @@
             "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
             "None of [{'prov:agent': 'p-1582170', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-9531742', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema"
         ],
-        "quality": 1449.0
+        "quality": 1446.3333333333333
     },
     {
         "rdf:type": "dcat:Dataset",
@@ -1340,7 +1340,7 @@
         "dct:accrualPeriodicity": "CONT",
         "dct:modified": "2025-11-06",
         "adms:status": "published",
-        "bv:classification": "internal",
+        "bv:classification": "none",
         "bv:personalData": "personalData",
         "bv:typeOfData": "primaryThematicData",
         "bv:archivalValue": true,
@@ -1367,7 +1367,7 @@
             "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
             "None of [{'prov:agent': 'p-9079817', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-7891691', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema"
         ],
-        "quality": 1432.3333333333333
+        "quality": 1431.0
     },
     {
         "rdf:type": "dcat:Dataset",
@@ -1400,7 +1400,7 @@
         "dct:accrualPeriodicity": "CONT",
         "dct:modified": "2025-12-02",
         "adms:status": "published",
-        "bv:classification": "internal",
+        "bv:classification": "none",
         "bv:personalData": "personalData",
         "bv:typeOfData": "primaryThematicData",
         "bv:archivalValue": false,
@@ -1429,7 +1429,7 @@
             "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
             "None of [{'prov:agent': 'p-9089108', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-1ZWYN10VX', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema"
         ],
-        "quality": 1420.0
+        "quality": 1418.6666666666667
     },
     {
         "rdf:type": "dcat:Dataset",
@@ -1464,7 +1464,7 @@
         "dct:accrualPeriodicity": "CONT",
         "dct:modified": "2025-12-02",
         "adms:status": "published",
-        "bv:classification": "internal",
+        "bv:classification": "none",
         "bv:personalData": "personalData",
         "bv:typeOfData": "primaryThematicData",
         "bv:archivalValue": true,
@@ -1492,7 +1492,7 @@
             "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
             "None of [{'prov:agent': 'p-9089108', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-9737669', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema"
         ],
-        "quality": 1393.3333333333333
+        "quality": 1392.0
     },
     {
         "rdf:type": "dcat:Dataset",
@@ -1523,7 +1523,7 @@
         "dct:accrualPeriodicity": "MONTHLY",
         "dct:modified": "2025-09-10",
         "adms:status": "published",
-        "bv:classification": "confidential",
+        "bv:classification": "none",
         "bv:personalData": "personalData",
         "bv:typeOfData": "primaryThematicData",
         "bv:archivalValue": true,
@@ -1551,7 +1551,7 @@
             "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
             "None of [{'prov:agent': 'p-1YFBMPWKZ', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-2560681', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema"
         ],
-        "quality": 1364.0
+        "quality": 1361.3333333333333
     },
     {
         "rdf:type": "dcat:Dataset",
@@ -1643,7 +1643,7 @@
         "dct:accrualPeriodicity": "CONT",
         "dct:modified": "2025-11-06",
         "adms:status": "published",
-        "bv:classification": "internal",
+        "bv:classification": "none",
         "bv:personalData": "personalData",
         "bv:typeOfData": "primaryThematicData",
         "bv:archivalValue": true,
@@ -1670,7 +1670,7 @@
             "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
             "None of [{'prov:agent': 'p-9079817', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-7891691', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema"
         ],
-        "quality": 1335.6666666666667
+        "quality": 1334.3333333333333
     },
     {
         "rdf:type": "dcat:Dataset",
@@ -1766,7 +1766,7 @@
         "dct:accrualPeriodicity": "AS_NEEDED",
         "dct:modified": "2025-11-06",
         "adms:status": "published",
-        "bv:classification": "internal",
+        "bv:classification": "none",
         "bv:personalData": "none",
         "bv:typeOfData": "primaryThematicData",
         "bv:archivalValue": true,
@@ -1795,7 +1795,7 @@
             "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
             "None of [{'prov:agent': 'p-1521097', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-2971195', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema"
         ],
-        "quality": 1290.3333333333333
+        "quality": 1289.0
     },
     {
         "rdf:type": "dcat:Dataset",
@@ -1827,7 +1827,7 @@
         "dct:accrualPeriodicity": "MONTHLY",
         "dct:modified": "2025-09-10",
         "adms:status": "published",
-        "bv:classification": "confidential",
+        "bv:classification": "none",
         "bv:personalData": "personalData",
         "bv:typeOfData": "primaryThematicData",
         "bv:archivalValue": true,
@@ -1855,7 +1855,7 @@
             "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
             "None of [{'prov:agent': 'p-1YFBMPWKZ', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-2560681', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema"
         ],
-        "quality": 1202.0
+        "quality": 1199.3333333333333
     },
     {
         "rdf:type": "dcat:Dataset",
@@ -1887,7 +1887,7 @@
         "dct:accrualPeriodicity": "MONTHLY",
         "dct:modified": "2025-09-10",
         "adms:status": "published",
-        "bv:classification": "confidential",
+        "bv:classification": "none",
         "bv:personalData": "personalData",
         "bv:typeOfData": "primaryThematicData",
         "bv:archivalValue": true,
@@ -1915,7 +1915,7 @@
             "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
             "None of [{'prov:agent': 'p-1582170', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-2380008', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema"
         ],
-        "quality": 1194.3333333333333
+        "quality": 1191.6666666666667
     },
     {
         "rdf:type": "dcat:Dataset",
@@ -1946,7 +1946,7 @@
         "dct:accrualPeriodicity": "CONT",
         "dct:modified": "2025-12-02",
         "adms:status": "published",
-        "bv:classification": "confidential",
+        "bv:classification": "none",
         "bv:personalData": "sensitivePersonalData",
         "bv:typeOfData": "primaryThematicData",
         "bv:archivalValue": false,
@@ -1972,7 +1972,7 @@
             "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
             "None of [{'prov:agent': 'p-1521097', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-20FY4HFRV', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema"
         ],
-        "quality": 1171.6666666666667
+        "quality": 1169.0
     },
     {
         "rdf:type": "dcat:Dataset",
@@ -2011,7 +2011,7 @@
         "dct:accrualPeriodicity": "CONT",
         "dct:modified": "2025-11-05",
         "adms:status": "published",
-        "bv:classification": "confidential",
+        "bv:classification": "internal",
         "bv:personalData": "sensitivePersonalData",
         "bv:typeOfData": "primaryThematicData",
         "bv:archivalValue": true,
@@ -2044,7 +2044,7 @@
             "None of [{'prov:agent': 'p-9097640', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-1YZJ3753C', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
             "'research' is not one of ['', 'work', 'construction', 'population', 'education', 'energy', 'finances', 'geography', 'legislation', 'health', 'trade', 'industry', 'crime', 'culture', 'agriculture', 'mobility', 'public-order', 'politics', 'prices', 'territory', 'social-security', 'statistical-basis', 'tourism', 'administration', 'national-economy']"
         ],
-        "quality": 1162.5
+        "quality": 1161.5
     },
     {
         "rdf:type": "dcat:Dataset",
@@ -2166,7 +2166,7 @@
         "dct:accrualPeriodicity": "ANNUAL",
         "dct:modified": "2025-11-05",
         "adms:status": "published",
-        "bv:classification": "internal",
+        "bv:classification": "none",
         "bv:personalData": "none",
         "bv:typeOfData": "primaryThematicData",
         "bv:archivalValue": false,
@@ -2224,7 +2224,7 @@
             "None of [{'prov:agent': 'p-9097640', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-1YZJ3753C', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
             "'research' is not one of ['', 'work', 'construction', 'population', 'education', 'energy', 'finances', 'geography', 'legislation', 'health', 'trade', 'industry', 'crime', 'culture', 'agriculture', 'mobility', 'public-order', 'politics', 'prices', 'territory', 'social-security', 'statistical-basis', 'tourism', 'administration', 'national-economy']"
         ],
-        "quality": 1103.5
+        "quality": 1102.5
     },
     {
         "rdf:type": "dcat:Dataset",
@@ -2256,7 +2256,7 @@
         "dct:accrualPeriodicity": "MONTHLY",
         "dct:modified": "2025-09-10",
         "adms:status": "published",
-        "bv:classification": "confidential",
+        "bv:classification": "none",
         "bv:personalData": "none",
         "bv:typeOfData": "primaryThematicData",
         "bv:archivalValue": true,
@@ -2282,7 +2282,7 @@
             "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
             "None of [{'prov:agent': 'p-1YFBMPWKZ', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-2560681', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema"
         ],
-        "quality": 1078.6666666666667
+        "quality": 1076.0
     },
     {
         "rdf:type": "dcat:Dataset",
@@ -2374,7 +2374,7 @@
         "dct:accrualPeriodicity": "AS_NEEDED",
         "dct:modified": "2025-12-02",
         "adms:status": "published",
-        "bv:classification": "internal",
+        "bv:classification": "none",
         "bv:personalData": "none",
         "bv:typeOfData": "primaryThematicData",
         "bv:archivalValue": true,
@@ -2402,7 +2402,7 @@
             "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
             "None of [{'prov:agent': 'p-1521097', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-1Y6QDXMPY', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema"
         ],
-        "quality": 976.3333333333334
+        "quality": 975.0
     },
     {
         "rdf:type": "dcat:Dataset",
@@ -2434,7 +2434,7 @@
         "dct:accrualPeriodicity": "ANNUAL",
         "dct:modified": "2025-11-05",
         "adms:status": "published",
-        "bv:classification": "internal",
+        "bv:classification": "none",
         "bv:personalData": "personalData",
         "bv:typeOfData": "primaryThematicData",
         "bv:archivalValue": false,
@@ -2461,7 +2461,7 @@
             "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
             "None of [{'prov:agent': 'p-9089108', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-20LQWYS00', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema"
         ],
-        "quality": 963.6666666666666
+        "quality": 962.3333333333334
     },
     {
         "rdf:type": "dcat:Dataset",
@@ -2493,7 +2493,7 @@
         "dct:accrualPeriodicity": "ANNUAL",
         "dct:modified": "2025-12-02",
         "adms:status": "published",
-        "bv:classification": "internal",
+        "bv:classification": "none",
         "bv:personalData": "personalData",
         "bv:typeOfData": "primaryThematicData",
         "bv:archivalValue": false,
@@ -2520,7 +2520,7 @@
             "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
             "None of [{'prov:agent': 'p-9089108', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-5484119', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema"
         ],
-        "quality": 842.6666666666666
+        "quality": 841.3333333333334
     },
     {
         "rdf:type": "dcat:Dataset",
@@ -2552,7 +2552,7 @@
         "dct:accrualPeriodicity": "ANNUAL",
         "dct:modified": "2025-12-02",
         "adms:status": "published",
-        "bv:classification": "internal",
+        "bv:classification": "none",
         "bv:personalData": "personalData",
         "bv:typeOfData": "primaryThematicData",
         "bv:archivalValue": false,
@@ -2579,7 +2579,7 @@
             "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
             "None of [{'prov:agent': 'p-9089108', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-21CLDTPPV', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema"
         ],
-        "quality": 797.3333333333334
+        "quality": 796.0
     },
     {
         "rdf:type": "dcat:Dataset",
@@ -2609,7 +2609,7 @@
         "dct:accrualPeriodicity": "CONT",
         "dct:modified": "2025-12-09",
         "adms:status": "published",
-        "bv:classification": "internal",
+        "bv:classification": "none",
         "bv:personalData": "personalData",
         "bv:typeOfData": "unstructuredData",
         "bv:archivalValue": false,
@@ -2633,7 +2633,7 @@
             "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
             "None of [{'prov:agent': 'p-2870835', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-8552269', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema"
         ],
-        "quality": 727.3333333333334
+        "quality": 726.0
     },
     {
         "rdf:type": "dcat:Dataset",
@@ -2666,7 +2666,7 @@
         "dct:accrualPeriodicity": "CONT",
         "dct:modified": "2025-11-06",
         "adms:status": "published",
-        "bv:classification": "internal",
+        "bv:classification": "none",
         "bv:personalData": "personalData",
         "bv:typeOfData": "primaryThematicData",
         "bv:archivalValue": true,
@@ -2701,7 +2701,7 @@
             "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
             "None of [{'prov:agent': 'p-9089108', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-10001804', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema"
         ],
-        "quality": 643.2857142857143
+        "quality": 642.7142857142857
     },
     {
         "rdf:type": "dcat:Dataset",
@@ -2797,7 +2797,7 @@
         "dct:accrualPeriodicity": "CONT",
         "dct:modified": "2025-12-09",
         "adms:status": "published",
-        "bv:classification": "open",
+        "bv:classification": "none",
         "bv:personalData": "none",
         "bv:typeOfData": "unstructuredData",
         "bv:archivalValue": true,
@@ -2821,17 +2821,79 @@
             ""
         ],
         "businessDataOwner": null,
-        "schemaViolations": 7,
+        "schemaViolations": 6,
         "schemaViolationMessages": [
             "'ARAMIS' does not match '[a-zA-Z0-9_\\\\-\\\\s]{10,75}'",
             "'ARAMIS' does not match '[a-zA-Z0-9_\\\\-\\\\s]{10,75}'",
             "'ARAMIS' does not match '[a-zA-Z0-9_\\\\-\\\\s]{10,75}'",
             "'OPEN' is not one of ['', 'CONFIDENTIAL', 'NON_PUBLIC', 'PUBLIC', 'RESTRICTED', 'SENSITIVE']",
             "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
-            "None of [{'prov:agent': 'p-2870835', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-8552269', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
-            "'open' is not one of ['', 'none', 'internal', 'confidential', 'secret']"
+            "None of [{'prov:agent': 'p-2870835', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-8552269', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema"
         ],
-        "quality": 462.5
+        "quality": 528.5714285714286
+    },
+    {
+        "rdf:type": "dcat:Dataset",
+        "dct:identifier": "FSVO_D00065",
+        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
+        "dct:title": {
+            "fr": "Monitoringprogramm Pestizidrückstände",
+            "de": "Monitoringprogramm Pestizidrückstände",
+            "en": "Monitoringprogramm Pestizidrückstände",
+            "it": "Monitoringprogramm Pestizidrückstände"
+        },
+        "dct:description": {
+            "fr": "Die Datensammlung umfasst Ergebnisse aus dem nationalen Monitoring von Pestizidrückständen in Lebensmitteln, die gemäss Durchführungsverordnung EU 2025/854 für das BLV erhoben werden. Dabei werden Analysewerte zu Rückständen von Pflanzenschutzmittelwirkstoffen in unterschiedlichsten Produkten sowie Informationen zur Konformität mit gesetzlichen Höchstgehalten erfasst. Die Daten fliessen in die jährlichen Monitoringberichte zu Pestizidrückständen ein: https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/lebensmittelsicherheit/stoffe-im-fokus/pflanzenschutzmittel.html. Die Datensammlung gibt Hinweise zur Exposition der Bevölkerung gegenüber Pestizidrückständen in beliebten Lebensmitteln. Zudem unterstützt sie die Risikobewertung und Regulierung von Pflanzenschutzmitteln sowie die Ableitung von Maßnahmen zum Schutz der Konsumentinnen und Konsumenten.  ",
+            "de": "Die Datensammlung umfasst Ergebnisse aus dem nationalen Monitoring von Pestizidrückständen in Lebensmitteln, die gemäss Durchführungsverordnung EU 2025/854 für das BLV erhoben werden. Dabei werden Analysewerte zu Rückständen von Pflanzenschutzmittelwirkstoffen in unterschiedlichsten Produkten sowie Informationen zur Konformität mit gesetzlichen Höchstgehalten erfasst. Die Daten fliessen in die jährlichen Monitoringberichte zu Pestizidrückständen ein: https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/lebensmittelsicherheit/stoffe-im-fokus/pflanzenschutzmittel.html. Die Datensammlung gibt Hinweise zur Exposition der Bevölkerung gegenüber Pestizidrückständen in beliebten Lebensmitteln. Zudem unterstützt sie die Risikobewertung und Regulierung von Pflanzenschutzmitteln sowie die Ableitung von Maßnahmen zum Schutz der Konsumentinnen und Konsumenten.  "
+        },
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BLV-OSAV-USAV-FSVO",
+        "dcat:contactPoint": {
+            "schema:email": "lme@blv.admin.ch",
+            "schema:name": "BLV, LME, Lebensmittelhygiene"
+        },
+        "dcatap:availability": "STABLE",
+        "dcat:keyword": [
+            "Pestizide",
+            "Rückstände",
+            "Pflanzenschutzmittel",
+            "Biozide"
+        ],
+        "dct:accrualPeriodicity": "MONTHLY",
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:typeOfData": "primaryThematicData",
+        "bv:archivalValue": true,
+        "bv:opendata_swiss": {
+            "bv:mustBePublished": "FALSE"
+        },
+        "bv:i14y": {
+            "bv:mustBePublished": true
+        },
+        "dcat:theme": [
+            "agriculture",
+            "health"
+        ],
+        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/lebensmittelsicherheit/stoffe-im-fokus/pflanzenschutzmittel.html",
+        "dct:spatial": "NO",
+        "dct:temporal": {},
+        "dcatap:applicableLegislation": [
+            "LMG",
+            "LGV",
+            "VPRH"
+        ],
+        "businessDataOwner": null,
+        "schemaViolations": 6,
+        "schemaViolationMessages": [
+            "'dct:issued' is a required property",
+            "'dct:modified' is a required property",
+            "'prov:agent' is a required property",
+            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
+            "'prov:agent' is a required property",
+            "None of [{'dcat:hadRole': 'dataOwner'}, {'dcat:hadRole': 'dataSteward'}] are valid under the given schema"
+        ],
+        "quality": 502.57142857142856
     },
     {
         "rdf:type": "dcat:Dataset",
@@ -2861,7 +2923,7 @@
         "dct:accrualPeriodicity": "CONT",
         "dct:modified": "2025-12-09",
         "adms:status": "published",
-        "bv:classification": "internal ",
+        "bv:classification": "none",
         "bv:personalData": "personalData",
         "bv:typeOfData": "unstructuredData ",
         "bv:archivalValue": false,
@@ -2880,15 +2942,14 @@
             "SR 916.402 - Verordnung vom 16. November 2011 über die Aus-, Weiter- und Fortbildung der Personen im öffentlichen Veterinärwesen | Fedlex"
         ],
         "businessDataOwner": null,
-        "schemaViolations": 6,
+        "schemaViolations": 5,
         "schemaViolationMessages": [
             "'RESTRICTED ' is not one of ['', 'CONFIDENTIAL', 'NON_PUBLIC', 'PUBLIC', 'RESTRICTED', 'SENSITIVE']",
             "'STABLE ' is not one of ['', 'AVAILABLE', 'EXPERIMENTAL', 'STABLE', 'TEMPORARY']",
             "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
             "None of [{'prov:agent': 'p-2870835', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-8552269', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
-            "'internal ' is not one of ['', 'none', 'internal', 'confidential', 'secret']",
             "'unstructuredData ' is not one of ['', 'primaryThematicData', 'secondaryThematicData', 'referenceData', 'masterData', 'unstructuredData']"
         ],
-        "quality": 255.14285714285714
+        "quality": 296.8333333333333
     }
 ]
