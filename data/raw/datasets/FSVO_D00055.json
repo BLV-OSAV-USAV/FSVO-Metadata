@@ -53,7 +53,7 @@
     "dct:spatial": "NO",
     "dct:temporal": {},
     "dcatap:applicableLegislation": [
-        "TSV Art. 212a  Tierhalteverbote, ins besondere Abs. 2"
+        "https://www.fedlex.admin.ch/eli/cc/2008/414/de#art_23"
     ],
     "bv:itSystem": "ASAN"
 }
