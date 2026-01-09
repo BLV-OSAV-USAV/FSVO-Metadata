@@ -1963,7 +1963,7 @@
         "dct:spatial": "NO",
         "dct:temporal": {},
         "dcatap:applicableLegislation": [
-            "TSV Art. 212a  Tierhalteverbote, ins besondere Abs. 2"
+            "https://www.fedlex.admin.ch/eli/cc/2008/414/de#art_23"
         ],
         "bv:itSystem": "ASAN",
         "businessDataOwner": null,
@@ -1972,7 +1972,7 @@
             "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
             "None of [{'prov:agent': 'p-1521097', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-20FY4HFRV', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema"
         ],
-        "quality": 1169.0
+        "quality": 1168.6666666666667
     },
     {
         "rdf:type": "dcat:Dataset",
