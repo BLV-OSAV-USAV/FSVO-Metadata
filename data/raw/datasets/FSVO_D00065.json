@@ -17,6 +17,7 @@
         "schema:email": "lme@blv.admin.ch",
         "schema:name": "BLV, LME, Lebensmittelhygiene"
     },
+    "dct:issued": "2026-01-01",
     "dcatap:availability": "STABLE",
     "dcat:keyword": [
         "Pestizide",
@@ -25,11 +26,14 @@
         "Biozide"
     ],
     "dct:accrualPeriodicity": "MONTHLY",
+    "dct:modified": "2026-01-14",
     "prov:qualifiedAttribution": [
         {
+            "prov:agent": "p-1582170",
             "dcat:hadRole": "dataOwner"
         },
         {
+            "prov:agent": "p-2806869",
             "dcat:hadRole": "dataSteward"
         }
     ],
@@ -37,12 +41,12 @@
     "bv:classification": "none",
     "bv:personalData": "none",
     "bv:typeOfData": "primaryThematicData",
-    "bv:archivalValue": true,
+    "bv:archivalValue": "TRUE",
     "bv:opendata_swiss": {
         "bv:mustBePublished": "FALSE"
     },
     "bv:i14y": {
-        "bv:mustBePublished": true
+        "bv:mustBePublished": "TRUE"
     },
     "dcat:theme": [
         "agriculture",

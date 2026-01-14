@@ -41,14 +41,14 @@
     "bv:classification": "none",
     "bv:personalData": "personalData",
     "bv:typeOfData": "primaryThematicData",
-    "bv:archivalValue": true,
+    "bv:archivalValue": "TRUE",
     "bv:opendata_swiss": {
         "bv:mustBePublished": "TRUE",
         "dct:identifier": "bvd_ampel@bundesamt-fur-lebensmittelsicherheit-und-veterinaerwesen-blv",
         "dcat:accessURL": "https://opendata.swiss/de/dataset/bvd-ampel"
     },
     "bv:i14y": {
-        "bv:mustBePublished": true
+        "bv:mustBePublished": "TRUE"
     },
     "dcat:theme": [
         "agriculture",

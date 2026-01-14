@@ -41,14 +41,14 @@
     "bv:classification": "none",
     "bv:personalData": "none",
     "bv:typeOfData": "primaryThematicData",
-    "bv:archivalValue": true,
+    "bv:archivalValue": "TRUE",
     "bv:opendata_swiss": {
         "bv:mustBePublished": "TRUE",
         "dct:identifier": "menuCH_portionsgroessen_2014_2015@bundesamt-fur-lebensmittelsicherheit-und-veterinaerwesen-blv; menuCH_lebensmittelkonsum_2014_2015@bundesamt-fur-lebensmittelsicherheit-und-veterinaerwesen-blv",
         "dcat:accessURL": "https://opendata.swiss/de/dataset/menuch-portionsgrossen; https://opendata.swiss/de/dataset/menuch-portionsgrossen"
     },
     "bv:i14y": {
-        "bv:mustBePublished": true
+        "bv:mustBePublished": "TRUE"
     },
     "dcat:theme": [
         "health"

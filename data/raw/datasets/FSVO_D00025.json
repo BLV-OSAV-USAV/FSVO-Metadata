@@ -39,12 +39,12 @@
     "bv:classification": "none",
     "bv:personalData": "personalData",
     "bv:typeOfData": "primaryThematicData",
-    "bv:archivalValue": true,
+    "bv:archivalValue": "TRUE",
     "bv:opendata_swiss": {
         "bv:mustBePublished": "NO"
     },
     "bv:i14y": {
-        "bv:mustBePublished": false
+        "bv:mustBePublished": "FALSE"
     },
     "dcat:theme": [
         "health"

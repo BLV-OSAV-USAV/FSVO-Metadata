@@ -1,0 +1,57 @@
+{
+    "dct:identifier": "FSVO_D00066",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/Red_Vineyard.jpg",
+    "dct:title": {
+        "fr": "Zulassung von Pflanzenschutzmittel",
+        "de": "Zulassung von Pflanzenschutzmittel",
+        "en": "Zulassung von Pflanzenschutzmittel",
+        "it": "Zulassung von Pflanzenschutzmittel"
+    },
+    "dct:description": {
+        "fr": "La base de données sur les produits phytosanitaires contient des informations complètes sur tous les produits autorisés et faisant l'objet d'une demande d'autorisation en Suisse. Elle comprend des indications sur les substances actives, les domaines d'application, les cultures autorisées, les dosages ainsi que les risques et effets secondaires possibles. Elle recense en outre les résultats des contrôles réguliers effectués afin de garantir que les produits continuent de satisfaire aux exigences scientifiques et légales en vigueur.\nTous les produits retirés du marché (depuis environ 2000) sont également disponibles dans la base de données.",
+        "de": "Die Datensammlung zu Pflanzenschutzmitteln beinhaltet umfassende Informationen zu allen in der Schweiz zugelassenen und beantragten Produkten. Sie enthält Angaben zu Wirkstoffen, Anwendungsgebieten, zugelassenen Kulturen, Dosierungen sowie zu möglichen Risiken und Nebenwirkungen. Zudem werden die Ergebnisse der regelmässigen Überprüfungen erfasst, um sicherzustellen, dass die Produkte weiterhin den aktuellen wissenschaftlichen und rechtlichen Anforderungen entsprechen.\nAuch alle zurückgezogenen Produkte (ab ca. dem Jahr 2000), sind in der Datensammlung verfügbar.\n\n"
+    },
+    "dct:accessRights": "RESTRICTED",
+    "dct:publisher": "BLV-OSAV-USAV-FSVO",
+    "dcat:contactPoint": {
+        "schema:email": "pflanzenschutzmittel@blv.admin.ch",
+        "schema:name": "BLV, Zulassungsstelle PSM"
+    },
+    "dct:issued": "2026-01-01",
+    "dcatap:availability": "STABLE",
+    "dcat:keyword": [
+        "Pflanzenschutzmittel, Zulassung, Bewilligung"
+    ],
+    "dct:accrualPeriodicity": "CONT",
+    "dct:modified": "2026-01-14",
+    "prov:qualifiedAttribution": [
+        {
+            "prov:agent": "p-1XHMH0D35",
+            "dcat:hadRole": "dataOwner"
+        },
+        {
+            "prov:agent": "p-1XHMGZCHC",
+            "dcat:hadRole": "dataSteward"
+        }
+    ],
+    "adms:status": "published",
+    "bv:classification": "non",
+    "bv:personalData": "sensitivePersonalData",
+    "bv:typeOfData": "thematicData",
+    "bv:archivalValue": "no",
+    "bv:opendata_swiss": {
+        "bv:mustBePublished": "no"
+    },
+    "bv:i14y": {
+        "bv:mustBePublished": "yes"
+    },
+    "dcat:theme": [
+        "agriculture, national-economy, territory, health"
+    ],
+    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/zulassung-pflanzenschutzmittel/zulassungsverfahren.html",
+    "dct:spatial": "no",
+    "dct:temporal": {},
+    "dcatap:applicableLegislation": [
+        "https://www.fedlex.admin.ch/eli/cc/2025/565/de"
+    ]
+}

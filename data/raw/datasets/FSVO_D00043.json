@@ -46,14 +46,14 @@
     "bv:classification": "none",
     "bv:personalData": "none",
     "bv:typeOfData": "primaryThematicData",
-    "bv:archivalValue": false,
+    "bv:archivalValue": "FALSE",
     "bv:opendata_swiss": {
         "bv:mustBePublished": "TRUE",
         "dct:identifier": "tierversuchsstatistik@bundesamt-fur-lebensmittelsicherheit-und-veterinaerwesen-blv",
         "dcat:accessURL": "Tierversuche: Tierversuchsstatistik | opendata.swiss"
     },
     "bv:i14y": {
-        "bv:mustBePublished": true
+        "bv:mustBePublished": "TRUE"
     },
     "dcat:theme": [
         "research",

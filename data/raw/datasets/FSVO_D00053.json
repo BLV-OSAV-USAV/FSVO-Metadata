@@ -43,12 +43,12 @@
     "bv:classification": "none",
     "bv:personalData": "personalData",
     "bv:typeOfData": "primaryThematicData",
-    "bv:archivalValue": true,
+    "bv:archivalValue": "TRUE",
     "bv:opendata_swiss": {
         "bv:mustBePublished": "FALSE"
     },
     "bv:i14y": {
-        "bv:mustBePublished": true
+        "bv:mustBePublished": "TRUE"
     },
     "dcat:theme": [
         "agriculture",

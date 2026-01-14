@@ -38,12 +38,12 @@
     "bv:classification": "none",
     "bv:personalData": "personalData",
     "bv:typeOfData": "unstructuredData ",
-    "bv:archivalValue": false,
+    "bv:archivalValue": "FALSE",
     "bv:opendata_swiss": {
         "bv:mustBePublished": "FALSE"
     },
     "bv:i14y": {
-        "bv:mustBePublished": true
+        "bv:mustBePublished": "TRUE"
     },
     "dcat:theme": [
         "education"

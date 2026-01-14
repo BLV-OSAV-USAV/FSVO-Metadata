@@ -41,14 +41,14 @@
     "bv:classification": "none",
     "bv:personalData": "personalData",
     "bv:typeOfData": "primaryThematicData",
-    "bv:archivalValue": false,
+    "bv:archivalValue": "FALSE",
     "bv:opendata_swiss": {
         "bv:mustBePublished": "FALSE",
         "dct:identifier": "tierseuchen@bundesamt-fur-lebensmittelsicherheit-und-veterinaerwesen-blv",
         "dcat:accessURL": "https://opendata.swiss/de/dataset/meldepflichtige-tierseuchen-in-der-schweiz"
     },
     "bv:i14y": {
-        "bv:mustBePublished": true
+        "bv:mustBePublished": "TRUE"
     },
     "dcat:theme": [
         "agriculture",

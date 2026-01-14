@@ -1,0 +1,57 @@
+{
+    "dct:identifier": "FSVO_D00067",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/Red_Vineyard.jpg",
+    "dct:title": {
+        "fr": "Risikobewertung von Pflanzenschutzmittel",
+        "de": "Risikobewertung von Pflanzenschutzmittel",
+        "en": "Risikobewertung von Pflanzenschutzmittel",
+        "it": "Risikobewertung von Pflanzenschutzmittel"
+    },
+    "dct:description": {
+        "fr": "Avant de pouvoir être commercialisés et utilisés, les produits phytosanitaires doivent être homologués. Dans le cadre de la procédure d'homologation, leur efficacité et leurs effets secondaires sont testés. Ils peuvent être autorisés si leur utilisation n'a pas d'effets secondaires inacceptables sur l'homme, les animaux et l'environnement. Ce sont les services fédéraux compétents qui en évaluent la conformité.",
+        "de": "Bevor Pflanzenschutzmittel in Verkehr gebracht und verwendet werden dürfen, müssen sie zugelassen werden. Im Rahmen des Zulassungsverfahrens werden sie auf ihre Wirkung und Nebenwirkungen geprüft. Sie können bewilligt werden, wenn ihre Anwendung keine unannehmbaren Nebenwirkungen auf Mensch, Tier und Umwelt hat. Dies wird von den zuständigen Bundesstellen beurteilt."
+    },
+    "dct:accessRights": "RESTRICTED",
+    "dct:publisher": "BLV-OSAV-USAV-FSVO",
+    "dcat:contactPoint": {
+        "schema:email": "pflanzenschutzmittel@blv.admin.ch",
+        "schema:name": "BLV, WG, Toxikologie PSM"
+    },
+    "dct:issued": "2026-01-14",
+    "dcatap:availability": "STABLE",
+    "dcat:keyword": [
+        "Pflanzenschutzmittel, Risikobewertung"
+    ],
+    "dct:accrualPeriodicity": "CONT",
+    "dct:modified": "2026-01-14",
+    "prov:qualifiedAttribution": [
+        {
+            "prov:agent": "p-1ZSHHTS94",
+            "dcat:hadRole": "dataOwner"
+        },
+        {
+            "prov:agent": "p-4174328",
+            "dcat:hadRole": "dataSteward"
+        }
+    ],
+    "adms:status": "published",
+    "bv:classification": "non",
+    "bv:personalData": "sensitivePersonalData",
+    "bv:typeOfData": "thematicData",
+    "bv:archivalValue": "no",
+    "bv:opendata_swiss": {
+        "bv:mustBePublished": "no"
+    },
+    "bv:i14y": {
+        "bv:mustBePublished": "yes"
+    },
+    "dcat:theme": [
+        "agriculture, national-economy, territory, health"
+    ],
+    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/zulassung-pflanzenschutzmittel/zulassungsverfahren.html",
+    "dct:spatial": "no",
+    "dct:temporal": {},
+    "dcatap:applicableLegislation": [
+        "https://www.fedlex.admin.ch/eli/cc/2025/565/de"
+    ]
+}

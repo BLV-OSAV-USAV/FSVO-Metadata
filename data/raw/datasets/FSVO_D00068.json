@@ -1,0 +1,59 @@
+{
+    "dct:identifier": "FSVO_D00068",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/Red_Vineyard.jpg",
+    "dct:title": {
+        "fr": "Pflanzenschutzmittelverzeichnis",
+        "de": "Pflanzenschutzmittelverzeichnis",
+        "en": "Pflanzenschutzmittelverzeichnis",
+        "it": "Pflanzenschutzmittelverzeichnis"
+    },
+    "dct:description": {
+        "fr": "Les produits phytosanitaires autorisés sont répertoriés dans le registre des produits phytosanitaires. Ce registre contient des informations sur les substances actives, les phytoprotecteurs et les synergistes contenus dans les produits, sur le titulaire de l'autorisation, sur l'utilisation prévue, sur les restrictions d'utilisation, sur les doses d'application, sur l'étiquetage des dangers et sur les conditions d'utilisation.\nLes produits phytosanitaires dont l'autorisation a été révoquée restent inscrits dans le registre jusqu'à l'expiration de la période d'utilisation.",
+        "de": "Zugelassene Pflanzenschutzmittel werden im Pflanzenschutzmittelverzeichnis aufgelistet. Das Verzeichnis enthält Angaben zu den enthaltenen Wirkstoffen, Safenern und Synergisten, zur Zulassungsinhaberin, zur vorgesehenen Anwendung, zu Anwendungseinschränkungen, Aufwandmengen, Gefahrenkennzeichnung und zu Anwendungsauflagen.\nPflanzenschutzmittel, deren Zulassung widerrufen wurde werden noch bis zum Ablauf der Verwendungsfrist im Verzeichnis geführt."
+    },
+    "dct:accessRights": "PUBLIC",
+    "dct:publisher": "BLV-OSAV-USAV-FSVO",
+    "dcat:contactPoint": {
+        "schema:email": "pflanzenschutzmittel@blv.admin.ch",
+        "schema:name": "BLV, Zulassungsstelle PSM"
+    },
+    "dct:issued": "2026-01-14",
+    "dcatap:availability": "STABLE",
+    "dcat:keyword": [
+        "Pflanzenschutzmittel, Zulassung, Bewilligung"
+    ],
+    "dct:accrualPeriodicity": "CONT",
+    "dct:modified": "2026-01-14",
+    "prov:qualifiedAttribution": [
+        {
+            "prov:agent": "p-1XHMH0D35",
+            "dcat:hadRole": "dataOwner"
+        },
+        {
+            "prov:agent": "p-1XHMGZCHC",
+            "dcat:hadRole": "dataSteward"
+        }
+    ],
+    "adms:status": "published",
+    "bv:classification": "none",
+    "bv:personalData": "none",
+    "bv:typeOfData": "thematicData",
+    "bv:archivalValue": "yes",
+    "bv:opendata_swiss": {
+        "bv:mustBePublished": "yes",
+        "dct:identifier": "pflanzenschutzmittelverzeichnis@bundesamt-fur-lebensmittelsicherheit-und-veterinaerwesen-blv",
+        "dcat:accessURL": "https://opendata.swiss/de/dataset/pflanzenschutzmittelverzeichnis"
+    },
+    "bv:i14y": {
+        "bv:mustBePublished": "yes"
+    },
+    "dcat:theme": [
+        "agriculture, nantional-economy, territory, health"
+    ],
+    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/zulassung-pflanzenschutzmittel/zugelassene-pflanzenschutzmittel/pflanzenschutzmittelverzeichnis.html",
+    "dct:spatial": "no",
+    "dct:temporal": {},
+    "dcatap:applicableLegislation": [
+        "https://www.fedlex.admin.ch/eli/cc/2025/565/de"
+    ]
+}
