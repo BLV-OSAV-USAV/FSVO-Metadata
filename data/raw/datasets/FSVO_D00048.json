@@ -2,8 +2,8 @@
   "dct:identifier": "FSVO_D00048",
   "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
   "dct:title": {
-    "de": "BVD Datensammlung",
-    "fr": "BVD Datensammlung",
+    "de": "Bovine viral diarrhea (BVD)",
+    "fr": "Bovine viral diarrhea (BVD)",
     "it": "BVD",
     "en": "BVD"
   },
