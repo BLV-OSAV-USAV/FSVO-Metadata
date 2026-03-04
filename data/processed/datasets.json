@@ -2512,6 +2512,470 @@
     },
     {
         "rdf:type": "dcat:Dataset",
+        "dct:identifier": "FSVO_D00048",
+        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
+        "dct:title": {
+            "de": "BVD Datensammlung",
+            "fr": "BVD Datensammlung",
+            "it": "BVD",
+            "en": "BVD"
+        },
+        "dct:description": {
+            "fr": "La collecte de données « BVD » comprend toutes les données issues de différentes applications afin de gérer la surveillance et la lutte contre la BVD. L'objectif stratégique de la surveillance de la BVD est de mettre fin à la lutte contre la BVD afin d'éradiquer la maladie. L'objectif de la surveillance de la BVD est de confirmer l'absence de la maladie dans les élevages et d'examiner de manière systématique les élevages où des cas, des soupçons ou des risques de contamination ont été détectés.\n À cette fin, le programme de surveillance doit répondre aux deux exigences suivantes : confirmer l'absence de BVD dans les élevages et détecter les nouvelles infections éventuelles dans les élevages auparavant indemnes. La deuxième exigence du programme de surveillance ne peut être remplie efficacement qu'en combinaison avec une clarification épidémiologique systématique des élevages atteints, suspects ou susceptibles d'être infectés.  La collecte de données permet aux autorités cantonales d'exécution de contrôler la surveillance de la BVD et de gérer les cas d'épidémie de BVD. \nPour les éleveurs, le statut BVD et le risque BVD, appelés « feux tricolores BVD », de chaque exploitation sont visibles à tout moment sur la BDTA, ce qui devrait les sensibiliser davantage à la BVD.",
+            "de": "Die Datensammlung \"BVD\" beinhaltet alle Daten aus  verschiedenen Anwendungen, um die BVD-Überwachung und -Bekämpfung zu bewältigen. Das strategische Ziel der BVD-Überwachung ist der Abschluss der BVD-Bekämpfung, um die Seuchenfreiheit zu erreichen. Das Ziel der BVD-Überwachung ist die Bestätigung der Freiheit der BVD-freien Tierhaltungen und die konsequente Abklärung der Falls-, Verdachts- und ansteckungsverdächtigen Tierhaltungen.\n Dazu muss das Überwachungsprogramm die folgenden zwei Anforderungen erfüllen: Die Bestätigung der Freiheit der BVD-freien Tierhaltungen und die Entdeckung möglicher neuer Infektionen auf vorher freien Tierhaltungen. Die zweite Anforderung an das Überwachungsprogramm ist nur in Kombination mit einer konsequenten epidemiologischen Abklärung auf Fall-, Verdachts- und ansteckungsverdächtigen Tierhaltungen wirksam zu erfüllen.  Die Datensammlung ermöglicht den kantonalen Vollzugsbehörden das Prüfen der BVD-Überwachung und das Management der BVD-Seuchenfälle. \nFür Tierhaltende sind der BVD-Status und das BVD-Risiko, die sogenannte BVD-Ampel, jedes Betriebs jederzeit auf der TVD ersichtlich, was deren Bewusstsein für BVD erhöhen sollte. "
+        },
+        "dct:accessRights": "RESTRICTED",
+        "dct:publisher": "BLV-OSAV-USAV-FSVO",
+        "dcat:contactPoint": {
+            "schema:name": "BLV, TGTS, Tiergesundheit",
+            "schema:email": "infotgs@blv.admin.ch"
+        },
+        "dct:issued": "2025-01-01",
+        "dcatap:availability": "STABLE",
+        "dcat:keyword": [
+            "Tiergesundheit",
+            "Tierseuchenbekämpfung",
+            "Tierseuchenüberwachung",
+            "BVD"
+        ],
+        "dct:accrualPeriodicity": "CONT",
+        "dct:modified": "2025-11-06",
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "personalData",
+        "bv:typeOfData": "primaryThematicData",
+        "bv:archivalValue": "TRUE",
+        "dcat:theme": [
+            "agriculture",
+            "national-economy",
+            "health"
+        ],
+        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierseuchen/uebersicht-seuchen/alle-tierseuchen/bvd.html",
+        "dct:spatial": "YES",
+        "dcatap:applicableLegislation": [
+            "TSV Art. 174 a-i",
+            "Art. 76a"
+        ],
+        "bv:itSystem": "BI BLW",
+        "dcat:distribution": [
+            {
+                "dct:identifier": "FSVO_D00048_1",
+                "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AbGWIG_jzTpGn5UHKA3R73w",
+                "adms:status": "published",
+                "dct:format": "SAP BO Webintelligence",
+                "dct:title": {
+                    "de": "(BVD) Ampel",
+                    "fr": "(BVD) Ampel"
+                },
+                "dct:description": {
+                    "de": "Liste aller Betriebe mit einer BVD-Ampel mit Einzelheiten zu den für die Berechnung der BVD-Ampel benötigten Daten sowie verschiedenen Angaben für die Beurteilung der orangen Betriebe.",
+                    "fr": "Liste aller Betriebe mit einer BVD-Ampel mit Einzelheiten zu den für die Berechnung der BVD-Ampel benötigten Daten sowie verschiedenen Angaben für die Beurteilung der orangen Betriebe."
+                },
+                "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
+            },
+            {
+                "dct:identifier": "FSVO_D00048_2",
+                "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWCDLyOXz4dPlbwZZO6MlFg",
+                "adms:status": "published",
+                "dct:format": "SAP BO CrystalReport",
+                "dct:title": {
+                    "de": "(BVD) Geeignete Tiere für RG Hof",
+                    "fr": "(BVD) Geeignete Tiere für RG Hof"
+                },
+                "dct:description": {
+                    "de": "Für einen ausgewählten Betrieb werden alle Rinder ermittelt, welche für die serologische Untersuchung einer Rindergruppe mittels Probenahme auf dem Hof geeignet sind. Die Ermittlung der Tiere erfolgt unabhängig davon, ob sich der Betrieb in ISVet im Projekt (s) befindet oder nicht.",
+                    "fr": "Für einen ausgewählten Betrieb werden alle Rinder ermittelt, welche für die serologische Untersuchung einer Rindergruppe mittels Probenahme auf dem Hof geeignet sind. Die Ermittlung der Tiere erfolgt unabhängig davon, ob sich der Betrieb in ISVet im Projekt (s) befindet oder nicht."
+                },
+                "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
+            },
+            {
+                "dct:identifier": "FSVO_D00048_3",
+                "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AaGxbCy54ZBCqdqSO0ZUJY4",
+                "adms:status": "published",
+                "dct:format": "SAP BO Webintelligence",
+                "dct:title": {
+                    "de": "(BVD) Gesperrte trächtige Tiere",
+                    "fr": "(BVD) Gesperrte trächtige Tiere"
+                },
+                "dct:description": {
+                    "de": "Übersicht über Betriebe mit Einzeltiersperren und die davon betroffenen trächtigen Tiere. Er erlaubt u.a. die Ermittlung von Tieren, die eine nicht auf BVD-Virus untersuchte Totgeburt hatten und daher gesperrt bleiben. Zudem ermöglicht er die Ermittlung von Tieren, für die nach Aufhebung der Verbringungssperre kein Ag-negativ untersuchtes Kalb vorliegt. Dadurch kann bei Bedarf abgeklärt werden, ob es womöglich einen Abort oder eine Totgeburt gab und weitere Massnahmen nötig sind.",
+                    "fr": "Übersicht über Betriebe mit Einzeltiersperren und die davon betroffenen trächtigen Tiere. Er erlaubt u.a. die Ermittlung von Tieren, die eine nicht auf BVD-Virus untersuchte Totgeburt hatten und daher gesperrt bleiben. Zudem ermöglicht er die Ermittlung von Tieren, für die nach Aufhebung der Verbringungssperre kein Ag-negativ untersuchtes Kalb vorliegt. Dadurch kann bei Bedarf abgeklärt werden, ob es womöglich einen Abort oder eine Totgeburt gab und weitere Massnahmen nötig sind."
+                },
+                "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
+            },
+            {
+                "dct:identifier": "FSVO_D00048_4",
+                "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVO4GEu7Xl5Jrpq7firi8LQ",
+                "adms:status": "published",
+                "dct:format": "SAP BO Webintelligence",
+                "dct:title": {
+                    "de": "(BVD) Kälbertesten",
+                    "fr": "(BVD) Kälbertesten"
+                },
+                "dct:description": {
+                    "de": "Mit diesem Bericht kann ermittelt werden, welche in einem ausgewählten Betrieb geborenen Kälber\noder Totgeburten kein virologisch negatives BVD-Testresultat aufweisen.",
+                    "fr": "Mit diesem Bericht kann ermittelt werden, welche in einem ausgewählten Betrieb geborenen Kälber\noder Totgeburten kein virologisch negatives BVD-Testresultat aufweisen."
+                },
+                "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
+            },
+            {
+                "dct:identifier": "FSVO_D00048_5",
+                "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AUT7ZpmMGOdAld4ry3Xmyf0",
+                "adms:status": "published",
+                "dct:format": "SAP BO Webintelligence",
+                "dct:title": {
+                    "de": "(BVD) Liste aller RiBeS-Schlachtbetriebe",
+                    "fr": "(BVD) Liste aller RiBeS-Schlachtbetriebe"
+                },
+                "dct:description": {
+                    "de": "Liste aller Schlachtbetriebe, an welchen RiBeS eingesetzt wird. Für jeden Schlachtbetrieb wird die Häufigkeit der Nutzung\nvon RiBeS angegeben.",
+                    "fr": "Liste aller Schlachtbetriebe, an welchen RiBeS eingesetzt wird. Für jeden Schlachtbetrieb wird die Häufigkeit der Nutzung\nvon RiBeS angegeben."
+                },
+                "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
+            },
+            {
+                "dct:identifier": "FSVO_D00048_6",
+                "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AQUQUjf7b4pLmUdZGuN6.k0",
+                "adms:status": "published",
+                "dct:format": "SAP BO CrystalReport",
+                "dct:title": {
+                    "de": "(BVD) Liste von potentiellen TI-Tieren",
+                    "fr": "(BVD) Liste von potentiellen TI-Tieren"
+                },
+                "dct:description": {
+                    "de": "Hilfsmittel für die epidemiologischen Abklärungen beim Vorkommen von transient-infizierten Tieren in einem BVD-Geschehen. ",
+                    "fr": "Hilfsmittel für die epidemiologischen Abklärungen beim Vorkommen von transient-infizierten Tieren in einem BVD-Geschehen. "
+                },
+                "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
+            },
+            {
+                "dct:identifier": "FSVO_D00048_7",
+                "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=Abrm2t5K..BOrhFWno922LY",
+                "adms:status": "published",
+                "dct:format": "SAP BO Webintelligence",
+                "dct:title": {
+                    "de": "(BVD) Nicht konformer Tierverkehr",
+                    "fr": "(BVD) Nicht konformer Tierverkehr"
+                },
+                "dct:description": {
+                    "de": "Mit diesem ALVPH-Bericht können Betriebe mit nicht konformem Tierverkehr ermittelt werden. Für jeden Betrieb\nwerden die betroffenen Rinder angezeigt und für jedes noch lebende Rind der aktuelle Aufenthaltsbetrieb\ngemäss TVD.",
+                    "fr": "Mit diesem ALVPH-Bericht können Betriebe mit nicht konformem Tierverkehr ermittelt werden. Für jeden Betrieb\nwerden die betroffenen Rinder angezeigt und für jedes noch lebende Rind der aktuelle Aufenthaltsbetrieb\ngemäss TVD."
+                },
+                "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
+            },
+            {
+                "dct:identifier": "FSVO_D00048_8",
+                "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AcAhAdCKR11JkHCEUGrsDIk",
+                "adms:status": "published",
+                "dct:format": "SAP BO Webintelligence",
+                "dct:title": {
+                    "de": "(BVD) PI-Tiere",
+                    "fr": "(BVD) PI-Tiere"
+                },
+                "dct:description": {
+                    "de": "Dieser Bericht gibt eine Übersicht über noch lebende sowie bereits ausgemerzte PI-Tiere im Kanton. Zudem zeigt er alle bisherigen Aufenthalte von PI-Tieren im Kanton an. Damit kann geprüft werden, ob Betriebe im Kanton vorübergehend ein bekanntes PI-Tier im Bestand hatten.",
+                    "fr": "Dieser Bericht gibt eine Übersicht über noch lebende sowie bereits ausgemerzte PI-Tiere im Kanton. Zudem zeigt er alle bisherigen Aufenthalte von PI-Tieren im Kanton an. Damit kann geprüft werden, ob Betriebe im Kanton vorübergehend ein bekanntes PI-Tier im Bestand hatten."
+                },
+                "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
+            },
+            {
+                "dct:identifier": "FSVO_D00048_9",
+                "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AZVv5jIo9u1BjYNidygH2PI",
+                "adms:status": "published",
+                "dct:format": "SAP BO Webintelligence",
+                "dct:title": {
+                    "de": "(BVD) Rinderbestand mit BVD-Resultaten",
+                    "fr": "(BVD) Rinderbestand mit BVD-Resultaten"
+                },
+                "dct:description": {
+                    "de": "Anhand der von der Nutzerin / vom Nutzer definierten Parameter ermittelt dieser Bericht alle Rinder, die sich in einem bestimmten Zeitraum oder an einem bestimmten Tag auf einem bestimmten Betrieb aufhielten. Für jedes Tier werden alle virologischen und serologischen BVD-Resultate aufgeführt sowie Angaben zu seinem aktuellen Aufenthaltsbetrieb gemacht (sofern bekannt).",
+                    "fr": "Anhand der von der Nutzerin / vom Nutzer definierten Parameter ermittelt dieser Bericht alle Rinder, die sich in einem bestimmten Zeitraum oder an einem bestimmten Tag auf einem bestimmten Betrieb aufhielten. Für jedes Tier werden alle virologischen und serologischen BVD-Resultate aufgeführt sowie Angaben zu seinem aktuellen Aufenthaltsbetrieb gemacht (sofern bekannt)."
+                },
+                "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
+            },
+            {
+                "dct:identifier": "FSVO_D00048_10",
+                "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AXXOnCQjPkxEjmdQtJ11dUA",
+                "adms:status": "published",
+                "dct:format": "SAP BO Webintelligence",
+                "dct:title": {
+                    "de": "(BVD) Rindergruppen-Untersuchungen RiBeS",
+                    "fr": "(BVD) Rindergruppen-Untersuchungen RiBeS"
+                },
+                "dct:description": {
+                    "de": "Übersicht über die Überwachung von Betrieben durch die serologische Untersuchung einer Rindergruppe mittels Probenahme am Schlachthof (RiBeS).",
+                    "fr": "Übersicht über die Überwachung von Betrieben durch die serologische Untersuchung einer Rindergruppe mittels Probenahme am Schlachthof (RiBeS)."
+                },
+                "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
+            },
+            {
+                "dct:identifier": "FSVO_D00048_11",
+                "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=Aa.xHoTHjfJGhBq6YdJy_88",
+                "adms:status": "published",
+                "dct:format": "SAP BO Webintelligence",
+                "dct:title": {
+                    "de": "(BVD) Seuchenbetriebe",
+                    "fr": "(BVD) Seuchenbetriebe"
+                },
+                "dct:description": {
+                    "de": "Ermittlung aller BVD-Seuchenbetriebe der letzten X Jahre. Der Bericht dient als Hilfsmittel für die Prüfung, ob für diese Betriebe eine Rindergruppe untersucht wurde.",
+                    "fr": "Ermittlung aller BVD-Seuchenbetriebe der letzten X Jahre. Der Bericht dient als Hilfsmittel für die Prüfung, ob für diese Betriebe eine Rindergruppe untersucht wurde."
+                },
+                "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
+            },
+            {
+                "dct:identifier": "FSVO_D00048_12",
+                "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AZFKk_3R19tKnxyQfKAcuv8",
+                "adms:status": "published",
+                "dct:format": "SAP BO CrystalReport",
+                "dct:title": {
+                    "de": "(BVD) Suche nach Folgeinfektionen",
+                    "fr": "(BVD) Suche nach Folgeinfektionen"
+                },
+                "dct:description": {
+                    "de": "Hilfsmittel zum Aufspüren möglicher Folgeinfektionen. Der Bericht erstellt eine Tierliste pro Betrieb zum Erfassen der Besamungsdaten von potenziell trächtigen Kontakttieren und für die Untersuchung von bereits geborenen potenziellen PI-Kälbern",
+                    "fr": "Hilfsmittel zum Aufspüren möglicher Folgeinfektionen. Der Bericht erstellt eine Tierliste pro Betrieb zum Erfassen der Besamungsdaten von potenziell trächtigen Kontakttieren und für die Untersuchung von bereits geborenen potenziellen PI-Kälbern"
+                },
+                "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
+            },
+            {
+                "dct:identifier": "FSVO_D00048_13",
+                "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AXCFPr2iLilIvMwDyQUUyXQ",
+                "adms:status": "published",
+                "dct:format": "SAP BO CrystalReport",
+                "dct:title": {
+                    "de": "(BVD) Suche nach Infektionsquellen und Parallelinfektionen",
+                    "fr": "(BVD) Suche nach Infektionsquellen und Parallelinfektionen"
+                },
+                "dct:description": {
+                    "de": "Hilfsmittel beim Suchen der Infektionsquelle und Aufspüren möglicher Parallelinfektionen. Der Bericht erstellt eine Tierliste pro Betrieb zum Erfassen der Besamungsdaten von potenziell parallel-trächtigen Kontakttieren und für die Untersuchung potentieller PI-Tiere (Infektionsquelle, Parallelinfektionen).",
+                    "fr": "Hilfsmittel beim Suchen der Infektionsquelle und Aufspüren möglicher Parallelinfektionen. Der Bericht erstellt eine Tierliste pro Betrieb zum Erfassen der Besamungsdaten von potenziell parallel-trächtigen Kontakttieren und für die Untersuchung potentieller PI-Tiere (Infektionsquelle, Parallelinfektionen)."
+                },
+                "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
+            },
+            {
+                "dct:identifier": "FSVO_D00048_14",
+                "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AQhmv_PtjjpLjV5hCKixtcw",
+                "adms:status": "published",
+                "dct:format": "SAP BO Webintelligence",
+                "dct:title": {
+                    "de": "(BVD) Tankmilch-Untersuchungen",
+                    "fr": "(BVD) Tankmilch-Untersuchungen"
+                },
+                "dct:description": {
+                    "de": "Verschiedene Auswertungen zu den Ergebnissen der Tankmilch-Untersuchungen im Rahmen der BVD-Überwachung.",
+                    "fr": "Verschiedene Auswertungen zu den Ergebnissen der Tankmilch-Untersuchungen im Rahmen der BVD-Überwachung."
+                },
+                "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
+            },
+            {
+                "dct:identifier": "FSVO_D00048_15",
+                "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AUDcZwFUoF9IumVYYtkkZf0",
+                "adms:status": "published",
+                "dct:format": "SAP BO Webintelligence",
+                "dct:title": {
+                    "de": "(BVD) Tankmilch-Untersuchungen - Tierbestand potentiell laktierend",
+                    "fr": "(BVD) Tankmilch-Untersuchungen - Tierbestand potentiell laktierend"
+                },
+                "dct:description": {
+                    "de": "Ermittlung des Rinderbestands zum Zeitpunkt der Probenahme für eine Tankmilch-Untersuchung sowie potenziell laktierender Kühe.",
+                    "fr": "Ermittlung des Rinderbestands zum Zeitpunkt der Probenahme für eine Tankmilch-Untersuchung sowie potenziell laktierender Kühe."
+                },
+                "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
+            },
+            {
+                "dct:identifier": "FSVO_D00048_16",
+                "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=ARq.1QCwiy1GntFYIynJGWY",
+                "adms:status": "published",
+                "dct:format": "SAP BO Webintelligence",
+                "dct:title": {
+                    "de": "(BVD) Übersicht Betriebe",
+                    "fr": "(BVD) Übersicht Betriebe"
+                },
+                "dct:description": {
+                    "de": "Übersicht pro Betrieb über die wichtigsten Daten aus der BVD-Überwachung und -Bekämpfung der letzten 5 Jahre für alle in der TVD aktiven Tierhaltungen mit Gattung Rind.",
+                    "fr": "Übersicht pro Betrieb über die wichtigsten Daten aus der BVD-Überwachung und -Bekämpfung der letzten 5 Jahre für alle in der TVD aktiven Tierhaltungen mit Gattung Rind."
+                },
+                "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
+            },
+            {
+                "dct:identifier": "FSVO_D00048_17",
+                "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=Aah4qbmW7elDhCT597swi6E",
+                "adms:status": "published",
+                "dct:format": "SAP BO Webintelligence",
+                "dct:title": {
+                    "de": "(BVD) Übersicht und Statistiken",
+                    "fr": "(BVD) Übersicht und Statistiken"
+                },
+                "dct:description": {
+                    "de": "Dieser Bericht enthält verschiedene Auswertungen zur aktuellen Situation der BVD und deren\nEntwicklung in der Schweiz.\n",
+                    "fr": "Dieser Bericht enthält verschiedene Auswertungen zur aktuellen Situation der BVD und deren\nEntwicklung in der Schweiz.\n"
+                },
+                "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
+            },
+            {
+                "dct:identifier": "FSVO_D00048_18",
+                "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AczOIDUC405FhqnLxnYE3eA",
+                "adms:status": "published",
+                "dct:format": "SAP BO Webintelligence",
+                "dct:title": {
+                    "de": "(BVD) Verpasste potentielle PI-Kälber aufgrund fehlender Besamungsdaten",
+                    "fr": "(BVD) Verpasste potentielle PI-Kälber aufgrund fehlender Besamungsdaten"
+                },
+                "dct:description": {
+                    "de": "Identifier les veaux IP potentiels qui n’ont pas encore été testés à l’égard de la BVD parce qu’aucune donnée d’insémination n’a été notifiée ou enregistrée pour leur mère.",
+                    "fr": "Identifier les veaux IP potentiels qui n’ont pas encore été testés à l’égard de la BVD parce qu’aucune donnée d’insémination n’a été notifiée ou enregistrée pour leur mère."
+                },
+                "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
+            },
+            {
+                "dct:identifier": "FSVO_D00048_19",
+                "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=ATqrbvN6071BoC1.UFEpjdc",
+                "adms:status": "published",
+                "dct:format": "SAP BO Webintelligence",
+                "dct:title": {
+                    "de": "(BVD) Vorbereitung Sömmerung nicht-grüne Betriebe",
+                    "fr": "(BVD) Vorbereitung Sömmerung nicht-grüne Betriebe"
+                },
+                "dct:description": {
+                    "de": "Hilfsmittel für die Vorbereitung der BVD-Überwachung insbesondere von nicht-grünen Betrieben vor der Sömmerung gemäss der Vollzugshilfe des BLV für die Sömmerung 2025/2026. Ermittlung aller Betriebe mit einer BVD-Ampel, die in den Vorjahren Rinder auf eine Sömmerung gegeben hatten. Für jeden Betrieb werden die letzten Ergebnisse der BVD-Überwachung angezeigt sowie weitere Angaben, welche bei der Priorisierung der Untersuchungen helfen können.",
+                    "fr": "Hilfsmittel für die Vorbereitung der BVD-Überwachung insbesondere von nicht-grünen Betrieben vor der Sömmerung gemäss der Vollzugshilfe des BLV für die Sömmerung 2025/2026. Ermittlung aller Betriebe mit einer BVD-Ampel, die in den Vorjahren Rinder auf eine Sömmerung gegeben hatten. Für jeden Betrieb werden die letzten Ergebnisse der BVD-Überwachung angezeigt sowie weitere Angaben, welche bei der Priorisierung der Untersuchungen helfen können."
+                },
+                "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
+            },
+            {
+                "dct:identifier": "FSVO_D00048_20",
+                "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=ATStqJ1gZA1DoulE_14C4Q4",
+                "adms:status": "published",
+                "dct:format": "SAP BO Webintelligence",
+                "dct:title": {
+                    "de": "(Q) BVD Gesperrte Tiere die Betriebe verlassen haben",
+                    "fr": "(Q) BVD Gesperrte Tiere die Betriebe verlassen haben"
+                },
+                "dct:description": {
+                    "de": "Aufspüren von Rindern, die trotz Verbringungssperre verstellt wurden.",
+                    "fr": "Aufspüren von Rindern, die trotz Verbringungssperre verstellt wurden."
+                },
+                "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
+            },
+            {
+                "dct:identifier": "FSVO_D00048_21",
+                "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYxtXuhjXpVLuOulu6FhZ6Y",
+                "adms:status": "published",
+                "dct:format": "SAP BO CrystalReport",
+                "dct:title": {
+                    "de": "(X06) BVD Abklärungen - Tierliste pro Betrieb für die Untersuchung potentieller PI-Tiere",
+                    "fr": "(X06) BVD Abklärungen - Tierliste pro Betrieb für die Untersuchung potentieller PI-Tiere"
+                },
+                "dct:description": {
+                    "de": "Hilfsmittel für die virologische Bestandsuntersuchung im Sinne einer «grossen Viro», d. h. aufgrund eines Verdachts auf ein BVD-Geschehen.",
+                    "fr": "Hilfsmittel für die virologische Bestandsuntersuchung im Sinne einer «grossen Viro», d. h. aufgrund eines Verdachts auf ein BVD-Geschehen."
+                },
+                "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
+            },
+            {
+                "dct:identifier": "FSVO_D00048_17",
+                "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWN_88Up.rZIh0JxAN2DWQE",
+                "adms:status": "published",
+                "dct:format": "SAP BO Webintelligence",
+                "dct:title": {
+                    "de": "(Y02) BVD Abklärungen - Serokonversionen während Aufenthalt auf Betrieb",
+                    "fr": "(Y02) BVD Abklärungen - Serokonversionen während Aufenthalt auf Betrieb"
+                },
+                "dct:description": {
+                    "de": "Hilfsmittel für das Aufspüren möglicher Serokonversionen bei Rindern nach einem Aufenthalt auf einem Betrieb, z.B. einer Sömmerung.",
+                    "fr": "Hilfsmittel für das Aufspüren möglicher Serokonversionen bei Rindern nach einem Aufenthalt auf einem Betrieb, z.B. einer Sömmerung."
+                },
+                "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
+            },
+            {
+                "dct:identifier": "FSVO_D00048_23",
+                "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AeIK5MYhGzZNuqoRPRFtCFA",
+                "adms:status": "published",
+                "dct:format": "SAP BO Webintelligence",
+                "dct:title": {
+                    "de": "(Y03) BVD Abklärungen - Serokonversionen während Zeitintervall",
+                    "fr": "(Y03) BVD Abklärungen - Serokonversionen während Zeitintervall"
+                },
+                "dct:description": {
+                    "de": "Hilfsmittel für das Aufspüren möglicher Serokonversionen bei Rindern während eines bestimmten Zeitraums.",
+                    "fr": "Hilfsmittel für das Aufspüren möglicher Serokonversionen bei Rindern während eines bestimmten Zeitraums."
+                },
+                "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
+            },
+            {
+                "dct:identifier": "FSVO_D00048_24",
+                "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AbnSIuBmmpREiCJkbz.ETZs",
+                "adms:status": "published",
+                "dct:format": "SAP BO CrystalReport",
+                "dct:title": {
+                    "de": "(Y06) BVD Abklärungen - Tierliste pro Betrieb für die virologische Bestandesuntersuchung",
+                    "fr": "(Y06) BVD Abklärungen - Tierliste pro Betrieb für die virologische Bestandesuntersuchung"
+                },
+                "dct:description": {
+                    "de": "Hilfsmittel für die virologische Bestandesuntersuchung im Sinne einer \"kleinen Viro\", d. h. als Alternative zur Untersuchung einer Rindergruppe (kein Verdacht auf ein BVD-Geschehen). Ermittlung aller lebenden Rinder, die noch nicht mindestens ein virologisch negatives BVD-Resultat haben.",
+                    "fr": "Hilfsmittel für die virologische Bestandesuntersuchung im Sinne einer \"kleinen Viro\", d. h. als Alternative zur Untersuchung einer Rindergruppe (kein Verdacht auf ein BVD-Geschehen). Ermittlung aller lebenden Rinder, die noch nicht mindestens ein virologisch negatives BVD-Resultat haben."
+                },
+                "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
+            },
+            {
+                "dct:identifier": "FSVO_D00048_25",
+                "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AeM7aFeakkxBpzaC_2RfwuQ",
+                "adms:status": "published",
+                "dct:format": "SAP BO CrystalReport",
+                "dct:title": {
+                    "de": "(Z05b) BVD Abklärungen - Tierliste pro Betrieb für die Untersuchung von Kälbern von Kontakttieren",
+                    "fr": "(Z05b) BVD Abklärungen - Tierliste pro Betrieb für die Untersuchung von Kälbern von Kontakttieren"
+                },
+                "dct:description": {
+                    "de": "Ermittlung von bereits geborenen, potenziell infizierten Kälbern (= Folgeinfektionen eines PI-Tieres) und ihrer Muttertiere (= Kontakttiere eines PI-Tieres) anhand von bestimmten Eingabeaufforderungen (Aufenthaltsbetrieb und -dauer des PI-Tieres).",
+                    "fr": "Ermittlung von bereits geborenen, potenziell infizierten Kälbern (= Folgeinfektionen eines PI-Tieres) und ihrer Muttertiere (= Kontakttiere eines PI-Tieres) anhand von bestimmten Eingabeaufforderungen (Aufenthaltsbetrieb und -dauer des PI-Tieres)."
+                },
+                "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
+            }
+        ],
+        "businessDataOwner": null,
+        "schemaViolations": 34,
+        "schemaViolationMessages": [
+            "'BVD' does not match '[a-zA-Z0-9_\\\\-\\\\s]{10,75}'",
+            "'BVD' does not match '[a-zA-Z0-9_\\\\-\\\\s]{10,75}'",
+            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
+            "None of [{'prov:agent': 'p-9089108', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-10001804', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
+            "'TRUE' is not of type 'boolean'",
+            "'dct:modified' is a required property",
+            "'(BVD) Ampel' does not match '[a-zA-Z0-9_\\\\-\\\\s]{10,75}'",
+            "'(BVD) Ampel' does not match '[a-zA-Z0-9_\\\\-\\\\s]{10,75}'",
+            "'dct:modified' is a required property",
+            "'dct:modified' is a required property",
+            "'dct:modified' is a required property",
+            "'dct:modified' is a required property",
+            "'dct:modified' is a required property",
+            "'dct:modified' is a required property",
+            "'dct:modified' is a required property",
+            "'(BVD) PI-Tiere' does not match '[a-zA-Z0-9_\\\\-\\\\s]{10,75}'",
+            "'(BVD) PI-Tiere' does not match '[a-zA-Z0-9_\\\\-\\\\s]{10,75}'",
+            "'dct:modified' is a required property",
+            "'dct:modified' is a required property",
+            "'dct:modified' is a required property",
+            "'dct:modified' is a required property",
+            "'dct:modified' is a required property",
+            "'dct:modified' is a required property",
+            "'dct:modified' is a required property",
+            "'dct:modified' is a required property",
+            "'dct:modified' is a required property",
+            "'dct:modified' is a required property",
+            "'dct:modified' is a required property",
+            "'dct:modified' is a required property",
+            "'dct:modified' is a required property",
+            "'dct:modified' is a required property",
+            "'dct:modified' is a required property",
+            "'dct:modified' is a required property",
+            "'dct:modified' is a required property"
+        ],
+        "quality": 823.8
+    },
+    {
+        "rdf:type": "dcat:Dataset",
         "dct:identifier": "FSVO_D00022",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
@@ -2809,75 +3273,6 @@
             "'FALSE' is not of type 'boolean'"
         ],
         "quality": 598.0
-    },
-    {
-        "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00048",
-        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
-        "dct:title": {
-            "fr": "BVD",
-            "de": "BVD",
-            "en": "BVD",
-            "it": "BVD"
-        },
-        "dct:description": {
-            "fr": "La collecte de données « BVD » comprend toutes les données issues de différentes applications afin de gérer la surveillance et la lutte contre la BVD. L'objectif stratégique de la surveillance de la BVD est de mettre fin à la lutte contre la BVD afin d'éradiquer la maladie. L'objectif de la surveillance de la BVD est de confirmer l'absence de la maladie dans les élevages et d'examiner de manière systématique les élevages où des cas, des soupçons ou des risques de contamination ont été détectés.\n À cette fin, le programme de surveillance doit répondre aux deux exigences suivantes : confirmer l'absence de BVD dans les élevages et détecter les nouvelles infections éventuelles dans les élevages auparavant indemnes. La deuxième exigence du programme de surveillance ne peut être remplie efficacement qu'en combinaison avec une clarification épidémiologique systématique des élevages atteints, suspects ou susceptibles d'être infectés.  La collecte de données permet aux autorités cantonales d'exécution de contrôler la surveillance de la BVD et de gérer les cas d'épidémie de BVD. \nPour les éleveurs, le statut BVD et le risque BVD, appelés « feux tricolores BVD », de chaque exploitation sont visibles à tout moment sur la BDTA, ce qui devrait les sensibiliser davantage à la BVD.",
-            "de": "Die Datensammlung \"BVD\" beinhaltet alle Daten aus  verschiedenen Anwendungen, um die BVD-Überwachung und -Bekämpfung zu bewältigen. Das strategische Ziel der BVD-Überwachung ist der Abschluss der BVD-Bekämpfung, um die Seuchenfreiheit zu erreichen. Das Ziel der BVD-Überwachung ist die Bestätigung der Freiheit der BVD-freien Tierhaltungen und die konsequente Abklärung der Falls-, Verdachts- und ansteckungsverdächtigen Tierhaltungen.\n Dazu muss das Überwachungsprogramm die folgenden zwei Anforderungen erfüllen: Die Bestätigung der Freiheit der BVD-freien Tierhaltungen und die Entdeckung möglicher neuer Infektionen auf vorher freien Tierhaltungen. Die zweite Anforderung an das Überwachungsprogramm ist nur in Kombination mit einer konsequenten epidemiologischen Abklärung auf Fall-, Verdachts- und ansteckungsverdächtigen Tierhaltungen wirksam zu erfüllen.  Die Datensammlung ermöglicht den kantonalen Vollzugsbehörden das Prüfen der BVD-Überwachung und das Management der BVD-Seuchenfälle. \nFür Tierhaltende sind der BVD-Status und das BVD-Risiko, die sogenannte BVD-Ampel, jedes Betriebs jederzeit auf der TVD ersichtlich, was deren Bewusstsein für BVD erhöhen sollte. "
-        },
-        "dct:accessRights": "RESTRICTED",
-        "dct:publisher": "BLV-OSAV-USAV-FSVO",
-        "dcat:contactPoint": {
-            "schema:email": "infotgs@blv.admin.ch",
-            "schema:name": "BLV, TGTS, Tiergesundheit"
-        },
-        "dct:issued": "2025-01-01",
-        "dcatap:availability": "STABLE",
-        "dcat:keyword": [
-            "Tiergesundheit",
-            "Tierseuchenbekämpfung",
-            "Tierseuchenüberwachung",
-            "BVD"
-        ],
-        "dct:accrualPeriodicity": "CONT",
-        "dct:modified": "2025-11-06",
-        "adms:status": "published",
-        "bv:classification": "none",
-        "bv:personalData": "personalData",
-        "bv:typeOfData": "primaryThematicData",
-        "bv:archivalValue": "TRUE",
-        "bv:opendata_swiss": {
-            "bv:mustBePublished": "TRUE",
-            "dct:identifier": "bvd_ampel@bundesamt-fur-lebensmittelsicherheit-und-veterinaerwesen-blv",
-            "dcat:accessURL": "https://opendata.swiss/de/dataset/bvd-ampel"
-        },
-        "bv:i14y": {
-            "bv:mustBePublished": "TRUE"
-        },
-        "dcat:theme": [
-            "agriculture",
-            "national-economy",
-            "health"
-        ],
-        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierseuchen/uebersicht-seuchen/alle-tierseuchen/bvd.html",
-        "dct:spatial": "YES",
-        "dct:temporal": {},
-        "dcatap:applicableLegislation": [
-            "TSV Art. 174 a-i",
-            "Art. 76a"
-        ],
-        "bv:itSystem": "BI BLW",
-        "businessDataOwner": null,
-        "schemaViolations": 7,
-        "schemaViolationMessages": [
-            "'BVD' does not match '[a-zA-Z0-9_\\\\-\\\\s]{10,75}'",
-            "'BVD' does not match '[a-zA-Z0-9_\\\\-\\\\s]{10,75}'",
-            "'BVD' does not match '[a-zA-Z0-9_\\\\-\\\\s]{10,75}'",
-            "'BVD' does not match '[a-zA-Z0-9_\\\\-\\\\s]{10,75}'",
-            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
-            "None of [{'prov:agent': 'p-9089108', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-10001804', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
-            "'TRUE' is not of type 'boolean'"
-        ],
-        "quality": 562.875
     },
     {
         "rdf:type": "dcat:Dataset",
