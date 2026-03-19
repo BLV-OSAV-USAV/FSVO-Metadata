@@ -61,5 +61,52 @@
     "dcatap:applicableLegislation": [
         "TSV Art 312c Abs 2: ISLMK-V Art1 Abs 1 b"
     ],
-    "bv:itSystem": "ARES"
+    "bv:itSystem": "ARES",
+    "dcat:distribution": [
+    {
+      "dct:identifier": "FSVO_D00044_01",
+      "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AZfTFL4gdo5Gie8SMHqEmKw",
+      "adms:status": "published",
+      "dct:format": "SAP BO Webintelligence",
+      "dct:title": {
+        "de": "3000_Untersuchungsergebnisse von Tierseuchen aus aRes",
+        "fr": "3000_Untersuchungsergebnisse von Tierseuchen aus aRes"
+      },
+      "dct:description": {
+        "de": "Labordiagnostische Untersuchungsergebnisse einer ausgewählten Tierseuche nach eigenem Bedarf zusammenstellen.",
+        "fr": "Labordiagnostische Untersuchungsergebnisse einer ausgewählten Tierseuche nach eigenem Bedarf zusammenstellen."
+      },
+      "schema:comment": "Publikationsort in ALVPH: /3 Shared/BLV - KAV/aRes"
+    },
+    {
+      "dct:identifier": "FSVO_D00044_2",
+      "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVScgO4KZD9JlBATTMcR1SE",
+      "adms:status": "published",
+      "dct:format": "SAP BO Webintelligence",
+      "dct:title": {
+        "de": "3010_UntersuchungenProJahrUndKanton",
+        "fr": "3010_UntersuchungenProJahrUndKanton"
+      },
+      "dct:description": {
+        "de": "Laborergebnisse pro Jahr und Kanton. Seuchen können gefiltert werden",
+        "fr": "Laborergebnisse pro Jahr und Kanton. Seuchen können gefiltert werden"
+      },
+      "schema:comment": "Publikationsort in ALVPH: /3 Shared/BLV - KAV/aRes"
+    },
+    {
+      "dct:identifier": "FSVO_D00044_3",
+      "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYbDIoXl4StIslo9qPxmLyI",
+      "adms:status": "published",
+      "dct:format": "SAP BO Webintelligence",
+      "dct:title": {
+        "de": "3001_Jahresauswertung Nationales Überwachungsprogramm",
+        "fr": "3001_Jahresauswertung Nationales Überwachungsprogramm"
+      },
+      "dct:description": {
+        "de": "Jährliche Anzahl Proben und Betriebe, die im Rahmen des Nationalen\nÜberwachungsprogramms auf bestimmte Tierseuchen untersucht wurden.",
+        "fr": "Jährliche Anzahl Proben und Betriebe, die im Rahmen des Nationalen\nÜberwachungsprogramms auf bestimmte Tierseuchen untersucht wurden."
+      },
+      "schema:comment": "Publikationsort in ALVPH: /3 Shared/BLV - KAV/aRes"
+    }
+  ]
 }
