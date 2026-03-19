@@ -1930,7 +1930,7 @@
         "bv:itSystem": "ARES",
         "dcat:distribution": [
             {
-                "dct:identifier": "FSVO_D00044_01",
+                "dct:identifier": "FSVO_D00060_01",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AZfTFL4gdo5Gie8SMHqEmKw",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -1945,7 +1945,7 @@
                 "schema:comment": "Publikationsort in ALVPH: /3 Shared/BLV - KAV/aRes"
             },
             {
-                "dct:identifier": "FSVO_D00044_2",
+                "dct:identifier": "FSVO_D00060_2",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVScgO4KZD9JlBATTMcR1SE",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -1960,7 +1960,7 @@
                 "schema:comment": "Publikationsort in ALVPH: /3 Shared/BLV - KAV/aRes"
             },
             {
-                "dct:identifier": "FSVO_D00044_3",
+                "dct:identifier": "FSVO_D00060_3",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYbDIoXl4StIslo9qPxmLyI",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
