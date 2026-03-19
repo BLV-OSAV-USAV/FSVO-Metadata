@@ -1490,7 +1490,7 @@
             "'TRUE' is not of type 'boolean'",
             "'dct:modified' is a required property"
         ],
-        "quality": 1049.8
+        "quality": 1049.2
     },
     {
         "rdf:type": "dcat:Dataset",
