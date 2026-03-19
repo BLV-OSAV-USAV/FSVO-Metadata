@@ -453,66 +453,6 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00027",
-        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
-        "dct:title": {
-            "fr": "Betriebsbewilligungen von Lebensmittelunternehmen",
-            "de": "Betriebsbewilligungen von Lebensmittelunternehmen",
-            "en": "Betriebsbewilligungen von Lebensmittelunternehmen",
-            "it": "Betriebsbewilligungen von Lebensmittelunternehmen"
-        },
-        "dct:description": {
-            "fr": "Diese Datensammlung umfasst alle relevanten Informationen zu Betrieben, die gemäss Artikel 11 LMG eine Bewilligung erhalten haben. Grundsätzlich unterliegen alle Lebensmittelbetriebe, die Lebensmittel tierischer Herkunft herstellen, verarbeiten, behandeln, lagern oder abgeben, dieser Bewilligungspflicht. Erfasst werden unter anderem der Name und die Adresse des Betriebes, dessen Bewilligungsnummer, die bewilligten Sektionen, Tätigkeiten und Tierarten, sowie der Bewilligungsstatus, das Datum der Erteilung sowie allfällige Bedingungen oder Auflagen. Die Einträge stammen von den zuständigen kantonalen Vollzugsbehörden, welche die Bewilligungen gemäss den gesetzlichen Anforderungen ausstellen und die entsprechenden Daten dazu dem BLV per ASAN-Eintrag melden. Das BLV publiziert und aktualisiert die Daten wöchentlich auf seiner Webseite und macht sie somit für die Öffentlichkeit zugänglich. Die Datensammlung dient der behördlichen Übersicht und Kontrolle über bewilligungspflichtige Betriebe im Bereich tierischer Lebensmittel. Sie ermöglicht die Koordination zwischen Bund und Kantonen, unterstützt die risikobasierte Planung von Kontrollen und dient als Grundlage für statistische Auswertungen. Zudem ist die Bewilligung eine Voraussetzung für die Exportfähigkeit von Lebensmitteln tierischer Herkunft in die EU. Die Datensammlung ermöglicht somit eine transparente und rechtskonforme Verwaltung der Angaben zu bewilligten Betrieben.",
-            "de": "Diese Datensammlung umfasst alle relevanten Informationen zu Betrieben, die gemäss Artikel 11 LMG eine Bewilligung erhalten haben. Grundsätzlich unterliegen alle Lebensmittelbetriebe, die Lebensmittel tierischer Herkunft herstellen, verarbeiten, behandeln, lagern oder abgeben, dieser Bewilligungspflicht. Erfasst werden unter anderem der Name und die Adresse des Betriebes, dessen Bewilligungsnummer, die bewilligten Sektionen, Tätigkeiten und Tierarten, sowie der Bewilligungsstatus, das Datum der Erteilung sowie allfällige Bedingungen oder Auflagen. Die Einträge stammen von den zuständigen kantonalen Vollzugsbehörden, welche die Bewilligungen gemäss den gesetzlichen Anforderungen ausstellen und die entsprechenden Daten dazu dem BLV per ASAN-Eintrag melden. Das BLV publiziert und aktualisiert die Daten wöchentlich auf seiner Webseite und macht sie somit für die Öffentlichkeit zugänglich. Die Datensammlung dient der behördlichen Übersicht und Kontrolle über bewilligungspflichtige Betriebe im Bereich tierischer Lebensmittel. Sie ermöglicht die Koordination zwischen Bund und Kantonen, unterstützt die risikobasierte Planung von Kontrollen und dient als Grundlage für statistische Auswertungen. Zudem ist die Bewilligung eine Voraussetzung für die Exportfähigkeit von Lebensmitteln tierischer Herkunft in die EU. Die Datensammlung ermöglicht somit eine transparente und rechtskonforme Verwaltung der Angaben zu bewilligten Betrieben."
-        },
-        "dct:accessRights": "PUBLIC",
-        "dct:publisher": "BLV-OSAV-USAV-FSVO",
-        "dcat:contactPoint": {
-            "schema:email": "lme@blv.admin.ch",
-            "schema:name": "BLV, LME, Lebensmittelhygiene"
-        },
-        "dct:issued": "2006-01-01",
-        "dcatap:availability": "STABLE",
-        "dcat:keyword": [
-            "Lebensmittelsicherheit",
-            "Bewilligung"
-        ],
-        "dct:accrualPeriodicity": "MONTHLY",
-        "dct:modified": "2025-09-10",
-        "adms:status": "published",
-        "bv:classification": "none",
-        "bv:personalData": "personalData",
-        "bv:typeOfData": "primaryThematicData",
-        "bv:archivalValue": "TRUE",
-        "bv:opendata_swiss": {
-            "bv:mustBePublished": "TRUE",
-            "dct:identifier": "lebensmittelbetriebe@bundesamt-fur-lebensmittelsicherheit-und-veterinaerwesen-blv",
-            "dcat:accessURL": "https://opendata.swiss/de/dataset/lebensmittelbetriebe"
-        },
-        "bv:i14y": {
-            "bv:mustBePublished": "TRUE"
-        },
-        "dcat:theme": [
-            "health"
-        ],
-        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/rechts-und-vollzugsgrundlagen/bewilligung-und-meldung/listen-bewilligter-betriebe.html",
-        "dct:spatial": "YES",
-        "dct:temporal": {},
-        "dcatap:applicableLegislation": [
-            "https://www.fedlex.admin.ch/eli/cc/2017/62"
-        ],
-        "bv:itSystem": "ASAN",
-        "businessDataOwner": null,
-        "schemaViolations": 3,
-        "schemaViolationMessages": [
-            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
-            "None of [{'prov:agent': 'p-1582170', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-9531742', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
-            "'TRUE' is not of type 'boolean'"
-        ],
-        "quality": 1262.5
-    },
-    {
-        "rdf:type": "dcat:Dataset",
         "dct:identifier": "FSVO_D00045",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
         "dct:title": {
@@ -1216,6 +1156,75 @@
             "'TRUE' is not of type 'boolean'"
         ],
         "quality": 1100.5
+    },
+    {
+        "rdf:type": "dcat:Dataset",
+        "dct:identifier": "FSVO_D00027",
+        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
+        "dct:title": {
+            "fr": "Betriebsbewilligungen von Lebensmittelunternehmen",
+            "de": "Betriebsbewilligungen von Lebensmittelunternehmen",
+            "en": "Betriebsbewilligungen von Lebensmittelunternehmen",
+            "it": "Betriebsbewilligungen von Lebensmittelunternehmen"
+        },
+        "dct:description": {
+            "fr": "Diese Datensammlung umfasst alle relevanten Informationen zu Betrieben, die gemäss Artikel 11 LMG eine Bewilligung erhalten haben. Grundsätzlich unterliegen alle Lebensmittelbetriebe, die Lebensmittel tierischer Herkunft herstellen, verarbeiten, behandeln, lagern oder abgeben, dieser Bewilligungspflicht. Erfasst werden unter anderem der Name und die Adresse des Betriebes, dessen Bewilligungsnummer, die bewilligten Sektionen, Tätigkeiten und Tierarten, sowie der Bewilligungsstatus, das Datum der Erteilung sowie allfällige Bedingungen oder Auflagen. Die Einträge stammen von den zuständigen kantonalen Vollzugsbehörden, welche die Bewilligungen gemäss den gesetzlichen Anforderungen ausstellen und die entsprechenden Daten dazu dem BLV per ASAN-Eintrag melden. Das BLV publiziert und aktualisiert die Daten wöchentlich auf seiner Webseite und macht sie somit für die Öffentlichkeit zugänglich. Die Datensammlung dient der behördlichen Übersicht und Kontrolle über bewilligungspflichtige Betriebe im Bereich tierischer Lebensmittel. Sie ermöglicht die Koordination zwischen Bund und Kantonen, unterstützt die risikobasierte Planung von Kontrollen und dient als Grundlage für statistische Auswertungen. Zudem ist die Bewilligung eine Voraussetzung für die Exportfähigkeit von Lebensmitteln tierischer Herkunft in die EU. Die Datensammlung ermöglicht somit eine transparente und rechtskonforme Verwaltung der Angaben zu bewilligten Betrieben.",
+            "de": "Diese Datensammlung umfasst alle relevanten Informationen zu Betrieben, die gemäss Artikel 11 LMG eine Bewilligung erhalten haben. Grundsätzlich unterliegen alle Lebensmittelbetriebe, die Lebensmittel tierischer Herkunft herstellen, verarbeiten, behandeln, lagern oder abgeben, dieser Bewilligungspflicht. Erfasst werden unter anderem der Name und die Adresse des Betriebes, dessen Bewilligungsnummer, die bewilligten Sektionen, Tätigkeiten und Tierarten, sowie der Bewilligungsstatus, das Datum der Erteilung sowie allfällige Bedingungen oder Auflagen. Die Einträge stammen von den zuständigen kantonalen Vollzugsbehörden, welche die Bewilligungen gemäss den gesetzlichen Anforderungen ausstellen und die entsprechenden Daten dazu dem BLV per ASAN-Eintrag melden. Das BLV publiziert und aktualisiert die Daten wöchentlich auf seiner Webseite und macht sie somit für die Öffentlichkeit zugänglich. Die Datensammlung dient der behördlichen Übersicht und Kontrolle über bewilligungspflichtige Betriebe im Bereich tierischer Lebensmittel. Sie ermöglicht die Koordination zwischen Bund und Kantonen, unterstützt die risikobasierte Planung von Kontrollen und dient als Grundlage für statistische Auswertungen. Zudem ist die Bewilligung eine Voraussetzung für die Exportfähigkeit von Lebensmitteln tierischer Herkunft in die EU. Die Datensammlung ermöglicht somit eine transparente und rechtskonforme Verwaltung der Angaben zu bewilligten Betrieben."
+        },
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BLV-OSAV-USAV-FSVO",
+        "dcat:contactPoint": {
+            "schema:name": "BLV, LME, Lebensmittelhygiene",
+            "schema:email": "lme@blv.admin.ch"
+        },
+        "dct:issued": "2006-01-01",
+        "dcatap:availability": "STABLE",
+        "dcat:keyword": [
+            "Lebensmittelsicherheit",
+            "Bewilligung"
+        ],
+        "dct:accrualPeriodicity": "MONTHLY",
+        "dct:modified": "2025-09-10",
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "personalData",
+        "bv:typeOfData": "primaryThematicData",
+        "bv:archivalValue": "TRUE",
+        "dcat:theme": [
+            "health"
+        ],
+        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/rechts-und-vollzugsgrundlagen/bewilligung-und-meldung/listen-bewilligter-betriebe.html",
+        "dct:spatial": "YES",
+        "dcatap:applicableLegislation": [
+            "https://www.fedlex.admin.ch/eli/cc/2017/62"
+        ],
+        "bv:itSystem": "ASAN",
+        "dcat:distribution": [
+            {
+                "dct:identifier": "FSVO_D00027_1",
+                "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWsLmZEKx4hIow_6OsQ7qq4",
+                "adms:status": "published",
+                "dct:format": "SAP BO",
+                "dct:title": {
+                    "de": "5001_Bewilligungen/Authorisations",
+                    "fr": "5001_Bewilligungen/Authorisations"
+                },
+                "dct:description": {
+                    "de": "Liste aller Bewilligungen die in ASAN erfasst sind. Um die Bewilligten Lebensmittelbetriebe zu erhalten, müssen die entsprechenden Filter gesetzt werden.",
+                    "fr": "Liste aller Bewilligungen die in ASAN erfasst sind. Um die Bewilligten Lebensmittelbetriebe zu erhalten, müssen die entsprechenden Filter gesetzt werden."
+                },
+                "schema:comment": "Puplikationsort in ALVPH:  /3 Shared/BLV - KAV/ASAN"
+            }
+        ],
+        "businessDataOwner": null,
+        "schemaViolations": 4,
+        "schemaViolationMessages": [
+            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
+            "None of [{'prov:agent': 'p-1582170', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-9531742', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
+            "'TRUE' is not of type 'boolean'",
+            "'dct:modified' is a required property"
+        ],
+        "quality": 1086.0
     },
     {
         "rdf:type": "dcat:Dataset",
