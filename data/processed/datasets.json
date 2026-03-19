@@ -1417,6 +1417,83 @@
     },
     {
         "rdf:type": "dcat:Dataset",
+        "dct:identifier": "FSVO_D00025",
+        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
+        "dct:title": {
+            "fr": "Ergebnisse der oeffentlich rechtlichen Milchpruefung",
+            "de": "Ergebnisse der oeffentlich rechtlichen Milchpruefung",
+            "en": "Ergebnisse der oeffentlich rechtlichen Milchpruefung",
+            "it": "Ergebnisse der oeffentlich rechtlichen Milchpruefung"
+        },
+        "dct:description": {
+            "fr": "Diese Datensammlung umfasst die Ergebnisse der von Suisselab im Rahmen der öffentlich-rechtlichen Milchprüfung durchgeführten Laboranalysen. Dabei werden die Keimzahl und die Zellzahl pro Einzelprobe sowie der geometrisch gemittelte Wert pro Monat erfasst. Zudem wird angegeben, ob der Hemmstofftest bei den Einzelproben positiv oder negativ ausfiel. Parallel dazu werden dieselben Ergebnisse zusammen mit den Ergebnisse privatrechtliche Untersuchungen (z. B. Gefrierpunkt) über eine andere Datenbank (dBMilch) den betroffenen Betrieben zur Verfügung gestellt. Über AGATE haben das BLV und die kantonalen Vollzugsbehörden ebenfalls Zugriff auf diese Datenbank, jedoch sehen sie nicht alle Daten. Die Daten aus den Milchprüfungen zeigen, ob die vorgeschriebenen Untersuchungen gemäss Milchprüfungsverordnung durchgeführt werden und ob die Anforderungen an die Rohmilch gemäss Hygieneverordnung eingehalten sind. Sie ermöglichen es kantonalen Vollzugsbehörden, gezielte Massnahmen einzuleiten (inklusive Milchliefersperren nach Art. 15 MiPV). Diese Datensammlung trägt zur Transparenz in der Wertschöpfungskette bei und unterstützt die behördliche Risikobewertung.",
+            "de": "Diese Datensammlung umfasst die Ergebnisse der von Suisselab im Rahmen der öffentlich-rechtlichen Milchprüfung durchgeführten Laboranalysen. Dabei werden die Keimzahl und die Zellzahl pro Einzelprobe sowie der geometrisch gemittelte Wert pro Monat erfasst. Zudem wird angegeben, ob der Hemmstofftest bei den Einzelproben positiv oder negativ ausfiel. Parallel dazu werden dieselben Ergebnisse zusammen mit den Ergebnisse privatrechtliche Untersuchungen (z. B. Gefrierpunkt) über eine andere Datenbank (dBMilch) den betroffenen Betrieben zur Verfügung gestellt. Über AGATE haben das BLV und die kantonalen Vollzugsbehörden ebenfalls Zugriff auf diese Datenbank, jedoch sehen sie nicht alle Daten. Die Daten aus den Milchprüfungen zeigen, ob die vorgeschriebenen Untersuchungen gemäss Milchprüfungsverordnung durchgeführt werden und ob die Anforderungen an die Rohmilch gemäss Hygieneverordnung eingehalten sind. Sie ermöglichen es kantonalen Vollzugsbehörden, gezielte Massnahmen einzuleiten (inklusive Milchliefersperren nach Art. 15 MiPV). Diese Datensammlung trägt zur Transparenz in der Wertschöpfungskette bei und unterstützt die behördliche Risikobewertung."
+        },
+        "dct:accessRights": "RESTRICTED",
+        "dct:publisher": "BLV-OSAV-USAV-FSVO",
+        "dcat:contactPoint": {
+            "schema:email": "lme@blv.admin.ch",
+            "schema:name": "BLV, LME, Lebensmittelhygiene"
+        },
+        "dct:issued": "2025-01-01",
+        "dcatap:availability": "STABLE",
+        "dcat:keyword": [
+            "Milchqualität",
+            "Laboranalysen"
+        ],
+        "dct:accrualPeriodicity": "MONTHLY",
+        "dct:modified": "2025-09-10",
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "personalData",
+        "bv:typeOfData": "primaryThematicData",
+        "bv:archivalValue": "TRUE",
+        "bv:opendata_swiss": {
+            "bv:mustBePublished": "NO"
+        },
+        "bv:i14y": {
+            "bv:mustBePublished": "FALSE"
+        },
+        "dcat:theme": [
+            "health"
+        ],
+        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/lebensmittelsicherheit/verantwortlichkeiten/milchpruefung.html",
+        "dct:spatial": "NO",
+        "dct:temporal": {},
+        "dcatap:applicableLegislation": [
+            "https://fedlex.data.admin.ch/eli/cc/2022/272",
+            "https://www.fedlex.admin.ch/eli/cc/2010/713"
+        ],
+        "bv:itSystem": "ARES; dBMilch (BLW)",
+        "dcat:distribution": [
+            {
+                "dct:identifier": "FSVO_D00025_01",
+                "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AZfTFL4gdo5Gie8SMHqEmKw",
+                "adms:status": "published",
+                "dct:format": "SAP BO Webintelligence",
+                "dct:title": {
+                    "de": "3000_Untersuchungsergebnisse von Tierseuchen aus aRes",
+                    "fr": "3000_Untersuchungsergebnisse von Tierseuchen aus aRes"
+                },
+                "dct:description": {
+                    "de": "Labordiagnostische Untersuchungsergebnisse nach eigenem Bedarf zusammenstellen. Die Milchprüfungsergebnisse können gefiltert werden.",
+                    "fr": "Labordiagnostische Untersuchungsergebnisse  nach eigenem Bedarf zusammenstellen. Die Milchprüfungsergebnisse können gefiltert werden."
+                },
+                "schema:comment": "Publikationsort in ALVPH: /3 Shared/BLV - KAV/aRes"
+            }
+        ],
+        "businessDataOwner": null,
+        "schemaViolations": 4,
+        "schemaViolationMessages": [
+            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
+            "None of [{'prov:agent': 'p-1582170', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-9531742', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
+            "'TRUE' is not of type 'boolean'",
+            "'dct:modified' is a required property"
+        ],
+        "quality": 1049.8
+    },
+    {
+        "rdf:type": "dcat:Dataset",
         "dct:identifier": "FSVO_D00060",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
         "dct:title": {
