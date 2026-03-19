@@ -57,4 +57,22 @@
         "https://www.fedlex.admin.ch/eli/cc/2010/713"
     ],
     "bv:itSystem": "ARES; dBMilch (BLW)"
+      "dcat:distribution": [
+    {
+      "dct:identifier": "FSVO_D00025_01",
+      "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AZfTFL4gdo5Gie8SMHqEmKw",
+      "adms:status": "published",
+      "dct:format": "SAP BO Webintelligence",
+      "dct:title": {
+        "de": "3000_Untersuchungsergebnisse von Tierseuchen aus aRes",
+        "fr": "3000_Untersuchungsergebnisse von Tierseuchen aus aRes"
+      },
+      "dct:description": {
+        "de": "Labordiagnostische Untersuchungsergebnisse nach eigenem Bedarf zusammenstellen. Die Milchprüfungsergebnisse können gefiltert werden.",
+        "fr": "Labordiagnostische Untersuchungsergebnisse  nach eigenem Bedarf zusammenstellen. Die Milchprüfungsergebnisse können gefiltert werden."
+      },
+      "schema:comment": "Publikationsort in ALVPH: /3 Shared/BLV - KAV/aRes"
+    }
+    
+  ]
 }
