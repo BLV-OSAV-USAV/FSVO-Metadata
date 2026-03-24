@@ -1,61 +1,74 @@
 {
-    "dct:identifier": "FSVO_D00024",
-    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
-    "dct:title": {
-        "fr": "Laborergebnisse der kantonalen Lebensmittelkontrolle Produktkontrolle",
-        "de": "Laborergebnisse der kantonalen Lebensmittelkontrolle Produktkontrolle",
-        "en": "Laborergebnisse der kantonalen Lebensmittelkontrolle Produktkontrolle",
-        "it": "Laborergebnisse der kantonalen Lebensmittelkontrolle Produktkontrolle"
+  "dct:identifier": "FSVO_D00024",
+  "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
+  "dct:title": {
+    "fr": "Laborergebnisse der kantonalen Lebensmittelkontrolle Produktkontrolle",
+    "de": "Laborergebnisse der kantonalen Lebensmittelkontrolle Produktkontrolle",
+    "en": "Laborergebnisse der kantonalen Lebensmittelkontrolle Produktkontrolle",
+    "it": "Laborergebnisse der kantonalen Lebensmittelkontrolle Produktkontrolle"
+  },
+  "dct:description": {
+    "fr": "Diese Datensammlung beinhaltet die Ergebnisse der Laboruntersuchungen von Lebensmittelproben, die im Rahmen der kantonalen Lebensmittelkontrolle in den Untersuchungsbereichen Pflanzenschutzmittelrückstände, Mykotoxine, GVO, Trink- und Badewasser erhoben und untersucht wurden und die an das BLV gemeldet wurden. Dabei werden unter anderem die Produktart, die Herkunft, die Analyseparameter, die Messwerte, die rechtliche Beurteilung (konform/nicht konform) sowie allfällige Beanstandungsgründe erfasst. Die Laborergebnisse  geben einen Überblick über die gesamte Schweiz und das Fürstentum Liechtenstein in Bezug auf geprüfte Lebensmittel sowie festgestellte Auffälligkeiten. Sie bilden eine Grundlage für risikobasierte Planung künftiger Kontrollen, für die Beurteilung von Trends (z. B. wiederholte Höchstwertüberschreitungen) und für die Kommunikation gegenüber Konsumentinnen und Konsumenten, Medien und internationalen Partnern.",
+    "de": "Diese Datensammlung beinhaltet die Ergebnisse der Laboruntersuchungen von Lebensmittelproben, die im Rahmen der kantonalen Lebensmittelkontrolle in den Untersuchungsbereichen Pflanzenschutzmittelrückstände, Mykotoxine, GVO, Trink- und Badewasser erhoben und untersucht wurden und die an das BLV gemeldet wurden. Dabei werden unter anderem die Produktart, die Herkunft, die Analyseparameter, die Messwerte, die rechtliche Beurteilung (konform/nicht konform) sowie allfällige Beanstandungsgründe erfasst. Die Laborergebnisse  geben einen Überblick über die gesamte Schweiz und das Fürstentum Liechtenstein in Bezug auf geprüfte Lebensmittel sowie festgestellte Auffälligkeiten. Sie bilden eine Grundlage für risikobasierte Planung künftiger Kontrollen, für die Beurteilung von Trends (z. B. wiederholte Höchstwertüberschreitungen) und für die Kommunikation gegenüber Konsumentinnen und Konsumenten, Medien und internationalen Partnern."
+  },
+  "dct:accessRights": "RESTRICTED",
+  "dct:publisher": "BLV-OSAV-USAV-FSVO",
+  "dcat:contactPoint": {
+    "schema:name": "BLV, LME, Koordination und Überwachung",
+    "schema:email": "ares@blv.admin.ch"
+  },
+  "dct:issued": "2022-01-01",
+  "dcatap:availability": "STABLE",
+  "dcat:keyword": [
+    "Lebensmittelsicherheit",
+    "Laboranalysen"
+  ],
+  "dct:accrualPeriodicity": "MONTHLY",
+  "dct:modified": "2025-09-10",
+  "prov:qualifiedAttribution": [
+    {
+      "prov:agent": "p-1YFBMPWKZ",
+      "dcat:hadRole": "dataOwner"
     },
-    "dct:description": {
-        "fr": "Diese Datensammlung beinhaltet die Ergebnisse der Laboruntersuchungen von Lebensmittelproben, die im Rahmen der kantonalen Lebensmittelkontrolle in den Untersuchungsbereichen Pflanzenschutzmittelrückstände, Mykotoxine, GVO, Trink- und Badewasser erhoben und untersucht wurden und die an das BLV gemeldet wurden. Dabei werden unter anderem die Produktart, die Herkunft, die Analyseparameter, die Messwerte, die rechtliche Beurteilung (konform/nicht konform) sowie allfällige Beanstandungsgründe erfasst. Die Laborergebnisse  geben einen Überblick über die gesamte Schweiz und das Fürstentum Liechtenstein in Bezug auf geprüfte Lebensmittel sowie festgestellte Auffälligkeiten. Sie bilden eine Grundlage für risikobasierte Planung künftiger Kontrollen, für die Beurteilung von Trends (z. B. wiederholte Höchstwertüberschreitungen) und für die Kommunikation gegenüber Konsumentinnen und Konsumenten, Medien und internationalen Partnern.",
-        "de": "Diese Datensammlung beinhaltet die Ergebnisse der Laboruntersuchungen von Lebensmittelproben, die im Rahmen der kantonalen Lebensmittelkontrolle in den Untersuchungsbereichen Pflanzenschutzmittelrückstände, Mykotoxine, GVO, Trink- und Badewasser erhoben und untersucht wurden und die an das BLV gemeldet wurden. Dabei werden unter anderem die Produktart, die Herkunft, die Analyseparameter, die Messwerte, die rechtliche Beurteilung (konform/nicht konform) sowie allfällige Beanstandungsgründe erfasst. Die Laborergebnisse  geben einen Überblick über die gesamte Schweiz und das Fürstentum Liechtenstein in Bezug auf geprüfte Lebensmittel sowie festgestellte Auffälligkeiten. Sie bilden eine Grundlage für risikobasierte Planung künftiger Kontrollen, für die Beurteilung von Trends (z. B. wiederholte Höchstwertüberschreitungen) und für die Kommunikation gegenüber Konsumentinnen und Konsumenten, Medien und internationalen Partnern."
-    },
-    "dct:accessRights": "RESTRICTED",
-    "dct:publisher": "BLV-OSAV-USAV-FSVO",
-    "dcat:contactPoint": {
-        "schema:email": "ares@blv.admin.ch",
-        "schema:name": "BLV, LME, Koordination und Überwachung"
-    },
-    "dct:issued": "2022-01-01",
-    "dcatap:availability": "STABLE",
-    "dcat:keyword": [
-        "Lebensmittelsicherheit",
-        "Laboranalysen"
-    ],
-    "dct:accrualPeriodicity": "MONTHLY",
-    "dct:modified": "2025-09-10",
-    "prov:qualifiedAttribution": [
-        {
-            "prov:agent": "p-1YFBMPWKZ",
-            "dcat:hadRole": "dataOwner"
-        },
-        {
-            "prov:agent": "p-2560681",
-            "dcat:hadRole": "dataSteward"
-        }
-    ],
-    "adms:status": "published",
-    "bv:classification": "none",
-    "bv:personalData": "personalData",
-    "bv:typeOfData": "primaryThematicData",
-    "bv:archivalValue": "TRUE",
-    "bv:opendata_swiss": {
-        "bv:mustBePublished": "TRUE",
-        "dct:identifier": "lebensmittelkontrolle@bundesamt-fur-lebensmittelsicherheit-und-veterinaerwesen-blv",
-        "dcat:accessURL": "https://opendata.swiss/de/dataset/lebensmittelkontrolle"
-    },
-    "bv:i14y": {
-        "bv:mustBePublished": "TRUE"
-    },
-    "dcat:theme": [
-        "health"
-    ],
-    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/lebensmittelsicherheit/verantwortlichkeiten.html",
-    "dct:spatial": "NO",
-    "dct:temporal": {},
-    "dcatap:applicableLegislation": [
-        "https://fedlex.data.admin.ch/eli/cc/2022/273"
-    ],
-    "bv:itSystem": "ARES"
+    {
+      "prov:agent": "p-2560681",
+      "dcat:hadRole": "dataSteward"
+    }
+  ],
+  "adms:status": "published",
+  "bv:classification": "none",
+  "bv:personalData": "personalData",
+  "bv:typeOfData": "primaryThematicData",
+  "bv:archivalValue": "TRUE",
+  "dcat:theme": [
+    "health"
+  ],
+  "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/lebensmittelsicherheit/verantwortlichkeiten.html",
+  "dct:spatial": "NO",
+  "dcatap:applicableLegislation": [
+    "https://fedlex.data.admin.ch/eli/cc/2022/273"
+  ],
+  "bv:itSystem": "ARES",
+  "dcat:distribution": [
+    {
+      "dct:identifier": "FSVO_D00024_1",
+      "dcat:accessURL": "https://opendata.swiss/de/dataset/lebensmittelkontrolle",
+      "adms:status": "validated",
+      "dcatap:availability": "AVAILABLE",
+      "dct:format": "CSV",
+      "dct:title": {
+        "de": "Lebensmittelkontrolle",
+        "fr": "Contrôle des aliments",
+        "it": "Controlle delle derrate alimentari",
+        "en": "Food inspection"
+      },
+      "dct:description": {
+        "de": "Die kantonalen Lebensmittelvollzugsbehörden und das Fürstentum Liechtenstein kontrollieren Betriebe und Lebensmittel und melden die Ergebnisse an das BLV. Die meisten amtlichen Kontrollen erfolgen risikobasiert, also gezielt dort, wo das höchste Risiko für Abweichungen von den lebensmittelrechtlichen Vorgaben vermutet wird. Damit sorgen diese Kontrollen für sichere und qualitativ hochwertige Lebensmittel.\n\nDa sich die Datenübermittlung noch in der Entwicklungsphase befindet, sind die verfügbaren Ergebnisse auf bestimmte Untersuchungsbereiche beschränkt.\n\nEine Lebensmittelprobe ist konform, wenn sie den gesetzlichen Vorgaben entspricht. Werden diese nicht eingehalten, gilt die Probe als nicht konform und wird beanstandet. In bestimmten Fällen ist keine Konformitätsbewertung möglich, da zu einem bestimmten Sachverhalt noch keine gesetzlichen Vorgaben bestehen. Dann wird das Ergebnis als nicht bewertet gemeldet. Diese Werte erscheinen nicht in den Visualisierungen.\n\nNicht alle Untersuchungen erscheinen in den Daten: So führen zum Beispiel pendente Schnittstellenoptimierungen und uneinheitliche Erfassung von Werten unterhalb der Nachweisgrenze in den Laborinformationssystemen der Kantone dazu, dass gewisse Ergebnisse nicht an das BLV übermittelt werden.\n\nAn einer Probe können mehrere Untersuchungen (Analysen auf verschiedene Substanzen oder Eigenschaften) durchgeführt werden. Das bedeutet, dass es pro Probe konforme und nicht konforme Untersuchungen geben kann, welche dann auch so in den Auswertungen erscheinen. Mit den von den Kantonen und dem Fürstentum Liechtenstein gemeldeten Daten kann hingegen keine Aussage über den Anteil nicht konformer Proben getroffen werden.",
+        "fr": "Les autorités cantonales d’exécution de la législation sur les denrées alimentaires et la Principauté de Liechtenstein contrôlent les entreprises et les denrées alimentaires et communiquent les résultats des contrôles à l’OSAV. La plupart des contrôles officiels sont réalisés en fonction des risques, c’est-à-dire qu’ils sont ciblés là où le risque d’écarts par rapport aux prescriptions de la législation alimentaire est présumé le plus élevé. Ces contrôles garantissent ainsi que les denrées alimentaires sont sûres et de qualité.\n\nLa transmission des données étant encore en phase de développement, les résultats disponibles sont limités à certains domaines.\n\nUn échantillon de denrée alimentaire est conforme s’il répond aux exigences légales. Si celles-ci ne sont pas respectées, l’échantillon est considéré comme non conforme et fait l’objet d’une contestation. Dans certains cas, il n’est pas possible de procéder à une évaluation de la conformité, car il n’existe pas encore de prescriptions légales concernant une situation donnée. Le résultat est alors notifié comme non évalué. Ces résultats n’apparaissent pas dans les visualisations.\n\nToutes les analyses n’apparaissent pas dans les données : certains résultats ne sont pas transmis à l’OSAV en raison d’une optimisation d’interface en suspens ou d’une saisie non uniforme des valeurs inférieures à la limite de détection dans les systèmes d’information des laboratoires cantonaux.\n\nPlusieurs analyses (analyses de différentes substances ou propriétés) peuvent être effectuées sur un échantillon. Cela signifie qu’il peut y avoir des résultats d’analyses conformes et non conformes pour le même échantillon, qui apparaissent alors tels quels dans les évaluations. Les données communiquées par les cantons et la Principauté de Liechtenstein ne permettent cependant pas de se prononcer sur le pourcentage d’échantillons non conformes.",
+        "it": "Le autorità cantonali di esecuzione della legislazione sulle derrate alimentari e il Principato del Liechtenstein controllano le aziende e le derrate alimentari e notificano i risultati all’USAV. La maggior parte dei controlli ufficiali avviene sulla base dei rischi, ossia in modo mirato laddove si presuppone vi sia il rischio più elevato di non conformità alle prescrizioni della legislazione in materia, garantendo così la disponibilità di derrate alimentari sicure e di alta qualità.\n\nPoiché il sistema di trasmissione dei dati è ancora in fase di sviluppo, i risultati disponibili sono limitati a determinati ambiti.\n\nUn campione di derrata alimentare è ritenuto conforme se soddisfa le disposizioni legali. In caso contrario, il campione viene contestato. Qualora non sia possibile procedere a una valutazione della conformità per mancanza di disposizioni legali riguardanti una fattispecie specifica, il risultato viene notificato come non valutabile e i relativi valori non appaiono nella visualizzazione.\n\nI dati non riportano tutte le analisi, visto che alcuni risultati non sono trasmessi all’USAV. Ciò accade ad esempio perché sono in corso delle ottimizzazioni alle interfacce o perché i sistemi d’informazione cantonali per i dati di laboratorio non prevedono una registrazione standardizzata dei valori inferiori ai limiti di rilevabilità.\n\nUn campione può essere sottoposto a più analisi (per diverse sostanze o proprietà) e quindi per ognuno di essi possono esserci analisi conformi e non, che appaiono come tali nelle valutazioni. Con i dati comunicati dai Cantoni e dal Principato del Liechtenstein non è invece possibile trarre conclusioni sulla percentuale di campioni non conformi.",
+        "en": "The cantonal food enforcement authorities and the Principality of Liechtenstein inspect establishments and foodstuffs and report the results to the FSVO. Most of these official inspections are risk-based, i.e. targeted where there is suspected to be the highest risk of deviations from legal requirements, thus ensuring the safety and quality of foodstuffs.\n\nAs the data transmission is still in development, the results available are limited to certain areas of investigation.\n\nA food sample is deemed compliant if it meets the statutory requirements. If it fails, it is considered non-compliant and is rejected. In some cases, compliance cannot be assessed because there are no regulations governing a particular set of circumstances. The result is then reported as “not evaluated”. These values do not appear in the visualisations.\n\nNot all tests appear in the data: for example, certain results are not transmitted to the FSVO due to pending interface optimisations or inconsistent recording of values below the detection limit in the cantonal laboratory information systems.\n\nA sample may undergo multiple tests (analyses for different substances or properties). This means that each sample may yield both compliant and non-compliant test results, which then appear as such in the evaluations. However, the data reported by the cantons and the Principality of Liechtenstein do not provide information as to the percentage of non-compliant samples."
+      },
+      "dct:license": "terms_by"
+    }
+  ]
 }
