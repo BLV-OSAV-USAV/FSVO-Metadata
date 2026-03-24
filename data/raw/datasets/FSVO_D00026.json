@@ -1,62 +1,75 @@
 {
-    "dct:identifier": "FSVO_D00026",
-    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
-    "dct:title": {
-        "fr": "Ergebnisse der Fleischkontrolle",
-        "de": "Ergebnisse der Fleischkontrolle",
-        "en": "Ergebnisse der Fleischkontrolle",
-        "it": "Ergebnisse der Fleischkontrolle"
+  "dct:identifier": "FSVO_D00026",
+  "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
+  "dct:title": {
+    "fr": "Ergebnisse der Fleischkontrolle",
+    "de": "Ergebnisse der Fleischkontrolle",
+    "en": "Ergebnisse der Fleischkontrolle",
+    "it": "Ergebnisse der Fleischkontrolle"
+  },
+  "dct:description": {
+    "fr": "Diese Datensammlung enthält die Ergebnisse der amtlichen Schlachttier- und Fleischuntersuchungen. Erfasst werden Angaben zum lebenden Tier, zu dessen Herkunft sowie zu Mängeln bezüglich Lebensmittelhygiene, Tierschutz und Dokumentation. Diese Daten werden standardisiert erfasst und zentral gespeichert. Ziel der Fleischkontrolle ist die Sicherstellung der Lebensmittelsicherheit und der Tiergesundheit im Rahmen der Schlachtung. Die gewonnen Daten ermöglichen epidemiologische Auswertungen, Trendanalysen und die Rückverfolgung auffälliger Befunde. Zudem unterstützen sie risikobasierte Kontrollstrategien und liefern Entscheidungsgrundlagen für den Vollzug und die Weiterentwicklung der gesetzlichen Vorgaben im Bereich der Fleischhygiene.",
+    "de": "Diese Datensammlung enthält die Ergebnisse der amtlichen Schlachttier- und Fleischuntersuchungen. Erfasst werden Angaben zum lebenden Tier, zu dessen Herkunft sowie zu Mängeln bezüglich Lebensmittelhygiene, Tierschutz und Dokumentation. Diese Daten werden standardisiert erfasst und zentral gespeichert. Ziel der Fleischkontrolle ist die Sicherstellung der Lebensmittelsicherheit und der Tiergesundheit im Rahmen der Schlachtung. Die gewonnen Daten ermöglichen epidemiologische Auswertungen, Trendanalysen und die Rückverfolgung auffälliger Befunde. Zudem unterstützen sie risikobasierte Kontrollstrategien und liefern Entscheidungsgrundlagen für den Vollzug und die Weiterentwicklung der gesetzlichen Vorgaben im Bereich der Fleischhygiene."
+  },
+  "dct:accessRights": "RESTRICTED",
+  "dct:publisher": "BLV-OSAV-USAV-FSVO",
+  "dcat:contactPoint": {
+    "schema:name": "BLV, LME, Lebensmittelhygiene",
+    "schema:email": "lme@blv.admin.ch"
+  },
+  "dct:issued": "2020-01-01",
+  "dcatap:availability": "STABLE",
+  "dcat:keyword": [
+    "Fleischkontrolle",
+    "Schlachttieruntersuchung",
+    "Lebensmittel"
+  ],
+  "dct:accrualPeriodicity": "MONTHLY",
+  "dct:modified": "2025-09-10",
+  "prov:qualifiedAttribution": [
+    {
+      "prov:agent": "p-1582170",
+      "dcat:hadRole": "dataOwner"
     },
-    "dct:description": {
-        "fr": "Diese Datensammlung enthält die Ergebnisse der amtlichen Schlachttier- und Fleischuntersuchungen. Erfasst werden Angaben zum lebenden Tier, zu dessen Herkunft sowie zu Mängeln bezüglich Lebensmittelhygiene, Tierschutz und Dokumentation. Diese Daten werden standardisiert erfasst und zentral gespeichert. Ziel der Fleischkontrolle ist die Sicherstellung der Lebensmittelsicherheit und der Tiergesundheit im Rahmen der Schlachtung. Die gewonnen Daten ermöglichen epidemiologische Auswertungen, Trendanalysen und die Rückverfolgung auffälliger Befunde. Zudem unterstützen sie risikobasierte Kontrollstrategien und liefern Entscheidungsgrundlagen für den Vollzug und die Weiterentwicklung der gesetzlichen Vorgaben im Bereich der Fleischhygiene.",
-        "de": "Diese Datensammlung enthält die Ergebnisse der amtlichen Schlachttier- und Fleischuntersuchungen. Erfasst werden Angaben zum lebenden Tier, zu dessen Herkunft sowie zu Mängeln bezüglich Lebensmittelhygiene, Tierschutz und Dokumentation. Diese Daten werden standardisiert erfasst und zentral gespeichert. Ziel der Fleischkontrolle ist die Sicherstellung der Lebensmittelsicherheit und der Tiergesundheit im Rahmen der Schlachtung. Die gewonnen Daten ermöglichen epidemiologische Auswertungen, Trendanalysen und die Rückverfolgung auffälliger Befunde. Zudem unterstützen sie risikobasierte Kontrollstrategien und liefern Entscheidungsgrundlagen für den Vollzug und die Weiterentwicklung der gesetzlichen Vorgaben im Bereich der Fleischhygiene."
-    },
-    "dct:accessRights": "RESTRICTED",
-    "dct:publisher": "BLV-OSAV-USAV-FSVO",
-    "dcat:contactPoint": {
-        "schema:email": "lme@blv.admin.ch",
-        "schema:name": "BLV, LME, Lebensmittelhygiene"
-    },
-    "dct:issued": "2020-01-01",
-    "dcatap:availability": "STABLE",
-    "dcat:keyword": [
-        "Fleischkontrolle",
-        "Schlachttieruntersuchung",
-        "Lebensmittel"
-    ],
-    "dct:accrualPeriodicity": "MONTHLY",
-    "dct:modified": "2025-09-10",
-    "prov:qualifiedAttribution": [
-        {
-            "prov:agent": "p-1582170",
-            "dcat:hadRole": "dataOwner"
-        },
-        {
-            "prov:agent": "p-2380008",
-            "dcat:hadRole": "dataSteward"
-        }
-    ],
-    "adms:status": "published",
-    "bv:classification": "none",
-    "bv:personalData": "personalData",
-    "bv:typeOfData": "primaryThematicData",
-    "bv:archivalValue": "TRUE",
-    "bv:opendata_swiss": {
-        "bv:mustBePublished": "TRUE",
-        "dct:identifier": "fleischkontrollstatistik@bundesamt-fur-lebensmittelsicherheit-und-veterinaerwesen-blv",
-        "dcat:accessURL": "https://opendata.swiss/de/dataset/fleischkontrollstatistik"
-    },
-    "bv:i14y": {
-        "bv:mustBePublished": "TRUE"
-    },
-    "dcat:theme": [
-        "health"
-    ],
-    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/lebensmittelsicherheit/verantwortlichkeiten/fleischkontrolle/fleko.html",
-    "dct:spatial": "YES",
-    "dct:temporal": {},
-    "dcatap:applicableLegislation": [
-        "https://fedlex.data.admin.ch/eli/cc/2022/272"
-    ],
-    "bv:itSystem": "FLEKO"
+    {
+      "prov:agent": "p-2380008",
+      "dcat:hadRole": "dataSteward"
+    }
+  ],
+  "adms:status": "published",
+  "bv:classification": "none",
+  "bv:personalData": "personalData",
+  "bv:typeOfData": "primaryThematicData",
+  "bv:archivalValue": "TRUE",
+  "dcat:theme": [
+    "health"
+  ],
+  "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/lebensmittelsicherheit/verantwortlichkeiten/fleischkontrolle/fleko.html",
+  "dct:spatial": "YES",
+  "dcatap:applicableLegislation": [
+    "https://fedlex.data.admin.ch/eli/cc/2022/272"
+  ],
+  "bv:itSystem": "FLEKO",
+  "dcat:distribution": [
+    {
+      "dct:identifier": "FSVO_D00026_1",
+      "dcat:accessURL": "https://opendata.swiss/de/dataset/fleischkontrollstatistik",
+      "adms:status": "validated",
+      "dcatap:availability": "AVAILABLE",
+      "dct:format": "CSV",
+      "dct:title": {
+        "de": "Fleischkontrollstatistik",
+        "fr": "Statistique du contrôle des viandes",
+        "it": "Statistica del controllo delle carni",
+        "en": "Meat control statistic"
+      },
+      "dct:description": {
+        "de": "Alle Tiere, die in einem bewilligten Schlachtbetrieb geschlachtet werden sollen, müssen vor der Schlachtung durch eine amtliche Vollzugsperson untersucht werden (Schlachttieruntersuchung). Nach der Schlachtung führen die damit beauftragten amtlichen Personen zudem eine Fleischuntersuchung durch. Die Ergebnisse der Untersuchungen zur Genusstauglichkeit werden in einer Fleischkontrolldatenbank (Fleko) erfasst. Basierend auf der standardisierten Erfassung von Befunden der Schlachttieruntersuchung, Genussuntauglichkeitsgründen und Teilkonfiskaten sind verbesserte Aussagen zur Lebensmittelsicherheit, zur Tiergesundheit und zum Tierschutz möglich. Die Daten der Fleischkontrolle werden jährlich für die Fleischkontrollstatistik ausgewertet und die Ergebnisse auf dem Dashboard des BLV veröffentlicht.",
+        "fr": "Tous les animaux qui doivent être abattus dans un abattoir autorisé doivent être examinés au préalable. Après l’abattage, les personnes officielles mandatées effectuent en outre un examen des viandes. Les résultats des examens visant à déterminer si une viande est propre ou non à la consommation sont saisis dans la banque de données du contrôle des viandes (Fleko). La saisie normalisée des résultats du contrôle des animaux avant l’abattage, des motifs justifiant le caractère impropre à la consommation et des parties confisquées permettent de se faire une idée plus claire de la sécurité alimentaire, la santé et la protection des animaux. Les données du contrôle de la viande sont évaluées chaque année pour les statistiques de contrôle de la viande et les résultats sont publiés sur le tableau de bord de l'OSAV.",
+        "it": "Prima della macellazione in una struttura autorizzata, tutti gli animali devono essere controllati. Inoltre, dopo la macellazione, le persone ufficialmente incaricate effettuano un controllo delle carni. I risultati delle analisi per l’idoneità al consumo vengono registrati nella Banca dati del controllo delle carni (Fleko). Sulla base della registrazione standardizzata dei risultati del controllo degli animali da macello, dei motivi di non idoneità al consumo e dei pezzi confiscati, è possibile ottenere informazioni più precise sulla sicurezza alimentare, la salute e la protezione degli animali. I dati del controllo della carne vengono valutati annualmente per le statistiche del controllo della carne e i risultati vengono pubblicati sul cruscotto dell'USAV.",
+        "en": "All animals that are to be slaughtered in an approved slaughterhouse must be examined before slaughter by an official enforcement person (ante-mortem inspection). After slaughter, the designated official persons also carry out a meat inspection. The results of the examinations regarding fitness for consumption are recorded in a meat control database (Fleko). Based on the standardized recording of findings from the ante-mortem inspection, reasons for unfitness for consumption, and partial confiscations, improved statements on food safety, animal health, and animal welfare are possible. The meat control data is evaluated annually for the meat control statistics, and the results are published on the dashboard of the FSVO"
+      },
+      "dct:license": "terms_by"
+    }
+  ]
 }
