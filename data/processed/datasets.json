@@ -44,7 +44,7 @@
         "bv:itSystem": "ARES",
         "dcat:distribution": [
             {
-                "dct:identifier": "FSVO_D00023",
+                "dct:identifier": "FSVO_D00023_1",
                 "dcat:accessURL": "https://opendata.swiss/de/dataset/lebensmittelkontrolle",
                 "adms:status": "published",
                 "dcatap:availability": "AVAILABLE",
@@ -72,7 +72,7 @@
             "'TRUE' is not of type 'boolean'",
             "'dct:modified' is a required property"
         ],
-        "quality": 2126.6
+        "quality": 2127.0
     },
     {
         "rdf:type": "dcat:Dataset",
