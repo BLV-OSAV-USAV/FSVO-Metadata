@@ -64,6 +64,26 @@
         "fr": "Liste aller Bewilligungen die in ASAN erfasst sind. Um die Bewilligten Lebensmittelbetriebe zu erhalten, müssen die entsprechenden Filter gesetzt werden."
       },
       "schema:comment": "Puplikationsort in ALVPH:  /3 Shared/BLV - KAV/ASAN"
+    },
+    {
+      "dct:identifier": "FSVO_D00027_2",
+      "dcat:accessURL": "https://opendata.swiss/de/dataset/lebensmittelbetriebe",
+      "adms:status": "validated",
+      "dcatap:availability": "AVAILABLE",
+      "dct:format": "CSV",
+      "dct:title": {
+        "de": "Lebensmittelbetriebe",
+        "fr": "Établissements du secteur alimentaire",
+        "it": "Aziende alimentari",
+        "en": "Foodstuff businesses"
+      },
+      "dct:description": {
+        "de": "Betriebe, die Lebensmittel tierischer Herkunft herstellen, verarbeiten, behandeln, lagern oder abgeben, benötigen eine Bewilligung. Diese erteilt die zuständige kantonale Vollzugsbehörde. Mit der Bewilligung verknüpft ist die Möglichkeit, in die EU zu exportieren.",
+        "fr": "Les établissements qui fabriquent, transforment, traitent, entreposent ou remettent des aliments d’origine animale ont besoin d’une autorisation délivrée par l’autorité cantonale d’exécution compétente. Cette autorisation leur permet d’exporter vers l’UE.",
+        "it": "Le aziende che fabbricano, trasformano, trattano, depositano o consegnano derrate alimentari di origine animale necessitano di un’autorizzazione, rilasciata dall’autorità cantonale di esecuzione competente. La possibilità di esportare nell’UE è legata a tale autorizzazione.",
+        "en": "Businesses which manufacture, process, handle, store or distribute foodstuffs of animal origin must be authorised. This authorisation is issued by the relevant cantonal authority. The authorisation includes the possibility of exporting to the EU."
+      },
+      "dct:license": "terms_by"
     }
   ]
 }
