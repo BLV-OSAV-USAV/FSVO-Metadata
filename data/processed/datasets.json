@@ -1602,8 +1602,8 @@
         "dct:accessRights": "RESTRICTED",
         "dct:publisher": "BLV-OSAV-USAV-FSVO",
         "dcat:contactPoint": {
-            "schema:email": "lme@blv.admin.ch",
-            "schema:name": "BLV, LME, Lebensmittelhygiene"
+            "schema:name": "BLV, LME, Lebensmittelhygiene",
+            "schema:email": "lme@blv.admin.ch"
         },
         "dct:issued": "2025-01-01",
         "dcatap:availability": "STABLE",
@@ -1618,18 +1618,11 @@
         "bv:personalData": "personalData",
         "bv:typeOfData": "primaryThematicData",
         "bv:archivalValue": "TRUE",
-        "bv:opendata_swiss": {
-            "bv:mustBePublished": "NO"
-        },
-        "bv:i14y": {
-            "bv:mustBePublished": "FALSE"
-        },
         "dcat:theme": [
             "health"
         ],
         "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/lebensmittelsicherheit/verantwortlichkeiten/milchpruefung.html",
         "dct:spatial": "NO",
-        "dct:temporal": {},
         "dcatap:applicableLegislation": [
             "https://fedlex.data.admin.ch/eli/cc/2022/272",
             "https://www.fedlex.admin.ch/eli/cc/2010/713"
@@ -1650,17 +1643,37 @@
                     "fr": "Labordiagnostische Untersuchungsergebnisse  nach eigenem Bedarf zusammenstellen. Die Milchprüfungsergebnisse können gefiltert werden."
                 },
                 "schema:comment": "Publikationsort in ALVPH: /3 Shared/BLV - KAV/aRes"
+            },
+            {
+                "dct:identifier": "FSVO_D00025_02",
+                "dcat:accessURL": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/publikationen/statistik-und-berichte-lebensmittelsicherheit.html",
+                "adms:status": "workInProgress",
+                "dcatap:availability": "AVAILABLE",
+                "dct:format": "PDF",
+                "dct:title": {
+                    "de": "Milchprüfung",
+                    "fr": "Contrôle du lait",
+                    "it": "Controllo del latte"
+                },
+                "dct:description": {
+                    "de": "Wie in der ganzen Lebensmittelproduktion gilt auch in der Milchproduktion auf allen Produktionsstufen das Prinzip der Selbstverantwortung. Amtliche Kontrollen ergänzen dieses Prinzip.\nDie Milchviehbetriebe werden alle vier Jahre von einem kantonalen Milchinspektor auf die hygienischen Anforderungen gemäss der Verordnung für die hygienische Milchproduktion überprüft. Zusätzlich organisiert und koordiniert die Milchbranche die eigentlichen Milchprüfungen. Das Labor, welches die Prüfungen durchführt, bestimmt die Branche im Einvernehmen mit dem BLV.",
+                    "fr": "Comme pour l’ensemble des productions de denrées alimentaires, le principe de la responsabilité du producteur s’applique également à toutes les étapes de la production laitière. Les contrôles officiels sont réalisés en complément.\nLes exploitations laitières sont contrôlées tous les quatre ans par un inspecteur cantonal du lait, qui vérifie si le producteur respecte les exigences en matière d’hygiène fixées dans l’ordonnance réglant l’hygiène dans la production laitière. Par ailleurs, la branche laitière organise et coordonne les contrôles du lait proprement dits. Le laboratoire en charge des contrôles est désigné par la branche avec l’accord de l’OSAV.",
+                    "it": "Come in tutti i settori alimentari, anche in quello lattiero vige il principio della responsabilità dei produttori in tutte le fasi della produzione. I controlli ufficiali integrano il controllo autonomo.\nOgni quattro anni un ispettore del latte cantonale verifica l’osservanza da parte delle aziende lattiere dei requisiti igienici previsti dall’ordinanza concernente l’igiene nella produzione lattiera. Inoltre il settore lattiero organizza e coordina le analisi effettive del latte. Il laboratorio che effettua le analisi viene stabilito dal settore lattiero di comune accordo con l’USAV."
+                },
+                "dct:license": "terms_by"
             }
         ],
         "businessDataOwner": null,
-        "schemaViolations": 4,
+        "schemaViolations": 6,
         "schemaViolationMessages": [
             "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
             "None of [{'prov:agent': 'p-1582170', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-9531742', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
             "'TRUE' is not of type 'boolean'",
-            "'dct:modified' is a required property"
+            "'dct:modified' is a required property",
+            "'dct:modified' is a required property",
+            "'Milchprüfung' does not match '[a-zA-Z0-9_\\\\-\\\\s]{10,75}'"
         ],
-        "quality": 1049.2
+        "quality": 1052.7142857142858
     },
     {
         "rdf:type": "dcat:Dataset",
