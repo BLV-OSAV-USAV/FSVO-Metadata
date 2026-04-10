@@ -1,63 +1,73 @@
 {
-    "dct:identifier": "FSVO_D00034",
-    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
-    "dct:title": {
-        "fr": "menuCH",
-        "de": "menuCH",
-        "en": "menuCH",
-        "it": "menuCH"
+  "dct:identifier": "FSVO_D00034",
+  "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
+  "dct:title": {
+    "de": "Nationale Ernährungserhebung menuCH",
+    "fr": "Nationale Ernährungserhebung menuCH",
+    "it": "menuCH",
+    "en": "menuCH"
+  },
+  "dct:description": {
+    "fr": "Die vorliegende Datensammlung basiert auf den Ergebnissen der nationalen Ernährungserhebung menuCH und stellt erstmals repräsentative Daten zum Lebensmittelverzehr, Ernährungsverhalten sowie zu sozioökonomischen und gesundheitsbezogenen Merkmalen der erwachsenen Bevölkerung in der Schweiz bereit. Erfasst wurden unter anderem Informationen zu konsumierten Lebensmittelmengen, Mahlzeitenstrukturen, Energie- und Nährstoffzufuhr, körperlicher Aktivität sowie zum Body-Mass-Index (BMI). Die erhobenen Daten dienen der wissenschaftlichen Analyse des Ernährungsverhaltens in der Schweiz und bilden eine evidenzbasierte Grundlage für die Weiterentwicklung von Ernährungsempfehlungen, gesundheitspräventiven Programmen und politischen Strategien – einschliesslich der Schweizer Ernährungsstrategie. Darüber hinaus ermöglicht die Datensammlung die Identifikation vulnerabler Bevölkerungsgruppen, den Vergleich mit internationalen Studien sowie die Ableitung gezielter Massnahmen zur Förderung einer ausgewogenen und nachhaltigen Ernährung. Sie stellt ein zentrales Instrument für die evidenzbasierte Ernährungspolitik und die öffentliche Gesundheitsförderung dar.",
+    "de": "Die vorliegende Datensammlung basiert auf den Ergebnissen der nationalen Ernährungserhebung menuCH und stellt erstmals repräsentative Daten zum Lebensmittelverzehr, Ernährungsverhalten sowie zu sozioökonomischen und gesundheitsbezogenen Merkmalen der erwachsenen Bevölkerung in der Schweiz bereit. Erfasst wurden unter anderem Informationen zu konsumierten Lebensmittelmengen, Mahlzeitenstrukturen, Energie- und Nährstoffzufuhr, körperlicher Aktivität sowie zum Body-Mass-Index (BMI). Die erhobenen Daten dienen der wissenschaftlichen Analyse des Ernährungsverhaltens in der Schweiz und bilden eine evidenzbasierte Grundlage für die Weiterentwicklung von Ernährungsempfehlungen, gesundheitspräventiven Programmen und politischen Strategien – einschliesslich der Schweizer Ernährungsstrategie. Darüber hinaus ermöglicht die Datensammlung die Identifikation vulnerabler Bevölkerungsgruppen, den Vergleich mit internationalen Studien sowie die Ableitung gezielter Massnahmen zur Förderung einer ausgewogenen und nachhaltigen Ernährung. Sie stellt ein zentrales Instrument für die evidenzbasierte Ernährungspolitik und die öffentliche Gesundheitsförderung dar."
+  },
+  "dct:accessRights": "PUBLIC",
+  "dct:publisher": "BLV-OSAV-USAV-FSVO",
+  "dcat:contactPoint": {
+    "schema:name": "BLV, LME, Ernährung",
+    "schema:email": "ernaehrung@blv.admin.ch"
+  },
+  "dct:issued": "2014-01-01",
+  "dcatap:availability": "STABLE",
+  "dcat:keyword": [
+    "Lebensmittel",
+    "Ernährung",
+    "Konsum",
+    "Portionsgrössen"
+  ],
+  "dct:accrualPeriodicity": "IRREGULAR",
+  "dct:modified": "2025-09-10",
+  "prov:qualifiedAttribution": [
+    {
+      "prov:agent": "p-7711752",
+      "dcat:hadRole": "dataOwner"
     },
-    "dct:description": {
-        "fr": "Die vorliegende Datensammlung basiert auf den Ergebnissen der nationalen Ernährungserhebung menuCH und stellt erstmals repräsentative Daten zum Lebensmittelverzehr, Ernährungsverhalten sowie zu sozioökonomischen und gesundheitsbezogenen Merkmalen der erwachsenen Bevölkerung in der Schweiz bereit. Erfasst wurden unter anderem Informationen zu konsumierten Lebensmittelmengen, Mahlzeitenstrukturen, Energie- und Nährstoffzufuhr, körperlicher Aktivität sowie zum Body-Mass-Index (BMI). Die erhobenen Daten dienen der wissenschaftlichen Analyse des Ernährungsverhaltens in der Schweiz und bilden eine evidenzbasierte Grundlage für die Weiterentwicklung von Ernährungsempfehlungen, gesundheitspräventiven Programmen und politischen Strategien – einschliesslich der Schweizer Ernährungsstrategie. Darüber hinaus ermöglicht die Datensammlung die Identifikation vulnerabler Bevölkerungsgruppen, den Vergleich mit internationalen Studien sowie die Ableitung gezielter Massnahmen zur Förderung einer ausgewogenen und nachhaltigen Ernährung. Sie stellt ein zentrales Instrument für die evidenzbasierte Ernährungspolitik und die öffentliche Gesundheitsförderung dar.",
-        "de": "Die vorliegende Datensammlung basiert auf den Ergebnissen der nationalen Ernährungserhebung menuCH und stellt erstmals repräsentative Daten zum Lebensmittelverzehr, Ernährungsverhalten sowie zu sozioökonomischen und gesundheitsbezogenen Merkmalen der erwachsenen Bevölkerung in der Schweiz bereit. Erfasst wurden unter anderem Informationen zu konsumierten Lebensmittelmengen, Mahlzeitenstrukturen, Energie- und Nährstoffzufuhr, körperlicher Aktivität sowie zum Body-Mass-Index (BMI). Die erhobenen Daten dienen der wissenschaftlichen Analyse des Ernährungsverhaltens in der Schweiz und bilden eine evidenzbasierte Grundlage für die Weiterentwicklung von Ernährungsempfehlungen, gesundheitspräventiven Programmen und politischen Strategien – einschliesslich der Schweizer Ernährungsstrategie. Darüber hinaus ermöglicht die Datensammlung die Identifikation vulnerabler Bevölkerungsgruppen, den Vergleich mit internationalen Studien sowie die Ableitung gezielter Massnahmen zur Förderung einer ausgewogenen und nachhaltigen Ernährung. Sie stellt ein zentrales Instrument für die evidenzbasierte Ernährungspolitik und die öffentliche Gesundheitsförderung dar."
-    },
-    "dct:accessRights": "PUBLIC",
-    "dct:publisher": "BLV-OSAV-USAV-FSVO",
-    "dcat:contactPoint": {
-        "schema:email": "ernaehrung@blv.admin.ch",
-        "schema:name": "BLV, LME, Ernährung"
-    },
-    "dct:issued": "2014-01-01",
-    "dcatap:availability": "STABLE",
-    "dcat:keyword": [
-        "Lebensmittel",
-        "Ernährung",
-        "Konsum",
-        "Portionsgrössen"
-    ],
-    "dct:accrualPeriodicity": "IRREGULAR",
-    "dct:modified": "2025-09-10",
-    "prov:qualifiedAttribution": [
-        {
-            "prov:agent": "p-7711752",
-            "dcat:hadRole": "dataOwner"
-        },
-        {
-            "prov:agent": "p-3922768",
-            "dcat:hadRole": "dataSteward"
-        }
-    ],
-    "adms:status": "published",
-    "bv:classification": "none",
-    "bv:personalData": "none",
-    "bv:typeOfData": "primaryThematicData",
-    "bv:archivalValue": "TRUE",
-    "bv:opendata_swiss": {
-        "bv:mustBePublished": "TRUE",
-        "dct:identifier": "menuCH_portionsgroessen_2014_2015@bundesamt-fur-lebensmittelsicherheit-und-veterinaerwesen-blv; menuCH_lebensmittelkonsum_2014_2015@bundesamt-fur-lebensmittelsicherheit-und-veterinaerwesen-blv",
-        "dcat:accessURL": "https://opendata.swiss/de/dataset/menuch-portionsgrossen; https://opendata.swiss/de/dataset/menuch-portionsgrossen"
-    },
-    "bv:i14y": {
-        "bv:mustBePublished": "TRUE"
-    },
-    "dcat:theme": [
-        "health"
-    ],
-    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/ernaehrung/menuCH.html",
-    "dct:spatial": "YES",
-    "dct:temporal": {},
-    "dcatap:applicableLegislation": [
-        ""
-    ],
-    "bv:itSystem": "FSVO Data Repository"
+    {
+      "prov:agent": "p-3922768",
+      "dcat:hadRole": "dataSteward"
+    }
+  ],
+  "adms:status": "published",
+  "bv:classification": "none",
+  "bv:personalData": "none",
+  "bv:typeOfData": "primaryThematicData",
+  "bv:archivalValue": "TRUE",
+  "dcat:theme": [
+    "health"
+  ],
+  "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/ernaehrung/menuCH.html",
+  "dct:spatial": "YES",
+  "bv:itSystem": "FSVO Data Repository",
+  "dcat:distribution": [
+    {
+      "dct:identifier": "FSVO_D00034_1",
+      "dcat:accessURL": "https://opendata.swiss/de/dataset/menuch-portionsgrossen",
+      "adms:status": "validated",
+      "dcatap:availability": "AVAILABLE",
+      "dct:format": "XLS",
+      "dct:title": {
+        "de": "menuCH: Konsummengen und Portionsgrössen",
+        "fr": "menuCH: Quantités consommées et taille des portions",
+        "it": "menuCH: Quantità di consumo e dimensioni delle porzioni",
+        "en": "menuCH: Consumption quantities and portion sizes"
+      },
+      "dct:description": {
+        "de": "Wann immer ein Lebensmittel gegessen wurde, gilt dies als Portion. In dieser Auswertung wurden sowohl die Anzahl verzehrter Portionen als auch die Menge pro Portion nach Lebensmittelkategorie und -unterkategorie in Gramm bestimmt. Die detaillierten Daten der Studie menuCH stehen unter bestimmten Bedingungen zur Nutzung zur Verfügung. Die Informationen zu den Daten und den Nutzungsbedingungen sowie das Antragsformular befinden sich auf www.studydata.blv.admin.ch.",
+        "fr": "Dès lors que l’on consomme un aliment, cela correspond à une portion. Pour cette analyse, ce sont le nombre de portions consommées mais aussi la quantité par portion qui ont été déterminés en grammes par catégorie et sous-catégorie d’aliments. Les données détaillées de l’étude menuCH peuvent être utilisées sous certaines conditions. Des informations sur les données et les conditions d'utilisation ainsi que le formulaire de candidature sont disponibles sur www.studydata.blv.admin.ch.",
+        "it": "Indipendentemente da quando un alimento è stato consumato, vale come porzione. Nella valutazione sono stati determinati in grammi sia il numero delle porzioni consumate sia la quantità per porzione in funzione della categoria e sottocategoria alimentare. I dati dettagliati dello studio menuCH possono essere utilizzati a determinate condizioni. Informazioni sui dati, sulle condizioni di utilizzo e sul modulo di domanda si trovano su www.studydata.blv.admin.ch.",
+        "en": "Whenever a food item was eaten, this counts as one portion. In this analysis, both the number of portions consumed and the quantity per portion were determined in grams, broken down by food category and subcategory. The detailed data from the menuCH study are available for use subject to certain conditions. Information on the data and the terms of use, as well as the application form, can be found at www.studydata.blv.admin.ch."
+      },
+      "dct:license": "terms_by"
+    }
+  ]
 }
