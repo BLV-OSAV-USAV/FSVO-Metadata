@@ -1739,8 +1739,8 @@
         "dct:identifier": "FSVO_D00034",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
-            "de": "Nationale Ernährungserhebung menuCH",
-            "fr": "Nationale Ernährungserhebung menuCH",
+            "de": "menuCH - die erste Nationale Ernährungserhebung",
+            "fr": "menuCH - die erste Nationale Ernährungserhebung",
             "it": "menuCH",
             "en": "menuCH"
         },
@@ -1829,7 +1829,7 @@
             "'dct:modified' is a required property",
             "'dct:modified' is a required property"
         ],
-        "quality": 1004.3333333333334
+        "quality": 1007.0
     },
     {
         "rdf:type": "dcat:Dataset",
