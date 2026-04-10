@@ -68,6 +68,26 @@
         "en": "Whenever a food item was eaten, this counts as one portion. In this analysis, both the number of portions consumed and the quantity per portion were determined in grams, broken down by food category and subcategory. The detailed data from the menuCH study are available for use subject to certain conditions. Information on the data and the terms of use, as well as the application form, can be found at www.studydata.blv.admin.ch."
       },
       "dct:license": "terms_by"
+    },
+    {
+      "dct:identifier": "FSVO_D00034_2",
+      "dcat:accessURL": "https://opendata.swiss/de/dataset/menuch_lebensmittelkonsum",
+      "adms:status": "validated",
+      "dcatap:availability": "AVAILABLE",
+      "dct:format": "XLS",
+      "dct:title": {
+        "de": "menuCH: Lebensmittelkonsum in der Schweiz",
+        "fr": "menuCH: Consommation alimentaire en Suisse",
+        "it": "menuCH: Consumo alimentarie in Svizzera",
+        "en": "menuCH: Food consumption in Switzerland"
+      },
+      "dct:description": {
+        "de": "Die im Rahmen von menuCH erhobenen Daten sind sowohl für die Wissenschaft als auch für die Öffentlichkeit von grosser Bedeutung. Sie werden daher zusammen mit vom BLV oder im Auftrag des BLV durchgeführten Auswertungen in codierter Form zur Verfügung gestellt (Konsum einzelner Lebensmittelgruppen). Die detaillierten Daten der Studie menuCH stehen unter bestimmten Bedingungen zur Nutzung zur Verfügung. Die Informationen zu den Daten und den Nutzungsbedingungen sowie das Antragsformular befinden sich auf www.studydata.blv.admin.ch.",
+        "fr": "Les données recueillies dans le cadre de menuCH sont d’une grande importance tant pour la science que pour le grand public. C’est pourquoi elles sont mises à disposition, sous une forme codée, accompagnées d’analyses réalisées par ou sur mandat de l’OSAV (Consommation de groupes d'aliments individuels). Les données détaillées de l’étude menuCH peuvent être utilisées sous certaines conditions. Des informations sur les données et les conditions d'utilisation ainsi que le formulaire de candidature sont disponibles sur www.studydata.blv.admin.ch.",
+        "it": "I dati raccolti attraverso menuCH sono di grande importanza sia per la scienza sia per il pubblico. Vengono pertanto forniti in forma codificata insieme alle valutazioni effettuate da o per conto dell’USAV (Consumo di singoli gruppi di alimenti). I dati dettagliati dello studio menuCH possono essere utilizzati a determinate condizioni. Informazioni sui dati, sulle condizioni di utilizzo e sul modulo di domanda si trovano su www.studydata.blv.admin.ch.",
+        "en": "The data collected as part of the menuCH study is of great importance to both the scientific community and the general public. It is therefore made available in coded form, together with analyses carried out by the FSVO or on its behalf (consumption of individual food groups). The detailed data from the menuCH study is available for use subject to certain conditions. Information on the data and the terms of use, as well as the application form, can be found at www.studydata.blv.admin.ch."
+      },
+      "dct:license": "terms_by"
     }
   ]
 }
