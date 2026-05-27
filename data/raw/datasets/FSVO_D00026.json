@@ -235,6 +235,81 @@
         "fr": "Angabe pro Schlachtbetrieb, Fleischkontrolle und Schlachtdatum, ob Trichinellen-Untersuchungen für die Tiergattungen Schwein, Wildschwein und Pferd durchgeführt wurden."
       },
       "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/Fleko"
+    },
+    {
+      "dct:identifier": "FSVO_D00026_13",
+      "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=ARXhvhuS1HdBsIbWk.B1D1s",
+      "adms:status": "published",
+      "dct:format": "SAP BO Webintelligence",
+      "dct:title": {
+        "de": "4010_Schlachtbetriebe ohne Fleischkontrollen",
+        "fr": "4010_Schlachtbetriebe ohne Fleischkontrollen"
+      },
+      "dct:description": {
+        "de": "Ermittlung von Schlachtbetrieben, für die in Fleko keine Fleischkontrollen erfasst wurden.",
+        "fr": "Ermittlung von Schlachtbetrieben, für die in Fleko keine Fleischkontrollen erfasst wurden."
+      },
+      "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/Fleko"
+    },
+    {
+      "dct:identifier": "FSVO_D00026_14",
+      "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVhWzHcTG75MqsoVG_ccj2c",
+      "adms:status": "published",
+      "dct:format": "SAP BO Webintelligence",
+      "dct:title": {
+        "de": "4011_Schlachtbetriebe mit gespeicherten, gelöschten oder stornierten Fleischkontrollen",
+        "fr": "4011_Schlachtbetriebe mit gespeicherten, gelöschten oder stornierten Fleischkontrollen"
+      },
+      "dct:description": {
+        "de": "Ermittlung von Schlachtbetrieben, die im ausgewählten Zeitraum eine oder mehrere Fleischkontrollen mit dem Status «gespeichert», «gelöscht» oder «storniert» in der Fleko aufweisen.",
+        "fr": "Ermittlung von Schlachtbetrieben, die im ausgewählten Zeitraum eine oder mehrere Fleischkontrollen mit dem Status «gespeichert», «gelöscht» oder «storniert» in der Fleko aufweisen."
+      },
+      "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/Fleko"
+    },
+    {
+      "dct:identifier": "FSVO_D00026_15",
+      "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AW7aAXff6JBNhooxYHYe2W8",
+      "adms:status": "published",
+      "dct:format": "SAP BO Webintelligence",
+      "dct:title": {
+        "de": "4012_Schlachtbetriebe mit unbearbeiteten Schlachtungsmeldungen",
+        "fr": "4012_Schlachtbetriebe mit unbearbeiteten Schlachtungsmeldungen"
+      },
+      "dct:description": {
+        "de": "Ermittlung von Schlachtbetrieben mit unbearbeiteten Schlachtungsmeldungen in Fleko. Unbearbeitet bedeutet, dass diese Schlachtungsmeldungen noch nicht zur Erfassung einer Fleischkontrolle (und der Eingabe von Befunden) verwendet wurden. ",
+        "fr": "Ermittlung von Schlachtbetrieben mit unbearbeiteten Schlachtungsmeldungen in Fleko. Unbearbeitet bedeutet, dass diese Schlachtungsmeldungen noch nicht zur Erfassung einer Fleischkontrolle (und der Eingabe von Befunden) verwendet wurden. "
+      },
+      "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/Fleko"
+    },
+    {
+      "dct:identifier": "FSVO_D00026_16",
+      "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AcVEchUScxpEnj3aQLV6MBg",
+      "adms:status": "published",
+      "dct:format": "SAP BO Webintelligence",
+      "dct:title": {
+        "de": "4014_Vergleich Schlachtzahlen TVD und FLEKO",
+        "fr": "4014_Vergleich Schlachtzahlen TVD und FLEKO"
+      },
+      "dct:description": {
+        "de": "Vergleich der Schlachtzahlen in TVD und Fleko sowie Ermittlung von Abweichungen je Schlachtbetrieb, Schlachtdatum, Tiergattung und Herkunftsbetrieb im gewählten Zeitraum. Als Grundlage dienen die Schlachtungsmeldungen aus der TVD und die Fleischkontrollen aus der Fleko. ",
+        "fr": "Vergleich der Schlachtzahlen in TVD und Fleko sowie Ermittlung von Abweichungen je Schlachtbetrieb, Schlachtdatum, Tiergattung und Herkunftsbetrieb im gewählten Zeitraum. Als Grundlage dienen die Schlachtungsmeldungen aus der TVD und die Fleischkontrollen aus der Fleko. "
+      },
+      "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/Fleko"
+    },
+    {
+      "dct:identifier": "FSVO_D00026_16",
+      "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=ARJC.xpIQ0pEi.79MRWV.1M",
+      "adms:status": "published",
+      "dct:format": "SAP BO Webintelligence",
+      "dct:title": {
+        "de": "4030_Schlachtungen je Herkunftsbetrieb",
+        "fr": "4030_Schlachtungen je Herkunftsbetrieb"
+      },
+      "dct:description": {
+        "de": "Dieser Bericht bietet eine nach Herkunftsbetrieb geordnete Übersicht über die Anzahl der geschlachteten Tiere, bei deren Schlachtung eine Fleischkontrolle durchgeführt wurde. Dabei ist nachvollziehbar, in welche Schlachtbetriebe die Tiere eines bestimmten Herkunftsbetriebs geliefert wurden. Die Schlachtungen werden nach Herkunftsbetrieb, Tiergattung und Schlachtbetrieb aufgeführt.  Bei den Auswertungen werden nur Einträge mit dem Status «abgeschlossen» in der Fleko berücksichtigt.",
+        "fr": "Dieser Bericht bietet eine nach Herkunftsbetrieb geordnete Übersicht über die Anzahl der geschlachteten Tiere, bei deren Schlachtung eine Fleischkontrolle durchgeführt wurde. Dabei ist nachvollziehbar, in welche Schlachtbetriebe die Tiere eines bestimmten Herkunftsbetriebs geliefert wurden. Die Schlachtungen werden nach Herkunftsbetrieb, Tiergattung und Schlachtbetrieb aufgeführt.  Bei den Auswertungen werden nur Einträge mit dem Status «abgeschlossen» in der Fleko berücksichtigt."
+      },
+      "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/Fleko"
     }
   ]
 }
