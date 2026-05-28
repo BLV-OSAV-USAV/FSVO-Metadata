@@ -4164,5 +4164,47 @@
             "'FALSE' is not of type 'boolean'"
         ],
         "quality": 255.0
+    },
+    {
+        "rdf:type": "dcat:Dataset",
+        "dct:identifier": "53692279-d8f0-40f9-8c0c-5358cf94a23a",
+        "dct:title": {
+            "de": "Tierverkehr",
+            "fr": "Tierverkehr"
+        },
+        "dct:description": {
+            "de": "In der Tierverkehrsdatenbank (TVD) gesammelte Meldungen zu Geburten, Abgängen und Bewegungen von Nutztieren (Rinder, Schafe, Ziegen, Equiden, Schweine und Geflügel) in der Schweiz.",
+            "fr": "In der Tierverkehrsdatenbank (TVD) gesammelte Meldungen zu Geburten, Abgängen und Bewegungen von Nutztieren (Rinder, Schafe, Ziegen, Equiden, Schweine und Geflügel) in der Schweiz."
+        },
+        "dct:accessRights": "NON_PUBLIC",
+        "dct:publisher": "BLV-OSAV-USAV-FSVO",
+        "dcat:keyword": [
+            "animal-owner",
+            "animals"
+        ],
+        "dct:accrualPeriodicity": "DAILY",
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "personalData",
+        "bv:typeOfData": "primaryThematicData",
+        "bv:archivalValue": false,
+        "dcat:theme": [
+            "agriculture",
+            "health",
+            "national-economy"
+        ],
+        "dcat:landingPage": "https://www.tierverkehr.ch/",
+        "dct:spatial": "Switzerland",
+        "bv:itSystem": "BI BLV",
+        "businessDataOwner": null,
+        "schemaViolations": 5,
+        "schemaViolationMessages": [
+            "'dcat:contactPoint' is a required property",
+            "'dct:issued' is a required property",
+            "'dct:modified' is a required property",
+            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
+            "None of [{'prov:agent': 'p-1ZLWBXSJX', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-4636643', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema"
+        ],
+        "quality": 214.33333333333334
     }
 ]
