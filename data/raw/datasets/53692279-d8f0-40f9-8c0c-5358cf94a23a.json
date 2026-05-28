@@ -58,7 +58,101 @@
         "de": "Betriebsliste aus der TVD mit Informationen zur Tierhaltung, Bewirtschafter, Tierzahlen (aus der TVD und AGIS) sowie den in ASAN zugeiteilten BVD-Probenehmer und Kontrolltierärzte. Es wird der aktuelle Bewirtschafter gefiltert, es können aber auch inaktive Betriebe angezeigt werden.",
         "fr": "Betriebsliste aus der TVD mit Informationen zur Tierhaltung, Bewirtschafter, Tierzahlen (aus der TVD und AGIS) sowie den in ASAN zugeiteilten BVD-Probenehmer und Kontrolltierärzte. Es wird der aktuelle Bewirtschafter gefiltert, es können aber auch inaktive Betriebe angezeigt werden."
       },
-      "schema:comment": "/3 Shared/BLV - KAV/TVD"
+      "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD"
+    },
+    {
+      "dct:identifier": "D_FSVO_TVD_2",
+      "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AaIs0rePvRlElJ5eWSQyd2c",
+      "adms:status": "published",
+      "dcatap:availability": "AVAILABLE",
+      "dct:format": "SAP BO Webintelligence",
+      "dct:title": {
+        "de": "1002_Schlachtdaten ",
+        "fr": "1002_Schlachtdaten "
+      },
+      "dct:description": {
+        "de": "Schweizer Schlachtzahlen pro Schlachthof und Gattung (Rinder, Schweine, Schafe, Ziegen). Geflügel werden in kg angegeben.\nUm im Register 'Entwicklung' Vergleichsdaten zu haben, müssen beim laden des Berichts mehrere Jahre ausgewählt werden.\nIm Register 'Par Canton d'Origine' können die Schlachtzahlen nach Herkunftskanton eingesehen werden.",
+        "fr": "Schweizer Schlachtzahlen pro Schlachthof und Gattung (Rinder, Schweine, Schafe, Ziegen). Geflügel werden in kg angegeben.\nUm im Register 'Entwicklung' Vergleichsdaten zu haben, müssen beim laden des Berichts mehrere Jahre ausgewählt werden.\nIm Register 'Par Canton d'Origine' können die Schlachtzahlen nach Herkunftskanton eingesehen werden."
+      },
+      "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD"
+    },
+    {
+      "dct:identifier": "D_FSVO_TVD_3",
+      "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWcxn0ERljZGt38qIUYVncQ",
+      "adms:status": "published",
+      "dcatap:availability": "AVAILABLE",
+      "dct:format": "SAP BO Webintelligence",
+      "dct:title": {
+        "de": "1002a SlaughterNotifications",
+        "fr": "1002a SlaughterNotifications"
+      },
+      "dct:description": {
+        "de": "Schlachtungsmedlungen der Schlachhöfe pro Jahr mit Meldedatum. Verspätete Meldungen (mehr als 3 Tage nach Schlachtdatum) werden hervorgehoben.",
+        "fr": "Schlachtungsmedlungen der Schlachhöfe pro Jahr mit Meldedatum. Verspätete Meldungen (mehr als 3 Tage nach Schlachtdatum) werden hervorgehoben."
+      },
+      "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD"
+    },
+    {
+      "dct:identifier": "D_FSVO_TVD_4",
+      "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AX4mArZ2K.tJsDhh5RGVmrI",
+      "adms:status": "published",
+      "dcatap:availability": "AVAILABLE",
+      "dct:format": "SAP Webintelligence",
+      "dct:title": {
+        "de": "1006_Soemmerung/Alpage ",
+        "fr": "1006_Soemmerung/Alpage "
+      },
+      "dct:description": {
+        "de": "Der Bericht generiert eine Liste aller Bewegungen im ausgewählten Jahr, die in diesem Jahr vom Kanton 1 in den Kanton 2 und wieder zurück verstellt wurde. Dies zielt insbesondere auf Tiere mit Sömmerung in einem anderen Kanton ab, ohne die Abfrage zu stark einzuschränken (nicht nur Sömmerungsbetriebe). Die Abfrage gibt alle Tiere aus, die Bewegungen von Kanton 1 zu Kanton 2 UND von Kanton 2 zu Kanton 1 hat, wobei die Bewegung von Kanton 2 zu Kanton 1 nach der Bewegung von Kanton 1 zu Kanton 2 stattgefunden hat.",
+        "fr": "Der Bericht generiert eine Liste aller Bewegungen im ausgewählten Jahr, die in diesem Jahr vom Kanton 1 in den Kanton 2 und wieder zurück verstellt wurde. Dies zielt insbesondere auf Tiere mit Sömmerung in einem anderen Kanton ab, ohne die Abfrage zu stark einzuschränken (nicht nur Sömmerungsbetriebe). Die Abfrage gibt alle Tiere aus, die Bewegungen von Kanton 1 zu Kanton 2 UND von Kanton 2 zu Kanton 1 hat, wobei die Bewegung von Kanton 2 zu Kanton 1 nach der Bewegung von Kanton 1 zu Kanton 2 stattgefunden hat."
+      },
+      "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD/Rinder"
+    },
+    {
+      "dct:identifier": "D_FSVO_TVD_5",
+      "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AfuxCOm6869Dmr9IeG2sJ78",
+      "adms:status": "published",
+      "dct:format": "SAP BO Webintelligence",
+      "dct:title": {
+        "de": "1006a_Soemmerung/Alpage_France",
+        "fr": "1006a_Soemmerung/Alpage_France"
+      },
+      "dct:description": {
+        "de": "Der Bericht zeigt alle Aufenthalte mit dem ausgewählten Zugangsjahr in Frankreich. Als Filterkriterium wurden Aufenthaltsbetriebe ausgewählt, die im Gemeindename 'France' enthalten. Es ist uns (BLV) aktuell nicht bekannt, ob alle Sömmerungsbetriebe in FR so abgebildet sind.",
+        "fr": "Der Bericht zeigt alle Aufenthalte mit dem ausgewählten Zugangsjahr in Frankreich. Als Filterkriterium wurden Aufenthaltsbetriebe ausgewählt, die im Gemeindename 'France' enthalten. Es ist uns (BLV) aktuell nicht bekannt, ob alle Sömmerungsbetriebe in FR so abgebildet sind."
+      },
+      "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD/Rinder"
+    },
+    {
+      "dct:identifier": "D_FSVO_TVD_6",
+      "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AXv6yl7cBOBMhGQt_J8tdbw",
+      "adms:status": "published",
+      "dcatap:availability": "AVAILABLE",
+      "dct:format": "SAP BO Webintelligence",
+      "dct:title": {
+        "de": "1007_Datenprüfung bei Rinderhaltungen",
+        "fr": "1007_Datenprüfung bei Rinderhaltungen"
+      },
+      "dct:description": {
+        "de": "Dieser Bericht ermittelt Betriebe mit Rindern, die bestimmte Kriterien erfüllen. Das Ziel ist, möglicherweise veraltete TVD-Daten zu finden und bereinigen zu können. \n\nZudem werden Betriebe angezeigt, die Rinder mit fehlerhafter Tiergeschichte oder verschollene Rinder haben. \n\nFehlerhafte Tiergeschichte:\nKann auch wegen einer fehlenden oder fehlerhaften Meldung eines Vorgängerbetriebs verursacht worden sein, nicht zwingend durch den aktuellen Aufenthaltsbetrieb des Tieres. Der Unterschied ist mit der vorliegenden Auswertung nicht ersichtlich.\n\nVerschollene Rinder:\nWenn für ein Rind 30 Tage nach dem letzten Abgang kein neuer Zugang vorliegt, erhält es in der TVD den Status verschollen. \nDie Anzahl verschollene Rinder wird pro Jahr ausgewiesen, wobei sich das Jahr jeweils auf das Abgangsdatum bezieht.",
+        "fr": "Dieser Bericht ermittelt Betriebe mit Rindern, die bestimmte Kriterien erfüllen. Das Ziel ist, möglicherweise veraltete TVD-Daten zu finden und bereinigen zu können. \n\nZudem werden Betriebe angezeigt, die Rinder mit fehlerhafter Tiergeschichte oder verschollene Rinder haben. \n\nFehlerhafte Tiergeschichte:\nKann auch wegen einer fehlenden oder fehlerhaften Meldung eines Vorgängerbetriebs verursacht worden sein, nicht zwingend durch den aktuellen Aufenthaltsbetrieb des Tieres. Der Unterschied ist mit der vorliegenden Auswertung nicht ersichtlich.\n\nVerschollene Rinder:\nWenn für ein Rind 30 Tage nach dem letzten Abgang kein neuer Zugang vorliegt, erhält es in der TVD den Status verschollen. \nDie Anzahl verschollene Rinder wird pro Jahr ausgewiesen, wobei sich das Jahr jeweils auf das Abgangsdatum bezieht."
+      },
+      "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD/Rinder"
+    },
+    {
+      "dct:identifier": "D_FSVO_TVD_7",
+      "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVp0T4_eQMJDtbbrJZlf8lY",
+      "adms:status": "published",
+      "dct:format": "SAP Webintelligence",
+      "dct:title": {
+        "de": "1032_Rinderkohorte",
+        "fr": "1032_Rinderkohorte"
+      },
+      "dct:description": {
+        "de": "Im vorliegenden Bericht wird die vollständige Tiergeschicht aller Rinder angezeigt, die in einem ausgewählten\nZeitfenster auf ausgewählten Betrieben gestanden sind. Schlachtungsmeldungen sind orange eingefärbt, die\nAufenthalte auf einem ausgewählten Betrieb blau.",
+        "fr": "Im vorliegenden Bericht wird die vollständige Tiergeschicht aller Rinder angezeigt, die in einem ausgewählten\nZeitfenster auf ausgewählten Betrieben gestanden sind. Schlachtungsmeldungen sind orange eingefärbt, die\nAufenthalte auf einem ausgewählten Betrieb blau."
+      },
+      "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD/Rinder"
     }
   ]
 }
