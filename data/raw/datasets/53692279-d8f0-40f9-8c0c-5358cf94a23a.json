@@ -278,6 +278,69 @@
         "fr": "In der TVD gemeldete Geburten von Rindern und Schafen ab einem gewählten Jahr pro Kanton."
       },
       "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD"
+    },
+    {
+      "dct:identifier": "D_FSVO_TVD_16",
+      "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYZZyXTtxwFJgb38w4A4PD4",
+      "adms:status": "published",
+      "dcatap:availability": "AVAILABLE",
+      "dct:format": "SAP BO Webintelligence",
+      "dct:title": {
+        "de": "1030_Equiden",
+        "fr": "1030_Equiden"
+      },
+      "dct:description": {
+        "de": "Liste der in der TVD registrierten, lebenden Equiden (Todesdatum=NULL). Zum Aufenthaltsbetrieb werden zusätzlich die Anzahl Equiden sowie die Durchschnittswerte und GVE aus der letzten Erhebung angegeben.",
+        "fr": "Liste der in der TVD registrierten, lebenden Equiden (Todesdatum=NULL). Zum Aufenthaltsbetrieb werden zusätzlich die Anzahl Equiden sowie die Durchschnittswerte und GVE aus der letzten Erhebung angegeben."
+      },
+      "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD"
+    },
+    {
+      "dct:identifier": "D_FSVO_TVD_17",
+      "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWjr6fxs59JFhg2FQnV.O6I",
+      "adms:status": "published",
+      "dcatap:availability": "AVAILABLE",
+      "dct:format": "SAP BO Webintelligence",
+      "dct:title": {
+        "de": "1031_Meldeverhalten/Déclarations",
+        "fr": "1031_Meldeverhalten/Déclarations"
+      },
+      "dct:description": {
+        "de": "Auswertung des Meldeverhaltens der Tierhalter. Es werden Zugangs- und Abgangsmeldungen von Rindern,\nSchafen und Ziegen aus der TVD berücksichtigt. Beim öffnen des Berichts muss ein Kanton und der\nauszuwertende Zeitraum angegeben werden.",
+        "fr": "Auswertung des Meldeverhaltens der Tierhalter. Es werden Zugangs- und Abgangsmeldungen von Rindern,\nSchafen und Ziegen aus der TVD berücksichtigt. Beim öffnen des Berichts muss ein Kanton und der\nauszuwertende Zeitraum angegeben werden."
+      },
+      "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD"
+    },
+    {
+      "dct:identifier": "D_FSVO_TVD_18",
+      "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AcKmg5aGOTpNg2o6TtyoTak",
+      "adms:status": "published",
+      "dct:format": "SAP BO Webintelligence",
+      "dct:title": {
+        "de": "1033_Hofschlachtungen",
+        "fr": "1033_Hofschlachtungen"
+      },
+      "dct:description": {
+        "de": "Liste von Betrieben, die in den ausgewählten Jahren «Hofschlachtungen» von\nRindern, Schafen und/oder Ziegen in der TVD gemeldet haben.",
+        "fr": "Liste von Betrieben, die in den ausgewählten Jahren «Hofschlachtungen» von\nRindern, Schafen und/oder Ziegen in der TVD gemeldet haben."
+      },
+      "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD"
+    },
+    {
+      "dct:identifier": "D_FSVO_TVD_19",
+      "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=Aa_qUkoPyx9AlJ51VAbfHM0",
+      "adms:status": "published",
+      "dcatap:availability": "AVAILABLE",
+      "dct:format": "SAP BO Webintelligence",
+      "dct:title": {
+        "de": "1050_BT_Vaccination",
+        "fr": "1050_BT_Vaccination"
+      },
+      "dct:description": {
+        "de": "Alle in der TVD ab April 2026 erfassten Bluetongue Impfungen",
+        "fr": "Alle in der TVD ab April 2026 erfassten Bluetongue Impfungen"
+      },
+      "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD"
     }
   ]
 }
