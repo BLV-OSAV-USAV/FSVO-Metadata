@@ -11,6 +11,10 @@
   },
   "dct:accessRights": "NON_PUBLIC",
   "dct:publisher": "BLV-OSAV-USAV-FSVO",
+  "dcat:contactPoint": {
+    "schema:name": "BLV, Wissensgrundlagen, DCC",
+    "schema:email": "data@blv.admin.ch"
+  },
   "dcat:keyword": [
     "animal-owner",
     "animals"
