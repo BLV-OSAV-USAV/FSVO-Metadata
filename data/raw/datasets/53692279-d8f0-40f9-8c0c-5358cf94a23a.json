@@ -153,6 +153,131 @@
         "fr": "Im vorliegenden Bericht wird die vollständige Tiergeschicht aller Rinder angezeigt, die in einem ausgewählten\nZeitfenster auf ausgewählten Betrieben gestanden sind. Schlachtungsmeldungen sind orange eingefärbt, die\nAufenthalte auf einem ausgewählten Betrieb blau."
       },
       "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD/Rinder"
+    },
+    {
+      "dct:identifier": "D_FSVO_TVD_8",
+      "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWRPgwCSBg5Aqne41OfZy.8",
+      "adms:status": "published",
+      "dcatap:availability": "AVAILABLE",
+      "dct:format": "SAP BO Webintelligence",
+      "dct:title": {
+        "de": "1012 Einstallungsmeldungen/Annonces des mises au poulailler",
+        "fr": "1012 Einstallungsmeldungen/Annonces des mises au poulailler"
+      },
+      "dct:description": {
+        "de": "In der TVD erfasste Einstallungsmeldungen. Diese müssen für Nutzgeflügelherden ab einem bestimmten Schwellenwert (Legehennen: 1000, Mastgeflügel: 500, Zuchttiere: 250) gemacht werden.",
+        "fr": "In der TVD erfasste Einstallungsmeldungen. Diese müssen für Nutzgeflügelherden ab einem bestimmten Schwellenwert (Legehennen: 1000, Mastgeflügel: 500, Zuchttiere: 250) gemacht werden."
+      },
+      "schema:comment": "Speicherort in ALVPH:  /3 Shared/BLV - KAV/TVD/Geflügel"
+    },
+    {
+      "dct:identifier": "D_FSVO_TVD_9",
+      "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=ASzUqNzLCohPsx16wMJqtNs",
+      "adms:status": "published",
+      "dct:format": "SAP BO Webintelligence",
+      "dct:title": {
+        "de": "1013 Wanderherden/ troupeaux en transhumance",
+        "fr": "1013 Wanderherden/ troupeaux en transhumance"
+      },
+      "dct:description": {
+        "de": "Der Bericht listet Schafe in Wanderherden auf mit Information zu Trächtigkeit der weiblichen Tiere. Dafür wird das in der TVD erfasste Datum der letzten Ablammung genommen. Wenn zwischen dem Abgangsdatum aus der Wanderherde und der Lammung weniger als 150 Tage liegen, wird davon ausgegangen, dass das Tier in der Wanderherde trächtig war.",
+        "fr": "Der Bericht listet Schafe in Wanderherden auf mit Information zu Trächtigkeit der weiblichen Tiere. Dafür wird das in der TVD erfasste Datum der letzten Ablammung genommen. Wenn zwischen dem Abgangsdatum aus der Wanderherde und der Lammung weniger als 150 Tage liegen, wird davon ausgegangen, dass das Tier in der Wanderherde trächtig war."
+      },
+      "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD/Schafe und Ziegen"
+    },
+    {
+      "dct:identifier": "D_FSVO_TVD_10",
+      "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYCt2Mp4iwdDryNZpD0YWNk",
+      "adms:status": "published",
+      "dct:format": "SAP BO Webintelligence",
+      "dct:title": {
+        "de": "1014 Schafe_Ziegen/ Moutons_chèvres",
+        "fr": "1014 Schafe_Ziegen/ Moutons_chèvres"
+      },
+      "dct:description": {
+        "de": "Liste der am gewählten Stichtag (default 'Heute') lebendigen Schafe und Ziegen pro Betrieb.\n\nAusserdem gibt es eine Übersicht schweizweit und pro Kanton über die Anzahl Tierhaltungen mit Schafen bzw. die Anzahl Schafe am gewählten Stichtag.",
+        "fr": "Liste der am gewählten Stichtag (default 'Heute') lebendigen Schafe und Ziegen pro Betrieb.\n\nAusserdem gibt es eine Übersicht schweizweit und pro Kanton über die Anzahl Tierhaltungen mit Schafen bzw. die Anzahl Schafe am gewählten Stichtag."
+      },
+      "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD/Schafe und Ziegen"
+    },
+    {
+      "dct:identifier": "D_FSVO_TVD_11",
+      "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AdEKTgqpDNNHmnkWZnUHMAM",
+      "adms:status": "published",
+      "dcatap:availability": "AVAILABLE",
+      "dct:format": "SAP BO Webintelligence",
+      "dct:title": {
+        "de": "1015_Schafe AGIS und TVD _v4",
+        "fr": "1015_Schafe AGIS und TVD _v4"
+      },
+      "dct:description": {
+        "de": "\tAls Grundlage dienen die TVD- Betriebe mit dem Flag 'has sheep'=1, d.h. alle Betriebe in der\nTVD die unter Gattungen 'Schafe' aufgelistet haben. Zusätzlich werden die Tiertage aus der\nTVD für das laufende Jahr (ab 1.1.) das Vorjahr (aktuelles Jahr-1) berechnet und als\nDurchschnittswert angezeigt (geteilt durch die Anzahl Tage der Rechnungsperiode). Die aus\nder Erhebung gemeldeten Schafe aus AGIS werden für die aktuellste verfügbare Erhebung für\ndiesen Betrieb angezeigt (aktuelles Jahr oder Vorjahr). NB: Der Durchschnittswert aus AGIS\nentspricht dem berechneten Wert des Erhebungsjahrs - 1. Also wenn das Erhebungsjahr\n=2023, entspricht die Summe AGIS dem berechneten Wert aus der TVD für 2022.",
+        "fr": "\tAls Grundlage dienen die TVD- Betriebe mit dem Flag 'has sheep'=1, d.h. alle Betriebe in der\nTVD die unter Gattungen 'Schafe' aufgelistet haben. Zusätzlich werden die Tiertage aus der\nTVD für das laufende Jahr (ab 1.1.) das Vorjahr (aktuelles Jahr-1) berechnet und als\nDurchschnittswert angezeigt (geteilt durch die Anzahl Tage der Rechnungsperiode). Die aus\nder Erhebung gemeldeten Schafe aus AGIS werden für die aktuellste verfügbare Erhebung für\ndiesen Betrieb angezeigt (aktuelles Jahr oder Vorjahr). NB: Der Durchschnittswert aus AGIS\nentspricht dem berechneten Wert des Erhebungsjahrs - 1. Also wenn das Erhebungsjahr\n=2023, entspricht die Summe AGIS dem berechneten Wert aus der TVD für 2022."
+      },
+      "schema:comment": "Speicherort in ALVPH:  /3 Shared/BLV - KAV/TVD/Schafe und Ziegen"
+    },
+    {
+      "dct:identifier": "D_FSVO_TVD_12",
+      "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AXlzKyq2YPtFgZO9Vublttc",
+      "adms:status": "published",
+      "dcatap:availability": "AVAILABLE",
+      "dct:format": "SAP BO Webintelligence",
+      "dct:title": {
+        "de": "1016_Animaux péris/ Verendete Tiere",
+        "fr": "1016_Animaux péris/ Verendete Tiere"
+      },
+      "dct:description": {
+        "de": "\tTiere die in der TVD als Verendet gemeldet wurden. Filter Abgangstyp= \"Verendung\" für Rinder, Schafe und Ziegen; Abgangstyp= \"Verendung/Euthanasierung\" für Pferde ",
+        "fr": "\tTiere die in der TVD als Verendet gemeldet wurden. Filter Abgangstyp= \"Verendung\" für Rinder, Schafe und Ziegen; Abgangstyp= \"Verendung/Euthanasierung\" für Pferde "
+      },
+      "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD"
+    },
+    {
+      "dct:identifier": "D_FSVO_TVD_13",
+      "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AQsVTAd_khdNijb2x6ulNBA",
+      "adms:status": "published",
+      "dcatap:availability": "AVAILABLE",
+      "dct:format": "SAP BO Webintelligence",
+      "dct:title": {
+        "de": "1017_Schweine AGIS TVD und FLEKO",
+        "fr": "1017_Schweine AGIS TVD und FLEKO"
+      },
+      "dct:description": {
+        "de": "\tEs werden alle Betriebe aufgelistet die mindestens eine Meldung zu Schweinen haben: \n- Schlachtungsmeldung (FLEKO)\n- Zugangs- oder Abgangsmeldung (TVD)\n- Durchschnittlicher Schweinebestand >0 (Erhebungsdaten, AGIS)",
+        "fr": "\tEs werden alle Betriebe aufgelistet die mindestens eine Meldung zu Schweinen haben: \n- Schlachtungsmeldung (FLEKO)\n- Zugangs- oder Abgangsmeldung (TVD)\n- Durchschnittlicher Schweinebestand >0 (Erhebungsdaten, AGIS)"
+      },
+      "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD/Schweine"
+    },
+    {
+      "dct:identifier": "D_FSVO_TVD_14",
+      "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AfykkR0owDlFiZcySGNp4DI",
+      "adms:status": "published",
+      "dct:format": "SAP BO Webintelligence",
+      "dct:title": {
+        "de": "1018_Schafhaltungen mit Tieren auf Sömmerungsbetrieben",
+        "fr": "1018_Schafhaltungen mit Tieren auf Sömmerungsbetrieben"
+      },
+      "dct:description": {
+        "de": "Dieser ALVPH-Bericht gibt eine Übersicht über alle Schafhaltungen, welche Tiere zur Sömmerung gegeben haben (seit 2021).\nDamit können z.B. Betriebe identifziert werden, die im Rahmen der für die Moderhinke-Bekämpfung erforderlichen Probenahmen zeitlich priorisiert werden sollen.",
+        "fr": "Dieser ALVPH-Bericht gibt eine Übersicht über alle Schafhaltungen, welche Tiere zur Sömmerung gegeben haben (seit 2021).\nDamit können z.B. Betriebe identifziert werden, die im Rahmen der für die Moderhinke-Bekämpfung erforderlichen Probenahmen zeitlich priorisiert werden sollen."
+      },
+      "schema:comment": "Speicherort in ALVPH:  /3 Shared/BLV - KAV/TVD/Schafe und Ziegen"
+    },
+    {
+      "dct:identifier": "D_FSVO_TVD_15",
+      "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=Ad82RiV4II5Ljz7foByFxxg",
+      "adms:status": "published",
+      "dcatap:availability": "AVAILABLE",
+      "dct:format": "SAP BO Webintelligence",
+      "dct:title": {
+        "de": "1020_Naissances Bovins/Ovins",
+        "fr": "1020_Naissances Bovins/Ovins"
+      },
+      "dct:description": {
+        "de": "In der TVD gemeldete Geburten von Rindern und Schafen ab einem gewählten Jahr pro Kanton.",
+        "fr": "In der TVD gemeldete Geburten von Rindern und Schafen ab einem gewählten Jahr pro Kanton."
+      },
+      "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD"
     }
   ]
 }
