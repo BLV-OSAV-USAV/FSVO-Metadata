@@ -4174,6 +4174,44 @@
     },
     {
         "rdf:type": "dcat:Dataset",
+        "dct:identifier": "8b89586b-bc39-49c3-9853-59b99a809d57",
+        "schema:image": "https://github.com/BLV-OSAV-USAV/FSVO-Metadata/blob/main/data/images/YoungHerdsmenwithCows.jpg",
+        "dct:title": {
+            "de": "Daten des Agrarinformationssystem AGIS",
+            "fr": "Registerdaten des Agrarinformationssystem AGIS"
+        },
+        "dct:description": {
+            "de": "Register- und Strukturdaten, die in AGIS erfasst werden. Die Daten werden durch die kantonalen Landwirtschaftsämter laufend gepflegt. Der Datensatz beinhaltet Informationen zu landwirtschaftlichen Unternehmen (Betriebsstruktur, Standorte, Bewirtschafter). ",
+            "fr": "Register- und Strukturdaten, die in AGIS erfasst werden. Die Daten werden durch die kantonalen Landwirtschaftsämter laufend gepflegt. Der Datensatz beinhaltet Informationen zu landwirtschaftlichen Unternehmen (Betriebsstruktur, Standorte, Bewirtschafter). "
+        },
+        "dct:accessRights": "NON_PUBLIC",
+        "dct:publisher": "BLV-OSAV-USAV-FSVO",
+        "dcat:contactPoint": {
+            "schema:name": "Wissensgrundlagen, DCC",
+            "schema:email": "data@blv.admin.ch"
+        },
+        "dct:accrualPeriodicity": "DAILY",
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "personalData",
+        "bv:typeOfData": "primaryThematicData",
+        "bv:archivalValue": false,
+        "dcat:theme": [
+            "agriculture"
+        ],
+        "dct:spatial": "Switzerland",
+        "businessDataOwner": null,
+        "schemaViolations": 4,
+        "schemaViolationMessages": [
+            "'dct:issued' is a required property",
+            "'dct:modified' is a required property",
+            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
+            "None of [{'prov:agent': 'p-1ZLWBXSJX', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-4636643', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema"
+        ],
+        "quality": 310.4
+    },
+    {
+        "rdf:type": "dcat:Dataset",
         "dct:identifier": "FSVO_D00063",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
