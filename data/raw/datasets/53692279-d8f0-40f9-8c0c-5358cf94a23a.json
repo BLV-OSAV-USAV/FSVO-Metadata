@@ -42,5 +42,23 @@
   ],
   "dcat:landingPage": "https://www.tierverkehr.ch/",
   "dct:spatial": "Switzerland",
-  "bv:itSystem": "BI BLV"
+  "bv:itSystem": "BI BLV",
+  "dcat:distribution": [
+    {
+      "dct:identifier": "D_FSVO_TVD_1",
+      "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=ASoK8CSXZuRHulwwInUcHKc",
+      "adms:status": "published",
+      "dcatap:availability": "AVAILABLE",
+      "dct:format": "SAP BO Webintelligence",
+      "dct:title": {
+        "de": "1000_Betriebsliste TVD/ Liste d'exploitations BDTA",
+        "fr": "1000_Betriebsliste TVD/ Liste d'exploitations BDTA"
+      },
+      "dct:description": {
+        "de": "Betriebsliste aus der TVD mit Informationen zur Tierhaltung, Bewirtschafter, Tierzahlen (aus der TVD und AGIS) sowie den in ASAN zugeiteilten BVD-Probenehmer und Kontrolltierärzte. Es wird der aktuelle Bewirtschafter gefiltert, es können aber auch inaktive Betriebe angezeigt werden.",
+        "fr": "Betriebsliste aus der TVD mit Informationen zur Tierhaltung, Bewirtschafter, Tierzahlen (aus der TVD und AGIS) sowie den in ASAN zugeiteilten BVD-Probenehmer und Kontrolltierärzte. Es wird der aktuelle Bewirtschafter gefiltert, es können aber auch inaktive Betriebe angezeigt werden."
+      },
+      "schema:comment": "/3 Shared/BLV - KAV/TVD"
+    }
+  ]
 }
