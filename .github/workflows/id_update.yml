@@ -1,0 +1,28 @@
+name: Renumber Dataset IDs
+
+on:
+  push:
+    paths:
+      - 'data/processed/datasets.json'
+
+jobs:
+  renumber:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run renumber script
+        run: python scripts/renumber_ids.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/processed/datasets.json
+          git diff --staged --quiet || git commit -m "chore: renumber dataset IDs"
+          git push
