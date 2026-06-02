@@ -26,12 +26,12 @@ jobs:
 
       - name: Run Combine Datasets Script
         run: python automation/combine-datasets.py
-
-      - name: Extract all keywords
-        run: python automation/keyword-extraction.py
-
+        
       - name: Renumber Dataset IDs
         run: python automation/id_replacements.py
+        
+      - name: Extract all keywords
+        run: python automation/keyword-extraction.py
 
       - name: Commit and Push Changes
         run: |
