@@ -1,28 +1,30 @@
 import json
-import hashlib
 from pathlib import Path
 
 FILE = Path("data/processed/datasets.json")
 FSVO_DIR = Path("data/raw/datasets/")
+MAP_FILE = Path("data/processed/id_map.json")
 PREFIX = "FSVO_D"
 
-seen: dict[str, str] = {}
+# Load or initialise the map
+id_map: dict[str, str] = json.loads(MAP_FILE.read_text(encoding="utf-8")) if MAP_FILE.exists() else {}
 
-def stable_id(original_id: str) -> str:
-    if original_id.startswith(PREFIX):
-        return original_id
-    number = int(hashlib.md5(original_id.encode()).hexdigest(), 16) % 90000 + 10000
-    new_id = f"{PREFIX}{number:05d}"
-    if new_id in seen and seen[new_id] != original_id:
-        raise ValueError(f"Hash collision: {new_id} claimed by both '{seen[new_id]}' and '{original_id}'")
-    seen[new_id] = original_id
+def next_id() -> str:
+    n = len(id_map) + 1
+    return f"{PREFIX}{n:05d}"
+
+def assign_id(original_id: str) -> str:
+    if original_id in id_map:
+        return id_map[original_id]
+    new_id = next_id()
+    id_map[original_id] = new_id
     return new_id
 
 data = json.loads(FILE.read_text(encoding="utf-8"))
 
 for dataset in data:
     original_id = dataset["dct:identifier"]
-    parent_id = stable_id(original_id)
+    parent_id = assign_id(original_id)
     dataset["dct:identifier"] = parent_id
 
     raw_file = FSVO_DIR / f"{original_id}.json"
@@ -47,4 +49,5 @@ for dataset in data:
             raw_dist.rename(new_raw_dist)
 
 FILE.write_text(json.dumps(data, indent=4, ensure_ascii=False), encoding="utf-8")
-print(f"Done. Renumbered {len(data)} datasets.")
+MAP_FILE.write_text(json.dumps(id_map, indent=4, ensure_ascii=False), encoding="utf-8")
+print(f"Done. {len(data)} datasets processed, {len(id_map)} total in map.")
