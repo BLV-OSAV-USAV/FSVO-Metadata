@@ -1,7 +1,7 @@
 [
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00005",
+        "dct:identifier": "FSVO_D00034",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
             "fr": "Laborergebnisse der kantonalen Lebensmittelkontrolle Produktkontrolle",
@@ -75,7 +75,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00004",
+        "dct:identifier": "FSVO_D00017",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
             "fr": "Kontrollergebnisse der kantonalen Lebensmittelkontrolle Prozesskontrolle",
@@ -150,7 +150,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00020",
+        "dct:identifier": "FSVO_D00045",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
             "fr": "Meldungen an RASFF Kontaktpunkt BLV ",
@@ -277,7 +277,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00021",
+        "dct:identifier": "FSVO_D00010",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
             "fr": "Einfuhr und Ausfuhrbewilligungen  in Bereich Tiergesundheit und Lebensmittel",
@@ -360,7 +360,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00022",
+        "dct:identifier": "FSVO_D00011",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
             "fr": "eCert  Gesundheitsbescheinigungen für den sicheren Export",
@@ -444,7 +444,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00017",
+        "dct:identifier": "FSVO_D00028",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
             "fr": "Selenstudie",
@@ -527,7 +527,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00008",
+        "dct:identifier": "FSVO_D00047",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
             "fr": "Betriebsbewilligungen von Lebensmittelunternehmen",
@@ -617,7 +617,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00026",
+        "dct:identifier": "FSVO_D00032",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
         "dct:title": {
             "fr": "IBR/EBL NML Stichprobe",
@@ -702,7 +702,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00018",
+        "dct:identifier": "FSVO_D00004",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
             "fr": "Salzstudie",
@@ -785,7 +785,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00027",
+        "dct:identifier": "FSVO_D00026",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
         "dct:title": {
             "fr": "IBR/EBL ML Stichprobe",
@@ -871,7 +871,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00007",
+        "dct:identifier": "FSVO_D00035",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
             "fr": "Ergebnisse der Fleischkontrolle",
@@ -1202,7 +1202,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00012",
+        "dct:identifier": "FSVO_D00003",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
             "fr": "Tierische Lebensmittel aus Drittstaaten Auswertung aus TRACES NT",
@@ -1286,7 +1286,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00036",
+        "dct:identifier": "FSVO_D00044",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANDChicken.jpg",
         "dct:title": {
             "fr": "Tierhalteverbote",
@@ -1343,64 +1343,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00055",
-        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANDChicken.jpg",
-        "dct:title": {
-            "fr": "Tierhalteverbote",
-            "de": "Tierhalteverbote",
-            "en": "Tierhalteverbote",
-            "it": "Tierhalteverbote"
-        },
-        "dct:description": {
-            "fr": "La collecte de données « Interdictions de détenir des animaux » comprend toutes les interdictions de détenir des animaux prononcées par les autorités cantonales d'exécution et enregistrées dans le système ASAN. Elle contient des informations sur les personnes concernées, le type et la durée des interdictions, la base légale, les cas à l'origine des interdictions et les mesures prises. Les entrées documentent aussi bien les interdictions temporaires que celles à durée indéterminée et contiennent des informations sur les contrôles et les éventuelles levées.\n\nCes données servent à soutenir l'exécution dans le domaine de la protection des animaux et à prévenir la répétition des infractions à la protection des animaux. Elles permettent aux autorités compétentes de toute la Suisse d'appliquer de manière coordonnée et efficace les interdictions de détenir des animaux et d'examiner les demandes d'autorisation en vue d'éventuelles restrictions.",
-            "de": "Die Datensammlung «Tierhalteverbote» umfasst sämtliche durch die kantonalen Vollzugsbehörden ausgesprochenen Tierhalteverbote, die im System ASAN erfasst werden. Sie beinhaltet Informationen zu betroffenen Personen, Art und Dauer der Verbote, rechtlicher Grundlage, Anlassfällen sowie getroffenen Massnahmen. Die Einträge dokumentieren sowohl temporäre als auch unbefristete Verbote und beinhalten Angaben zur Kontrolle und allfälligen Aufhebung.\n\nDiese Daten dienen der Vollzugsunterstützung im Bereich Tierschutz und der Verhinderung von wiederholten Tierschutzverstössen. Sie ermöglichen den zuständigen Behörden schweizweit eine koordinierte und wirksame Durchsetzung von Tierhalteverboten sowie die Prüfung von Bewilligungsgesuchen im Hinblick auf allfällige Einschränkungen.\n\n"
-        },
-        "dct:accessRights": "SENSITIVE",
-        "dct:publisher": "BLV-OSAV-USAV-FSVO",
-        "dcat:contactPoint": {
-            "schema:email": "infotgts@blv.admin.ch",
-            "schema:name": "BLV, TGTS, Tierschutz"
-        },
-        "dct:issued": "2025-01-01",
-        "dcatap:availability": "STABLE",
-        "dcat:keyword": [
-            "Tierhalteverbot",
-            "Tierschutz"
-        ],
-        "dct:accrualPeriodicity": "CONT",
-        "dct:modified": "2025-12-02",
-        "adms:status": "published",
-        "bv:classification": "none",
-        "bv:personalData": "sensitivePersonalData",
-        "bv:typeOfData": "primaryThematicData",
-        "bv:archivalValue": false,
-        "bv:opendata_swiss": {
-            "bv:mustBePublished": "FALSE"
-        },
-        "bv:i14y": {
-            "bv:mustBePublished": true
-        },
-        "dcat:theme": [
-            "administration"
-        ],
-        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierschutz.html",
-        "dct:spatial": "NO",
-        "dct:temporal": {},
-        "dcatap:applicableLegislation": [
-            "https://www.fedlex.admin.ch/eli/cc/2008/414/de#art_23"
-        ],
-        "bv:itSystem": "ASAN",
-        "businessDataOwner": null,
-        "schemaViolations": 2,
-        "schemaViolationMessages": [
-            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
-            "None of [{'prov:agent': 'p-1521097', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-20FY4HFRV', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema"
-        ],
-        "quality": 1168.3333333333333
-    },
-    {
-        "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00013",
+        "dct:identifier": "FSVO_D00029",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
             "fr": "Kontrollen der Lebensmittelhygiene tierischer Herkunft ",
@@ -1457,7 +1400,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00037",
+        "dct:identifier": "FSVO_D00038",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
         "dct:title": {
             "fr": "Früherkennung kleiner Beutekäfer (Apinella)",
@@ -1518,68 +1461,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00056",
-        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
-        "dct:title": {
-            "fr": "Früherkennung kleiner Beutekäfer (Apinella)",
-            "de": "Früherkennung kleiner Beutekäfer (Apinella)",
-            "en": "Früherkennung kleiner Beutekäfer (Apinella)",
-            "it": "Früherkennung kleiner Beutekäfer (Apinella)"
-        },
-        "dct:description": {
-            "fr": "La base de données « Apinella » recueille systématiquement des informations sur la surveillance du petit coléoptère (Aethina tumida) en Suisse. Elle contient notamment des données sur l'emplacement des ruchers, les résultats de la surveillance des pièges et des analyses en laboratoire, les signalements des apiculteurs et les schémas historiques d'infestation. Elle intègre également les données de mouvement issues de la banque de données sur le trafic des animaux (BDTA) afin d'analyser les voies de propagation des colonies d'abeilles potentiellement touchées.\n\nCes données servent principalement à détecter précocement une éventuelle introduction ou apparition du petit coléoptère, qui représente un danger considérable pour la santé des abeilles et donc aussi pour l'agriculture. Grâce à la collecte et à l'évaluation systématiques des données, l'OSAV peut réagir rapidement aux cas suspects, effectuer des contrôles ciblés et prendre des mesures de lutte.\n\nLa collecte de données permet une analyse efficace des risques, facilite la planification stratégique en cas d'épidémie et renforce la collaboration avec les apiculteurs et les autorités cantonales chargées de l'exécution. Elle est un élément central pour maintenir la Suisse indemne de maladies dans le domaine de la santé des abeilles.",
-            "de": "Die Datensammlung «Apinella» erfasst systematisch Informationen zur Überwachung des Kleinen Beutekäfers (Aethina tumida) in der Schweiz. Sie beinhaltet unter anderem Standortdaten von Bienenständen, Ergebnisse von Fallenmonitoring und Laboranalysen, Meldungen von Imkerinnen und Imkern sowie historische Befallsmuster. Zusätzlich werden Bewegungsdaten aus der Tierverkehrsdatenbank (TVD) mit einbezogen, um Verbringungswege potenziell betroffener Bienenvölker zu analysieren.\n\nDiese Daten dienen primär der Früherkennung eines möglichen Eintrags oder Ausbruchs des Kleinen Beutekäfers, der eine erhebliche Gefahr für die Bienengesundheit und damit auch für die Landwirtschaft darstellt. Durch die systematische Sammlung und Auswertung kann das BLV rasch auf Verdachtsfälle reagieren, gezielte Kontrollen durchführen und Massnahmen zur Bekämpfung einleiten.\n\nDie Datensammlung ermöglicht eine effiziente Risikoanalyse, unterstützt die strategische Planung im Seuchenfall und stärkt die Zusammenarbeit mit Imkerinnen und Imkern sowie den kantonalen Vollzugsstellen. Sie ist ein zentrales Element zur Aufrechterhaltung der Seuchenfreiheit der Schweiz im Bereich Bienengesundheit."
-        },
-        "dct:accessRights": "RESTRICTED",
-        "dct:publisher": "BLV-OSAV-USAV-FSVO",
-        "dcat:contactPoint": {
-            "schema:email": "infotgts@blv.admin.ch",
-            "schema:name": "BLV, TGTS, Tiergesundheit"
-        },
-        "dct:issued": "2025-01-01",
-        "dcatap:availability": "STABLE",
-        "dcat:keyword": [
-            "Tiergesundheit",
-            "Überwachung",
-            "Beutekäfer",
-            "Bienen"
-        ],
-        "dct:accrualPeriodicity": "CONT",
-        "dct:modified": "2025-12-02",
-        "adms:status": "published",
-        "bv:classification": "none",
-        "bv:personalData": "personalData",
-        "bv:typeOfData": "primaryThematicData",
-        "bv:archivalValue": "FALSE",
-        "bv:opendata_swiss": {
-            "bv:mustBePublished": "FALSE"
-        },
-        "bv:i14y": {
-            "bv:mustBePublished": "TRUE"
-        },
-        "dcat:theme": [
-            "agriculture",
-            "national-economy"
-        ],
-        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierseuchen/uebersicht-seuchen/alle-tierseuchen/kleiner-beutenkaefer.html",
-        "dct:spatial": "YES",
-        "dct:temporal": {},
-        "dcatap:applicableLegislation": [
-            ""
-        ],
-        "bv:itSystem": "APINELLA",
-        "businessDataOwner": null,
-        "schemaViolations": 3,
-        "schemaViolationMessages": [
-            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
-            "None of [{'prov:agent': 'p-9089108', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-9737669', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
-            "'FALSE' is not of type 'boolean'"
-        ],
-        "quality": 1113.5
-    },
-    {
-        "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00010",
+        "dct:identifier": "FSVO_D00030",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
             "fr": "Befundstatistik Produktkontrolle",
@@ -1643,7 +1525,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00033",
+        "dct:identifier": "FSVO_D00005",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/Medicine.jpg",
         "dct:title": {
             "fr": "Kontrollen tierärztlicher Privatapotheken",
@@ -1705,69 +1587,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00052",
-        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/Medicine.jpg",
-        "dct:title": {
-            "fr": "Kontrollen tierärztlicher Privatapotheken",
-            "de": "Kontrollen tierärztlicher Privatapotheken",
-            "en": "Kontrollen tierärztlicher Privatapotheken",
-            "it": "Kontrollen tierärztlicher Privatapotheken"
-        },
-        "dct:description": {
-            "fr": "Cette collecte de données comprend les résultats des contrôles officiels des pharmacies vétérinaires privées, tels qu'ils sont effectués et documentés par les autorités cantonales d'exécution. Elle recense des informations sur le type d'exploitation, le stockage, la remise et l'utilisation des médicaments vétérinaires, le respect des obligations d'enregistrement ainsi que les éventuelles réclamations et les mesures prises. Des informations sur la fréquence et le type de contrôles ainsi que sur le vétérinaire responsable sont également incluses dans la collecte de données.\n\nLes données relatives à la distribution et à la consommation servent à surveiller l'utilisation des antibiotiques et constituent une base essentielle de la Stratégie nationale suisse de lutte contre la résistance aux antibiotiques (StAR). Elles permettent d'identifier les tendances en matière d'utilisation des antibiotiques, d'évaluer les risques de manière ciblée et de planifier des mesures réglementaires et préventives fondées sur des données probantes. En outre, ces données sont nécessaires pour l'établissement de rapports internationaux (p. ex. à l'OIE) et contribuent à endiguer le développement de résistances chez les animaux et les risques qui en découlent pour la santé publique.",
-            "de": "Diese Datensammlung umfasst die Ergebnisse der amtlichen Kontrollen tierärztlicher Privatapotheken, wie sie durch die kantonalen Vollzugsbehörden durchgeführt und dokumentiert werden. Erfasst werden dabei Informationen zu Betriebstyp, Lagerung, Abgabe und Anwendung von Tierarzneimitteln, zur Einhaltung der Aufzeichnungspflichten sowie zu allfälligen Beanstandungen und ergriffenen Massnahmen. Auch Angaben zur Häufigkeit und Art der Kontrollen sowie zur verantwortlichen Tierärztin oder zum Tierarzt fliessen in die Datensammlung ein.\n\nVetriebs- und Verbrauchsdaten dienen der Überwachung des Antibiotikaverbrauchs und bilden eine zentrale Grundlage der Nationalen Strategie Antibiotikaresistenzen Schweiz (StAR). Sie ermöglichen es, Trends im Einsatz von Antibiotika zu erkennen, Risiken gezielt zu bewerten und regulatorische sowie präventive Massnahmen evidenzbasiert zu planen. Zudem sind die Daten für die internationale Berichterstattung (z. B. an die WOAH) erforderlich und tragen dazu bei, die Entwicklung von Resistenzen bei Tieren und die damit verbundenen Risiken für die öffentliche Gesundheit einzudämmen."
-        },
-        "dct:accessRights": "RESTRICTED",
-        "dct:publisher": "BLV-OSAV-USAV-FSVO",
-        "dcat:contactPoint": {
-            "schema:email": "infotgs@blv.admin.ch",
-            "schema:name": "BLV, TGTS, Tierarzneimittel"
-        },
-        "dct:issued": "2025-01-01",
-        "dcatap:availability": "STABLE",
-        "dcat:keyword": [
-            "Tiergesundheit",
-            "Antibiotika",
-            "Tierarzneimittel",
-            "Veterinärmedizin",
-            "Resistenzmonitoring"
-        ],
-        "dct:accrualPeriodicity": "CONT",
-        "dct:modified": "2025-11-06",
-        "adms:status": "published",
-        "bv:classification": "none",
-        "bv:personalData": "personalData",
-        "bv:typeOfData": "primaryThematicData",
-        "bv:archivalValue": "TRUE",
-        "bv:opendata_swiss": {
-            "bv:mustBePublished": "FALSE"
-        },
-        "bv:i14y": {
-            "bv:mustBePublished": "TRUE"
-        },
-        "dcat:theme": [
-            "agriculture",
-            "health"
-        ],
-        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierarzneimittel/fachgerechter-umgang-mit-tierarzneimitteln/verschreibung--abgabe-und-anwendung.html",
-        "dct:spatial": "YES",
-        "dct:temporal": {},
-        "dcatap:applicableLegislation": [
-            "Tierarzneimittelverordnung"
-        ],
-        "bv:itSystem": "ACONTROL",
-        "businessDataOwner": null,
-        "schemaViolations": 3,
-        "schemaViolationMessages": [
-            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
-            "None of [{'prov:agent': 'p-9079817', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-7891691', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
-            "'TRUE' is not of type 'boolean'"
-        ],
-        "quality": 1107.75
-    },
-    {
-        "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00006",
+        "dct:identifier": "FSVO_D00036",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
             "fr": "Ergebnisse der oeffentlich rechtlichen Milchpruefung",
@@ -1857,7 +1677,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00028",
+        "dct:identifier": "FSVO_D00012",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
         "dct:title": {
             "fr": "Moderhinkestatus",
@@ -1930,7 +1750,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00009",
+        "dct:identifier": "FSVO_D00018",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
             "fr": "Rueckstaende und Fremdstoffe in tierischen Lebensmitteln NFUP Schweiz",
@@ -2353,7 +2173,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00032",
+        "dct:identifier": "FSVO_D00009",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/Medicine.jpg",
         "dct:title": {
             "fr": "Laborergebnisse Antibiotikaresistenzmonitoring",
@@ -2415,69 +2235,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00051",
-        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/Medicine.jpg",
-        "dct:title": {
-            "fr": "Laborergebnisse Antibiotikaresistenzmonitoring",
-            "de": "Laborergebnisse Antibiotikaresistenzmonitoring",
-            "en": "Laborergebnisse Antibiotikaresistenzmonitoring",
-            "it": "Laborergebnisse Antibiotikaresistenzmonitoring"
-        },
-        "dct:description": {
-            "fr": "Cette collecte de données comprend les résultats des contrôles officiels des pharmacies vétérinaires privées, tels qu'ils sont effectués et documentés par les autorités cantonales d'exécution. Elle recense des informations sur le type d'exploitation, le stockage, la remise et l'utilisation des médicaments vétérinaires, le respect des obligations d'enregistrement ainsi que les éventuelles réclamations et les mesures prises. Des informations sur la fréquence et le type de contrôles ainsi que sur le vétérinaire responsable sont également incluses dans la collecte de données.\n\nLes données relatives à la distribution et à la consommation servent à surveiller l'utilisation des antibiotiques et constituent une base essentielle de la Stratégie nationale suisse de lutte contre la résistance aux antibiotiques (StAR). Elles permettent d'identifier les tendances en matière d'utilisation des antibiotiques, d'évaluer les risques de manière ciblée et de planifier des mesures réglementaires et préventives fondées sur des données probantes. En outre, ces données sont nécessaires pour l'établissement de rapports internationaux (p. ex. à l'OIE) et contribuent à endiguer le développement de résistances chez les animaux et les risques qui en découlent pour la santé publique.",
-            "de": "Die Datensammlung zum Antibiotikaresistenzmonitoring im Veterinärbereich enthält systematisch erhobene Daten aus der Labordiagnostik von bakteriellen Krankheitserregern bei Tieren. Erfasst werden Ergebnisse standardisierter Antibiogramme, einschliesslich Angaben zur Tierart, Probeherkunft, Bakterienspezies, Resistenzprofil sowie den eingesetzten Antibiotikaklassen. Die Daten stammen aus diagnostischen Untersuchungen durch akkreditierte Labors im Rahmen von nationalen Monitoringprogrammen.\n\nZiel der Datensammlung ist es, die Verbreitung und Entwicklung von Antibiotikaresistenzen bei Nutztieren und Heimtieren in der Schweiz zu beobachten. Sie dient der Früherkennung resistenter Erreger, unterstützt die Risikobewertung und bildet eine wichtige Grundlage für die Strategie Antibiotikaresistenzen Schweiz (StAR). Die systematische Auswertung der Daten ermöglicht es, wirksame Massnahmen zur Reduktion von Resistenzen abzuleiten, veterinärmedizinische Behandlungen zu optimieren und den Schutz der öffentlichen Gesundheit zu stärken."
-        },
-        "dct:accessRights": "RESTRICTED",
-        "dct:publisher": "BLV-OSAV-USAV-FSVO",
-        "dcat:contactPoint": {
-            "schema:email": "tam@blv.admin.ch",
-            "schema:name": "BLV, TGTS, Tierarzneimittel"
-        },
-        "dct:issued": "2025-01-01",
-        "dcatap:availability": "STABLE",
-        "dcat:keyword": [
-            "Tiergesundheit",
-            "Antibiotika",
-            "Tierarzneimittel",
-            "Veterinärmedizin",
-            "Resistenzmonitoring"
-        ],
-        "dct:accrualPeriodicity": "CONT",
-        "dct:modified": "2025-11-06",
-        "adms:status": "published",
-        "bv:classification": "none",
-        "bv:personalData": "personalData",
-        "bv:typeOfData": "primaryThematicData",
-        "bv:archivalValue": "TRUE",
-        "bv:opendata_swiss": {
-            "bv:mustBePublished": "FALSE"
-        },
-        "bv:i14y": {
-            "bv:mustBePublished": "TRUE"
-        },
-        "dcat:theme": [
-            "agriculture",
-            "health"
-        ],
-        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierarzneimittel/antibiotika/ueberwachung.html",
-        "dct:spatial": "NO",
-        "dct:temporal": {},
-        "dcatap:applicableLegislation": [
-            "Tierarzneimittelverordnung"
-        ],
-        "bv:itSystem": "ARES",
-        "businessDataOwner": null,
-        "schemaViolations": 3,
-        "schemaViolationMessages": [
-            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
-            "None of [{'prov:agent': 'p-9079817', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-7891691', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
-            "'TRUE' is not of type 'boolean'"
-        ],
-        "quality": 1074.25
-    },
-    {
-        "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00040",
+        "dct:identifier": "FSVO_D00014",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
         "dct:title": {
             "fr": "Tierseuchenmeldungen (InfoSM)",
@@ -2540,70 +2298,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00059",
-        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
-        "dct:title": {
-            "fr": "Tierseuchenmeldungen (InfoSM)",
-            "de": "Tierseuchenmeldungen (InfoSM)",
-            "en": "Tierseuchenmeldungen (InfoSM)",
-            "it": "Tierseuchenmeldungen (InfoSM)"
-        },
-        "dct:description": {
-            "fr": "La collecte de données « Déclarations d'épizooties » sert à enregistrer, vérifier et gérer les cas d'épizooties soumis à déclaration en Suisse. Elle contient des données structurées sur les cas confirmés d'épizooties, y compris l'espèce animale, le nombre d'animaux concernés, les exploitations concernées, les diagnostics, les mesures prises et la répartition géographique. Les services vétérinaires cantonaux enregistrent ces notifications dans l'application ASAN. Après un examen technique, les cas sont validés pour publication par l'Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV).\n\nLa collecte de données permet d'avoir une vue d'ensemble centralisée et actualisée de la situation épidémiologique et sert de base aux obligations de déclaration nationales et internationales. Elle sert à la détection précoce des foyers, à la coordination des mesures de lutte et à l'évaluation des risques. La collecte de données contribue ainsi de manière décisive à la santé animale, au respect des obligations internationales et au maintien du statut de pays indemne de maladies animales en Suisse.",
-            "de": "Die Datensammlung «Tierseuchenmeldungen» dient der Erfassung, Prüfung und Verwaltung meldepflichtiger Tierseuchenfälle in der Schweiz. Sie enthält strukturierte Daten zu  Bestätigungsfällen von Tierseuchen, inklusive Tierart, Anzahl betroffener Tiere, betroffener Betriebe, Diagnosen, Massnahmen und geografischer Verteilung. Die kantonalen Veterinärdienste erfassen diese Meldungen in der Applikation ASAN. Nach einer fachlichen Prüfung werden die Fälle vom Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) zur Veröffentlichung freigegeben.\n\nDie Datensammlung ermöglicht die zentrale, aktuelle Übersicht über das Seuchengeschehen und bildet die Grundlage für nationale und internationale Meldepflichten. Sie dient der Früherkennung von Ausbrüchen, der Koordination von Bekämpfungsmassnahmen sowie der Risikobewertung. Die Datensammlung trägt damit entscheidend zur Tiergesundheit, zur Einhaltung internationaler Verpflichtungen und zur Aufrechterhaltung des Tierseuchenfreiheitsstatus der Schweiz bei."
-        },
-        "dct:accessRights": "RESTRICTED",
-        "dct:publisher": "BLV-OSAV-USAV-FSVO",
-        "dcat:contactPoint": {
-            "schema:email": "infotgts@blv.admin.ch",
-            "schema:name": "BLV, TGTS, Tiergesundheit"
-        },
-        "dct:issued": "2025-01-01",
-        "dcatap:availability": "STABLE",
-        "dcat:keyword": [
-            "InfoSM",
-            "Tierseuchen",
-            "meldepflicht",
-            "ASAN"
-        ],
-        "dct:accrualPeriodicity": "CONT",
-        "dct:modified": "2025-12-02",
-        "adms:status": "published",
-        "bv:classification": "none",
-        "bv:personalData": "personalData",
-        "bv:typeOfData": "primaryThematicData",
-        "bv:archivalValue": "FALSE",
-        "bv:opendata_swiss": {
-            "bv:mustBePublished": "FALSE",
-            "dct:identifier": "tierseuchen@bundesamt-fur-lebensmittelsicherheit-und-veterinaerwesen-blv",
-            "dcat:accessURL": "https://opendata.swiss/de/dataset/meldepflichtige-tierseuchen-in-der-schweiz"
-        },
-        "bv:i14y": {
-            "bv:mustBePublished": "TRUE"
-        },
-        "dcat:theme": [
-            "agriculture",
-            "national-economy"
-        ],
-        "dcat:landingPage": "https://www.dashboard.blv.admin.ch/animals/epizootics/infosm/2025/44",
-        "dct:spatial": "YES",
-        "dct:temporal": {},
-        "dcatap:applicableLegislation": [
-            "TSG, TSV (Art. 64, 65), BStatV (Tiergesundheitsstatistik 09.39)"
-        ],
-        "bv:itSystem": "ASAN",
-        "businessDataOwner": null,
-        "schemaViolations": 3,
-        "schemaViolationMessages": [
-            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
-            "None of [{'prov:agent': 'p-9089108', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-1ZWYN10VX', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
-            "'FALSE' is not of type 'boolean'"
-        ],
-        "quality": 1065.0
-    },
-    {
-        "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00015",
+        "dct:identifier": "FSVO_D00023",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
             "de": "menuCH - die erste Nationale Ernährungserhebung",
@@ -2700,7 +2395,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00014",
+        "dct:identifier": "FSVO_D00025",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
             "fr": "Nährwertdaten",
@@ -2771,7 +2466,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00034",
+        "dct:identifier": "FSVO_D00043",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/Medicine.jpg",
         "dct:title": {
             "fr": "Einfuhr von Tierarzneimittel",
@@ -2844,80 +2539,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00053",
-        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/Medicine.jpg",
-        "dct:title": {
-            "fr": "Einfuhr von Tierarzneimittel",
-            "de": "Einfuhr von Tierarzneimittel",
-            "en": "Einfuhr von Tierarzneimittel",
-            "it": "Einfuhr von Tierarzneimittel"
-        },
-        "dct:description": {
-            "fr": "Cette collecte de données recense les déclarations des vétérinaires qui importent des médicaments vétérinaires (MV) depuis l'étranger. L'importation de MVA est autorisée lorsqu'aucun MVA alternatif ou médicalement équivalent n'est autorisé, que les MVA alternatifs sont autorisés mais non disponibles ou que les MVA autorisés ne conviennent pas dans certains cas particuliers (p. ex. galénique ou dosage). Selon la catégorie, les importations nécessitent ou non une autorisation. Sont enregistrées les informations relatives à la préparation importée, à la substance active, à l'espèce animale concernée, au nombre d'emballages, à la taille des emballages, à l'établissement utilisateur, au pays d'autorisation, au pays d'importation ainsi qu'à la justification médicale de l'importation.\n\nLa collecte de données sert au contrôle et à la traçabilité des importations exceptionnelles de médicaments vétérinaires. Elle permet de surveiller les risques liés aux médicaments non autorisés et de vérifier le respect des conditions légales. Elle fournit également des informations précieuses sur les lacunes en matière d'approvisionnement sur le marché suisse des médicaments vétérinaires et soutient le développement de stratégies réglementaires visant à garantir la santé animale.",
-            "de": "In dieser Datensammlung sind Meldungen von Tierärztinnen und Tierätzten erfasst, die Tierarzneimittel (TAM) aus dem Ausland importieren. Ein Import von TAM ist zulässig, wenn kein alternativ einsetzbares oder medizinisch gleichwertiges TAM zugelassen ist, alternative TAM zugelassen, aber nicht verfügbar sind oder zugelassene TAM für gewisse Einzelfälle ungeeignet sind (bspw. Galenik oder Dosisstärke). Je nach Kategorie benötigen Importe eine Bewilligung oder nicht. Erfasst werden Angaben zum eingeführten Präparat, Wirkstoff, vorgesehener Tierart, Anzahl Packungen, Packungsgrösse, Anwendugsbetrieb, Zulassungsland, Importland sowie die medizinische Begründung für die Einfuhr.\n\nDie Datensammlung dient der Kontrolle und Nachverfolgbarkeit ausserordentlicher Arzneimitteleinfuhren in der Veterinärmedizin. Sie ermöglicht es, Risiken im Zusammenhang mit nicht zugelassenen Arzneimitteln zu überwachen und die Einhaltung der rechtlichen Voraussetzungen zu prüfen. Zudem liefert sie wertvolle Hinweise zu Versorgungslücken auf dem Schweizer Tierarzneimittelmarkt und unterstützt die Weiterentwicklung regulatorischer Strategien zur Sicherstellung der Tiergesundheit."
-        },
-        "dct:accessRights": "RESTRICTED",
-        "dct:publisher": "BLV-OSAV-USAV-FSVO",
-        "dcat:contactPoint": {
-            "schema:name": "BLV, TGTS, Tierarzneimittel",
-            "schema:email": "tam@blv.admin.ch"
-        },
-        "dct:issued": "2025-01-01",
-        "dcatap:availability": "STABLE",
-        "dcat:keyword": [
-            "Tiergesundheit",
-            "Antibiotika",
-            "Tierarzneimittel",
-            "Veterinärmedizin",
-            "Resistenzmonitoring",
-            "Einfuhr"
-        ],
-        "dct:accrualPeriodicity": "CONT",
-        "dct:modified": "2025-11-06",
-        "adms:status": "published",
-        "bv:classification": "none",
-        "bv:personalData": "personalData",
-        "bv:typeOfData": "primaryThematicData",
-        "bv:archivalValue": "TRUE",
-        "dcat:theme": [
-            "agriculture",
-            "health"
-        ],
-        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierarzneimittel/fachgerechter-umgang-mit-tierarzneimitteln/einfuhr-tam.html",
-        "dct:spatial": "YES",
-        "dcatap:applicableLegislation": [
-            "Tierarzneimittelverordnung"
-        ],
-        "bv:itSystem": "TAM-I",
-        "dcat:distribution": [
-            {
-                "dct:identifier": "FSVO_D00053_1",
-                "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AQp4uSV4AEJLtLsOCBpr20A",
-                "adms:status": "published",
-                "dct:format": "SAP BO Webintelligence",
-                "dct:title": {
-                    "de": "7101 TAM-I Kontrolle",
-                    "fr": "7101 TAM-I Kontrolle"
-                },
-                "dct:description": {
-                    "de": "Liste der Tierarzneimittelimporte die über TAM-I gemeldet wurden. Das Zeitfenster kann gewählt werden.",
-                    "fr": "Liste der Tierarzneimittelimporte die über TAM-I gemeldet wurden. Das Zeitfenster kann gewählt werden."
-                }
-            }
-        ],
-        "businessDataOwner": null,
-        "schemaViolations": 4,
-        "schemaViolationMessages": [
-            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
-            "None of [{'prov:agent': 'p-9079817', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-7891691', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
-            "'TRUE' is not of type 'boolean'",
-            "'dct:modified' is a required property"
-        ],
-        "quality": 1011.0
-    },
-    {
-        "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00019",
+        "dct:identifier": "FSVO_D00013",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
             "fr": "Stillmonitoring",
@@ -2976,7 +2598,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00031",
+        "dct:identifier": "FSVO_D00006",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/Medicine.jpg",
         "dct:title": {
             "fr": "Vertriebsdaten von Antibiotika",
@@ -3038,69 +2660,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00050",
-        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/Medicine.jpg",
-        "dct:title": {
-            "fr": "Vertriebsdaten von Antibiotika",
-            "de": "Vertriebsdaten von Antibiotika",
-            "en": "Vertriebsdaten von Antibiotika",
-            "it": "Vertriebsdaten von Antibiotika"
-        },
-        "dct:description": {
-            "fr": "Cette collecte de données contient des informations sur les antibiotiques commercialisés en Suisse dans le domaine vétérinaire par les titulaires d'autorisations et les grossistes. Tous les distributeurs sont tenus d'enregistrer chaque année tous les médicaments vétérinaires antibiotiques qu'ils commercialisent. Sont enregistrés le principe actif, le nom commercial, les quantités vendues, le titulaire de l'autorisation et l'utilisation prévue par espèce animale.\n \n\nLes données servent à la surveillance nationale de la distribution d'antibiotiques et constituent un élément central de la stratégie suisse de lutte contre la résistance aux antibiotiques (StAR). Elles permettent d'analyser les évolutions dans la distribution et facilitent la planification ciblée de mesures visant à réduire l'utilisation d'antibiotiques. En outre, ces données constituent une base importante pour les rapports internationaux, par exemple à l'Organisation mondiale de la santé animale (OIE). L'ISABV contribue ainsi à promouvoir une utilisation responsable des antibiotiques et à lutter contre la résistance.",
-            "de": "Diese Datensammlung enthält Informationen zu in der Schweiz für den Veterinärbereich vertriebenen Antibiotika von Zulassungsinhabern und Grosshändlern. Alle Inverkehrbringer sind verpflichtet, alle von ihnen vertriebenen antibiotischen Tierarzneimittel jedes Jahr obligatorisch zu erfassen. Erfasst werden Wirkstoff, Handelsname, abgegebene Mengen, Zulassungsinhaber sowie Verwendungszweck nach Tierart. \n\nDie Daten dienen der nationalen Überwachung des Antibiotikavertriebs und sind ein zentrales Element der Strategie Antibiotikaresistenzen Schweiz (StAR). Sie ermöglichen die Analyse von Entwicklungen im Vertrieb und unterstützen die gezielte Planung von Massnahmen zur Reduktion des Antibiotikaeinsatzes. Zudem bilden die Daten eine wichtige Grundlage für internationale Berichterstattungen, beispielsweise an die Weltorganisation für Tiergesundheit (WOAH). ISABV leistet somit einen Beitrag zur Förderung einer verantwortungsvollen Anwendung von Antibiotika und zur Bekämpfung von Resistenzen."
-        },
-        "dct:accessRights": "RESTRICTED",
-        "dct:publisher": "BLV-OSAV-USAV-FSVO",
-        "dcat:contactPoint": {
-            "schema:email": "tam@blv.admin.ch",
-            "schema:name": "BLV, TGTS, Tierarzneimittel"
-        },
-        "dct:issued": "2025-01-01",
-        "dcatap:availability": "STABLE",
-        "dcat:keyword": [
-            "Tiergesundheit",
-            "Antibiotika",
-            "Tierarzneimittel",
-            "Veterinärmedizin",
-            "Resistenzmonitoring"
-        ],
-        "dct:accrualPeriodicity": "CONT",
-        "dct:modified": "2025-11-06",
-        "adms:status": "published",
-        "bv:classification": "none",
-        "bv:personalData": "personalData",
-        "bv:typeOfData": "primaryThematicData",
-        "bv:archivalValue": "TRUE",
-        "bv:opendata_swiss": {
-            "bv:mustBePublished": "FALSE"
-        },
-        "bv:i14y": {
-            "bv:mustBePublished": "TRUE"
-        },
-        "dcat:theme": [
-            "agriculture",
-            "health"
-        ],
-        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierarzneimittel/antibiotika/ueberwachung.html",
-        "dct:spatial": "YES",
-        "dct:temporal": {},
-        "dcatap:applicableLegislation": [
-            "Tierarzneimittelverordnung"
-        ],
-        "bv:itSystem": "IS ABV",
-        "businessDataOwner": null,
-        "schemaViolations": 3,
-        "schemaViolationMessages": [
-            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
-            "None of [{'prov:agent': 'p-9079817', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-7891691', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
-            "'TRUE' is not of type 'boolean'"
-        ],
-        "quality": 1001.75
-    },
-    {
-        "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00011",
+        "dct:identifier": "FSVO_D00016",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
             "fr": "Schwerpunktprogramme an der Grenze Risikobasierte Importkontrollen von Lebensmitteln und Gebrauchsgegenstaenden",
@@ -3160,7 +2720,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00041",
+        "dct:identifier": "FSVO_D00020",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
         "dct:title": {
             "fr": "Tierseuchendiagnostik (aRes-DB)",
@@ -3274,121 +2834,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00060",
-        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
-        "dct:title": {
-            "fr": "Tierseuchendiagnostik (aRes-DB)",
-            "de": "Tierseuchendiagnostik (aRes-DB)",
-            "en": "Tierseuchendiagnostik (aRes-DB)",
-            "it": "Tierseuchendiagnostik (aRes-DB)"
-        },
-        "dct:description": {
-            "fr": "La collecte de données « Ares » comprend les résultats de laboratoire liés au diagnostic, à la surveillance et à la lutte contre les épizooties en Suisse. Elle recense les résultats d'analyses positifs et négatifs provenant de laboratoires de diagnostic accrédités, complétés par des informations sur l'espèce animale, l'exploitation d'origine, le matériel d'échantillonnage, la date de l'analyse et la méthode utilisée. Les données proviennent de programmes nationaux de surveillance, d'enquêtes ciblées en cas d'épidémie et d'examens diagnostiques individuels en cas de suspicion.\n\nL'objectif de cette base de données est de créer une vue d'ensemble centralisée, structurée et exploitable de la santé animale. Les données servent à prouver l'absence de certaines épizooties et le succès des mesures de lutte contre celles-ci, à identifier les foyers de maladie, à analyser les risques et à soutenir les enquêtes épidémiologiques. Ares permet une surveillance ciblée, améliore la coordination des mesures de lutte et fournit la base scientifique pour les décisions stratégiques de l'OSAV dans le domaine de la santé animale.",
-            "de": "Die Datensammlung «Ares» beinhaltet die Laborresultate im Zusammenhang mit der Diagnostik, Überwachung und Bekämpfung von Tierseuchen in der Schweiz. Erfasst werden sowohl positive wie negative Untersuchungsergebnisse aus akkreditierten Diagnostiklaboratorien, ergänzt durch Angaben zu Tierart, Herkunftsbetrieb, Probenmaterial, Untersuchungsdatum sowie angewandter Methodik. Die Daten stammen aus nationalen Überwachungsprogrammen, gezielten Abklärungen im Seuchenfall sowie aus diagnostischen Einzeluntersuchungen bei Verdachtsmeldungen.\n\nZiel der Datensammlung ist es, eine zentrale, strukturierte und auswertbare Übersicht zur Tiergesundheit zu schaffen. Die Daten dienen dem Freiheitsnachweis und dem Bekämpfungserfolg bestimmter Tierseuchen, der Identifikation von Krankheitsausbrüchen, der Risikoanalyse und der Unterstützung bei epidemiologischen Abklärungen. Ares ermöglicht ein gezieltes Monitoring, verbessert die Koordination von Bekämpfungsmassnahmen und liefert die wissenschaftliche Grundlage für strategische Entscheidungen des BLV im Bereich Tiergesundheit."
-        },
-        "dct:accessRights": "RESTRICTED",
-        "dct:publisher": "BLV-OSAV-USAV-FSVO",
-        "dcat:contactPoint": {
-            "schema:email": "infotgts@blv.admin.ch",
-            "schema:name": "BLV, TGTS, Tiergesundheit"
-        },
-        "dct:issued": "2025-01-01",
-        "dcatap:availability": "STABLE",
-        "dcat:keyword": [
-            "Tierseuchendiagnostik",
-            "Tierseuchen",
-            "Überwachung",
-            "Bekämpfung",
-            "Labore",
-            "Laborresultate"
-        ],
-        "dct:accrualPeriodicity": "CONT",
-        "dct:modified": "2025-12-02",
-        "adms:status": "published",
-        "bv:classification": "none",
-        "bv:personalData": "personalData",
-        "bv:typeOfData": "primaryThematicData",
-        "bv:archivalValue": "TRUE",
-        "bv:opendata_swiss": {
-            "bv:mustBePublished": "FALSE"
-        },
-        "bv:i14y": {
-            "bv:mustBePublished": "TRUE"
-        },
-        "dcat:theme": [
-            "agriculture",
-            "national-economy",
-            "health"
-        ],
-        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tiergesundheit/ueberwachung.html",
-        "dct:spatial": "YES",
-        "dct:temporal": {},
-        "dcatap:applicableLegislation": [
-            "TSV Art 312c Abs 2: ISLMK-V Art1 Abs 1 b"
-        ],
-        "bv:itSystem": "ARES",
-        "dcat:distribution": [
-            {
-                "dct:identifier": "FSVO_D00060_01",
-                "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AZfTFL4gdo5Gie8SMHqEmKw",
-                "adms:status": "published",
-                "dct:format": "SAP BO Webintelligence",
-                "dct:title": {
-                    "de": "3000_Untersuchungsergebnisse von Tierseuchen aus aRes",
-                    "fr": "3000_Untersuchungsergebnisse von Tierseuchen aus aRes"
-                },
-                "dct:description": {
-                    "de": "Labordiagnostische Untersuchungsergebnisse einer ausgewählten Tierseuche nach eigenem Bedarf zusammenstellen.",
-                    "fr": "Labordiagnostische Untersuchungsergebnisse einer ausgewählten Tierseuche nach eigenem Bedarf zusammenstellen."
-                },
-                "schema:comment": "Publikationsort in ALVPH: /3 Shared/BLV - KAV/aRes"
-            },
-            {
-                "dct:identifier": "FSVO_D00060_2",
-                "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVScgO4KZD9JlBATTMcR1SE",
-                "adms:status": "published",
-                "dct:format": "SAP BO Webintelligence",
-                "dct:title": {
-                    "de": "3010_UntersuchungenProJahrUndKanton",
-                    "fr": "3010_UntersuchungenProJahrUndKanton"
-                },
-                "dct:description": {
-                    "de": "Laborergebnisse pro Jahr und Kanton. Seuchen können gefiltert werden",
-                    "fr": "Laborergebnisse pro Jahr und Kanton. Seuchen können gefiltert werden"
-                },
-                "schema:comment": "Publikationsort in ALVPH: /3 Shared/BLV - KAV/aRes"
-            },
-            {
-                "dct:identifier": "FSVO_D00060_3",
-                "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYbDIoXl4StIslo9qPxmLyI",
-                "adms:status": "published",
-                "dct:format": "SAP BO Webintelligence",
-                "dct:title": {
-                    "de": "3001_Jahresauswertung Nationales Überwachungsprogramm",
-                    "fr": "3001_Jahresauswertung Nationales Überwachungsprogramm"
-                },
-                "dct:description": {
-                    "de": "Jährliche Anzahl Proben und Betriebe, die im Rahmen des Nationalen\nÜberwachungsprogramms auf bestimmte Tierseuchen untersucht wurden.",
-                    "fr": "Jährliche Anzahl Proben und Betriebe, die im Rahmen des Nationalen\nÜberwachungsprogramms auf bestimmte Tierseuchen untersucht wurden."
-                },
-                "schema:comment": "Publikationsort in ALVPH: /3 Shared/BLV - KAV/aRes"
-            }
-        ],
-        "businessDataOwner": null,
-        "schemaViolations": 6,
-        "schemaViolationMessages": [
-            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
-            "None of [{'prov:agent': 'p-9089108', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-9737669', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
-            "'TRUE' is not of type 'boolean'",
-            "'dct:modified' is a required property",
-            "'dct:modified' is a required property",
-            "'dct:modified' is a required property"
-        ],
-        "quality": 983.2857142857143
-    },
-    {
-        "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00030",
+        "dct:identifier": "FSVO_D00037",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANDChicken.jpg",
         "dct:title": {
             "fr": "Stalleinrichtungen",
@@ -3455,7 +2901,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00035",
+        "dct:identifier": "FSVO_D00031",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/Medicine.jpg",
         "dct:title": {
             "fr": "Antibiotikaeinsatz in der Veterinärmedizin",
@@ -3623,175 +3069,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00054",
-        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/Medicine.jpg",
-        "dct:title": {
-            "fr": "Antibiotikaeinsatz in der Veterinärmedizin",
-            "de": "Antibiotikaeinsatz in der Veterinärmedizin",
-            "en": "Antibiotikaeinsatz in der Veterinärmedizin",
-            "it": "Antibiotikaeinsatz in der Veterinärmedizin"
-        },
-        "dct:description": {
-            "de": "Das Informationssystem Antibiotika in der Veterinärmedizin (ISABV) erfasst detaillierte Daten zum Antibiotikaverbrauch in der Veterinärmedizin. Tierärzte bzw. Tierarztpraxen in der Schweiz sind dazu verpflichtet, alle an Heim- und Nutztiere verabreichten oder verschriebenen Antibiotika zu melden. Diese Meldungen enthalten Informationen zu Spezies, Anzahl der behandelten Tiere, Präparatnamen, Wirkstoffen, abgegebenen Mengen, Dosis, Behandlungsfrequenz, Behandlungsdauer, Indikation und betroffenem Organsystem. Test\n\nVetribes- und Verbrauchsdaten dienen der Überwachung des Antibiotikaverbrauchs und bilden eine zentrale Grundlage der Nationalen Strategie Antibiotikaresistenzen Schweiz (StAR). Sie ermöglichen es, Trends im Einsatz von Antibiotika zu erkennen, Risiken gezielt zu bewerten und regulatorische sowie präventive Massnahmen evidenzbasiert zu planen. Zudem sind die Daten für die internationale Berichterstattung (z. B. an die WOAH) erforderlich und tragen dazu bei, die Entwicklung von Resistenzen bei Tieren und die damit verbundenen Risiken für die öffentliche Gesundheit einzudämmen.",
-            "fr": "Le système d'information sur les antibiotiques en médecine vétérinaire (ISABV) recueille des données détaillées sur la consommation d'antibiotiques en médecine vétérinaire. Les vétérinaires et les cabinets vétérinaires en Suisse sont tenus de déclarer tous les antibiotiques administrés ou prescrits aux animaux domestiques et aux animaux de rente. Ces déclarations contiennent des informations sur les espèces, le nombre d'animaux traités, les noms des préparations, les principes actifs, les quantités délivrées, la posologie, la fréquence et la durée du traitement, l'indication et le système organique concerné.\n\nLes données Vetribes et les données de consommation servent à surveiller la consommation d'antibiotiques et constituent une base essentielle de la Stratégie nationale suisse de lutte contre la résistance aux antibiotiques (StAR). Elles permettent d'identifier les tendances en matière d'utilisation des antibiotiques, d'évaluer les risques de manière ciblée et de planifier des mesures réglementaires et préventives fondées sur des données probantes. En outre, ces données sont nécessaires pour l'établissement de rapports internationaux (p. ex. à l'OIE) et contribuent à limiter le développement de résistances chez les animaux et les risques qui en découlent pour la santé publique."
-        },
-        "dct:accessRights": "RESTRICTED",
-        "dct:publisher": "BLV-OSAV-USAV-FSVO",
-        "dcat:contactPoint": {
-            "schema:name": "BLV, TGTS, Tierarzneimittel",
-            "schema:email": "tam@blv.admin.ch"
-        },
-        "dct:issued": "2025-01-01",
-        "dcatap:availability": "STABLE",
-        "dcat:keyword": [
-            "Tiergesundheit",
-            "Antibiotika",
-            "Tierarzneimittel",
-            "Veterinärmedizin",
-            "Resistenzmonitoring"
-        ],
-        "dct:accrualPeriodicity": "CONT",
-        "dct:modified": "2025-11-06",
-        "adms:status": "published",
-        "bv:classification": "none",
-        "bv:personalData": "personalData",
-        "bv:typeOfData": "primaryThematicData",
-        "bv:archivalValue": "TRUE",
-        "dcat:theme": [
-            "agriculture",
-            "health"
-        ],
-        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierarzneimittel/antibiotika/sachgemaesser-antibiotikaeinsatz.html",
-        "dct:spatial": "YES",
-        "dcatap:applicableLegislation": [
-            "Tierarzneimittelverordnung"
-        ],
-        "bv:itSystem": "IS ABV",
-        "dcat:distribution": [
-            {
-                "dct:identifier": "FSVO_D00054_1",
-                "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AbpnYbH6NoxHmy6Y3ow0x_w",
-                "adms:status": "published",
-                "dct:format": "SAP BO Webintelligence",
-                "dct:title": {
-                    "de": "7001_Übersicht Registrierte Tierarztpraxen",
-                    "fr": "7001_Übersicht Registrierte Tierarztpraxen"
-                },
-                "dct:description": {
-                    "de": "Alle in ISABV registrierten, aktiven Tierarztpraxen mit UID, BUR Nummer, Adresse und Praxistyp.",
-                    "fr": "Alle in ISABV registrierten, aktiven Tierarztpraxen mit UID, BUR Nummer, Adresse und Praxistyp."
-                },
-                "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/ISABV"
-            },
-            {
-                "dct:identifier": "FSVO_D00054_2",
-                "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=Abrzu5Nm_lNMgisU.TE2T4w",
-                "adms:status": "published",
-                "dct:format": "SAP BO Webintelligence",
-                "dct:title": {
-                    "de": "7002_Übersicht Verschreibungen",
-                    "fr": "7002_Übersicht Verschreibungen"
-                },
-                "dct:description": {
-                    "de": "Eine Übersicht über die Verschreibungen, die in ISABV erfasst sind nach verschiedenen Auswertungskriterien. Das Zeitfenster für die Auswertung kann gewählt werden.",
-                    "fr": "Eine Übersicht über die Verschreibungen, die in ISABV erfasst sind nach verschiedenen Auswertungskriterien. Das Zeitfenster für die Auswertung kann gewählt werden."
-                },
-                "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/ISABV"
-            },
-            {
-                "dct:identifier": "FSVO_D00054_3",
-                "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=ARtNz_52_qhOk3RdASDicgI",
-                "adms:status": "published",
-                "dct:format": "SAP BO Webintelligence",
-                "dct:title": {
-                    "de": "7005a_Rezepte_Liste",
-                    "fr": "7005a_Rezepte_Liste"
-                },
-                "dct:description": {
-                    "de": "Detaillierte Liste der Verschreibungen pro Tierarzt und Tierhaltung. Dient den kantonalen Veterinärdiensten zur Kontrollvorbereitung von tierärztlichen Privatapotheken und Primärproduktionsbetrieben.",
-                    "fr": "Detaillierte Liste der Verschreibungen pro Tierarzt und Tierhaltung. Dient den kantonalen Veterinärdiensten zur Kontrollvorbereitung von tierärztlichen Privatapotheken und Primärproduktionsbetrieben."
-                },
-                "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/ISABV"
-            },
-            {
-                "dct:identifier": "FSVO_D00054_4",
-                "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AakTjK5IXm5HgOrQ4jJSs9w",
-                "adms:status": "published",
-                "dct:format": "SAP BO Webintelligence",
-                "dct:title": {
-                    "de": "7010_Vétérinaires_REE_ISABV",
-                    "fr": "7010_Vétérinaires_REE_ISABV"
-                },
-                "dct:description": {
-                    "de": "Abgleich der im BUR registrierten Tierarztpraxen und den Registrierungen in ISABV. Zusätzlich werden die Praxisbewilligungen aus ASAN verknüpft. Dieser Bericht war vor allem in der Onboarding-Phase wichtig.",
-                    "fr": "Abgleich der im BUR registrierten Tierarztpraxen und den Registrierungen in ISABV. Zusätzlich werden die Praxisbewilligungen aus ASAN verknüpft. Dieser Bericht war vor allem in der Onboarding-Phase wichtig."
-                },
-                "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/ISABV"
-            },
-            {
-                "dct:identifier": "FSVO_D00054_5",
-                "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AbST7br5WB1Ji9xzhq2jJoM",
-                "adms:status": "published",
-                "dct:format": "SAP BO Webintelligence",
-                "dct:title": {
-                    "de": "7011a_Qualitätskontrolle Konsultationen",
-                    "fr": "7011a_Qualitätskontrolle Konsultationen"
-                },
-                "dct:description": {
-                    "de": "Coming soon",
-                    "fr": "Coming soon"
-                },
-                "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/ISABV"
-            },
-            {
-                "dct:identifier": "FSVO_D00054_6",
-                "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AaW2imFI0SRKgFPU0wGUl3M",
-                "adms:status": "published",
-                "dct:format": "SAP BO Webintelligence",
-                "dct:title": {
-                    "de": "7011a_Qualitätskontrolle Konsultationen",
-                    "fr": "7011a_Qualitätskontrolle Konsultationen"
-                },
-                "dct:description": {
-                    "de": "Coming soon",
-                    "fr": "Coming soon"
-                },
-                "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/ISABV"
-            },
-            {
-                "dct:identifier": "FSVO_D00054_7",
-                "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=ARZ06K8qgwNBuZnYBoPvPyA",
-                "adms:status": "published",
-                "dct:format": "SAP BO Webintelligence",
-                "dct:title": {
-                    "de": "7013_Upload fuer Tieraerzte_mit_Zeitfenster",
-                    "fr": "7013_Upload fuer Tieraerzte_mit_Zeitfenster"
-                },
-                "dct:description": {
-                    "de": "Dieser Report wird monatlich als PDF pro Tierarztpraxis in ISABV zur Verfügung gestellt. Er dient primär der Qualitätskontrolle und weist die TA aus unplausible Rezepte hin.",
-                    "fr": "Dieser Report wird monatlich als PDF pro Tierarztpraxis in ISABV zur Verfügung gestellt. Er dient primär der Qualitätskontrolle und weist die TA aus unplausible Rezepte hin."
-                }
-            }
-        ],
-        "businessDataOwner": null,
-        "schemaViolations": 10,
-        "schemaViolationMessages": [
-            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
-            "None of [{'prov:agent': 'p-9079817', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-7891691', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
-            "'TRUE' is not of type 'boolean'",
-            "'dct:modified' is a required property",
-            "'dct:modified' is a required property",
-            "'dct:modified' is a required property",
-            "'dct:modified' is a required property",
-            "'dct:modified' is a required property",
-            "'dct:modified' is a required property",
-            "'dct:modified' is a required property"
-        ],
-        "quality": 953.7272727272727
-    },
-    {
-        "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00023",
+        "dct:identifier": "FSVO_D00027",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/StillLifeWithMouse.jpg",
         "dct:title": {
             "fr": "Tierversuchsdaten",
@@ -3864,131 +3142,69 @@
     },
     {
         "rdf:type": "dcat:Dataset",
+        "dct:identifier": "FSVO_D00042",
+        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
+        "dct:title": {
+            "fr": "Monitoringprogramm Pestizidrückstände",
+            "de": "Monitoringprogramm Pestizidrückstände",
+            "en": "Monitoringprogramm Pestizidrückstände",
+            "it": "Monitoringprogramm Pestizidrückstände"
+        },
+        "dct:description": {
+            "fr": "Die Datensammlung umfasst Ergebnisse aus dem nationalen Monitoring von Pestizidrückständen in Lebensmitteln, die gemäss Durchführungsverordnung EU 2025/854 für das BLV erhoben werden. Dabei werden Analysewerte zu Rückständen von Pflanzenschutzmittelwirkstoffen in unterschiedlichsten Produkten sowie Informationen zur Konformität mit gesetzlichen Höchstgehalten erfasst. Die Daten fliessen in die jährlichen Monitoringberichte zu Pestizidrückständen ein: https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/lebensmittelsicherheit/stoffe-im-fokus/pflanzenschutzmittel.html. Die Datensammlung gibt Hinweise zur Exposition der Bevölkerung gegenüber Pestizidrückständen in beliebten Lebensmitteln. Zudem unterstützt sie die Risikobewertung und Regulierung von Pflanzenschutzmitteln sowie die Ableitung von Maßnahmen zum Schutz der Konsumentinnen und Konsumenten.  ",
+            "de": "Die Datensammlung umfasst Ergebnisse aus dem nationalen Monitoring von Pestizidrückständen in Lebensmitteln, die gemäss Durchführungsverordnung EU 2025/854 für das BLV erhoben werden. Dabei werden Analysewerte zu Rückständen von Pflanzenschutzmittelwirkstoffen in unterschiedlichsten Produkten sowie Informationen zur Konformität mit gesetzlichen Höchstgehalten erfasst. Die Daten fliessen in die jährlichen Monitoringberichte zu Pestizidrückständen ein: https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/lebensmittelsicherheit/stoffe-im-fokus/pflanzenschutzmittel.html. Die Datensammlung gibt Hinweise zur Exposition der Bevölkerung gegenüber Pestizidrückständen in beliebten Lebensmitteln. Zudem unterstützt sie die Risikobewertung und Regulierung von Pflanzenschutzmitteln sowie die Ableitung von Maßnahmen zum Schutz der Konsumentinnen und Konsumenten.  "
+        },
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BLV-OSAV-USAV-FSVO",
+        "dcat:contactPoint": {
+            "schema:email": "lme@blv.admin.ch",
+            "schema:name": "BLV, LME, Lebensmittelhygiene"
+        },
+        "dct:issued": "2026-01-01",
+        "dcatap:availability": "STABLE",
+        "dcat:keyword": [
+            "Pestizide",
+            "Rückstände",
+            "Pflanzenschutzmittel",
+            "Biozide"
+        ],
+        "dct:accrualPeriodicity": "MONTHLY",
+        "dct:modified": "2026-01-14",
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:typeOfData": "primaryThematicData",
+        "bv:archivalValue": "TRUE",
+        "bv:opendata_swiss": {
+            "bv:mustBePublished": "FALSE"
+        },
+        "bv:i14y": {
+            "bv:mustBePublished": "TRUE"
+        },
+        "dcat:theme": [
+            "agriculture",
+            "health"
+        ],
+        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/lebensmittelsicherheit/stoffe-im-fokus/pflanzenschutzmittel.html",
+        "dct:spatial": "NO",
+        "dct:temporal": {},
+        "dcatap:applicableLegislation": [
+            "LMG",
+            "LGV",
+            "VPRH"
+        ],
+        "businessDataOwner": null,
+        "schemaViolations": 3,
+        "schemaViolationMessages": [
+            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
+            "None of [{'prov:agent': 'p-1582170', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-2806869', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
+            "'TRUE' is not of type 'boolean'"
+        ],
+        "quality": 916.5
+    },
+    {
+        "rdf:type": "dcat:Dataset",
         "dct:identifier": "FSVO_D00046",
-        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
-        "dct:title": {
-            "fr": "Monitoringprogramm Pestizidrückstände",
-            "de": "Monitoringprogramm Pestizidrückstände",
-            "en": "Monitoringprogramm Pestizidrückstände",
-            "it": "Monitoringprogramm Pestizidrückstände"
-        },
-        "dct:description": {
-            "fr": "Die Datensammlung umfasst Ergebnisse aus dem nationalen Monitoring von Pestizidrückständen in Lebensmitteln, die gemäss Durchführungsverordnung EU 2025/854 für das BLV erhoben werden. Dabei werden Analysewerte zu Rückständen von Pflanzenschutzmittelwirkstoffen in unterschiedlichsten Produkten sowie Informationen zur Konformität mit gesetzlichen Höchstgehalten erfasst. Die Daten fliessen in die jährlichen Monitoringberichte zu Pestizidrückständen ein: https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/lebensmittelsicherheit/stoffe-im-fokus/pflanzenschutzmittel.html. Die Datensammlung gibt Hinweise zur Exposition der Bevölkerung gegenüber Pestizidrückständen in beliebten Lebensmitteln. Zudem unterstützt sie die Risikobewertung und Regulierung von Pflanzenschutzmitteln sowie die Ableitung von Maßnahmen zum Schutz der Konsumentinnen und Konsumenten.  ",
-            "de": "Die Datensammlung umfasst Ergebnisse aus dem nationalen Monitoring von Pestizidrückständen in Lebensmitteln, die gemäss Durchführungsverordnung EU 2025/854 für das BLV erhoben werden. Dabei werden Analysewerte zu Rückständen von Pflanzenschutzmittelwirkstoffen in unterschiedlichsten Produkten sowie Informationen zur Konformität mit gesetzlichen Höchstgehalten erfasst. Die Daten fliessen in die jährlichen Monitoringberichte zu Pestizidrückständen ein: https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/lebensmittelsicherheit/stoffe-im-fokus/pflanzenschutzmittel.html. Die Datensammlung gibt Hinweise zur Exposition der Bevölkerung gegenüber Pestizidrückständen in beliebten Lebensmitteln. Zudem unterstützt sie die Risikobewertung und Regulierung von Pflanzenschutzmitteln sowie die Ableitung von Maßnahmen zum Schutz der Konsumentinnen und Konsumenten.  "
-        },
-        "dct:accessRights": "PUBLIC",
-        "dct:publisher": "BLV-OSAV-USAV-FSVO",
-        "dcat:contactPoint": {
-            "schema:email": "lme@blv.admin.ch",
-            "schema:name": "BLV, LME, Lebensmittelhygiene"
-        },
-        "dct:issued": "2026-01-01",
-        "dcatap:availability": "STABLE",
-        "dcat:keyword": [
-            "Pestizide",
-            "Rückstände",
-            "Pflanzenschutzmittel",
-            "Biozide"
-        ],
-        "dct:accrualPeriodicity": "MONTHLY",
-        "dct:modified": "2026-01-14",
-        "adms:status": "published",
-        "bv:classification": "none",
-        "bv:personalData": "none",
-        "bv:typeOfData": "primaryThematicData",
-        "bv:archivalValue": "TRUE",
-        "bv:opendata_swiss": {
-            "bv:mustBePublished": "FALSE"
-        },
-        "bv:i14y": {
-            "bv:mustBePublished": "TRUE"
-        },
-        "dcat:theme": [
-            "agriculture",
-            "health"
-        ],
-        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/lebensmittelsicherheit/stoffe-im-fokus/pflanzenschutzmittel.html",
-        "dct:spatial": "NO",
-        "dct:temporal": {},
-        "dcatap:applicableLegislation": [
-            "LMG",
-            "LGV",
-            "VPRH"
-        ],
-        "businessDataOwner": null,
-        "schemaViolations": 3,
-        "schemaViolationMessages": [
-            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
-            "None of [{'prov:agent': 'p-1582170', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-2806869', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
-            "'TRUE' is not of type 'boolean'"
-        ],
-        "quality": 916.5
-    },
-    {
-        "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00065",
-        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
-        "dct:title": {
-            "fr": "Monitoringprogramm Pestizidrückstände",
-            "de": "Monitoringprogramm Pestizidrückstände",
-            "en": "Monitoringprogramm Pestizidrückstände",
-            "it": "Monitoringprogramm Pestizidrückstände"
-        },
-        "dct:description": {
-            "fr": "Die Datensammlung umfasst Ergebnisse aus dem nationalen Monitoring von Pestizidrückständen in Lebensmitteln, die gemäss Durchführungsverordnung EU 2025/854 für das BLV erhoben werden. Dabei werden Analysewerte zu Rückständen von Pflanzenschutzmittelwirkstoffen in unterschiedlichsten Produkten sowie Informationen zur Konformität mit gesetzlichen Höchstgehalten erfasst. Die Daten fliessen in die jährlichen Monitoringberichte zu Pestizidrückständen ein: https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/lebensmittelsicherheit/stoffe-im-fokus/pflanzenschutzmittel.html. Die Datensammlung gibt Hinweise zur Exposition der Bevölkerung gegenüber Pestizidrückständen in beliebten Lebensmitteln. Zudem unterstützt sie die Risikobewertung und Regulierung von Pflanzenschutzmitteln sowie die Ableitung von Maßnahmen zum Schutz der Konsumentinnen und Konsumenten.  ",
-            "de": "Die Datensammlung umfasst Ergebnisse aus dem nationalen Monitoring von Pestizidrückständen in Lebensmitteln, die gemäss Durchführungsverordnung EU 2025/854 für das BLV erhoben werden. Dabei werden Analysewerte zu Rückständen von Pflanzenschutzmittelwirkstoffen in unterschiedlichsten Produkten sowie Informationen zur Konformität mit gesetzlichen Höchstgehalten erfasst. Die Daten fliessen in die jährlichen Monitoringberichte zu Pestizidrückständen ein: https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/lebensmittelsicherheit/stoffe-im-fokus/pflanzenschutzmittel.html. Die Datensammlung gibt Hinweise zur Exposition der Bevölkerung gegenüber Pestizidrückständen in beliebten Lebensmitteln. Zudem unterstützt sie die Risikobewertung und Regulierung von Pflanzenschutzmitteln sowie die Ableitung von Maßnahmen zum Schutz der Konsumentinnen und Konsumenten.  "
-        },
-        "dct:accessRights": "PUBLIC",
-        "dct:publisher": "BLV-OSAV-USAV-FSVO",
-        "dcat:contactPoint": {
-            "schema:email": "lme@blv.admin.ch",
-            "schema:name": "BLV, LME, Lebensmittelhygiene"
-        },
-        "dct:issued": "2026-01-01",
-        "dcatap:availability": "STABLE",
-        "dcat:keyword": [
-            "Pestizide",
-            "Rückstände",
-            "Pflanzenschutzmittel",
-            "Biozide"
-        ],
-        "dct:accrualPeriodicity": "MONTHLY",
-        "dct:modified": "2026-01-14",
-        "adms:status": "published",
-        "bv:classification": "none",
-        "bv:personalData": "none",
-        "bv:typeOfData": "primaryThematicData",
-        "bv:archivalValue": "TRUE",
-        "bv:opendata_swiss": {
-            "bv:mustBePublished": "FALSE"
-        },
-        "bv:i14y": {
-            "bv:mustBePublished": "TRUE"
-        },
-        "dcat:theme": [
-            "agriculture",
-            "health"
-        ],
-        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/lebensmittelsicherheit/stoffe-im-fokus/pflanzenschutzmittel.html",
-        "dct:spatial": "NO",
-        "dct:temporal": {},
-        "dcatap:applicableLegislation": [
-            "LMG",
-            "LGV",
-            "VPRH"
-        ],
-        "businessDataOwner": null,
-        "schemaViolations": 3,
-        "schemaViolationMessages": [
-            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
-            "None of [{'prov:agent': 'p-1582170', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-2806869', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
-            "'TRUE' is not of type 'boolean'"
-        ],
-        "quality": 916.5
-    },
-    {
-        "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00029",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
         "dct:title": {
             "de": "Bovine viral diarrhea (BVD)",
@@ -4452,7 +3668,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00024",
+        "dct:identifier": "FSVO_D00022",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/StillLifeWithMouse.jpg",
         "dct:title": {
             "fr": "Tierversuchsstatistik",
@@ -4549,7 +3765,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00016",
+        "dct:identifier": "FSVO_D00019",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
             "fr": "menuCH Kids",
@@ -4610,7 +3826,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00003",
+        "dct:identifier": "FSVO_D00041",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
             "fr": "Stoffdatenbank Anwendungsplattform Verbraucherschutz APVS",
@@ -4669,7 +3885,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00025",
+        "dct:identifier": "FSVO_D00048",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
         "dct:title": {
             "fr": "Brucellose Stichprobe",
@@ -4772,7 +3988,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00042",
+        "dct:identifier": "FSVO_D00040",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANDChicken.jpg",
         "dct:title": {
             "fr": "Bewilligung Ausbildung (SKN und FBA)",
@@ -4841,76 +4057,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00061",
-        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANDChicken.jpg",
-        "dct:title": {
-            "fr": "Bewilligung Ausbildung (SKN und FBA)",
-            "de": "Bewilligung Ausbildung (SKN und FBA)",
-            "en": "Bewilligung Ausbildung (SKN und FBA)",
-            "it": "Bewilligung Ausbildung (SKN und FBA)"
-        },
-        "dct:description": {
-            "fr": "La collecte de données « Autorisation de formation (SKN et FBA) » comprend toutes les organisations FBA et SKN reconnues. Ces formations transmettent des connaissances sur la détention conforme aux besoins des animaux ainsi que des compétences pratiques  pour le traitement respectueux des animaux. Les données sont collectées dans le cadre des activités du domaine spécialisé Protection des animaux . Elles comprennent des informations sur l'organisation de formation, le type de formation et le statut d'autorisation.\n\nCes données offrent une vue d'ensemble transparente des formations reconnues.",
-            "de": "Die Datensammlung «Bewilligung Ausbildung (SKN und FBA)» beinhaltet sämtliche anerkannte FBA- und SKN-Organisationen. Diese Ausbildungen vermitteln Kenntnisse der tiergerechten Haltung sowie praktische  Fähigkeiten zum schonenden Umgang mit Tieren. Die Daten werden im Rahmen der Tätigkeiten des Fachsbereiches Tierschutz  erfasst. Enthalten sind Informationen zu Ausbildungsorganisation, Asubildungstyp und Bewilligungsstatus.\n\nDiese Daten ermöglichen eine transparente Übersicht über anerkannte Ausbildungen."
-        },
-        "dct:accessRights": "RESTRICTED",
-        "dct:publisher": "BLV-OSAV-USAV-FSVO",
-        "dcat:contactPoint": {
-            "schema:name": "BLV, TGTS, Tierschutz",
-            "schema:email": "infotgts@blv.admin.ch"
-        },
-        "dct:issued": "2025-01-01",
-        "dcatap:availability": "STABLE",
-        "dcat:keyword": [
-            "Ausbildung",
-            "SKN",
-            "FBA"
-        ],
-        "dct:accrualPeriodicity": "AS_NEEDED",
-        "dct:modified": "2025-12-02",
-        "adms:status": "published",
-        "bv:classification": "none",
-        "bv:personalData": "none",
-        "bv:typeOfData": "primaryThematicData",
-        "bv:archivalValue": "TRUE",
-        "dcat:theme": [
-            "education",
-            "agriculture",
-            "health"
-        ],
-        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierschutz/aus--und-weiterbildung.html",
-        "dct:spatial": "YES",
-        "bv:itSystem": "ASAN",
-        "dcat:distribution": [
-            {
-                "dct:identifier": "FSVO_D00061_01",
-                "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWsLmZEKx4hIow_6OsQ7qq4",
-                "adms:status": "published",
-                "dct:format": "SAP BO",
-                "dct:title": {
-                    "de": "5001_Bewilligungen/Authorisations",
-                    "fr": "5001_Bewilligungen/Authorisations"
-                },
-                "dct:description": {
-                    "de": "Liste aller Bewilligungen die in ASAN erfasst sind. Um die SKN Bewilligungen zu erhalten, müssen die entsprechenden Filter gesetzt werden.",
-                    "fr": "Liste aller Bewilligungen die in ASAN erfasst sind. Um die SKN Bewilligungen zu erhalten, müssen die entsprechenden Filter gesetzt werden."
-                },
-                "schema:comment": "Puplikationsort in ALVPH:  /3 Shared/BLV - KAV/ASAN"
-            }
-        ],
-        "businessDataOwner": null,
-        "schemaViolations": 4,
-        "schemaViolationMessages": [
-            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
-            "None of [{'prov:agent': 'p-1521097', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-1Y6QDXMPY', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
-            "'TRUE' is not of type 'boolean'",
-            "'dct:modified' is a required property"
-        ],
-        "quality": 732.8
-    },
-    {
-        "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00038",
+        "dct:identifier": "FSVO_D00021",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
         "dct:title": {
             "fr": "Salmonellenüberwachung: Liste der Mastpouletbetriebe",
@@ -4970,17 +4117,17 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00057",
+        "dct:identifier": "FSVO_D00007",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
         "dct:title": {
-            "fr": "Salmonellenüberwachung: Liste der Mastpouletbetriebe",
-            "de": "Salmonellenüberwachung: Liste der Mastpouletbetriebe",
-            "en": "Salmonellenüberwachung: Liste der Mastpouletbetriebe",
-            "it": "Salmonellenüberwachung: Liste der Mastpouletbetriebe"
+            "fr": "Stichprobenplanung AI/ND / Liste Sentinelbetriebe AI/ND",
+            "de": "Stichprobenplanung AI/ND / Liste Sentinelbetriebe AI/ND",
+            "en": "Stichprobenplanung AI/ND / Liste Sentinelbetriebe AI/ND",
+            "it": "Stichprobenplanung AI/ND / Liste Sentinelbetriebe AI/ND"
         },
         "dct:description": {
-            "fr": "Pour planifier la surveillance des salmonelles, les associations d'éleveurs de volaille exigent chaque année une liste des exploitations d'engraissement. Celles-ci ne peuvent pas être couvertes par les déclarations de mise en stabulation dans la BDTA, car les valeurs seuils se réfèrent au nombre de places disponibles.",
-            "de": "Für die Planung der Salmonellenüberwachung wird von den Geflügelzuchtverbänden jährlich eine Liste der Mastbetriebe eingefordert. Diese können nicht über die Einstallungsmeldungen in der TVD abgedeckt werden, da die Schwellenwerte sich auf die Anzahl verfügbaren Plätze bezieht."
+            "fr": "Chaque année, des exploitations avicoles sont sélectionnées sur la base de critères définis (facteurs de risque spécifiques) et doivent faire l'objet d'un échantillonnage sentinelle  par les cantons. La liste est importée dans Asan.",
+            "de": "Jährlich werden aufgrund von festgelegten Kriterien (spezifische Risikofaktoren) Geflügelbetriebe ausgewählt, die im Rahmen der Sentinelstichprobe  von den Kantonen beprobt werden müssen. Die Liste wird in Asan eingelesen."
         },
         "dct:accessRights": "RESTRICTED",
         "dct:publisher": "BLV-OSAV-USAV-FSVO",
@@ -5023,134 +4170,14 @@
         "schemaViolations": 3,
         "schemaViolationMessages": [
             "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
-            "None of [{'prov:agent': 'p-9089108', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-5484119', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
+            "None of [{'prov:agent': 'p-9089108', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-21CLDTPPV', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
             "'FALSE' is not of type 'boolean'"
         ],
-        "quality": 632.0
+        "quality": 598.0
     },
     {
         "rdf:type": "dcat:Dataset",
         "dct:identifier": "FSVO_D00039",
-        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
-        "dct:title": {
-            "fr": "Stichprobenplanung AI/ND / Liste Sentinelbetriebe AI/ND",
-            "de": "Stichprobenplanung AI/ND / Liste Sentinelbetriebe AI/ND",
-            "en": "Stichprobenplanung AI/ND / Liste Sentinelbetriebe AI/ND",
-            "it": "Stichprobenplanung AI/ND / Liste Sentinelbetriebe AI/ND"
-        },
-        "dct:description": {
-            "fr": "Chaque année, des exploitations avicoles sont sélectionnées sur la base de critères définis (facteurs de risque spécifiques) et doivent faire l'objet d'un échantillonnage sentinelle  par les cantons. La liste est importée dans Asan.",
-            "de": "Jährlich werden aufgrund von festgelegten Kriterien (spezifische Risikofaktoren) Geflügelbetriebe ausgewählt, die im Rahmen der Sentinelstichprobe  von den Kantonen beprobt werden müssen. Die Liste wird in Asan eingelesen."
-        },
-        "dct:accessRights": "RESTRICTED",
-        "dct:publisher": "BLV-OSAV-USAV-FSVO",
-        "dcat:contactPoint": {
-            "schema:email": "infotgts@blv.admin.ch",
-            "schema:name": "BLV, TGTS, Tiergesundheit"
-        },
-        "dct:issued": "2025-01-01",
-        "dcatap:availability": "STABLE",
-        "dcat:keyword": [
-            "Geflüge",
-            "Überwachung",
-            "Tierseuchen"
-        ],
-        "dct:accrualPeriodicity": "ANNUAL",
-        "dct:modified": "2025-12-02",
-        "adms:status": "published",
-        "bv:classification": "none",
-        "bv:personalData": "personalData",
-        "bv:typeOfData": "primaryThematicData",
-        "bv:archivalValue": "FALSE",
-        "bv:opendata_swiss": {
-            "bv:mustBePublished": "FALSE"
-        },
-        "bv:i14y": {
-            "bv:mustBePublished": "TRUE"
-        },
-        "dcat:theme": [
-            "agriculture",
-            "national-economy"
-        ],
-        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tiergesundheit/ueberwachung/nationales-ueberwachungsprogramm.html",
-        "dct:spatial": "YES",
-        "dct:temporal": {},
-        "dcatap:applicableLegislation": [
-            "TSV Art. 76a"
-        ],
-        "bv:itSystem": "ASAN",
-        "businessDataOwner": null,
-        "schemaViolations": 3,
-        "schemaViolationMessages": [
-            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
-            "None of [{'prov:agent': 'p-9089108', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-21CLDTPPV', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
-            "'FALSE' is not of type 'boolean'"
-        ],
-        "quality": 598.0
-    },
-    {
-        "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00058",
-        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
-        "dct:title": {
-            "fr": "Stichprobenplanung AI/ND / Liste Sentinelbetriebe AI/ND",
-            "de": "Stichprobenplanung AI/ND / Liste Sentinelbetriebe AI/ND",
-            "en": "Stichprobenplanung AI/ND / Liste Sentinelbetriebe AI/ND",
-            "it": "Stichprobenplanung AI/ND / Liste Sentinelbetriebe AI/ND"
-        },
-        "dct:description": {
-            "fr": "Chaque année, des exploitations avicoles sont sélectionnées sur la base de critères définis (facteurs de risque spécifiques) et doivent faire l'objet d'un échantillonnage sentinelle  par les cantons. La liste est importée dans Asan.",
-            "de": "Jährlich werden aufgrund von festgelegten Kriterien (spezifische Risikofaktoren) Geflügelbetriebe ausgewählt, die im Rahmen der Sentinelstichprobe  von den Kantonen beprobt werden müssen. Die Liste wird in Asan eingelesen."
-        },
-        "dct:accessRights": "RESTRICTED",
-        "dct:publisher": "BLV-OSAV-USAV-FSVO",
-        "dcat:contactPoint": {
-            "schema:email": "infotgts@blv.admin.ch",
-            "schema:name": "BLV, TGTS, Tiergesundheit"
-        },
-        "dct:issued": "2025-01-01",
-        "dcatap:availability": "STABLE",
-        "dcat:keyword": [
-            "Geflüge",
-            "Überwachung",
-            "Tierseuchen"
-        ],
-        "dct:accrualPeriodicity": "ANNUAL",
-        "dct:modified": "2025-12-02",
-        "adms:status": "published",
-        "bv:classification": "none",
-        "bv:personalData": "personalData",
-        "bv:typeOfData": "primaryThematicData",
-        "bv:archivalValue": "FALSE",
-        "bv:opendata_swiss": {
-            "bv:mustBePublished": "FALSE"
-        },
-        "bv:i14y": {
-            "bv:mustBePublished": "TRUE"
-        },
-        "dcat:theme": [
-            "agriculture",
-            "national-economy"
-        ],
-        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tiergesundheit/ueberwachung/nationales-ueberwachungsprogramm.html",
-        "dct:spatial": "YES",
-        "dct:temporal": {},
-        "dcatap:applicableLegislation": [
-            "TSV Art. 76a"
-        ],
-        "bv:itSystem": "ASAN",
-        "businessDataOwner": null,
-        "schemaViolations": 3,
-        "schemaViolationMessages": [
-            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
-            "None of [{'prov:agent': 'p-9089108', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-21CLDTPPV', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
-            "'FALSE' is not of type 'boolean'"
-        ],
-        "quality": 598.0
-    },
-    {
-        "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00043",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
             "fr": "LMS (Learning Management System) ",
@@ -5205,182 +4232,67 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00062",
-        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
+        "dct:identifier": "FSVO_D00015",
+        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/Red_Vineyard.jpg",
         "dct:title": {
-            "fr": "LMS (Learning Management System) ",
-            "de": "LMS (Learning Management System) ",
-            "en": "LMS (Learning Management System) ",
-            "it": "LMS (Learning Management System) "
+            "fr": "Pflanzenschutzmittelverzeichnis",
+            "de": "Pflanzenschutzmittelverzeichnis",
+            "en": "Pflanzenschutzmittelverzeichnis",
+            "it": "Pflanzenschutzmittelverzeichnis"
         },
         "dct:description": {
-            "fr": "Tous les participants y sont enregistrés. Les données de base sont le numéro AVS, puis le nom, le prénom, l'adresse e-mail, la langue, le sexe et l'adresse de facturation.",
-            "de": "Alle Kurse und Teilnehmenden werden dort erfasst. Als Basisdaten dient der AHV Nummer, dann noch Name, Vorname, Email Adresse, Sprache, Geschlecht und Rechnungsadresse. \nAlle Kurse sind in LMS erfasst, inklusiv Stundenpläne, Räumlichkeiten, Referierenden und Kursunterlagen."
+            "fr": "Les produits phytosanitaires autorisés sont répertoriés dans le registre des produits phytosanitaires. Ce registre contient des informations sur les substances actives, les phytoprotecteurs et les synergistes contenus dans les produits, sur le titulaire de l'autorisation, sur l'utilisation prévue, sur les restrictions d'utilisation, sur les doses d'application, sur l'étiquetage des dangers et sur les conditions d'utilisation.\nLes produits phytosanitaires dont l'autorisation a été révoquée restent inscrits dans le registre jusqu'à l'expiration de la période d'utilisation.",
+            "de": "Zugelassene Pflanzenschutzmittel werden im Pflanzenschutzmittelverzeichnis aufgelistet. Das Verzeichnis enthält Angaben zu den enthaltenen Wirkstoffen, Safenern und Synergisten, zur Zulassungsinhaberin, zur vorgesehenen Anwendung, zu Anwendungseinschränkungen, Aufwandmengen, Gefahrenkennzeichnung und zu Anwendungsauflagen.\nPflanzenschutzmittel, deren Zulassung widerrufen wurde werden noch bis zum Ablauf der Verwendungsfrist im Verzeichnis geführt."
         },
-        "dct:accessRights": "RESTRICTED",
+        "dct:accessRights": "PUBLIC",
         "dct:publisher": "BLV-OSAV-USAV-FSVO",
         "dcat:contactPoint": {
-            "schema:email": "formation@blv.admin.ch",
-            "schema:name": "BLV, Bildung und Forschung"
+            "schema:email": "pflanzenschutzmittel@blv.admin.ch",
+            "schema:name": "BLV, Zulassungsstelle PSM"
         },
-        "dct:issued": "2025-01-01",
+        "dct:issued": "2026-01-14",
         "dcatap:availability": "STABLE",
         "dcat:keyword": [
-            "Formale Bildung"
+            "Pflanzenschutzmittel, Zulassung, Bewilligung"
         ],
         "dct:accrualPeriodicity": "CONT",
-        "dct:modified": "2025-12-09",
+        "dct:modified": "2026-01-14",
         "adms:status": "published",
         "bv:classification": "none",
-        "bv:personalData": "personalData",
-        "bv:typeOfData": "unstructuredData",
-        "bv:archivalValue": "FALSE",
+        "bv:personalData": "none",
+        "bv:typeOfData": "thematicData",
+        "bv:archivalValue": "yes",
         "bv:opendata_swiss": {
-            "bv:mustBePublished": "FALSE"
+            "bv:mustBePublished": "yes",
+            "dct:identifier": "pflanzenschutzmittelverzeichnis@bundesamt-fur-lebensmittelsicherheit-und-veterinaerwesen-blv",
+            "dcat:accessURL": "https://opendata.swiss/de/dataset/pflanzenschutzmittelverzeichnis"
         },
         "bv:i14y": {
-            "bv:mustBePublished": "TRUE"
+            "bv:mustBePublished": "yes"
         },
         "dcat:theme": [
-            "education"
+            "agriculture, nantional-economy, territory, health"
         ],
-        "dct:spatial": "NO",
+        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/zulassung-pflanzenschutzmittel/zugelassene-pflanzenschutzmittel/pflanzenschutzmittelverzeichnis.html",
+        "dct:spatial": "no",
         "dct:temporal": {},
         "dcatap:applicableLegislation": [
-            "SR 916.402 - Verordnung vom 16. November 2011 über die Aus-, Weiter- und Fortbildung der Personen im öffentlichen Veterinärwesen | Fedlex"
+            "https://www.fedlex.admin.ch/eli/cc/2025/565/de"
         ],
         "businessDataOwner": null,
-        "schemaViolations": 3,
+        "schemaViolations": 5,
         "schemaViolationMessages": [
             "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
-            "None of [{'prov:agent': 'p-2870835', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-8552269', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
-            "'FALSE' is not of type 'boolean'"
+            "None of [{'prov:agent': 'p-1XHMH0D35', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-1XHMGZCHC', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
+            "'thematicData' is not one of ['', 'primaryThematicData', 'secondaryThematicData', 'referenceData', 'masterData', 'unstructuredData']",
+            "'yes' is not of type 'boolean'",
+            "'agriculture, nantional-economy, territory, health' is not one of ['', 'work', 'construction', 'population', 'education', 'energy', 'finances', 'geography', 'legislation', 'health', 'trade', 'industry', 'crime', 'culture', 'agriculture', 'mobility', 'public-order', 'politics', 'prices', 'territory', 'social-security', 'statistical-basis', 'tourism', 'administration', 'national-economy']"
         ],
-        "quality": 545.5
+        "quality": 518.3333333333334
     },
     {
         "rdf:type": "dcat:Dataset",
         "dct:identifier": "FSVO_D00049",
-        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/Red_Vineyard.jpg",
-        "dct:title": {
-            "fr": "Pflanzenschutzmittelverzeichnis",
-            "de": "Pflanzenschutzmittelverzeichnis",
-            "en": "Pflanzenschutzmittelverzeichnis",
-            "it": "Pflanzenschutzmittelverzeichnis"
-        },
-        "dct:description": {
-            "fr": "Les produits phytosanitaires autorisés sont répertoriés dans le registre des produits phytosanitaires. Ce registre contient des informations sur les substances actives, les phytoprotecteurs et les synergistes contenus dans les produits, sur le titulaire de l'autorisation, sur l'utilisation prévue, sur les restrictions d'utilisation, sur les doses d'application, sur l'étiquetage des dangers et sur les conditions d'utilisation.\nLes produits phytosanitaires dont l'autorisation a été révoquée restent inscrits dans le registre jusqu'à l'expiration de la période d'utilisation.",
-            "de": "Zugelassene Pflanzenschutzmittel werden im Pflanzenschutzmittelverzeichnis aufgelistet. Das Verzeichnis enthält Angaben zu den enthaltenen Wirkstoffen, Safenern und Synergisten, zur Zulassungsinhaberin, zur vorgesehenen Anwendung, zu Anwendungseinschränkungen, Aufwandmengen, Gefahrenkennzeichnung und zu Anwendungsauflagen.\nPflanzenschutzmittel, deren Zulassung widerrufen wurde werden noch bis zum Ablauf der Verwendungsfrist im Verzeichnis geführt."
-        },
-        "dct:accessRights": "PUBLIC",
-        "dct:publisher": "BLV-OSAV-USAV-FSVO",
-        "dcat:contactPoint": {
-            "schema:email": "pflanzenschutzmittel@blv.admin.ch",
-            "schema:name": "BLV, Zulassungsstelle PSM"
-        },
-        "dct:issued": "2026-01-14",
-        "dcatap:availability": "STABLE",
-        "dcat:keyword": [
-            "Pflanzenschutzmittel, Zulassung, Bewilligung"
-        ],
-        "dct:accrualPeriodicity": "CONT",
-        "dct:modified": "2026-01-14",
-        "adms:status": "published",
-        "bv:classification": "none",
-        "bv:personalData": "none",
-        "bv:typeOfData": "thematicData",
-        "bv:archivalValue": "yes",
-        "bv:opendata_swiss": {
-            "bv:mustBePublished": "yes",
-            "dct:identifier": "pflanzenschutzmittelverzeichnis@bundesamt-fur-lebensmittelsicherheit-und-veterinaerwesen-blv",
-            "dcat:accessURL": "https://opendata.swiss/de/dataset/pflanzenschutzmittelverzeichnis"
-        },
-        "bv:i14y": {
-            "bv:mustBePublished": "yes"
-        },
-        "dcat:theme": [
-            "agriculture, nantional-economy, territory, health"
-        ],
-        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/zulassung-pflanzenschutzmittel/zugelassene-pflanzenschutzmittel/pflanzenschutzmittelverzeichnis.html",
-        "dct:spatial": "no",
-        "dct:temporal": {},
-        "dcatap:applicableLegislation": [
-            "https://www.fedlex.admin.ch/eli/cc/2025/565/de"
-        ],
-        "businessDataOwner": null,
-        "schemaViolations": 5,
-        "schemaViolationMessages": [
-            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
-            "None of [{'prov:agent': 'p-1XHMH0D35', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-1XHMGZCHC', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
-            "'thematicData' is not one of ['', 'primaryThematicData', 'secondaryThematicData', 'referenceData', 'masterData', 'unstructuredData']",
-            "'yes' is not of type 'boolean'",
-            "'agriculture, nantional-economy, territory, health' is not one of ['', 'work', 'construction', 'population', 'education', 'energy', 'finances', 'geography', 'legislation', 'health', 'trade', 'industry', 'crime', 'culture', 'agriculture', 'mobility', 'public-order', 'politics', 'prices', 'territory', 'social-security', 'statistical-basis', 'tourism', 'administration', 'national-economy']"
-        ],
-        "quality": 518.3333333333334
-    },
-    {
-        "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00068",
-        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/Red_Vineyard.jpg",
-        "dct:title": {
-            "fr": "Pflanzenschutzmittelverzeichnis",
-            "de": "Pflanzenschutzmittelverzeichnis",
-            "en": "Pflanzenschutzmittelverzeichnis",
-            "it": "Pflanzenschutzmittelverzeichnis"
-        },
-        "dct:description": {
-            "fr": "Les produits phytosanitaires autorisés sont répertoriés dans le registre des produits phytosanitaires. Ce registre contient des informations sur les substances actives, les phytoprotecteurs et les synergistes contenus dans les produits, sur le titulaire de l'autorisation, sur l'utilisation prévue, sur les restrictions d'utilisation, sur les doses d'application, sur l'étiquetage des dangers et sur les conditions d'utilisation.\nLes produits phytosanitaires dont l'autorisation a été révoquée restent inscrits dans le registre jusqu'à l'expiration de la période d'utilisation.",
-            "de": "Zugelassene Pflanzenschutzmittel werden im Pflanzenschutzmittelverzeichnis aufgelistet. Das Verzeichnis enthält Angaben zu den enthaltenen Wirkstoffen, Safenern und Synergisten, zur Zulassungsinhaberin, zur vorgesehenen Anwendung, zu Anwendungseinschränkungen, Aufwandmengen, Gefahrenkennzeichnung und zu Anwendungsauflagen.\nPflanzenschutzmittel, deren Zulassung widerrufen wurde werden noch bis zum Ablauf der Verwendungsfrist im Verzeichnis geführt."
-        },
-        "dct:accessRights": "PUBLIC",
-        "dct:publisher": "BLV-OSAV-USAV-FSVO",
-        "dcat:contactPoint": {
-            "schema:email": "pflanzenschutzmittel@blv.admin.ch",
-            "schema:name": "BLV, Zulassungsstelle PSM"
-        },
-        "dct:issued": "2026-01-14",
-        "dcatap:availability": "STABLE",
-        "dcat:keyword": [
-            "Pflanzenschutzmittel, Zulassung, Bewilligung"
-        ],
-        "dct:accrualPeriodicity": "CONT",
-        "dct:modified": "2026-01-14",
-        "adms:status": "published",
-        "bv:classification": "none",
-        "bv:personalData": "none",
-        "bv:typeOfData": "thematicData",
-        "bv:archivalValue": "yes",
-        "bv:opendata_swiss": {
-            "bv:mustBePublished": "yes",
-            "dct:identifier": "pflanzenschutzmittelverzeichnis@bundesamt-fur-lebensmittelsicherheit-und-veterinaerwesen-blv",
-            "dcat:accessURL": "https://opendata.swiss/de/dataset/pflanzenschutzmittelverzeichnis"
-        },
-        "bv:i14y": {
-            "bv:mustBePublished": "yes"
-        },
-        "dcat:theme": [
-            "agriculture, nantional-economy, territory, health"
-        ],
-        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/zulassung-pflanzenschutzmittel/zugelassene-pflanzenschutzmittel/pflanzenschutzmittelverzeichnis.html",
-        "dct:spatial": "no",
-        "dct:temporal": {},
-        "dcatap:applicableLegislation": [
-            "https://www.fedlex.admin.ch/eli/cc/2025/565/de"
-        ],
-        "businessDataOwner": null,
-        "schemaViolations": 5,
-        "schemaViolationMessages": [
-            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
-            "None of [{'prov:agent': 'p-1XHMH0D35', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-1XHMGZCHC', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
-            "'thematicData' is not one of ['', 'primaryThematicData', 'secondaryThematicData', 'referenceData', 'masterData', 'unstructuredData']",
-            "'yes' is not of type 'boolean'",
-            "'agriculture, nantional-economy, territory, health' is not one of ['', 'work', 'construction', 'population', 'education', 'energy', 'finances', 'geography', 'legislation', 'health', 'trade', 'industry', 'crime', 'culture', 'agriculture', 'mobility', 'public-order', 'politics', 'prices', 'territory', 'social-security', 'statistical-basis', 'tourism', 'administration', 'national-economy']"
-        ],
-        "quality": 518.3333333333334
-    },
-    {
-        "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00045",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
             "fr": "ARAMIS",
@@ -5444,71 +4356,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00064",
-        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
-        "dct:title": {
-            "fr": "ARAMIS",
-            "de": "ARAMIS Administration Research Actions Management Information System",
-            "en": "ARAMIS",
-            "it": "ARAMIS"
-        },
-        "dct:description": {
-            "fr": "Le système d'information ARAMIS est en service depuis 1997 et comprend une saisie systématique des projets de recherche, d'innovation et d'évaluation financés ou réalisés par la Confédération. Son introduction a été précédée de plusieurs interventions parlementaires demandant plus de transparence et une amélioration de la coopération dans la recherche de l'administration fédérale. ARAMIS fonctionne comme une application de base de données dans laquelle les projets de recherche et les évaluations de l'administration fédérale sont représentés sous forme de projets individuels ou reliés entre eux. Ces projets contiennent, outre des informations de base telles que le titre et la durée, des données descriptives telles que les objectifs du projet ou les rapports finaux ainsi que des données financières. La banque de données sert à l'information du public ainsi que de base pour des évaluations statistiques et complémentaires.",
-            "de": "Das Informationssystem ARAMIS ist seit 1997 in Betrieb und beinhaltet eine systematische Erfassung der Forschungs- Innovations- und Evaluationsprojekte, welche vom Bund finanziert oder durchgeführt werden. Der Einführung waren mehrere parlamentarische Vorstösse vorangegangen, die mehr Transparenz und eine Verbesserung der Kooperation in der Ressortforschung verlangten. ARAMIS funktioniert als Datenbankanwendung, in der die Forschungsvorhaben und Evaluationen der Bundesverwaltung als einzelne oder miteinander verknüpfte Projekte abgebildet werden. Diese Projekte enthalten dabei neben Grundinformationen wie Titel und Laufzeit auch beschreibende Angaben wie Projektziele oder Abschlussberichte sowie Finanzdaten. Die Datenbank dient zur Information der Öffentlichkeit sowie als Grundlage für statistische und weiterführende Auswertungen."
-        },
-        "dct:accessRights": "OPEN",
-        "dct:publisher": "BLV-OSAV-USAV-FSVO",
-        "dcat:contactPoint": {
-            "schema:email": "formation@blv.admin.ch",
-            "schema:name": "BLV, Bildung und Forschung"
-        },
-        "dct:issued": "2025-01-01",
-        "dcatap:availability": "STABLE",
-        "dcat:keyword": [
-            "Forschung, ARAMIS"
-        ],
-        "dct:accrualPeriodicity": "CONT",
-        "dct:modified": "2025-12-09",
-        "adms:status": "published",
-        "bv:classification": "none",
-        "bv:personalData": "none",
-        "bv:typeOfData": "unstructuredData",
-        "bv:archivalValue": "TRUE",
-        "bv:opendata_swiss": {
-            "bv:mustBePublished": "TRUE",
-            "dct:identifier": "aramis@sbfi",
-            "dcat:accessURL": "https://opendata.swiss/de/dataset/aramis"
-        },
-        "bv:i14y": {
-            "bv:mustBePublished": "TRUE",
-            "dct:identifier": "f039638b-560a-4364-913b-bd3f0f10085c",
-            "dcat:accessURL": "https://www.i14y.admin.ch/de/catalog/dataservices/f039638b-560a-4364-913b-bd3f0f10085c/description"
-        },
-        "dcat:theme": [
-            "education"
-        ],
-        "dcat:landingPage": "https://www.aramis.admin.ch/",
-        "dct:spatial": "NO",
-        "dct:temporal": {},
-        "dcatap:applicableLegislation": [
-            ""
-        ],
-        "businessDataOwner": null,
-        "schemaViolations": 7,
-        "schemaViolationMessages": [
-            "'ARAMIS' does not match '[a-zA-Z0-9_\\\\-\\\\s]{10,75}'",
-            "'ARAMIS' does not match '[a-zA-Z0-9_\\\\-\\\\s]{10,75}'",
-            "'ARAMIS' does not match '[a-zA-Z0-9_\\\\-\\\\s]{10,75}'",
-            "'OPEN' is not one of ['', 'CONFIDENTIAL', 'NON_PUBLIC', 'PUBLIC', 'RESTRICTED', 'SENSITIVE']",
-            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
-            "None of [{'prov:agent': 'p-2870835', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-8552269', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
-            "'TRUE' is not of type 'boolean'"
-        ],
-        "quality": 463.0
-    },
-    {
-        "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00047",
+        "dct:identifier": "FSVO_D00008",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/Red_Vineyard.jpg",
         "dct:title": {
             "fr": "Zulassung von Pflanzenschutzmittel",
@@ -5567,125 +4415,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00066",
-        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/Red_Vineyard.jpg",
-        "dct:title": {
-            "fr": "Zulassung von Pflanzenschutzmittel",
-            "de": "Zulassung von Pflanzenschutzmittel",
-            "en": "Zulassung von Pflanzenschutzmittel",
-            "it": "Zulassung von Pflanzenschutzmittel"
-        },
-        "dct:description": {
-            "fr": "La base de données sur les produits phytosanitaires contient des informations complètes sur tous les produits autorisés et faisant l'objet d'une demande d'autorisation en Suisse. Elle comprend des indications sur les substances actives, les domaines d'application, les cultures autorisées, les dosages ainsi que les risques et effets secondaires possibles. Elle recense en outre les résultats des contrôles réguliers effectués afin de garantir que les produits continuent de satisfaire aux exigences scientifiques et légales en vigueur.\nTous les produits retirés du marché (depuis environ 2000) sont également disponibles dans la base de données.",
-            "de": "Die Datensammlung zu Pflanzenschutzmitteln beinhaltet umfassende Informationen zu allen in der Schweiz zugelassenen und beantragten Produkten. Sie enthält Angaben zu Wirkstoffen, Anwendungsgebieten, zugelassenen Kulturen, Dosierungen sowie zu möglichen Risiken und Nebenwirkungen. Zudem werden die Ergebnisse der regelmässigen Überprüfungen erfasst, um sicherzustellen, dass die Produkte weiterhin den aktuellen wissenschaftlichen und rechtlichen Anforderungen entsprechen.\nAuch alle zurückgezogenen Produkte (ab ca. dem Jahr 2000), sind in der Datensammlung verfügbar.\n\n"
-        },
-        "dct:accessRights": "RESTRICTED",
-        "dct:publisher": "BLV-OSAV-USAV-FSVO",
-        "dcat:contactPoint": {
-            "schema:email": "pflanzenschutzmittel@blv.admin.ch",
-            "schema:name": "BLV, Zulassungsstelle PSM"
-        },
-        "dct:issued": "2026-01-01",
-        "dcatap:availability": "STABLE",
-        "dcat:keyword": [
-            "Pflanzenschutzmittel, Zulassung, Bewilligung"
-        ],
-        "dct:accrualPeriodicity": "CONT",
-        "dct:modified": "2026-01-14",
-        "adms:status": "published",
-        "bv:classification": "non",
-        "bv:personalData": "sensitivePersonalData",
-        "bv:typeOfData": "thematicData",
-        "bv:archivalValue": "no",
-        "bv:opendata_swiss": {
-            "bv:mustBePublished": "no"
-        },
-        "bv:i14y": {
-            "bv:mustBePublished": "yes"
-        },
-        "dcat:theme": [
-            "agriculture, national-economy, territory, health"
-        ],
-        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/zulassung-pflanzenschutzmittel/zulassungsverfahren.html",
-        "dct:spatial": "no",
-        "dct:temporal": {},
-        "dcatap:applicableLegislation": [
-            "https://www.fedlex.admin.ch/eli/cc/2025/565/de"
-        ],
-        "businessDataOwner": null,
-        "schemaViolations": 6,
-        "schemaViolationMessages": [
-            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
-            "None of [{'prov:agent': 'p-1XHMH0D35', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-1XHMGZCHC', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
-            "'non' is not one of ['', 'none', 'internal', 'confidential', 'secret']",
-            "'thematicData' is not one of ['', 'primaryThematicData', 'secondaryThematicData', 'referenceData', 'masterData', 'unstructuredData']",
-            "'no' is not of type 'boolean'",
-            "'agriculture, national-economy, territory, health' is not one of ['', 'work', 'construction', 'population', 'education', 'energy', 'finances', 'geography', 'legislation', 'health', 'trade', 'industry', 'crime', 'culture', 'agriculture', 'mobility', 'public-order', 'politics', 'prices', 'territory', 'social-security', 'statistical-basis', 'tourism', 'administration', 'national-economy']"
-        ],
-        "quality": 439.14285714285717
-    },
-    {
-        "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00048",
-        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/Red_Vineyard.jpg",
-        "dct:title": {
-            "fr": "Risikobewertung von Pflanzenschutzmittel",
-            "de": "Risikobewertung von Pflanzenschutzmittel",
-            "en": "Risikobewertung von Pflanzenschutzmittel",
-            "it": "Risikobewertung von Pflanzenschutzmittel"
-        },
-        "dct:description": {
-            "fr": "Avant de pouvoir être commercialisés et utilisés, les produits phytosanitaires doivent être homologués. Dans le cadre de la procédure d'homologation, leur efficacité et leurs effets secondaires sont testés. Ils peuvent être autorisés si leur utilisation n'a pas d'effets secondaires inacceptables sur l'homme, les animaux et l'environnement. Ce sont les services fédéraux compétents qui en évaluent la conformité.",
-            "de": "Bevor Pflanzenschutzmittel in Verkehr gebracht und verwendet werden dürfen, müssen sie zugelassen werden. Im Rahmen des Zulassungsverfahrens werden sie auf ihre Wirkung und Nebenwirkungen geprüft. Sie können bewilligt werden, wenn ihre Anwendung keine unannehmbaren Nebenwirkungen auf Mensch, Tier und Umwelt hat. Dies wird von den zuständigen Bundesstellen beurteilt."
-        },
-        "dct:accessRights": "RESTRICTED",
-        "dct:publisher": "BLV-OSAV-USAV-FSVO",
-        "dcat:contactPoint": {
-            "schema:email": "pflanzenschutzmittel@blv.admin.ch",
-            "schema:name": "BLV, WG, Toxikologie PSM"
-        },
-        "dct:issued": "2026-01-14",
-        "dcatap:availability": "STABLE",
-        "dcat:keyword": [
-            "Pflanzenschutzmittel, Risikobewertung"
-        ],
-        "dct:accrualPeriodicity": "CONT",
-        "dct:modified": "2026-01-14",
-        "adms:status": "published",
-        "bv:classification": "non",
-        "bv:personalData": "sensitivePersonalData",
-        "bv:typeOfData": "thematicData",
-        "bv:archivalValue": "no",
-        "bv:opendata_swiss": {
-            "bv:mustBePublished": "no"
-        },
-        "bv:i14y": {
-            "bv:mustBePublished": "yes"
-        },
-        "dcat:theme": [
-            "agriculture, national-economy, territory, health"
-        ],
-        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/zulassung-pflanzenschutzmittel/zulassungsverfahren.html",
-        "dct:spatial": "no",
-        "dct:temporal": {},
-        "dcatap:applicableLegislation": [
-            "https://www.fedlex.admin.ch/eli/cc/2025/565/de"
-        ],
-        "businessDataOwner": null,
-        "schemaViolations": 6,
-        "schemaViolationMessages": [
-            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
-            "None of [{'prov:agent': 'p-1ZSHHTS94', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-4174328', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
-            "'non' is not one of ['', 'none', 'internal', 'confidential', 'secret']",
-            "'thematicData' is not one of ['', 'primaryThematicData', 'secondaryThematicData', 'referenceData', 'masterData', 'unstructuredData']",
-            "'no' is not of type 'boolean'",
-            "'agriculture, national-economy, territory, health' is not one of ['', 'work', 'construction', 'population', 'education', 'energy', 'finances', 'geography', 'legislation', 'health', 'trade', 'industry', 'crime', 'culture', 'agriculture', 'mobility', 'public-order', 'politics', 'prices', 'territory', 'social-security', 'statistical-basis', 'tourism', 'administration', 'national-economy']"
-        ],
-        "quality": 378.2857142857143
-    },
-    {
-        "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00067",
+        "dct:identifier": "FSVO_D00033",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/Red_Vineyard.jpg",
         "dct:title": {
             "fr": "Risikobewertung von Pflanzenschutzmittel",
@@ -5782,65 +4512,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00044",
-        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
-        "dct:title": {
-            "fr": "Survalyzer",
-            "de": "Survalyzer",
-            "en": "Survalyzer",
-            "it": "Survalyzer"
-        },
-        "dct:description": {
-            "fr": "Tous les cours sont évalués par les participants dans l'outil Survalyzer. ",
-            "de": "Alle Kurse werden durch teilnehmenden in Survalyzer Tool evaluiert. "
-        },
-        "dct:accessRights": "RESTRICTED ",
-        "dct:publisher": "BLV-OSAV-USAV-FSVO",
-        "dcat:contactPoint": {
-            "schema:email": "formation@blv.admin.ch",
-            "schema:name": "BLV, Bildung und Forschung"
-        },
-        "dct:issued": "2025-01-01",
-        "dcatap:availability": "STABLE ",
-        "dcat:keyword": [
-            "Formale Bildung"
-        ],
-        "dct:accrualPeriodicity": "CONT",
-        "dct:modified": "2025-12-09",
-        "adms:status": "published",
-        "bv:classification": "none",
-        "bv:personalData": "personalData",
-        "bv:typeOfData": "unstructuredData ",
-        "bv:archivalValue": "FALSE",
-        "bv:opendata_swiss": {
-            "bv:mustBePublished": "FALSE"
-        },
-        "bv:i14y": {
-            "bv:mustBePublished": "TRUE"
-        },
-        "dcat:theme": [
-            "education"
-        ],
-        "dct:spatial": "NO",
-        "dct:temporal": {},
-        "dcatap:applicableLegislation": [
-            "SR 916.402 - Verordnung vom 16. November 2011 über die Aus-, Weiter- und Fortbildung der Personen im öffentlichen Veterinärwesen | Fedlex"
-        ],
-        "businessDataOwner": null,
-        "schemaViolations": 6,
-        "schemaViolationMessages": [
-            "'RESTRICTED ' is not one of ['', 'CONFIDENTIAL', 'NON_PUBLIC', 'PUBLIC', 'RESTRICTED', 'SENSITIVE']",
-            "'STABLE ' is not one of ['', 'AVAILABLE', 'EXPERIMENTAL', 'STABLE', 'TEMPORARY']",
-            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
-            "None of [{'prov:agent': 'p-2870835', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-8552269', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
-            "'unstructuredData ' is not one of ['', 'primaryThematicData', 'secondaryThematicData', 'referenceData', 'masterData', 'unstructuredData']",
-            "'FALSE' is not of type 'boolean'"
-        ],
-        "quality": 255.0
-    },
-    {
-        "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00063",
+        "dct:identifier": "FSVO_D00024",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
             "fr": "Survalyzer",
