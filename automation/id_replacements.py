@@ -3,7 +3,7 @@ import hashlib
 from pathlib import Path
 
 FILE = Path("data/processed/datasets.json")
-FSVO_DIR = Path("data/raw/datasets/FSVO")
+FSVO_DIR = Path("data/raw/datasets/")
 PREFIX = "FSVO_D"
 
 seen: dict[str, str] = {}
