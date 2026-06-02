@@ -1,0 +1,63 @@
+{
+    "dct:identifier": "FSVO_D00042",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
+    "dct:title": {
+        "fr": "Monitoringprogramm Pestizidrückstände",
+        "de": "Monitoringprogramm Pestizidrückstände",
+        "en": "Monitoringprogramm Pestizidrückstände",
+        "it": "Monitoringprogramm Pestizidrückstände"
+    },
+    "dct:description": {
+        "fr": "Die Datensammlung umfasst Ergebnisse aus dem nationalen Monitoring von Pestizidrückständen in Lebensmitteln, die gemäss Durchführungsverordnung EU 2025/854 für das BLV erhoben werden. Dabei werden Analysewerte zu Rückständen von Pflanzenschutzmittelwirkstoffen in unterschiedlichsten Produkten sowie Informationen zur Konformität mit gesetzlichen Höchstgehalten erfasst. Die Daten fliessen in die jährlichen Monitoringberichte zu Pestizidrückständen ein: https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/lebensmittelsicherheit/stoffe-im-fokus/pflanzenschutzmittel.html. Die Datensammlung gibt Hinweise zur Exposition der Bevölkerung gegenüber Pestizidrückständen in beliebten Lebensmitteln. Zudem unterstützt sie die Risikobewertung und Regulierung von Pflanzenschutzmitteln sowie die Ableitung von Maßnahmen zum Schutz der Konsumentinnen und Konsumenten.  ",
+        "de": "Die Datensammlung umfasst Ergebnisse aus dem nationalen Monitoring von Pestizidrückständen in Lebensmitteln, die gemäss Durchführungsverordnung EU 2025/854 für das BLV erhoben werden. Dabei werden Analysewerte zu Rückständen von Pflanzenschutzmittelwirkstoffen in unterschiedlichsten Produkten sowie Informationen zur Konformität mit gesetzlichen Höchstgehalten erfasst. Die Daten fliessen in die jährlichen Monitoringberichte zu Pestizidrückständen ein: https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/lebensmittelsicherheit/stoffe-im-fokus/pflanzenschutzmittel.html. Die Datensammlung gibt Hinweise zur Exposition der Bevölkerung gegenüber Pestizidrückständen in beliebten Lebensmitteln. Zudem unterstützt sie die Risikobewertung und Regulierung von Pflanzenschutzmitteln sowie die Ableitung von Maßnahmen zum Schutz der Konsumentinnen und Konsumenten.  "
+    },
+    "dct:accessRights": "PUBLIC",
+    "dct:publisher": "BLV-OSAV-USAV-FSVO",
+    "dcat:contactPoint": {
+        "schema:email": "lme@blv.admin.ch",
+        "schema:name": "BLV, LME, Lebensmittelhygiene"
+    },
+    "dct:issued": "2026-01-01",
+    "dcatap:availability": "STABLE",
+    "dcat:keyword": [
+        "Pestizide",
+        "Rückstände",
+        "Pflanzenschutzmittel",
+        "Biozide"
+    ],
+    "dct:accrualPeriodicity": "MONTHLY",
+    "dct:modified": "2026-01-14",
+    "prov:qualifiedAttribution": [
+        {
+            "prov:agent": "p-1582170",
+            "dcat:hadRole": "dataOwner"
+        },
+        {
+            "prov:agent": "p-2806869",
+            "dcat:hadRole": "dataSteward"
+        }
+    ],
+    "adms:status": "published",
+    "bv:classification": "none",
+    "bv:personalData": "none",
+    "bv:typeOfData": "primaryThematicData",
+    "bv:archivalValue": "TRUE",
+    "bv:opendata_swiss": {
+        "bv:mustBePublished": "FALSE"
+    },
+    "bv:i14y": {
+        "bv:mustBePublished": "TRUE"
+    },
+    "dcat:theme": [
+        "agriculture",
+        "health"
+    ],
+    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/lebensmittelsicherheit/stoffe-im-fokus/pflanzenschutzmittel.html",
+    "dct:spatial": "NO",
+    "dct:temporal": {},
+    "dcatap:applicableLegislation": [
+        "LMG",
+        "LGV",
+        "VPRH"
+    ]
+}
