@@ -2,88 +2,60 @@
     "dct:identifier": "FSVO_D00047",
     "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
     "dct:title": {
-        "fr": "Betriebsbewilligungen von Lebensmittelunternehmen",
-        "de": "Betriebsbewilligungen von Lebensmittelunternehmen",
-        "en": "Betriebsbewilligungen von Lebensmittelunternehmen",
-        "it": "Betriebsbewilligungen von Lebensmittelunternehmen"
+        "fr": "ARAMIS",
+        "de": "ARAMIS Administration Research Actions Management Information System",
+        "en": "ARAMIS",
+        "it": "ARAMIS"
     },
     "dct:description": {
-        "fr": "Diese Datensammlung umfasst alle relevanten Informationen zu Betrieben, die gemäss Artikel 11 LMG eine Bewilligung erhalten haben. Grundsätzlich unterliegen alle Lebensmittelbetriebe, die Lebensmittel tierischer Herkunft herstellen, verarbeiten, behandeln, lagern oder abgeben, dieser Bewilligungspflicht. Erfasst werden unter anderem der Name und die Adresse des Betriebes, dessen Bewilligungsnummer, die bewilligten Sektionen, Tätigkeiten und Tierarten, sowie der Bewilligungsstatus, das Datum der Erteilung sowie allfällige Bedingungen oder Auflagen. Die Einträge stammen von den zuständigen kantonalen Vollzugsbehörden, welche die Bewilligungen gemäss den gesetzlichen Anforderungen ausstellen und die entsprechenden Daten dazu dem BLV per ASAN-Eintrag melden. Das BLV publiziert und aktualisiert die Daten wöchentlich auf seiner Webseite und macht sie somit für die Öffentlichkeit zugänglich. Die Datensammlung dient der behördlichen Übersicht und Kontrolle über bewilligungspflichtige Betriebe im Bereich tierischer Lebensmittel. Sie ermöglicht die Koordination zwischen Bund und Kantonen, unterstützt die risikobasierte Planung von Kontrollen und dient als Grundlage für statistische Auswertungen. Zudem ist die Bewilligung eine Voraussetzung für die Exportfähigkeit von Lebensmitteln tierischer Herkunft in die EU. Die Datensammlung ermöglicht somit eine transparente und rechtskonforme Verwaltung der Angaben zu bewilligten Betrieben.",
-        "de": "Diese Datensammlung umfasst alle relevanten Informationen zu Betrieben, die gemäss Artikel 11 LMG eine Bewilligung erhalten haben. Grundsätzlich unterliegen alle Lebensmittelbetriebe, die Lebensmittel tierischer Herkunft herstellen, verarbeiten, behandeln, lagern oder abgeben, dieser Bewilligungspflicht. Erfasst werden unter anderem der Name und die Adresse des Betriebes, dessen Bewilligungsnummer, die bewilligten Sektionen, Tätigkeiten und Tierarten, sowie der Bewilligungsstatus, das Datum der Erteilung sowie allfällige Bedingungen oder Auflagen. Die Einträge stammen von den zuständigen kantonalen Vollzugsbehörden, welche die Bewilligungen gemäss den gesetzlichen Anforderungen ausstellen und die entsprechenden Daten dazu dem BLV per ASAN-Eintrag melden. Das BLV publiziert und aktualisiert die Daten wöchentlich auf seiner Webseite und macht sie somit für die Öffentlichkeit zugänglich. Die Datensammlung dient der behördlichen Übersicht und Kontrolle über bewilligungspflichtige Betriebe im Bereich tierischer Lebensmittel. Sie ermöglicht die Koordination zwischen Bund und Kantonen, unterstützt die risikobasierte Planung von Kontrollen und dient als Grundlage für statistische Auswertungen. Zudem ist die Bewilligung eine Voraussetzung für die Exportfähigkeit von Lebensmitteln tierischer Herkunft in die EU. Die Datensammlung ermöglicht somit eine transparente und rechtskonforme Verwaltung der Angaben zu bewilligten Betrieben."
+        "fr": "Le système d'information ARAMIS est en service depuis 1997 et comprend une saisie systématique des projets de recherche, d'innovation et d'évaluation financés ou réalisés par la Confédération. Son introduction a été précédée de plusieurs interventions parlementaires demandant plus de transparence et une amélioration de la coopération dans la recherche de l'administration fédérale. ARAMIS fonctionne comme une application de base de données dans laquelle les projets de recherche et les évaluations de l'administration fédérale sont représentés sous forme de projets individuels ou reliés entre eux. Ces projets contiennent, outre des informations de base telles que le titre et la durée, des données descriptives telles que les objectifs du projet ou les rapports finaux ainsi que des données financières. La banque de données sert à l'information du public ainsi que de base pour des évaluations statistiques et complémentaires.",
+        "de": "Das Informationssystem ARAMIS ist seit 1997 in Betrieb und beinhaltet eine systematische Erfassung der Forschungs- Innovations- und Evaluationsprojekte, welche vom Bund finanziert oder durchgeführt werden. Der Einführung waren mehrere parlamentarische Vorstösse vorangegangen, die mehr Transparenz und eine Verbesserung der Kooperation in der Ressortforschung verlangten. ARAMIS funktioniert als Datenbankanwendung, in der die Forschungsvorhaben und Evaluationen der Bundesverwaltung als einzelne oder miteinander verknüpfte Projekte abgebildet werden. Diese Projekte enthalten dabei neben Grundinformationen wie Titel und Laufzeit auch beschreibende Angaben wie Projektziele oder Abschlussberichte sowie Finanzdaten. Die Datenbank dient zur Information der Öffentlichkeit sowie als Grundlage für statistische und weiterführende Auswertungen."
     },
-    "dct:accessRights": "PUBLIC",
+    "dct:accessRights": "OPEN",
     "dct:publisher": "BLV-OSAV-USAV-FSVO",
     "dcat:contactPoint": {
-        "schema:name": "BLV, LME, Lebensmittelhygiene",
-        "schema:email": "lme@blv.admin.ch"
+        "schema:email": "formation@blv.admin.ch",
+        "schema:name": "BLV, Bildung und Forschung"
     },
-    "dct:issued": "2006-01-01",
+    "dct:issued": "2025-01-01",
     "dcatap:availability": "STABLE",
     "dcat:keyword": [
-        "Lebensmittelsicherheit",
-        "Bewilligung"
+        "Forschung, ARAMIS"
     ],
-    "dct:accrualPeriodicity": "MONTHLY",
-    "dct:modified": "2025-09-10",
+    "dct:accrualPeriodicity": "CONT",
+    "dct:modified": "2025-12-09",
     "prov:qualifiedAttribution": [
         {
-            "prov:agent": "p-1582170",
+            "prov:agent": "p-2870835",
             "dcat:hadRole": "dataOwner"
         },
         {
-            "prov:agent": "p-9531742",
+            "prov:agent": "p-8552269",
             "dcat:hadRole": "dataSteward"
         }
     ],
     "adms:status": "published",
     "bv:classification": "none",
-    "bv:personalData": "personalData",
-    "bv:typeOfData": "primaryThematicData",
+    "bv:personalData": "none",
+    "bv:typeOfData": "unstructuredData",
     "bv:archivalValue": "TRUE",
+    "bv:opendata_swiss": {
+        "bv:mustBePublished": "TRUE",
+        "dct:identifier": "aramis@sbfi",
+        "dcat:accessURL": "https://opendata.swiss/de/dataset/aramis"
+    },
+    "bv:i14y": {
+        "bv:mustBePublished": "TRUE",
+        "dct:identifier": "f039638b-560a-4364-913b-bd3f0f10085c",
+        "dcat:accessURL": "https://www.i14y.admin.ch/de/catalog/dataservices/f039638b-560a-4364-913b-bd3f0f10085c/description"
+    },
     "dcat:theme": [
-        "health"
+        "education"
     ],
-    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/rechts-und-vollzugsgrundlagen/bewilligung-und-meldung/listen-bewilligter-betriebe.html",
-    "dct:spatial": "YES",
+    "dcat:landingPage": "https://www.aramis.admin.ch/",
+    "dct:spatial": "NO",
+    "dct:temporal": {},
     "dcatap:applicableLegislation": [
-        "https://www.fedlex.admin.ch/eli/cc/2017/62"
-    ],
-    "bv:itSystem": "ASAN",
-    "dcat:distribution": [
-        {
-            "dct:identifier": "FSVO_D00047_1",
-            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWsLmZEKx4hIow_6OsQ7qq4",
-            "adms:status": "published",
-            "dct:format": "SAP BO",
-            "dct:title": {
-                "de": "5001_Bewilligungen/Authorisations",
-                "fr": "5001_Bewilligungen/Authorisations"
-            },
-            "dct:description": {
-                "de": "Liste aller Bewilligungen die in ASAN erfasst sind. Um die Bewilligten Lebensmittelbetriebe zu erhalten, müssen die entsprechenden Filter gesetzt werden.",
-                "fr": "Liste aller Bewilligungen die in ASAN erfasst sind. Um die Bewilligten Lebensmittelbetriebe zu erhalten, müssen die entsprechenden Filter gesetzt werden."
-            },
-            "schema:comment": "Puplikationsort in ALVPH:  /3 Shared/BLV - KAV/ASAN"
-        },
-        {
-            "dct:identifier": "FSVO_D00047_2",
-            "dcat:accessURL": "https://opendata.swiss/de/dataset/lebensmittelbetriebe",
-            "adms:status": "validated",
-            "dcatap:availability": "AVAILABLE",
-            "dct:format": "CSV",
-            "dct:title": {
-                "de": "Lebensmittelbetriebe",
-                "fr": "Établissements du secteur alimentaire",
-                "it": "Aziende alimentari",
-                "en": "Foodstuff businesses"
-            },
-            "dct:description": {
-                "de": "Betriebe, die Lebensmittel tierischer Herkunft herstellen, verarbeiten, behandeln, lagern oder abgeben, benötigen eine Bewilligung. Diese erteilt die zuständige kantonale Vollzugsbehörde. Mit der Bewilligung verknüpft ist die Möglichkeit, in die EU zu exportieren.",
-                "fr": "Les établissements qui fabriquent, transforment, traitent, entreposent ou remettent des aliments d’origine animale ont besoin d’une autorisation délivrée par l’autorité cantonale d’exécution compétente. Cette autorisation leur permet d’exporter vers l’UE.",
-                "it": "Le aziende che fabbricano, trasformano, trattano, depositano o consegnano derrate alimentari di origine animale necessitano di un’autorizzazione, rilasciata dall’autorità cantonale di esecuzione competente. La possibilità di esportare nell’UE è legata a tale autorizzazione.",
-                "en": "Businesses which manufacture, process, handle, store or distribute foodstuffs of animal origin must be authorised. This authorisation is issued by the relevant cantonal authority. The authorisation includes the possibility of exporting to the EU."
-            },
-            "dct:license": "terms_by"
-        }
+        ""
     ]
 }

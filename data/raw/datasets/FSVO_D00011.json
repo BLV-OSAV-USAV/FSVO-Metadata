@@ -1,59 +1,71 @@
 {
     "dct:identifier": "FSVO_D00011",
-    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/Red_Vineyard.jpg",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
     "dct:title": {
-        "fr": "Pflanzenschutzmittelverzeichnis",
-        "de": "Pflanzenschutzmittelverzeichnis",
-        "en": "Pflanzenschutzmittelverzeichnis",
-        "it": "Pflanzenschutzmittelverzeichnis"
+        "fr": "Nährwertdaten",
+        "de": "Nährwertdaten",
+        "en": "Nährwertdaten",
+        "it": "Nährwertdaten"
     },
     "dct:description": {
-        "fr": "Les produits phytosanitaires autorisés sont répertoriés dans le registre des produits phytosanitaires. Ce registre contient des informations sur les substances actives, les phytoprotecteurs et les synergistes contenus dans les produits, sur le titulaire de l'autorisation, sur l'utilisation prévue, sur les restrictions d'utilisation, sur les doses d'application, sur l'étiquetage des dangers et sur les conditions d'utilisation.\nLes produits phytosanitaires dont l'autorisation a été révoquée restent inscrits dans le registre jusqu'à l'expiration de la période d'utilisation.",
-        "de": "Zugelassene Pflanzenschutzmittel werden im Pflanzenschutzmittelverzeichnis aufgelistet. Das Verzeichnis enthält Angaben zu den enthaltenen Wirkstoffen, Safenern und Synergisten, zur Zulassungsinhaberin, zur vorgesehenen Anwendung, zu Anwendungseinschränkungen, Aufwandmengen, Gefahrenkennzeichnung und zu Anwendungsauflagen.\nPflanzenschutzmittel, deren Zulassung widerrufen wurde werden noch bis zum Ablauf der Verwendungsfrist im Verzeichnis geführt."
+        "fr": "Die vorliegende Datensammlung enthält umfassende Informationen zur Zusammensetzung von in der Schweiz erhältlichen Lebensmitteln. Erfasst werden unter anderem Angaben zum Energiegehalt, zu Makronährstoffen (z B. Fett, Eiweiss, Kohlenhydrate), Nahrungsfasern sowie zu Vitaminen und Mineralstoffen – jeweils bezogen auf 100 g bzw. 100 ml des jeweiligen Lebensmittels. Die Daten basieren auf Laboranalysen, Herstellerdeklarationen sowie wissenschaftlich fundierten Quellen und unterliegen einer regelmässigen Überprüfung und Aktualisierung. Die Nährwertinformationen dienen als Grundlage für die Entwicklung evidenzbasierter Ernährungsempfehlungen, die lebensmittelbezogene Forschung, gesundheitspolitische Interventionen sowie die gesetzlich geregelte Produktkennzeichnung. Sie unterstützen Akteurinnen und Akteure aus Verwaltung, Wissenschaft und Lebensmittelwirtschaft bei der Bewertung der Nährstoffzusammensetzung und tragen zur Konzeption gesundheitsfördernder Strategien bei.",
+        "de": "Die vorliegende Datensammlung enthält umfassende Informationen zur Zusammensetzung von in der Schweiz erhältlichen Lebensmitteln. Erfasst werden unter anderem Angaben zum Energiegehalt, zu Makronährstoffen (z B. Fett, Eiweiss, Kohlenhydrate), Nahrungsfasern sowie zu Vitaminen und Mineralstoffen – jeweils bezogen auf 100 g bzw. 100 ml des jeweiligen Lebensmittels. Die Daten basieren auf Laboranalysen, Herstellerdeklarationen sowie wissenschaftlich fundierten Quellen und unterliegen einer regelmässigen Überprüfung und Aktualisierung. Die Nährwertinformationen dienen als Grundlage für die Entwicklung evidenzbasierter Ernährungsempfehlungen, die lebensmittelbezogene Forschung, gesundheitspolitische Interventionen sowie die gesetzlich geregelte Produktkennzeichnung. Sie unterstützen Akteurinnen und Akteure aus Verwaltung, Wissenschaft und Lebensmittelwirtschaft bei der Bewertung der Nährstoffzusammensetzung und tragen zur Konzeption gesundheitsfördernder Strategien bei."
     },
     "dct:accessRights": "PUBLIC",
     "dct:publisher": "BLV-OSAV-USAV-FSVO",
     "dcat:contactPoint": {
-        "schema:email": "pflanzenschutzmittel@blv.admin.ch",
-        "schema:name": "BLV, Zulassungsstelle PSM"
+        "schema:name": "BLV, LME, Ernährung",
+        "schema:email": "ernaehrung@blv.admin.ch"
     },
-    "dct:issued": "2026-01-14",
+    "dct:issued": "2002-01-01",
     "dcatap:availability": "STABLE",
     "dcat:keyword": [
-        "Pflanzenschutzmittel, Zulassung, Bewilligung"
+        "Nährwerte",
+        "Lebensmittel"
     ],
-    "dct:accrualPeriodicity": "CONT",
-    "dct:modified": "2026-01-14",
+    "dct:accrualPeriodicity": "ANNUAL",
+    "dct:modified": "2025-09-10",
     "prov:qualifiedAttribution": [
         {
-            "prov:agent": "p-1XHMH0D35",
+            "prov:agent": "p-7711752",
             "dcat:hadRole": "dataOwner"
         },
         {
-            "prov:agent": "p-1XHMGZCHC",
+            "prov:agent": "p-1228626",
             "dcat:hadRole": "dataSteward"
         }
     ],
     "adms:status": "published",
     "bv:classification": "none",
     "bv:personalData": "none",
-    "bv:typeOfData": "thematicData",
-    "bv:archivalValue": "yes",
-    "bv:opendata_swiss": {
-        "bv:mustBePublished": "yes",
-        "dct:identifier": "pflanzenschutzmittelverzeichnis@bundesamt-fur-lebensmittelsicherheit-und-veterinaerwesen-blv",
-        "dcat:accessURL": "https://opendata.swiss/de/dataset/pflanzenschutzmittelverzeichnis"
-    },
-    "bv:i14y": {
-        "bv:mustBePublished": "yes"
-    },
+    "bv:typeOfData": "primaryThematicData",
+    "bv:archivalValue": "TRUE",
     "dcat:theme": [
-        "agriculture, nantional-economy, territory, health"
+        "health"
     ],
-    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/zulassung-pflanzenschutzmittel/zugelassene-pflanzenschutzmittel/pflanzenschutzmittelverzeichnis.html",
-    "dct:spatial": "no",
-    "dct:temporal": {},
-    "dcatap:applicableLegislation": [
-        "https://www.fedlex.admin.ch/eli/cc/2025/565/de"
+    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/ernaehrung/empfehlungen-informationen/naehrstoffe/schweizer-naehrwertdatenbank.html",
+    "dct:spatial": "NO",
+    "bv:itSystem": "Nährwertdatenbank",
+    "dcat:distribution": [
+        {
+            "dct:identifier": "FSVO_D00011_1",
+            "dcat:accessURL": "https://opendata.swiss/de/dataset/naehrwerte_lebensmittel",
+            "adms:status": "workInProgress",
+            "dcatap:availability": "AVAILABLE",
+            "dct:format": "XLS, API",
+            "dct:title": {
+                "de": "Nährwerte von Lebensmitteln",
+                "fr": "Valeurs nutritives des aliments",
+                "it": "Valori nutritivi delle derrate alimentari",
+                "en": "Composition of food"
+            },
+            "dct:description": {
+                "de": "Die Schweizer Nährwertdatenbank ist eine Datensammlung des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen BLV über die Zusammensetzung von in der Schweiz erhältlichen Lebensmitteln.",
+                "fr": "La base de données suisse des valeurs nutritives librement consultable en ligne sur le présent site est un fichier de l’Office fédéral de la securité alimentaire et des affaires vétérinaires OSAV consacré à la composition des aliments disponibles en Suisse.",
+                "it": "La Banca dati svizzera dei valori nutritivi è una raccolta di dati dell’Ufficio federale della sicurezza alimentare e di veterinaria USAV sulla composizione delle derrate alimentari disponibili in Svizzera",
+                "en": "The Swiss Food Composition Database is a data collection of the Federal Food Safety and Veterinary Office FSVO on the composition of foods that are available in Switzerland."
+            },
+            "dct:license": "terms_by"
+        }
     ]
 }

@@ -1,43 +1,38 @@
 {
     "dct:identifier": "FSVO_D00041",
-    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANDChicken.jpg",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
     "dct:title": {
-        "fr": "Stalleinrichtungen",
-        "de": "Stalleinrichtungen",
-        "en": "Stalleinrichtungen",
-        "it": "Stalleinrichtungen"
+        "fr": "Befundstatistik Produktkontrolle",
+        "de": "Befundstatistik Produktkontrolle",
+        "en": "Befundstatistik Produktkontrolle",
+        "it": "Befundstatistik Produktkontrolle"
     },
     "dct:description": {
-        "fr": "La collecte de données « Équipements d'étable » comprend tous les systèmes d'étable et équipements d'étable fabriqués en série, testés et approuvés pour l'élevage de bovins, porcs, moutons, chèvres, volailles et lapins. Les données sont collectées dans le cadre des activités du Centre pour la détention convenable des animaux :  ruminants et porcs ainsi que du Centre pour la détention convenable des animaux : volailles et lapins. Elle contient des informations sur les fabricants, les types de produits, les utilisations prévues, les résultats des tests, le statut d'autorisation et les conditions à remplir pour se conformer aux exigences de la législation sur la protection des animaux. Elle offre une vue d'ensemble transparente des systèmes autorisés, facilite le choix d'équipements conformes et contribue à promouvoir un élevage respectueux des animaux en Suisse.",
-        "de": "Die Datensammlung «Stalleinrichtungen» beinhaltet sämtliche geprüften und bewilligten serienmässig hergestellten Aufstallungssysteme und Stalleinrichtungen für die Haltung von Rindern, Schweinen, Schafen, Ziegen, Geflügel und Kaninchen. Die Daten werden im Rahmen der Tätigkeiten des Zentrums für tiergerechte Haltung:  Wiederkäuern und Schweinen sowie des Zentrums für tiergerechte Haltung: Geflügel und Kaninchen erfasst. Enthalten sind Informationen zu Herstellerfirmen, Produkttypen, Einsatzzwecken, Prüfergebnissen, Bewilligungsstatus und Auflagen zur Einhaltung der Anforderungen gemäss Tierschutzgesetzgebung.\n\nSie ermöglicht eine transparente Übersicht über zugelassene Systeme, erleichtert die Auswahl konformer Einrichtungen und trägt zur Förderung einer tiergerechten Nutztierhaltung in der Schweiz bei."
+        "fr": "Diese Datensammlung enthält aggregierte Ergebnisse aus den amtlichen Produktkontrollen von Lebensmitteln und Gebrauchsgegenständen, die jährlich von den kantonalen Lebensmittelvollzugsbehörden an das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) übermittelt werden. Erfasst werden dabei unter anderem die Art und Anzahl der analysierten Proben, festgestellte Abweichungen von rechtlichen Anforderungen sowie spezifische Befunde zu einzelnen Produktgruppen wie beispielsweise Trinkwasser, Speisefette oder Gebrauchsgegenstände mit Hautkontakt. Die Befundstatistik dient dem internen Datenmanagement des BLV und bildet eine zentrale Grundlage für die Erstellung des Jahresberichts zum Mehrjährigen Nationalen Kontrollplan (MNKP) sowie für die sogenannte VKCS-Statistik. Letztere wird in Zusammenarbeit mit dem Verband der Kantonschemiker der Schweiz (VKCS) erstellt und ermöglicht eine standardisierte und koordinierte Auswertung der Vollzugsdaten auf nationaler Ebene. Durch die systematische Erfassung und Analyse der Daten lässt sich ein gesamtschweizerischer Überblick – inklusive Liechtenstein – über die Resultate amtlicher Produktkontrollen gewinnen. Die Statistik unterstützt die risikobasierte Beurteilung der Lebensmittelsicherheit, hilft Trends bei Qualitätsmängeln frühzeitig zu erkennen, erleichtert die zielgerichtete Planung von risikomindernden Massnahmen und trägt zur Weiterentwicklung des Vollzugs bei.",
+        "de": "Diese Datensammlung enthält aggregierte Ergebnisse aus den amtlichen Produktkontrollen von Lebensmitteln und Gebrauchsgegenständen, die jährlich von den kantonalen Lebensmittelvollzugsbehörden an das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) übermittelt werden. Erfasst werden dabei unter anderem die Art und Anzahl der analysierten Proben, festgestellte Abweichungen von rechtlichen Anforderungen sowie spezifische Befunde zu einzelnen Produktgruppen wie beispielsweise Trinkwasser, Speisefette oder Gebrauchsgegenstände mit Hautkontakt. Die Befundstatistik dient dem internen Datenmanagement des BLV und bildet eine zentrale Grundlage für die Erstellung des Jahresberichts zum Mehrjährigen Nationalen Kontrollplan (MNKP) sowie für die sogenannte VKCS-Statistik. Letztere wird in Zusammenarbeit mit dem Verband der Kantonschemiker der Schweiz (VKCS) erstellt und ermöglicht eine standardisierte und koordinierte Auswertung der Vollzugsdaten auf nationaler Ebene. Durch die systematische Erfassung und Analyse der Daten lässt sich ein gesamtschweizerischer Überblick – inklusive Liechtenstein – über die Resultate amtlicher Produktkontrollen gewinnen. Die Statistik unterstützt die risikobasierte Beurteilung der Lebensmittelsicherheit, hilft Trends bei Qualitätsmängeln frühzeitig zu erkennen, erleichtert die zielgerichtete Planung von risikomindernden Massnahmen und trägt zur Weiterentwicklung des Vollzugs bei."
     },
-    "dct:accessRights": "PUBLIC",
+    "dct:accessRights": "RESTRICTED",
     "dct:publisher": "BLV-OSAV-USAV-FSVO",
     "dcat:contactPoint": {
-        "schema:email": "infotgs@blv.admin.ch",
-        "schema:name": "BLV, TGTS, Tierschutz"
+        "schema:name": "BLV, LME, Koordination und Überwachung",
+        "schema:email": "lme@blv.admin.ch"
     },
-    "dct:issued": "2025-01-01",
+    "dct:issued": "2014-01-01",
     "dcatap:availability": "STABLE",
     "dcat:keyword": [
-        "Tierhaltung",
-        "Tiergerechtheit",
-        "Stalleinrichtungen",
-        "Aufstallungssysteme",
-        "Widerkäuer",
-        "Schweine",
-        "Geflügel",
-        "Kaninchen"
+        "Kontrolle",
+        "Lebensmittel",
+        "Laboranalysen"
     ],
-    "dct:accrualPeriodicity": "AS_NEEDED",
-    "dct:modified": "2025-11-06",
+    "dct:accrualPeriodicity": "ANNUAL",
+    "dct:modified": "2025-09-10",
     "prov:qualifiedAttribution": [
         {
-            "prov:agent": "p-1521097",
+            "prov:agent": "p-1YFBMPWKZ",
             "dcat:hadRole": "dataOwner"
         },
         {
-            "prov:agent": "p-2971195",
+            "prov:agent": "p-2560681",
             "dcat:hadRole": "dataSteward"
         }
     ],
@@ -46,23 +41,24 @@
     "bv:personalData": "none",
     "bv:typeOfData": "primaryThematicData",
     "bv:archivalValue": "TRUE",
-    "bv:opendata_swiss": {
-        "bv:mustBePublished": "TRUE",
-        "dct:identifier": "stalleinrichtungen@bundesamt-fur-lebensmittelsicherheit-und-veterinaerwesen-blv",
-        "dcat:accessURL": "https://opendata.swiss/de/dataset/stalleinrichtungen-und-aufstallungssysteme"
-    },
-    "bv:i14y": {
-        "bv:mustBePublished": "TRUE"
-    },
     "dcat:theme": [
-        "agriculture"
+        "health"
     ],
-    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierschutz/nutztierhaltung/stalleinrichtungen/stallliste.html",
     "dct:spatial": "NO",
-    "dct:temporal": {},
-    "dcatap:applicableLegislation": [
-        "Tierschutzgesetz: Art. 7",
-        "Tierschutzverordnung: Art. 81,82 und 84"
-    ],
-    "bv:itSystem": "ASAN"
+    "dcat:distribution": [
+        {
+            "dct:identifier": "FSVO_D00041_1",
+            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=ATllRBM5seNAl8VdUz1iJ_c",
+            "adms:status": "published",
+            "dct:format": "SAP BO",
+            "dct:title": {
+                "de": "QC aRes Produktkontrollen_Contrôles des produits V2_1",
+                "fr": "QC aRes Produktkontrollen_Contrôles des produits V2_1"
+            },
+            "dct:description": {
+                "de": "Die Kantone und das Fürstentum Liechtenstein übermitteln dem BLV Daten zu folgenden Untersuchungsbereichen:\n\nRückstände von Pflanzenschutzmitteln\nNachweis von gentechnisch veränderten Organismen (GVO)\nKontamination mit Mykotoxinen - giftige Stoffwechselprodukte von Schimmelpilzen",
+                "fr": "Les cantons et la Principauté de Liechtenstein transmettent à l’OSAV des données relatives aux domaines d’analyse suivants :\n\nRésidus de produits phytosanitaires\nDétection d’organismes génétiquement modifiés (OGM)\nContamination par des mycotoxines - métabolites toxiques des moisissures"
+            }
+        }
+    ]
 }

@@ -2,29 +2,30 @@
     "dct:identifier": "FSVO_D00040",
     "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
     "dct:title": {
-        "fr": "Stoffdatenbank Anwendungsplattform Verbraucherschutz APVS",
-        "de": "Stoffdatenbank Anwendungsplattform Verbraucherschutz APVS",
-        "en": "Stoffdatenbank Anwendungsplattform Verbraucherschutz APVS",
-        "it": "Stoffdatenbank Anwendungsplattform Verbraucherschutz APVS"
+        "fr": "Rueckstaende und Fremdstoffe in tierischen Lebensmitteln NFUP Schweiz",
+        "de": "Rueckstaende und Fremdstoffe in tierischen Lebensmitteln NFUP Schweiz",
+        "en": "Rueckstaende und Fremdstoffe in tierischen Lebensmitteln NFUP Schweiz",
+        "it": "Rueckstaende und Fremdstoffe in tierischen Lebensmitteln NFUP Schweiz"
     },
     "dct:description": {
-        "fr": "Die Stoffdatenbank ist eine zentrale Datensammlung der Anwendungsplattform Verbraucherschutz (APVS) und dient als Master-System für Definition und Verwaltung von  Parametern, Matrizen und Höchstwerten im Bereich Lebensmittelsicherheit und Verbraucherschutz. Sie enthält strukturierte Informationen zu chemischen und biologischen Parametern, deren zugehörigen Matrizes wie bspw. Lebensmittel, Trinkwasser oder, Futtermittel, sowie den entsprechenden Höchstwerten. Zudem werden ergänzende Attribute wie z.B. Einheiten dokumentiert. Diese Sammlung dient der Standardisierung und Qualitätssicherung von Daten im Bereich Lebensmittelsicherheit und Verbraucherschutz. ",
-        "de": "Die Stoffdatenbank ist eine zentrale Datensammlung der Anwendungsplattform Verbraucherschutz (APVS) und dient als Master-System für Definition und Verwaltung von  Parametern, Matrizen und Höchstwerten im Bereich Lebensmittelsicherheit und Verbraucherschutz. Sie enthält strukturierte Informationen zu chemischen und biologischen Parametern, deren zugehörigen Matrizes wie bspw. Lebensmittel, Trinkwasser oder, Futtermittel, sowie den entsprechenden Höchstwerten. Zudem werden ergänzende Attribute wie z.B. Einheiten dokumentiert. Diese Sammlung dient der Standardisierung und Qualitätssicherung von Daten im Bereich Lebensmittelsicherheit und Verbraucherschutz. "
+        "fr": "Diese Datensammlung beinhaltet die Ergebnisse der jährlich durchgeführten nationalen Fremdstoffuntersuchungsprogramms (NFUP) in Lebensmitteln tierischer Herkunft. Sie dokumentiert systematisch das Vorkommen von Rückständen pharmakologisch wirksamer Substanzen, von Pflanzenschutzmitteln sowie von Kontaminanten in Tieren und in Lebensmitteln tierischer Herkunft. Erfasst werden unter anderem Rückstände von Antibiotika, Antiparasitika und weiteren Medikamenten, die zur Behandlung oder Vorbeugung von Krankheiten bei Nutztieren eingesetzt werden. Die Daten (Laborergebnisse) stammen aus amtlichen Probenahmen im Rahmen des nationalen Rückstandsüberwachungsprogramms.  Zweck der Datensammlung ist die Überwachung des Vorkommens von Fremdstoffen in tierischen Lebensmitteln in der Schweiz. Sie dient sowohl dem gesundheitlichen Verbraucherschutz als auch der Erfüllung internationaler Verpflichtungen, insbesondere gegenüber der Europäischen Union. Durch das Programm wird die Exportberechtigung der Schweiz für Tiere und daraus gewonnene Lebensmittel in den EU-Raum sichergestellt.  Die Datensammlung ermöglicht nationale Trendanalysen, die frühzeitige Identifikation von Risiken sowie gezielte Kontrollmassnahmen zur Sicherstellung der Lebensmittelsicherheit.",
+        "de": "Diese Datensammlung beinhaltet die Ergebnisse der jährlich durchgeführten nationalen Fremdstoffuntersuchungsprogramms (NFUP) in Lebensmitteln tierischer Herkunft. Sie dokumentiert systematisch das Vorkommen von Rückständen pharmakologisch wirksamer Substanzen, von Pflanzenschutzmitteln sowie von Kontaminanten in Tieren und in Lebensmitteln tierischer Herkunft. Erfasst werden unter anderem Rückstände von Antibiotika, Antiparasitika und weiteren Medikamenten, die zur Behandlung oder Vorbeugung von Krankheiten bei Nutztieren eingesetzt werden. Die Daten (Laborergebnisse) stammen aus amtlichen Probenahmen im Rahmen des nationalen Rückstandsüberwachungsprogramms.  Zweck der Datensammlung ist die Überwachung des Vorkommens von Fremdstoffen in tierischen Lebensmitteln in der Schweiz. Sie dient sowohl dem gesundheitlichen Verbraucherschutz als auch der Erfüllung internationaler Verpflichtungen, insbesondere gegenüber der Europäischen Union. Durch das Programm wird die Exportberechtigung der Schweiz für Tiere und daraus gewonnene Lebensmittel in den EU-Raum sichergestellt.  Die Datensammlung ermöglicht nationale Trendanalysen, die frühzeitige Identifikation von Risiken sowie gezielte Kontrollmassnahmen zur Sicherstellung der Lebensmittelsicherheit."
     },
     "dct:accessRights": "RESTRICTED",
     "dct:publisher": "BLV-OSAV-USAV-FSVO",
     "dcat:contactPoint": {
-        "schema:email": "lme@blv.admin.ch",
+        "schema:email": "nfup@blv.admin.ch",
         "schema:name": "BLV, LME, Koordination und Überwachung"
     },
-    "dct:issued": "2013-01-01",
+    "dct:issued": "2012-01-01",
     "dcatap:availability": "STABLE",
     "dcat:keyword": [
-        "Limiten",
-        "Matrix",
-        "Parameter"
+        "Rückstände",
+        "Veterinärmedizin",
+        "Lebensmittel",
+        "Kontaminanten"
     ],
-    "dct:accrualPeriodicity": "MONTHLY",
+    "dct:accrualPeriodicity": "ANNUAL",
     "dct:modified": "2025-09-10",
     "prov:qualifiedAttribution": [
         {
@@ -50,11 +51,9 @@
     "dcat:theme": [
         "health"
     ],
-    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/lebensmittelsicherheit/stoffe-im-fokus.html",
     "dct:spatial": "NO",
     "dct:temporal": {},
     "dcatap:applicableLegislation": [
-        "LMG Art. 62"
-    ],
-    "bv:itSystem": "APVS"
+        "Landwirtschaftsabkommen (Anhang 11) mit EU"
+    ]
 }

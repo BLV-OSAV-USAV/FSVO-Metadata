@@ -2,45 +2,45 @@
     "dct:identifier": "FSVO_D00015",
     "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
     "dct:title": {
-        "fr": "Tierische Lebensmittel aus Drittstaaten Auswertung aus TRACES NT",
-        "de": "Tierische Lebensmittel aus Drittstaaten Auswertung aus TRACES NT",
-        "en": "Tierische Lebensmittel aus Drittstaaten Auswertung aus TRACES NT",
-        "it": "Tierische Lebensmittel aus Drittstaaten Auswertung aus TRACES NT"
+        "fr": "eCert  Gesundheitsbescheinigungen für den sicheren Export",
+        "de": "eCert  Gesundheitsbescheinigungen für den sicheren Export",
+        "en": "eCert  Gesundheitsbescheinigungen für den sicheren Export",
+        "it": "eCert  Gesundheitsbescheinigungen für den sicheren Export"
     },
     "dct:description": {
-        "fr": "Diese Datensammlung basiert auf Informationen aus dem europäischen System TRACES-NT und umfasst Einträge zu Sendungen tierischer Lebensmittel, die aus Drittstaaten in die Schweiz eingeführt werden. Erfasst werden unter anderem die Art, Herkunft, Menge und der Zielort der Waren sowie die Ergebnisse amtlicher Kontrollen an den Grenzkontrollstellen. Die Daten stammen direkt aus den Eingaben der zuständigen Grenzkontrollstellen und dokumentieren sämtliche relevanten Vorgänge im Rahmen der Einfuhrüberwachung. Die Datensammlung dient dem internen Datenmanagement des Bundesamts für Lebensmittelsicherheit und Veterinärwesen (BLV) und stellt eine wichtige Grundlage für den Jahresbericht zum Mehrjährigen Nationalen Kontrollplan (MNKP) sowie für die VKCS-Statistik des Verbands der Kantonschemiker der Schweiz dar. Sie ermöglicht einen schweizweiten Überblick – einschliesslich Liechtenstein – über die Einfuhren tierischer Lebensmittel aus Drittstaaten und liefert eine verlässliche Basis für die risikobasierte Analyse, die Früherkennung von Auffälligkeiten und die gezielte Weiterentwicklung von Kontrollstrategien. Damit trägt sie wesentlich zur Stärkung des Vollzugs und zur Sicherstellung der Lebensmittelsicherheit in der Schweiz bei.",
-        "de": "Diese Datensammlung basiert auf Informationen aus dem europäischen System TRACES-NT und umfasst Einträge zu Sendungen tierischer Lebensmittel, die aus Drittstaaten in die Schweiz eingeführt werden. Erfasst werden unter anderem die Art, Herkunft, Menge und der Zielort der Waren sowie die Ergebnisse amtlicher Kontrollen an den Grenzkontrollstellen. Die Daten stammen direkt aus den Eingaben der zuständigen Grenzkontrollstellen und dokumentieren sämtliche relevanten Vorgänge im Rahmen der Einfuhrüberwachung. Die Datensammlung dient dem internen Datenmanagement des Bundesamts für Lebensmittelsicherheit und Veterinärwesen (BLV) und stellt eine wichtige Grundlage für den Jahresbericht zum Mehrjährigen Nationalen Kontrollplan (MNKP) sowie für die VKCS-Statistik des Verbands der Kantonschemiker der Schweiz dar. Sie ermöglicht einen schweizweiten Überblick – einschliesslich Liechtenstein – über die Einfuhren tierischer Lebensmittel aus Drittstaaten und liefert eine verlässliche Basis für die risikobasierte Analyse, die Früherkennung von Auffälligkeiten und die gezielte Weiterentwicklung von Kontrollstrategien. Damit trägt sie wesentlich zur Stärkung des Vollzugs und zur Sicherstellung der Lebensmittelsicherheit in der Schweiz bei."
+        "fr": "Die Datensammlung «eCert» umfasst strukturierte Informationen zu elektronischen Gesundheitsbescheinigungen, die für den Export von Tieren, tierischen Produkten und Lebensmittel aus der Schweiz in Drittstaaten benötigt werden. Sie enthält die vom BLV mit den jeweiligen Drittstaaten verhandelten Vorlagen sowie die zugehörigen Zertifizierungs- und Übermittlungsdaten. Die Datensammlung dient der digitalen Abwicklung und Nachverfolgung des Zertifizierungsprozesses und unterstützt damit sowohl Schweizer Exportbetriebe als auch kantonale Vollzugsbehörden. Durch die zentrale Bereitstellung harmonisierter Vorlagen und standardisierter Abläufe ermöglicht «eCert» eine einheitliche Anwendung der rechtlichen Anforderungen, erhöht die Effizienz im Vollzug und minimiert Fehlerquellen. Zudem verbessert das System die internationale Anerkennung der Schweizer Gesundheitsbescheinigungen und erleichtert den sicheren, rechtlich konformen Handel mit Tieren, tierischen Produkten und Lebensmitteln.",
+        "de": "Die Datensammlung «eCert» umfasst strukturierte Informationen zu elektronischen Gesundheitsbescheinigungen, die für den Export von Tieren, tierischen Produkten und Lebensmittel aus der Schweiz in Drittstaaten benötigt werden. Sie enthält die vom BLV mit den jeweiligen Drittstaaten verhandelten Vorlagen sowie die zugehörigen Zertifizierungs- und Übermittlungsdaten. Die Datensammlung dient der digitalen Abwicklung und Nachverfolgung des Zertifizierungsprozesses und unterstützt damit sowohl Schweizer Exportbetriebe als auch kantonale Vollzugsbehörden. Durch die zentrale Bereitstellung harmonisierter Vorlagen und standardisierter Abläufe ermöglicht «eCert» eine einheitliche Anwendung der rechtlichen Anforderungen, erhöht die Effizienz im Vollzug und minimiert Fehlerquellen. Zudem verbessert das System die internationale Anerkennung der Schweizer Gesundheitsbescheinigungen und erleichtert den sicheren, rechtlich konformen Handel mit Tieren, tierischen Produkten und Lebensmitteln."
     },
     "dct:accessRights": "RESTRICTED",
     "dct:publisher": "BLV-OSAV-USAV-FSVO",
     "dcat:contactPoint": {
-        "schema:email": "lme@blv.admin.ch",
-        "schema:name": "BLV, LME, Koordination und Überwachung"
+        "schema:email": "ecert@blv.admin.ch",
+        "schema:name": "BLV, INT, Fachbereich IntBez "
     },
     "dct:issued": "2025-01-01",
     "dcatap:availability": "STABLE",
     "dcat:keyword": [
-        "Kontrolle",
+        "Tier",
+        "Tierische Produkte",
         "Lebensmittel",
-        "Laboranalysen",
-        "Grenze",
-        "Drittstaaten"
+        "Drittstaat",
+        "Export"
     ],
-    "dct:accrualPeriodicity": "ANNUAL",
+    "dct:accrualPeriodicity": "DAILY",
     "dct:modified": "2025-09-10",
     "prov:qualifiedAttribution": [
         {
-            "prov:agent": "p-1YFBMPWKZ",
+            "prov:agent": "p-8859490",
             "dcat:hadRole": "dataOwner"
         },
         {
-            "prov:agent": "p-3611054",
+            "prov:agent": "p-4501168",
             "dcat:hadRole": "dataSteward"
         }
     ],
     "adms:status": "published",
     "bv:classification": "none",
-    "bv:personalData": "none",
+    "bv:personalData": "personalData",
     "bv:typeOfData": "primaryThematicData",
     "bv:archivalValue": "TRUE",
     "bv:opendata_swiss": {
@@ -50,33 +50,34 @@
         "bv:mustBePublished": "TRUE"
     },
     "dcat:theme": [
-        "health"
+        "trade"
     ],
+    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/import-und-export.html",
     "dct:spatial": "NO",
     "dct:temporal": {},
     "dcatap:applicableLegislation": [
         ""
     ],
-    "bv:itSystem": "TRACES",
+    "bv:itSystem": "ecert",
     "dcat:distribution": [
         {
             "dct:identifier": "FSVO_D00015_1",
-            "dcat:accessURL": "https://www.psm.admin.ch/",
+            "dcat:accessURL": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/ernaehrung/menuCH/menuch-konsummengen-und-portionsgroessen.html",
             "dct:title": {
-                "fr": "Produits phytosanitaires",
-                "de": "Pflanzenschutzmittelverzeichnis",
-                "en": "Title",
-                "it": "Prodotti fitosanitari"
+                "fr": "menuCH: Taille des portions",
+                "de": "menuCH: Portionsgrössen",
+                "en": "menuCH: Portion sizes",
+                "it": "menuCH: Dimensioni delle porzioni"
             },
             "dct:description": {
-                "fr": "Les produits phytosanitaires autorisés figurent dans un index des produits phytosanitaires. Cet index comprend des indications sur l’utilisation prévue, les restrictions d’application, le dosage, les indications relatives aux dangers et les charges liées à l’utilisation.",
-                "de": "Die bewilligten Pflanzenschutzmittel werden im Pflanzenschutzmittelverzeichnis aufgelistet. Das Verzeichnis enthält Angaben zur vorgesehenen Anwendung, zu Anwendungseinschränkungen, Aufwandmengen, Gefahrenkennzeichnung und zu Anwendungsauflagen.",
+                "fr": "Dès lors que l’on consomme un aliment, cela correspond à une portion. Pour cette analyse, ce sont le nombre de portions consommées mais aussi la quantité par portion qui ont été déterminés en grammes par catégorie et sous-catégorie d’aliments. Les données détaillées de l’étude menuCH peuvent être utilisées sous certaines conditions. Des informations sur les données et les conditions d'utilisation ainsi que le formulaire de candidature sont disponibles sur www.studydata.blv.admin.ch.",
+                "de": "Wann immer ein Lebensmittel gegessen wurde, gilt dies als Portion. In dieser Auswertung wurden sowohl die Anzahl verzehrter Portionen als auch die Menge pro Portion nach Lebensmittelkategorie und -unterkategorie in Gramm bestimmt. Die detaillierten Daten der Studie menuCH stehen unter bestimmten Bedingungen zur Nutzung zur Verfügung. Die Informationen zu den Daten und den Nutzungsbedingungen sowie das Antragsformular befinden sich auf www.studydata.blv.admin.ch.",
                 "en": "description_en",
-                "it": "I prodotti fitosanitari autorizzati figurano in un elenco dei prodotti fitosanitari contenente indicazioni sull'applicazione prevista, restrizioni e dosi di applicazione, simboli di pericolo e condizioni d'uso."
+                "it": "Indipendentemente da quando un alimento è stato consumato, vale come porzione. Nella valutazione sono stati determinati in grammi sia il numero delle porzioni consumate sia la quantità per porzione in funzione della categoria e sottocategoria alimentare. I dati dettagliati dello studio menuCH possono essere utilizzati a determinate condizioni. Informazioni sui dati, sulle condizioni di utilizzo e sul modulo di domanda si trovano su www.studydata.blv.admin.ch."
             },
-            "dct:modified": "2024-12-17",
+            "dct:modified": "2022-09-14",
             "adms:status": "published",
-            "dct:format": "XML",
+            "dct:format": "XLS",
             "dct:license": "terms_open",
             "schema:comment": "Test"
         }

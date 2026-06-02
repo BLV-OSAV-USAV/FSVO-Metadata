@@ -2,37 +2,30 @@
     "dct:identifier": "FSVO_D00017",
     "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
     "dct:title": {
-        "fr": "Moderhinkestatus",
-        "de": "Moderhinkestatus",
-        "en": "Moderhinkestatus",
-        "it": "Moderhinkestatus"
+        "fr": "IBR/EBL NML Stichprobe",
+        "de": "IBR/EBL NML Stichprobe",
+        "en": "IBR/EBL NML Stichprobe",
+        "it": "IBR/EBL NML Stichprobe"
     },
     "dct:description": {
-        "fr": "Cette collecte de données contient des informations complètes sur le piétin-écorchure, une maladie très contagieuse et douloureuse qui touche les onglons des moutons et dont souffre environ un quart des moutons en Suisse. La banque de données sur le trafic des animaux (BDTA) répertorie le statut de chaque élevage de moutons enregistré en matière de piétin-écorchure. Celui-ci est déterminé à partir des données d'exécution des autorités – telles que les interdictions prononcées – et des résultats des diagnostics de laboratoire. Les données sont traitées de manière structurée dans le système de Business Intelligence (BI OAV) et mises à jour en permanence.\n\nLa base de données sert à surveiller, combattre et endiguer à long terme le piétin-écorchure. Elle permet aux autorités, aux éleveurs et aux vétérinaires de planifier et de mettre en œuvre des mesures ciblées. Elle facilite en outre la traçabilité des mouvements d'animaux en cas d'épidémie et accroît la transparence vis-à-vis des partenaires commerciaux. L'affichage uniforme du statut favorise le contrôle des épidémies et contribue de manière significative à la santé animale en Suisse.",
-        "de": "Diese Datensammlung beinhaltet umfassende Informationen zur Moderhinke, einer sehr ansteckenden und schmerzhaften Klauenkrankheit bei Schafen, von der rund ein Viertel der Schafe in der Schweiz betroffen ist. In der Tierverkehrsdatenbank (TVD) wird für jede registrierte Schafhaltung ein Moderhinke-Status geführt. Dieser ergibt sich aus behördlichen Vollzugsdaten – wie zum Beispiel verhängten Sperren – sowie aus diagnostischen Laborergebnissen. Die Daten werden im Business Intelligence-System (BI BLV) strukturiert verarbeitet und laufend aktualisiert.\n\nDie Datensammlung dient der Überwachung, Bekämpfung und langfristigen Eindämmung der Moderhinke. Sie ermöglicht es Behörden, Tierhaltende und Tierärztinnen, gezielte Massnahmen zu planen und umzusetzen. Zudem unterstützt sie die Nachvollziehbarkeit von Tierbewegungen im Seuchenfall und erhöht die Transparenz gegenüber Handelspartnern. Die einheitliche Statusanzeige fördert die Seuchenkontrolle und leistet einen wesentlichen Beitrag zur Tiergesundheit in der Schweiz."
+        "fr": "Chaque année, sur la base de critères définis, des exploitations bovines non laitières sont sélectionnées pour être testées à l'abattoir dans le cadre des programmes nationaux de surveillance de l'IBR/EBL. La liste de ces exploitations est transmise à RiBeS. Elle comprend les exploitations et les animaux éligibles pour l'échantillonnage aléatoire ainsi que la liste des exploitations sentinelles.\n \n\nCes données servent à prouver le statut indemne de la population bovine suisse en matière d'IBR/EBL, conformément aux exigences des accords bilatéraux.",
+        "de": "Jährlich werden aufgrund von festglegten Kriterien nicht milchliefernden Rinderbetriebe ausgewählt, die im Rahmen der nationalen Überwachungsprogramme IBR/EBL am Schlachthof beprobt werden sollen - diese Betriebsliste wird RiBeS übergeben. Dazu gehören die für die Zufallsstichprobe geeigneten Betriebe und Tiere sowie die Liste der Sentinelbetriebe. \n\nDiese Daten dienen der Belegung des Freiheitsstatus der Schweizer Rinderpopulation von IBR/EBL gemäss den Anforderungen der bilateralen Verträge."
     },
     "dct:accessRights": "RESTRICTED",
     "dct:publisher": "BLV-OSAV-USAV-FSVO",
     "dcat:contactPoint": {
-        "schema:email": "moderhinke@blv.admin.ch",
+        "schema:email": "infotgs@blv.admin.ch",
         "schema:name": "BLV, TGTS, Tiergesundheit"
     },
     "dct:issued": "2025-01-01",
     "dcatap:availability": "STABLE",
     "dcat:keyword": [
-        "Schaf",
-        "Schafe",
-        "Schafhaltung",
-        "Schafherden",
-        "Moderhinke",
-        "Klauenkrankheit",
-        "bakterielle Erkrankung",
-        "Untersuchungsperiode",
-        "zu bekämpfende Tierseuche",
-        "nationales Bekämpfungsprogramm",
-        "Dichelobacter nodosus"
+        "Tiergesundheit",
+        "Überwachung",
+        "IBR",
+        "EBL"
     ],
-    "dct:accrualPeriodicity": "CONT",
+    "dct:accrualPeriodicity": "ANNUAL",
     "dct:modified": "2025-11-05",
     "prov:qualifiedAttribution": [
         {
@@ -40,7 +33,7 @@
             "dcat:hadRole": "dataOwner"
         },
         {
-            "prov:agent": "p-1YWHK15J4",
+            "prov:agent": "p-20LQWYS00",
             "dcat:hadRole": "dataSteward"
         }
     ],
@@ -57,18 +50,36 @@
     },
     "dcat:theme": [
         "agriculture",
-        "national-economy",
-        "health"
+        "national-economy"
     ],
-    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierseuchen/bekaempfung/projekt-moderhinke.html",
+    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tiergesundheit/ueberwachung/nationales-ueberwachungsprogramm.html",
     "dct:spatial": "YES",
-    "dct:temporal": {
-        "dcat:start_date": "2024-10-01",
-        "dcat:end_date": null
-    },
+    "dct:temporal": {},
     "dcatap:applicableLegislation": [
-        "Tierseuchenverordnung (TSV",
-        "SR 916.401), Artikel 228–229i"
+        "Tierseuchenverordnung (TSV SR 916.401)"
     ],
-    "bv:itSystem": "BI BLW"
+    "bv:itSystem": "ARES",
+    "dcat:distribution": [
+        {
+            "dct:identifier": "FSVO_D00017_1",
+            "dcat:accessURL": "https://www.dashboard.blv.admin.ch/nutrition/food-safety/meat-inspection-statistics",
+            "dct:title": {
+                "fr": "Statistique du contrôle des viandes",
+                "de": "Fleischkontrollstatistik",
+                "en": "Title",
+                "it": "Statistica del controllo delle carni"
+            },
+            "dct:description": {
+                "fr": "Tous les animaux qui doivent être abattus dans un abattoir autorisé doivent être examinés au préalable. Après l’abattage, les personnes officielles mandatées effectuent en outre un examen des viandes. Les résultats des examens visant à déterminer si une viande est propre ou non à la consommation sont saisis dans la banque de données du contrôle des viandes (Fleko). La saisie normalisée des résultats du contrôle des animaux avant l’abattage, des motifs justifiant le caractère impropre à la consommation et des parties confisquées permettent de se faire une idée plus claire de la sécurité alimentaire, la santé et la protection des animaux. Les données du contrôle de la viande sont évaluées chaque année pour les statistiques de contrôle de la viande et les résultats sont publiés sur le tableau de bord de l'OSAV.",
+                "de": "Alle Tiere, die in einem bewilligten Schlachtbetrieb geschlachtet werden sollen, müssen vor der Schlachtung durch eine amtliche Vollzugsperson untersucht werden (Schlachttieruntersuchung). Nach der Schlachtung führen die damit beauftragten amtlichen Personen zudem eine Fleischuntersuchung durch. Die Ergebnisse der Untersuchungen zur Genusstauglichkeit werden in einer Fleischkontrolldatenbank (Fleko) erfasst. Basierend auf der standardisierten Erfassung von Befunden der Schlachttieruntersuchung, Genussuntauglichkeitsgründen und Teilkonfiskaten sind verbesserte Aussagen zur Lebensmittelsicherheit, zur Tiergesundheit und zum Tierschutz möglich. Die Daten der Fleischkontrolle werden jährlich für die Fleischkontrollstatistik ausgewertet und die Ergebnisse auf dem Dashboard des BLV veröffentlicht.",
+                "en": "description_en",
+                "it": "Prima della macellazione in una struttura autorizzata, tutti gli animali devono essere controllati. Inoltre, dopo la macellazione, le persone ufficialmente incaricate effettuano un controllo delle carni. I risultati delle analisi per l’idoneità al consumo vengono registrati nella Banca dati del controllo delle carni (Fleko). Sulla base della registrazione standardizzata dei risultati del controllo degli animali da macello, dei motivi di non idoneità al consumo e dei pezzi confiscati, è possibile ottenere informazioni più precise sulla sicurezza alimentare, la salute e la protezione degli animali. I dati del controllo della carne vengono valutati annualmente per le statistiche del controllo della carne e i risultati vengono pubblicati sul cruscotto dell'USAV."
+            },
+            "dct:modified": "2024-08-27",
+            "adms:status": "published",
+            "dct:format": "JSON, PARQUET, CSV",
+            "dct:license": "terms_open",
+            "schema:comment": "Test"
+        }
+    ]
 }

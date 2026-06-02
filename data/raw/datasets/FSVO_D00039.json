@@ -1,60 +1,59 @@
 {
     "dct:identifier": "FSVO_D00039",
-    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANDChicken.jpg",
     "dct:title": {
-        "fr": "Stillmonitoring",
-        "de": "Stillmonitoring",
-        "en": "Stillmonitoring",
-        "it": "Stillmonitoring"
+        "fr": "Tierhalteverbote",
+        "de": "Tierhalteverbote",
+        "en": "Tierhalteverbote",
+        "it": "Tierhalteverbote"
     },
     "dct:description": {
-        "fr": "Die vorliegende Datensammlung basiert auf regelmässig durchgeführten Erhebungen zum Stillverhalten und zur Ernährung von Säuglingen in der Schweiz. Erfasst werden zentrale Parameter wie die Stilldauer, das ausschliessliche Stillen, der Zeitpunkt und die Art der Einführung von Beikost, die Verwendung industriell hergestellter Säuglingsnahrung sowie relevante sozioökonomische und gesundheitliche Einflussfaktoren. Ziel dieser Datensammlung ist die systematische Erfassung des aktuellen Stillverhaltens in der Schweizer Bevölkerung, die Analyse zeitlicher Entwicklungen sowie die Untersuchung gruppenspezifischer Unterschiede. Die erhobenen Daten dienen als evidenzbasierte Grundlage für die Förderung des Stillens, die Entwicklung präventiver Massnahmen und die Formulierung gesundheitspolitischer Empfehlungen durch das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV). Darüber hinaus ermöglicht die Datensammlung die Planung gezielter Interventionsstrategien, die Evaluation bestehender Förderprogramme sowie die nachhaltige Verbesserung der Säuglingsernährung im Kontext der öffentlichen Gesundheitsvorsorge.",
-        "de": "Die vorliegende Datensammlung basiert auf regelmässig durchgeführten Erhebungen zum Stillverhalten und zur Ernährung von Säuglingen in der Schweiz. Erfasst werden zentrale Parameter wie die Stilldauer, das ausschliessliche Stillen, der Zeitpunkt und die Art der Einführung von Beikost, die Verwendung industriell hergestellter Säuglingsnahrung sowie relevante sozioökonomische und gesundheitliche Einflussfaktoren. Ziel dieser Datensammlung ist die systematische Erfassung des aktuellen Stillverhaltens in der Schweizer Bevölkerung, die Analyse zeitlicher Entwicklungen sowie die Untersuchung gruppenspezifischer Unterschiede. Die erhobenen Daten dienen als evidenzbasierte Grundlage für die Förderung des Stillens, die Entwicklung präventiver Massnahmen und die Formulierung gesundheitspolitischer Empfehlungen durch das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV). Darüber hinaus ermöglicht die Datensammlung die Planung gezielter Interventionsstrategien, die Evaluation bestehender Förderprogramme sowie die nachhaltige Verbesserung der Säuglingsernährung im Kontext der öffentlichen Gesundheitsvorsorge."
+        "fr": "La collecte de données « Interdictions de détenir des animaux » comprend toutes les interdictions de détenir des animaux prononcées par les autorités cantonales d'exécution et enregistrées dans le système ASAN. Elle contient des informations sur les personnes concernées, le type et la durée des interdictions, la base légale, les cas à l'origine des interdictions et les mesures prises. Les entrées documentent aussi bien les interdictions temporaires que celles à durée indéterminée et contiennent des informations sur les contrôles et les éventuelles levées.\n\nCes données servent à soutenir l'exécution dans le domaine de la protection des animaux et à prévenir la répétition des infractions à la protection des animaux. Elles permettent aux autorités compétentes de toute la Suisse d'appliquer de manière coordonnée et efficace les interdictions de détenir des animaux et d'examiner les demandes d'autorisation en vue d'éventuelles restrictions.",
+        "de": "Die Datensammlung «Tierhalteverbote» umfasst sämtliche durch die kantonalen Vollzugsbehörden ausgesprochenen Tierhalteverbote, die im System ASAN erfasst werden. Sie beinhaltet Informationen zu betroffenen Personen, Art und Dauer der Verbote, rechtlicher Grundlage, Anlassfällen sowie getroffenen Massnahmen. Die Einträge dokumentieren sowohl temporäre als auch unbefristete Verbote und beinhalten Angaben zur Kontrolle und allfälligen Aufhebung.\n\nDiese Daten dienen der Vollzugsunterstützung im Bereich Tierschutz und der Verhinderung von wiederholten Tierschutzverstössen. Sie ermöglichen den zuständigen Behörden schweizweit eine koordinierte und wirksame Durchsetzung von Tierhalteverboten sowie die Prüfung von Bewilligungsgesuchen im Hinblick auf allfällige Einschränkungen.\n\n"
     },
-    "dct:accessRights": "PUBLIC",
+    "dct:accessRights": "SENSITIVE",
     "dct:publisher": "BLV-OSAV-USAV-FSVO",
     "dcat:contactPoint": {
-        "schema:email": "ernaehrung@blv.admin.ch",
-        "schema:name": "BLV, LME, Ernährung"
+        "schema:email": "infotgts@blv.admin.ch",
+        "schema:name": "BLV, TGTS, Tierschutz"
     },
-    "dct:issued": "2022-01-01",
+    "dct:issued": "2025-01-01",
     "dcatap:availability": "STABLE",
     "dcat:keyword": [
-        "Lebensmittel",
-        "Ernährung",
-        "Stillen"
+        "Tierhalteverbot",
+        "Tierschutz"
     ],
-    "dct:accrualPeriodicity": "ANNUAL",
-    "dct:modified": "2025-09-10",
+    "dct:accrualPeriodicity": "CONT",
+    "dct:modified": "2025-12-02",
     "prov:qualifiedAttribution": [
         {
-            "prov:agent": "p-7711752",
+            "prov:agent": "p-1521097",
             "dcat:hadRole": "dataOwner"
         },
         {
-            "prov:agent": "p-5846327",
+            "prov:agent": "p-20FY4HFRV",
             "dcat:hadRole": "dataSteward"
         }
     ],
     "adms:status": "published",
     "bv:classification": "none",
-    "bv:personalData": "none",
+    "bv:personalData": "sensitivePersonalData",
     "bv:typeOfData": "primaryThematicData",
-    "bv:archivalValue": "TRUE",
+    "bv:archivalValue": false,
     "bv:opendata_swiss": {
-        "bv:mustBePublished": "TRUE"
+        "bv:mustBePublished": "FALSE"
     },
     "bv:i14y": {
-        "bv:mustBePublished": "TRUE"
+        "bv:mustBePublished": true
     },
     "dcat:theme": [
-        "health"
+        "administration"
     ],
-    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/forschung/gesundheitliche-risiken/ernaehrungsrisiken/stillmonitoring.html",
-    "dct:spatial": "YES",
+    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierschutz.html",
+    "dct:spatial": "NO",
     "dct:temporal": {},
     "dcatap:applicableLegislation": [
-        ""
+        "https://www.fedlex.admin.ch/eli/cc/2008/414/de#art_23"
     ],
-    "bv:itSystem": "FSVO Data Repository"
+    "bv:itSystem": "ASAN"
 }

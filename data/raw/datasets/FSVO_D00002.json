@@ -2,35 +2,35 @@
     "dct:identifier": "FSVO_D00002",
     "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/Red_Vineyard.jpg",
     "dct:title": {
-        "fr": "Zulassung von Pflanzenschutzmittel",
-        "de": "Zulassung von Pflanzenschutzmittel",
-        "en": "Zulassung von Pflanzenschutzmittel",
-        "it": "Zulassung von Pflanzenschutzmittel"
+        "fr": "Risikobewertung von Pflanzenschutzmittel",
+        "de": "Risikobewertung von Pflanzenschutzmittel",
+        "en": "Risikobewertung von Pflanzenschutzmittel",
+        "it": "Risikobewertung von Pflanzenschutzmittel"
     },
     "dct:description": {
-        "fr": "La base de données sur les produits phytosanitaires contient des informations complètes sur tous les produits autorisés et faisant l'objet d'une demande d'autorisation en Suisse. Elle comprend des indications sur les substances actives, les domaines d'application, les cultures autorisées, les dosages ainsi que les risques et effets secondaires possibles. Elle recense en outre les résultats des contrôles réguliers effectués afin de garantir que les produits continuent de satisfaire aux exigences scientifiques et légales en vigueur.\nTous les produits retirés du marché (depuis environ 2000) sont également disponibles dans la base de données.",
-        "de": "Die Datensammlung zu Pflanzenschutzmitteln beinhaltet umfassende Informationen zu allen in der Schweiz zugelassenen und beantragten Produkten. Sie enthält Angaben zu Wirkstoffen, Anwendungsgebieten, zugelassenen Kulturen, Dosierungen sowie zu möglichen Risiken und Nebenwirkungen. Zudem werden die Ergebnisse der regelmässigen Überprüfungen erfasst, um sicherzustellen, dass die Produkte weiterhin den aktuellen wissenschaftlichen und rechtlichen Anforderungen entsprechen.\nAuch alle zurückgezogenen Produkte (ab ca. dem Jahr 2000), sind in der Datensammlung verfügbar.\n\n"
+        "fr": "Avant de pouvoir être commercialisés et utilisés, les produits phytosanitaires doivent être homologués. Dans le cadre de la procédure d'homologation, leur efficacité et leurs effets secondaires sont testés. Ils peuvent être autorisés si leur utilisation n'a pas d'effets secondaires inacceptables sur l'homme, les animaux et l'environnement. Ce sont les services fédéraux compétents qui en évaluent la conformité.",
+        "de": "Bevor Pflanzenschutzmittel in Verkehr gebracht und verwendet werden dürfen, müssen sie zugelassen werden. Im Rahmen des Zulassungsverfahrens werden sie auf ihre Wirkung und Nebenwirkungen geprüft. Sie können bewilligt werden, wenn ihre Anwendung keine unannehmbaren Nebenwirkungen auf Mensch, Tier und Umwelt hat. Dies wird von den zuständigen Bundesstellen beurteilt."
     },
     "dct:accessRights": "RESTRICTED",
     "dct:publisher": "BLV-OSAV-USAV-FSVO",
     "dcat:contactPoint": {
         "schema:email": "pflanzenschutzmittel@blv.admin.ch",
-        "schema:name": "BLV, Zulassungsstelle PSM"
+        "schema:name": "BLV, WG, Toxikologie PSM"
     },
-    "dct:issued": "2026-01-01",
+    "dct:issued": "2026-01-14",
     "dcatap:availability": "STABLE",
     "dcat:keyword": [
-        "Pflanzenschutzmittel, Zulassung, Bewilligung"
+        "Pflanzenschutzmittel, Risikobewertung"
     ],
     "dct:accrualPeriodicity": "CONT",
     "dct:modified": "2026-01-14",
     "prov:qualifiedAttribution": [
         {
-            "prov:agent": "p-1XHMH0D35",
+            "prov:agent": "p-1ZSHHTS94",
             "dcat:hadRole": "dataOwner"
         },
         {
-            "prov:agent": "p-1XHMGZCHC",
+            "prov:agent": "p-4174328",
             "dcat:hadRole": "dataSteward"
         }
     ],

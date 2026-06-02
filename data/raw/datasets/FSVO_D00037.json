@@ -1,85 +1,69 @@
 {
     "dct:identifier": "FSVO_D00037",
-    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANDChicken.jpg",
     "dct:title": {
-        "fr": "eCert  Gesundheitsbescheinigungen für den sicheren Export",
-        "de": "eCert  Gesundheitsbescheinigungen für den sicheren Export",
-        "en": "eCert  Gesundheitsbescheinigungen für den sicheren Export",
-        "it": "eCert  Gesundheitsbescheinigungen für den sicheren Export"
+        "fr": "Bewilligung Ausbildung (SKN und FBA)",
+        "de": "Bewilligung Ausbildung (SKN und FBA)",
+        "en": "Bewilligung Ausbildung (SKN und FBA)",
+        "it": "Bewilligung Ausbildung (SKN und FBA)"
     },
     "dct:description": {
-        "fr": "Die Datensammlung «eCert» umfasst strukturierte Informationen zu elektronischen Gesundheitsbescheinigungen, die für den Export von Tieren, tierischen Produkten und Lebensmittel aus der Schweiz in Drittstaaten benötigt werden. Sie enthält die vom BLV mit den jeweiligen Drittstaaten verhandelten Vorlagen sowie die zugehörigen Zertifizierungs- und Übermittlungsdaten. Die Datensammlung dient der digitalen Abwicklung und Nachverfolgung des Zertifizierungsprozesses und unterstützt damit sowohl Schweizer Exportbetriebe als auch kantonale Vollzugsbehörden. Durch die zentrale Bereitstellung harmonisierter Vorlagen und standardisierter Abläufe ermöglicht «eCert» eine einheitliche Anwendung der rechtlichen Anforderungen, erhöht die Effizienz im Vollzug und minimiert Fehlerquellen. Zudem verbessert das System die internationale Anerkennung der Schweizer Gesundheitsbescheinigungen und erleichtert den sicheren, rechtlich konformen Handel mit Tieren, tierischen Produkten und Lebensmitteln.",
-        "de": "Die Datensammlung «eCert» umfasst strukturierte Informationen zu elektronischen Gesundheitsbescheinigungen, die für den Export von Tieren, tierischen Produkten und Lebensmittel aus der Schweiz in Drittstaaten benötigt werden. Sie enthält die vom BLV mit den jeweiligen Drittstaaten verhandelten Vorlagen sowie die zugehörigen Zertifizierungs- und Übermittlungsdaten. Die Datensammlung dient der digitalen Abwicklung und Nachverfolgung des Zertifizierungsprozesses und unterstützt damit sowohl Schweizer Exportbetriebe als auch kantonale Vollzugsbehörden. Durch die zentrale Bereitstellung harmonisierter Vorlagen und standardisierter Abläufe ermöglicht «eCert» eine einheitliche Anwendung der rechtlichen Anforderungen, erhöht die Effizienz im Vollzug und minimiert Fehlerquellen. Zudem verbessert das System die internationale Anerkennung der Schweizer Gesundheitsbescheinigungen und erleichtert den sicheren, rechtlich konformen Handel mit Tieren, tierischen Produkten und Lebensmitteln."
+        "fr": "La collecte de données « Autorisation de formation (SKN et FBA) » comprend toutes les organisations FBA et SKN reconnues. Ces formations transmettent des connaissances sur la détention conforme aux besoins des animaux ainsi que des compétences pratiques  pour le traitement respectueux des animaux. Les données sont collectées dans le cadre des activités du domaine spécialisé Protection des animaux . Elles comprennent des informations sur l'organisation de formation, le type de formation et le statut d'autorisation.\n\nCes données offrent une vue d'ensemble transparente des formations reconnues.",
+        "de": "Die Datensammlung «Bewilligung Ausbildung (SKN und FBA)» beinhaltet sämtliche anerkannte FBA- und SKN-Organisationen. Diese Ausbildungen vermitteln Kenntnisse der tiergerechten Haltung sowie praktische  Fähigkeiten zum schonenden Umgang mit Tieren. Die Daten werden im Rahmen der Tätigkeiten des Fachsbereiches Tierschutz  erfasst. Enthalten sind Informationen zu Ausbildungsorganisation, Asubildungstyp und Bewilligungsstatus.\n\nDiese Daten ermöglichen eine transparente Übersicht über anerkannte Ausbildungen."
     },
     "dct:accessRights": "RESTRICTED",
     "dct:publisher": "BLV-OSAV-USAV-FSVO",
     "dcat:contactPoint": {
-        "schema:email": "ecert@blv.admin.ch",
-        "schema:name": "BLV, INT, Fachbereich IntBez "
+        "schema:name": "BLV, TGTS, Tierschutz",
+        "schema:email": "infotgts@blv.admin.ch"
     },
     "dct:issued": "2025-01-01",
     "dcatap:availability": "STABLE",
     "dcat:keyword": [
-        "Tier",
-        "Tierische Produkte",
-        "Lebensmittel",
-        "Drittstaat",
-        "Export"
+        "Ausbildung",
+        "SKN",
+        "FBA"
     ],
-    "dct:accrualPeriodicity": "DAILY",
-    "dct:modified": "2025-09-10",
+    "dct:accrualPeriodicity": "AS_NEEDED",
+    "dct:modified": "2025-12-02",
     "prov:qualifiedAttribution": [
         {
-            "prov:agent": "p-8859490",
+            "prov:agent": "p-1521097",
             "dcat:hadRole": "dataOwner"
         },
         {
-            "prov:agent": "p-4501168",
+            "prov:agent": "p-1Y6QDXMPY",
             "dcat:hadRole": "dataSteward"
         }
     ],
     "adms:status": "published",
     "bv:classification": "none",
-    "bv:personalData": "personalData",
+    "bv:personalData": "none",
     "bv:typeOfData": "primaryThematicData",
     "bv:archivalValue": "TRUE",
-    "bv:opendata_swiss": {
-        "bv:mustBePublished": "FALSE"
-    },
-    "bv:i14y": {
-        "bv:mustBePublished": "TRUE"
-    },
     "dcat:theme": [
-        "trade"
+        "education",
+        "agriculture",
+        "health"
     ],
-    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/import-und-export.html",
-    "dct:spatial": "NO",
-    "dct:temporal": {},
-    "dcatap:applicableLegislation": [
-        ""
-    ],
-    "bv:itSystem": "ecert",
+    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierschutz/aus--und-weiterbildung.html",
+    "dct:spatial": "YES",
+    "bv:itSystem": "ASAN",
     "dcat:distribution": [
         {
             "dct:identifier": "FSVO_D00037_1",
-            "dcat:accessURL": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/ernaehrung/menuCH/menuch-konsummengen-und-portionsgroessen.html",
+            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWsLmZEKx4hIow_6OsQ7qq4",
+            "adms:status": "published",
+            "dct:format": "SAP BO",
             "dct:title": {
-                "fr": "menuCH: Taille des portions",
-                "de": "menuCH: Portionsgrössen",
-                "en": "menuCH: Portion sizes",
-                "it": "menuCH: Dimensioni delle porzioni"
+                "de": "5001_Bewilligungen/Authorisations",
+                "fr": "5001_Bewilligungen/Authorisations"
             },
             "dct:description": {
-                "fr": "Dès lors que l’on consomme un aliment, cela correspond à une portion. Pour cette analyse, ce sont le nombre de portions consommées mais aussi la quantité par portion qui ont été déterminés en grammes par catégorie et sous-catégorie d’aliments. Les données détaillées de l’étude menuCH peuvent être utilisées sous certaines conditions. Des informations sur les données et les conditions d'utilisation ainsi que le formulaire de candidature sont disponibles sur www.studydata.blv.admin.ch.",
-                "de": "Wann immer ein Lebensmittel gegessen wurde, gilt dies als Portion. In dieser Auswertung wurden sowohl die Anzahl verzehrter Portionen als auch die Menge pro Portion nach Lebensmittelkategorie und -unterkategorie in Gramm bestimmt. Die detaillierten Daten der Studie menuCH stehen unter bestimmten Bedingungen zur Nutzung zur Verfügung. Die Informationen zu den Daten und den Nutzungsbedingungen sowie das Antragsformular befinden sich auf www.studydata.blv.admin.ch.",
-                "en": "description_en",
-                "it": "Indipendentemente da quando un alimento è stato consumato, vale come porzione. Nella valutazione sono stati determinati in grammi sia il numero delle porzioni consumate sia la quantità per porzione in funzione della categoria e sottocategoria alimentare. I dati dettagliati dello studio menuCH possono essere utilizzati a determinate condizioni. Informazioni sui dati, sulle condizioni di utilizzo e sul modulo di domanda si trovano su www.studydata.blv.admin.ch."
+                "de": "Liste aller Bewilligungen die in ASAN erfasst sind. Um die SKN Bewilligungen zu erhalten, müssen die entsprechenden Filter gesetzt werden.",
+                "fr": "Liste aller Bewilligungen die in ASAN erfasst sind. Um die SKN Bewilligungen zu erhalten, müssen die entsprechenden Filter gesetzt werden."
             },
-            "dct:modified": "2022-09-14",
-            "adms:status": "published",
-            "dct:format": "XLS",
-            "dct:license": "terms_open",
-            "schema:comment": "Test"
+            "schema:comment": "Puplikationsort in ALVPH:  /3 Shared/BLV - KAV/ASAN"
         }
     ]
 }

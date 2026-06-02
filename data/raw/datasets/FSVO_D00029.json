@@ -1,41 +1,37 @@
 {
     "dct:identifier": "FSVO_D00029",
-    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/Medicine.jpg",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
     "dct:title": {
-        "fr": "Einfuhr von Tierarzneimittel",
-        "de": "Einfuhr von Tierarzneimittel",
-        "en": "Einfuhr von Tierarzneimittel",
-        "it": "Einfuhr von Tierarzneimittel"
+        "fr": "Betriebsbewilligungen von Lebensmittelunternehmen",
+        "de": "Betriebsbewilligungen von Lebensmittelunternehmen",
+        "en": "Betriebsbewilligungen von Lebensmittelunternehmen",
+        "it": "Betriebsbewilligungen von Lebensmittelunternehmen"
     },
     "dct:description": {
-        "fr": "Cette collecte de données recense les déclarations des vétérinaires qui importent des médicaments vétérinaires (MV) depuis l'étranger. L'importation de MVA est autorisée lorsqu'aucun MVA alternatif ou médicalement équivalent n'est autorisé, que les MVA alternatifs sont autorisés mais non disponibles ou que les MVA autorisés ne conviennent pas dans certains cas particuliers (p. ex. galénique ou dosage). Selon la catégorie, les importations nécessitent ou non une autorisation. Sont enregistrées les informations relatives à la préparation importée, à la substance active, à l'espèce animale concernée, au nombre d'emballages, à la taille des emballages, à l'établissement utilisateur, au pays d'autorisation, au pays d'importation ainsi qu'à la justification médicale de l'importation.\n\nLa collecte de données sert au contrôle et à la traçabilité des importations exceptionnelles de médicaments vétérinaires. Elle permet de surveiller les risques liés aux médicaments non autorisés et de vérifier le respect des conditions légales. Elle fournit également des informations précieuses sur les lacunes en matière d'approvisionnement sur le marché suisse des médicaments vétérinaires et soutient le développement de stratégies réglementaires visant à garantir la santé animale.",
-        "de": "In dieser Datensammlung sind Meldungen von Tierärztinnen und Tierätzten erfasst, die Tierarzneimittel (TAM) aus dem Ausland importieren. Ein Import von TAM ist zulässig, wenn kein alternativ einsetzbares oder medizinisch gleichwertiges TAM zugelassen ist, alternative TAM zugelassen, aber nicht verfügbar sind oder zugelassene TAM für gewisse Einzelfälle ungeeignet sind (bspw. Galenik oder Dosisstärke). Je nach Kategorie benötigen Importe eine Bewilligung oder nicht. Erfasst werden Angaben zum eingeführten Präparat, Wirkstoff, vorgesehener Tierart, Anzahl Packungen, Packungsgrösse, Anwendugsbetrieb, Zulassungsland, Importland sowie die medizinische Begründung für die Einfuhr.\n\nDie Datensammlung dient der Kontrolle und Nachverfolgbarkeit ausserordentlicher Arzneimitteleinfuhren in der Veterinärmedizin. Sie ermöglicht es, Risiken im Zusammenhang mit nicht zugelassenen Arzneimitteln zu überwachen und die Einhaltung der rechtlichen Voraussetzungen zu prüfen. Zudem liefert sie wertvolle Hinweise zu Versorgungslücken auf dem Schweizer Tierarzneimittelmarkt und unterstützt die Weiterentwicklung regulatorischer Strategien zur Sicherstellung der Tiergesundheit."
+        "fr": "Diese Datensammlung umfasst alle relevanten Informationen zu Betrieben, die gemäss Artikel 11 LMG eine Bewilligung erhalten haben. Grundsätzlich unterliegen alle Lebensmittelbetriebe, die Lebensmittel tierischer Herkunft herstellen, verarbeiten, behandeln, lagern oder abgeben, dieser Bewilligungspflicht. Erfasst werden unter anderem der Name und die Adresse des Betriebes, dessen Bewilligungsnummer, die bewilligten Sektionen, Tätigkeiten und Tierarten, sowie der Bewilligungsstatus, das Datum der Erteilung sowie allfällige Bedingungen oder Auflagen. Die Einträge stammen von den zuständigen kantonalen Vollzugsbehörden, welche die Bewilligungen gemäss den gesetzlichen Anforderungen ausstellen und die entsprechenden Daten dazu dem BLV per ASAN-Eintrag melden. Das BLV publiziert und aktualisiert die Daten wöchentlich auf seiner Webseite und macht sie somit für die Öffentlichkeit zugänglich. Die Datensammlung dient der behördlichen Übersicht und Kontrolle über bewilligungspflichtige Betriebe im Bereich tierischer Lebensmittel. Sie ermöglicht die Koordination zwischen Bund und Kantonen, unterstützt die risikobasierte Planung von Kontrollen und dient als Grundlage für statistische Auswertungen. Zudem ist die Bewilligung eine Voraussetzung für die Exportfähigkeit von Lebensmitteln tierischer Herkunft in die EU. Die Datensammlung ermöglicht somit eine transparente und rechtskonforme Verwaltung der Angaben zu bewilligten Betrieben.",
+        "de": "Diese Datensammlung umfasst alle relevanten Informationen zu Betrieben, die gemäss Artikel 11 LMG eine Bewilligung erhalten haben. Grundsätzlich unterliegen alle Lebensmittelbetriebe, die Lebensmittel tierischer Herkunft herstellen, verarbeiten, behandeln, lagern oder abgeben, dieser Bewilligungspflicht. Erfasst werden unter anderem der Name und die Adresse des Betriebes, dessen Bewilligungsnummer, die bewilligten Sektionen, Tätigkeiten und Tierarten, sowie der Bewilligungsstatus, das Datum der Erteilung sowie allfällige Bedingungen oder Auflagen. Die Einträge stammen von den zuständigen kantonalen Vollzugsbehörden, welche die Bewilligungen gemäss den gesetzlichen Anforderungen ausstellen und die entsprechenden Daten dazu dem BLV per ASAN-Eintrag melden. Das BLV publiziert und aktualisiert die Daten wöchentlich auf seiner Webseite und macht sie somit für die Öffentlichkeit zugänglich. Die Datensammlung dient der behördlichen Übersicht und Kontrolle über bewilligungspflichtige Betriebe im Bereich tierischer Lebensmittel. Sie ermöglicht die Koordination zwischen Bund und Kantonen, unterstützt die risikobasierte Planung von Kontrollen und dient als Grundlage für statistische Auswertungen. Zudem ist die Bewilligung eine Voraussetzung für die Exportfähigkeit von Lebensmitteln tierischer Herkunft in die EU. Die Datensammlung ermöglicht somit eine transparente und rechtskonforme Verwaltung der Angaben zu bewilligten Betrieben."
     },
-    "dct:accessRights": "RESTRICTED",
+    "dct:accessRights": "PUBLIC",
     "dct:publisher": "BLV-OSAV-USAV-FSVO",
     "dcat:contactPoint": {
-        "schema:name": "BLV, TGTS, Tierarzneimittel",
-        "schema:email": "tam@blv.admin.ch"
+        "schema:name": "BLV, LME, Lebensmittelhygiene",
+        "schema:email": "lme@blv.admin.ch"
     },
-    "dct:issued": "2025-01-01",
+    "dct:issued": "2006-01-01",
     "dcatap:availability": "STABLE",
     "dcat:keyword": [
-        "Tiergesundheit",
-        "Antibiotika",
-        "Tierarzneimittel",
-        "Veterinärmedizin",
-        "Resistenzmonitoring",
-        "Einfuhr"
+        "Lebensmittelsicherheit",
+        "Bewilligung"
     ],
-    "dct:accrualPeriodicity": "CONT",
-    "dct:modified": "2025-11-06",
+    "dct:accrualPeriodicity": "MONTHLY",
+    "dct:modified": "2025-09-10",
     "prov:qualifiedAttribution": [
         {
-            "prov:agent": "p-9079817",
+            "prov:agent": "p-1582170",
             "dcat:hadRole": "dataOwner"
         },
         {
-            "prov:agent": "p-7891691",
+            "prov:agent": "p-9531742",
             "dcat:hadRole": "dataSteward"
         }
     ],
@@ -45,29 +41,49 @@
     "bv:typeOfData": "primaryThematicData",
     "bv:archivalValue": "TRUE",
     "dcat:theme": [
-        "agriculture",
         "health"
     ],
-    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierarzneimittel/fachgerechter-umgang-mit-tierarzneimitteln/einfuhr-tam.html",
+    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/rechts-und-vollzugsgrundlagen/bewilligung-und-meldung/listen-bewilligter-betriebe.html",
     "dct:spatial": "YES",
     "dcatap:applicableLegislation": [
-        "Tierarzneimittelverordnung"
+        "https://www.fedlex.admin.ch/eli/cc/2017/62"
     ],
-    "bv:itSystem": "TAM-I",
+    "bv:itSystem": "ASAN",
     "dcat:distribution": [
         {
             "dct:identifier": "FSVO_D00029_1",
-            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AQp4uSV4AEJLtLsOCBpr20A",
+            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWsLmZEKx4hIow_6OsQ7qq4",
             "adms:status": "published",
-            "dct:format": "SAP BO Webintelligence",
+            "dct:format": "SAP BO",
             "dct:title": {
-                "de": "7101 TAM-I Kontrolle",
-                "fr": "7101 TAM-I Kontrolle"
+                "de": "5001_Bewilligungen/Authorisations",
+                "fr": "5001_Bewilligungen/Authorisations"
             },
             "dct:description": {
-                "de": "Liste der Tierarzneimittelimporte die über TAM-I gemeldet wurden. Das Zeitfenster kann gewählt werden.",
-                "fr": "Liste der Tierarzneimittelimporte die über TAM-I gemeldet wurden. Das Zeitfenster kann gewählt werden."
-            }
+                "de": "Liste aller Bewilligungen die in ASAN erfasst sind. Um die Bewilligten Lebensmittelbetriebe zu erhalten, müssen die entsprechenden Filter gesetzt werden.",
+                "fr": "Liste aller Bewilligungen die in ASAN erfasst sind. Um die Bewilligten Lebensmittelbetriebe zu erhalten, müssen die entsprechenden Filter gesetzt werden."
+            },
+            "schema:comment": "Puplikationsort in ALVPH:  /3 Shared/BLV - KAV/ASAN"
+        },
+        {
+            "dct:identifier": "FSVO_D00029_2",
+            "dcat:accessURL": "https://opendata.swiss/de/dataset/lebensmittelbetriebe",
+            "adms:status": "validated",
+            "dcatap:availability": "AVAILABLE",
+            "dct:format": "CSV",
+            "dct:title": {
+                "de": "Lebensmittelbetriebe",
+                "fr": "Établissements du secteur alimentaire",
+                "it": "Aziende alimentari",
+                "en": "Foodstuff businesses"
+            },
+            "dct:description": {
+                "de": "Betriebe, die Lebensmittel tierischer Herkunft herstellen, verarbeiten, behandeln, lagern oder abgeben, benötigen eine Bewilligung. Diese erteilt die zuständige kantonale Vollzugsbehörde. Mit der Bewilligung verknüpft ist die Möglichkeit, in die EU zu exportieren.",
+                "fr": "Les établissements qui fabriquent, transforment, traitent, entreposent ou remettent des aliments d’origine animale ont besoin d’une autorisation délivrée par l’autorité cantonale d’exécution compétente. Cette autorisation leur permet d’exporter vers l’UE.",
+                "it": "Le aziende che fabbricano, trasformano, trattano, depositano o consegnano derrate alimentari di origine animale necessitano di un’autorizzazione, rilasciata dall’autorità cantonale di esecuzione competente. La possibilità di esportare nell’UE è legata a tale autorizzazione.",
+                "en": "Businesses which manufacture, process, handle, store or distribute foodstuffs of animal origin must be authorised. This authorisation is issued by the relevant cantonal authority. The authorisation includes the possibility of exporting to the EU."
+            },
+            "dct:license": "terms_by"
         }
     ]
 }

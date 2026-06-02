@@ -1,38 +1,40 @@
 {
     "dct:identifier": "FSVO_D00042",
-    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/Medicine.jpg",
     "dct:title": {
-        "fr": "Brucellose Stichprobe",
-        "de": "Brucellose Stichprobe",
-        "en": "Brucellose Stichprobe",
-        "it": "Brucellose Stichprobe"
+        "fr": "Antibiotikaeinsatz in der Veterinärmedizin",
+        "de": "Antibiotikaeinsatz in der Veterinärmedizin",
+        "en": "Antibiotikaeinsatz in der Veterinärmedizin",
+        "it": "Antibiotikaeinsatz in der Veterinärmedizin"
     },
     "dct:description": {
-        "fr": "Une sélection aléatoire annuelle basée sur les risques de n exploitations ovines et caprines selon des critères définis. Sont sélectionnées les exploitations qui n'ont pas fait l'objet d'un dépistage de la brucellose au cours des trois dernières années. Les exploitations sélectionnées pour l'échantillonnage sont enregistrées dans un programme du module des épizooties (TSM) à Asan. \n\nCes données servent à prouver que la population caprine et ovine suisse est indemne de brucellose, conformément aux exigences des accords bilatéraux.",
-        "de": "Eine jährliche risikobasierte Zufallsauswahl von n Schaf- und Ziegenbetrieben auf Basis festgelegter Kriterien. Für die Auswahl werden Betriebe herangezogen, die in den letzten drei Jahren keiner Brucellose-Untersuchung unterzogen wurden. Die ausgewählten zu beprobenden Betriebe werden in einem Programm in Asan Tierseuchenmodul (TSM) geführt. \n\nDiese Daten dienen der Belegung des Freiheitsstatus der Schweizer Ziegen- und Schafpopulation von Brucellose gemäss den Anforderungen der bilateralen Verträge."
+        "de": "Das Informationssystem Antibiotika in der Veterinärmedizin (ISABV) erfasst detaillierte Daten zum Antibiotikaverbrauch in der Veterinärmedizin. Tierärzte bzw. Tierarztpraxen in der Schweiz sind dazu verpflichtet, alle an Heim- und Nutztiere verabreichten oder verschriebenen Antibiotika zu melden. Diese Meldungen enthalten Informationen zu Spezies, Anzahl der behandelten Tiere, Präparatnamen, Wirkstoffen, abgegebenen Mengen, Dosis, Behandlungsfrequenz, Behandlungsdauer, Indikation und betroffenem Organsystem. Test\n\nVetribes- und Verbrauchsdaten dienen der Überwachung des Antibiotikaverbrauchs und bilden eine zentrale Grundlage der Nationalen Strategie Antibiotikaresistenzen Schweiz (StAR). Sie ermöglichen es, Trends im Einsatz von Antibiotika zu erkennen, Risiken gezielt zu bewerten und regulatorische sowie präventive Massnahmen evidenzbasiert zu planen. Zudem sind die Daten für die internationale Berichterstattung (z. B. an die WOAH) erforderlich und tragen dazu bei, die Entwicklung von Resistenzen bei Tieren und die damit verbundenen Risiken für die öffentliche Gesundheit einzudämmen.",
+        "fr": "Le système d'information sur les antibiotiques en médecine vétérinaire (ISABV) recueille des données détaillées sur la consommation d'antibiotiques en médecine vétérinaire. Les vétérinaires et les cabinets vétérinaires en Suisse sont tenus de déclarer tous les antibiotiques administrés ou prescrits aux animaux domestiques et aux animaux de rente. Ces déclarations contiennent des informations sur les espèces, le nombre d'animaux traités, les noms des préparations, les principes actifs, les quantités délivrées, la posologie, la fréquence et la durée du traitement, l'indication et le système organique concerné.\n\nLes données Vetribes et les données de consommation servent à surveiller la consommation d'antibiotiques et constituent une base essentielle de la Stratégie nationale suisse de lutte contre la résistance aux antibiotiques (StAR). Elles permettent d'identifier les tendances en matière d'utilisation des antibiotiques, d'évaluer les risques de manière ciblée et de planifier des mesures réglementaires et préventives fondées sur des données probantes. En outre, ces données sont nécessaires pour l'établissement de rapports internationaux (p. ex. à l'OIE) et contribuent à limiter le développement de résistances chez les animaux et les risques qui en découlent pour la santé publique."
     },
     "dct:accessRights": "RESTRICTED",
     "dct:publisher": "BLV-OSAV-USAV-FSVO",
     "dcat:contactPoint": {
-        "schema:name": "BLV, TGTS, Tiergesundheit",
-        "schema:email": "infotgs@blv.admin.ch"
+        "schema:name": "BLV, TGTS, Tierarzneimittel",
+        "schema:email": "tam@blv.admin.ch"
     },
     "dct:issued": "2025-01-01",
     "dcatap:availability": "STABLE",
     "dcat:keyword": [
         "Tiergesundheit",
-        "Überwachung",
-        "Brucellose"
+        "Antibiotika",
+        "Tierarzneimittel",
+        "Veterinärmedizin",
+        "Resistenzmonitoring"
     ],
-    "dct:accrualPeriodicity": "ANNUAL",
-    "dct:modified": "2025-11-05",
+    "dct:accrualPeriodicity": "CONT",
+    "dct:modified": "2025-11-06",
     "prov:qualifiedAttribution": [
         {
-            "prov:agent": "p-9089108",
+            "prov:agent": "p-9079817",
             "dcat:hadRole": "dataOwner"
         },
         {
-            "prov:agent": "p-20LQWYS00",
+            "prov:agent": "p-7891691",
             "dcat:hadRole": "dataSteward"
         }
     ],
@@ -40,62 +42,121 @@
     "bv:classification": "none",
     "bv:personalData": "personalData",
     "bv:typeOfData": "primaryThematicData",
-    "bv:archivalValue": "FALSE",
+    "bv:archivalValue": "TRUE",
     "dcat:theme": [
         "agriculture",
-        "national-economy"
+        "health"
     ],
-    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tiergesundheit/ueberwachung/nationales-ueberwachungsprogramm.html",
+    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierarzneimittel/antibiotika/sachgemaesser-antibiotikaeinsatz.html",
     "dct:spatial": "YES",
     "dcatap:applicableLegislation": [
-        "Tierseuchenverordnung (TSV SR 916.401)"
+        "Tierarzneimittelverordnung"
     ],
-    "bv:itSystem": "ARES",
+    "bv:itSystem": "IS ABV",
     "dcat:distribution": [
         {
             "dct:identifier": "FSVO_D00042_1",
-            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AZfTFL4gdo5Gie8SMHqEmKw",
+            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AbpnYbH6NoxHmy6Y3ow0x_w",
             "adms:status": "published",
             "dct:format": "SAP BO Webintelligence",
             "dct:title": {
-                "de": "3000_Untersuchungsergebnisse von Tierseuchen aus aRes",
-                "fr": "3000_Untersuchungsergebnisse von Tierseuchen aus aRes"
+                "de": "7001_Übersicht Registrierte Tierarztpraxen",
+                "fr": "7001_Übersicht Registrierte Tierarztpraxen"
             },
             "dct:description": {
-                "de": "Labordiagnostische Untersuchungsergebnisse einer ausgewählten Tierseuche nach eigenem Bedarf zusammenstellen.",
-                "fr": "Labordiagnostische Untersuchungsergebnisse einer ausgewählten Tierseuche nach eigenem Bedarf zusammenstellen."
+                "de": "Alle in ISABV registrierten, aktiven Tierarztpraxen mit UID, BUR Nummer, Adresse und Praxistyp.",
+                "fr": "Alle in ISABV registrierten, aktiven Tierarztpraxen mit UID, BUR Nummer, Adresse und Praxistyp."
             },
-            "schema:comment": "Publikationsort in ALVPH: /3 Shared/BLV - KAV/aRes"
+            "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/ISABV"
         },
         {
             "dct:identifier": "FSVO_D00042_2",
-            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVScgO4KZD9JlBATTMcR1SE",
+            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=Abrzu5Nm_lNMgisU.TE2T4w",
             "adms:status": "published",
             "dct:format": "SAP BO Webintelligence",
             "dct:title": {
-                "de": "3010_UntersuchungenProJahrUndKanton",
-                "fr": "3010_UntersuchungenProJahrUndKanton"
+                "de": "7002_Übersicht Verschreibungen",
+                "fr": "7002_Übersicht Verschreibungen"
             },
             "dct:description": {
-                "de": "Laborergebnisse pro Jahr und Kanton. Seuchen können gefiltert werden",
-                "fr": "Laborergebnisse pro Jahr und Kanton. Seuchen können gefiltert werden"
+                "de": "Eine Übersicht über die Verschreibungen, die in ISABV erfasst sind nach verschiedenen Auswertungskriterien. Das Zeitfenster für die Auswertung kann gewählt werden.",
+                "fr": "Eine Übersicht über die Verschreibungen, die in ISABV erfasst sind nach verschiedenen Auswertungskriterien. Das Zeitfenster für die Auswertung kann gewählt werden."
             },
-            "schema:comment": "Publikationsort in ALVPH: /3 Shared/BLV - KAV/aRes"
+            "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/ISABV"
         },
         {
             "dct:identifier": "FSVO_D00042_3",
-            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYbDIoXl4StIslo9qPxmLyI",
+            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=ARtNz_52_qhOk3RdASDicgI",
             "adms:status": "published",
             "dct:format": "SAP BO Webintelligence",
             "dct:title": {
-                "de": "3001_Jahresauswertung Nationales Überwachungsprogramm",
-                "fr": "3001_Jahresauswertung Nationales Überwachungsprogramm"
+                "de": "7005a_Rezepte_Liste",
+                "fr": "7005a_Rezepte_Liste"
             },
             "dct:description": {
-                "de": "Jährliche Anzahl Proben und Betriebe, die im Rahmen des Nationalen\nÜberwachungsprogramms auf bestimmte Tierseuchen untersucht wurden.",
-                "fr": "Jährliche Anzahl Proben und Betriebe, die im Rahmen des Nationalen\nÜberwachungsprogramms auf bestimmte Tierseuchen untersucht wurden."
+                "de": "Detaillierte Liste der Verschreibungen pro Tierarzt und Tierhaltung. Dient den kantonalen Veterinärdiensten zur Kontrollvorbereitung von tierärztlichen Privatapotheken und Primärproduktionsbetrieben.",
+                "fr": "Detaillierte Liste der Verschreibungen pro Tierarzt und Tierhaltung. Dient den kantonalen Veterinärdiensten zur Kontrollvorbereitung von tierärztlichen Privatapotheken und Primärproduktionsbetrieben."
             },
-            "schema:comment": "Publikationsort in ALVPH: /3 Shared/BLV - KAV/aRes"
+            "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/ISABV"
+        },
+        {
+            "dct:identifier": "FSVO_D00042_4",
+            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AakTjK5IXm5HgOrQ4jJSs9w",
+            "adms:status": "published",
+            "dct:format": "SAP BO Webintelligence",
+            "dct:title": {
+                "de": "7010_Vétérinaires_REE_ISABV",
+                "fr": "7010_Vétérinaires_REE_ISABV"
+            },
+            "dct:description": {
+                "de": "Abgleich der im BUR registrierten Tierarztpraxen und den Registrierungen in ISABV. Zusätzlich werden die Praxisbewilligungen aus ASAN verknüpft. Dieser Bericht war vor allem in der Onboarding-Phase wichtig.",
+                "fr": "Abgleich der im BUR registrierten Tierarztpraxen und den Registrierungen in ISABV. Zusätzlich werden die Praxisbewilligungen aus ASAN verknüpft. Dieser Bericht war vor allem in der Onboarding-Phase wichtig."
+            },
+            "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/ISABV"
+        },
+        {
+            "dct:identifier": "FSVO_D00042_5",
+            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AbST7br5WB1Ji9xzhq2jJoM",
+            "adms:status": "published",
+            "dct:format": "SAP BO Webintelligence",
+            "dct:title": {
+                "de": "7011a_Qualitätskontrolle Konsultationen",
+                "fr": "7011a_Qualitätskontrolle Konsultationen"
+            },
+            "dct:description": {
+                "de": "Coming soon",
+                "fr": "Coming soon"
+            },
+            "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/ISABV"
+        },
+        {
+            "dct:identifier": "FSVO_D00042_6",
+            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AaW2imFI0SRKgFPU0wGUl3M",
+            "adms:status": "published",
+            "dct:format": "SAP BO Webintelligence",
+            "dct:title": {
+                "de": "7011a_Qualitätskontrolle Konsultationen",
+                "fr": "7011a_Qualitätskontrolle Konsultationen"
+            },
+            "dct:description": {
+                "de": "Coming soon",
+                "fr": "Coming soon"
+            },
+            "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/ISABV"
+        },
+        {
+            "dct:identifier": "FSVO_D00042_7",
+            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=ARZ06K8qgwNBuZnYBoPvPyA",
+            "adms:status": "published",
+            "dct:format": "SAP BO Webintelligence",
+            "dct:title": {
+                "de": "7013_Upload fuer Tieraerzte_mit_Zeitfenster",
+                "fr": "7013_Upload fuer Tieraerzte_mit_Zeitfenster"
+            },
+            "dct:description": {
+                "de": "Dieser Report wird monatlich als PDF pro Tierarztpraxis in ISABV zur Verfügung gestellt. Er dient primär der Qualitätskontrolle und weist die TA aus unplausible Rezepte hin.",
+                "fr": "Dieser Report wird monatlich als PDF pro Tierarztpraxis in ISABV zur Verfügung gestellt. Er dient primär der Qualitätskontrolle und weist die TA aus unplausible Rezepte hin."
+            }
         }
     ]
 }

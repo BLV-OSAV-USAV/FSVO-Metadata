@@ -1,38 +1,41 @@
 {
     "dct:identifier": "FSVO_D00031",
-    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
     "dct:title": {
-        "fr": "Ergebnisse der Fleischkontrolle",
-        "de": "Ergebnisse der Fleischkontrolle",
-        "en": "Ergebnisse der Fleischkontrolle",
-        "it": "Ergebnisse der Fleischkontrolle"
+        "fr": "Tierseuchendiagnostik (aRes-DB)",
+        "de": "Tierseuchendiagnostik (aRes-DB)",
+        "en": "Tierseuchendiagnostik (aRes-DB)",
+        "it": "Tierseuchendiagnostik (aRes-DB)"
     },
     "dct:description": {
-        "fr": "Diese Datensammlung enthält die Ergebnisse der amtlichen Schlachttier- und Fleischuntersuchungen. Erfasst werden Angaben zum lebenden Tier, zu dessen Herkunft sowie zu Mängeln bezüglich Lebensmittelhygiene, Tierschutz und Dokumentation. Diese Daten werden standardisiert erfasst und zentral gespeichert. Ziel der Fleischkontrolle ist die Sicherstellung der Lebensmittelsicherheit und der Tiergesundheit im Rahmen der Schlachtung. Die gewonnen Daten ermöglichen epidemiologische Auswertungen, Trendanalysen und die Rückverfolgung auffälliger Befunde. Zudem unterstützen sie risikobasierte Kontrollstrategien und liefern Entscheidungsgrundlagen für den Vollzug und die Weiterentwicklung der gesetzlichen Vorgaben im Bereich der Fleischhygiene.",
-        "de": "Diese Datensammlung enthält die Ergebnisse der amtlichen Schlachttier- und Fleischuntersuchungen. Erfasst werden Angaben zum lebenden Tier, zu dessen Herkunft sowie zu Mängeln bezüglich Lebensmittelhygiene, Tierschutz und Dokumentation. Diese Daten werden standardisiert erfasst und zentral gespeichert. Ziel der Fleischkontrolle ist die Sicherstellung der Lebensmittelsicherheit und der Tiergesundheit im Rahmen der Schlachtung. Die gewonnen Daten ermöglichen epidemiologische Auswertungen, Trendanalysen und die Rückverfolgung auffälliger Befunde. Zudem unterstützen sie risikobasierte Kontrollstrategien und liefern Entscheidungsgrundlagen für den Vollzug und die Weiterentwicklung der gesetzlichen Vorgaben im Bereich der Fleischhygiene."
+        "fr": "La collecte de données « Ares » comprend les résultats de laboratoire liés au diagnostic, à la surveillance et à la lutte contre les épizooties en Suisse. Elle recense les résultats d'analyses positifs et négatifs provenant de laboratoires de diagnostic accrédités, complétés par des informations sur l'espèce animale, l'exploitation d'origine, le matériel d'échantillonnage, la date de l'analyse et la méthode utilisée. Les données proviennent de programmes nationaux de surveillance, d'enquêtes ciblées en cas d'épidémie et d'examens diagnostiques individuels en cas de suspicion.\n\nL'objectif de cette base de données est de créer une vue d'ensemble centralisée, structurée et exploitable de la santé animale. Les données servent à prouver l'absence de certaines épizooties et le succès des mesures de lutte contre celles-ci, à identifier les foyers de maladie, à analyser les risques et à soutenir les enquêtes épidémiologiques. Ares permet une surveillance ciblée, améliore la coordination des mesures de lutte et fournit la base scientifique pour les décisions stratégiques de l'OSAV dans le domaine de la santé animale.",
+        "de": "Die Datensammlung «Ares» beinhaltet die Laborresultate im Zusammenhang mit der Diagnostik, Überwachung und Bekämpfung von Tierseuchen in der Schweiz. Erfasst werden sowohl positive wie negative Untersuchungsergebnisse aus akkreditierten Diagnostiklaboratorien, ergänzt durch Angaben zu Tierart, Herkunftsbetrieb, Probenmaterial, Untersuchungsdatum sowie angewandter Methodik. Die Daten stammen aus nationalen Überwachungsprogrammen, gezielten Abklärungen im Seuchenfall sowie aus diagnostischen Einzeluntersuchungen bei Verdachtsmeldungen.\n\nZiel der Datensammlung ist es, eine zentrale, strukturierte und auswertbare Übersicht zur Tiergesundheit zu schaffen. Die Daten dienen dem Freiheitsnachweis und dem Bekämpfungserfolg bestimmter Tierseuchen, der Identifikation von Krankheitsausbrüchen, der Risikoanalyse und der Unterstützung bei epidemiologischen Abklärungen. Ares ermöglicht ein gezieltes Monitoring, verbessert die Koordination von Bekämpfungsmassnahmen und liefert die wissenschaftliche Grundlage für strategische Entscheidungen des BLV im Bereich Tiergesundheit."
     },
     "dct:accessRights": "RESTRICTED",
     "dct:publisher": "BLV-OSAV-USAV-FSVO",
     "dcat:contactPoint": {
-        "schema:name": "BLV, LME, Lebensmittelhygiene",
-        "schema:email": "lme@blv.admin.ch"
+        "schema:email": "infotgts@blv.admin.ch",
+        "schema:name": "BLV, TGTS, Tiergesundheit"
     },
-    "dct:issued": "2020-01-01",
+    "dct:issued": "2025-01-01",
     "dcatap:availability": "STABLE",
     "dcat:keyword": [
-        "Fleischkontrolle",
-        "Schlachttieruntersuchung",
-        "Lebensmittel"
+        "Tierseuchendiagnostik",
+        "Tierseuchen",
+        "Überwachung",
+        "Bekämpfung",
+        "Labore",
+        "Laborresultate"
     ],
-    "dct:accrualPeriodicity": "MONTHLY",
-    "dct:modified": "2025-09-10",
+    "dct:accrualPeriodicity": "CONT",
+    "dct:modified": "2025-12-02",
     "prov:qualifiedAttribution": [
         {
-            "prov:agent": "p-1582170",
+            "prov:agent": "p-9089108",
             "dcat:hadRole": "dataOwner"
         },
         {
-            "prov:agent": "p-2380008",
+            "prov:agent": "p-9737669",
             "dcat:hadRole": "dataSteward"
         }
     ],
@@ -41,275 +44,69 @@
     "bv:personalData": "personalData",
     "bv:typeOfData": "primaryThematicData",
     "bv:archivalValue": "TRUE",
+    "bv:opendata_swiss": {
+        "bv:mustBePublished": "FALSE"
+    },
+    "bv:i14y": {
+        "bv:mustBePublished": "TRUE"
+    },
     "dcat:theme": [
+        "agriculture",
+        "national-economy",
         "health"
     ],
-    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/lebensmittelsicherheit/verantwortlichkeiten/fleischkontrolle/fleko.html",
+    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tiergesundheit/ueberwachung.html",
     "dct:spatial": "YES",
+    "dct:temporal": {},
     "dcatap:applicableLegislation": [
-        "https://fedlex.data.admin.ch/eli/cc/2022/272"
+        "TSV Art 312c Abs 2: ISLMK-V Art1 Abs 1 b"
     ],
-    "bv:itSystem": "FLEKO",
+    "bv:itSystem": "ARES",
     "dcat:distribution": [
         {
             "dct:identifier": "FSVO_D00031_1",
-            "dcat:accessURL": "https://opendata.swiss/de/dataset/fleischkontrollstatistik",
-            "adms:status": "validated",
-            "dcatap:availability": "AVAILABLE",
-            "dct:format": "CSV",
+            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AZfTFL4gdo5Gie8SMHqEmKw",
+            "adms:status": "published",
+            "dct:format": "SAP BO Webintelligence",
             "dct:title": {
-                "de": "Fleischkontrollstatistik",
-                "fr": "Statistique du contrôle des viandes",
-                "it": "Statistica del controllo delle carni",
-                "en": "Meat control statistic"
+                "de": "3000_Untersuchungsergebnisse von Tierseuchen aus aRes",
+                "fr": "3000_Untersuchungsergebnisse von Tierseuchen aus aRes"
             },
             "dct:description": {
-                "de": "Alle Tiere, die in einem bewilligten Schlachtbetrieb geschlachtet werden sollen, müssen vor der Schlachtung durch eine amtliche Vollzugsperson untersucht werden (Schlachttieruntersuchung). Nach der Schlachtung führen die damit beauftragten amtlichen Personen zudem eine Fleischuntersuchung durch. Die Ergebnisse der Untersuchungen zur Genusstauglichkeit werden in einer Fleischkontrolldatenbank (Fleko) erfasst. Basierend auf der standardisierten Erfassung von Befunden der Schlachttieruntersuchung, Genussuntauglichkeitsgründen und Teilkonfiskaten sind verbesserte Aussagen zur Lebensmittelsicherheit, zur Tiergesundheit und zum Tierschutz möglich. Die Daten der Fleischkontrolle werden jährlich für die Fleischkontrollstatistik ausgewertet und die Ergebnisse auf dem Dashboard des BLV veröffentlicht.",
-                "fr": "Tous les animaux qui doivent être abattus dans un abattoir autorisé doivent être examinés au préalable. Après l’abattage, les personnes officielles mandatées effectuent en outre un examen des viandes. Les résultats des examens visant à déterminer si une viande est propre ou non à la consommation sont saisis dans la banque de données du contrôle des viandes (Fleko). La saisie normalisée des résultats du contrôle des animaux avant l’abattage, des motifs justifiant le caractère impropre à la consommation et des parties confisquées permettent de se faire une idée plus claire de la sécurité alimentaire, la santé et la protection des animaux. Les données du contrôle de la viande sont évaluées chaque année pour les statistiques de contrôle de la viande et les résultats sont publiés sur le tableau de bord de l'OSAV.",
-                "it": "Prima della macellazione in una struttura autorizzata, tutti gli animali devono essere controllati. Inoltre, dopo la macellazione, le persone ufficialmente incaricate effettuano un controllo delle carni. I risultati delle analisi per l’idoneità al consumo vengono registrati nella Banca dati del controllo delle carni (Fleko). Sulla base della registrazione standardizzata dei risultati del controllo degli animali da macello, dei motivi di non idoneità al consumo e dei pezzi confiscati, è possibile ottenere informazioni più precise sulla sicurezza alimentare, la salute e la protezione degli animali. I dati del controllo della carne vengono valutati annualmente per le statistiche del controllo della carne e i risultati vengono pubblicati sul cruscotto dell'USAV.",
-                "en": "All animals that are to be slaughtered in an approved slaughterhouse must be examined before slaughter by an official enforcement person (ante-mortem inspection). After slaughter, the designated official persons also carry out a meat inspection. The results of the examinations regarding fitness for consumption are recorded in a meat control database (Fleko). Based on the standardized recording of findings from the ante-mortem inspection, reasons for unfitness for consumption, and partial confiscations, improved statements on food safety, animal health, and animal welfare are possible. The meat control data is evaluated annually for the meat control statistics, and the results are published on the dashboard of the FSVO"
+                "de": "Labordiagnostische Untersuchungsergebnisse einer ausgewählten Tierseuche nach eigenem Bedarf zusammenstellen.",
+                "fr": "Labordiagnostische Untersuchungsergebnisse einer ausgewählten Tierseuche nach eigenem Bedarf zusammenstellen."
             },
-            "dct:license": "terms_by"
+            "schema:comment": "Publikationsort in ALVPH: /3 Shared/BLV - KAV/aRes"
         },
         {
             "dct:identifier": "FSVO_D00031_2",
-            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AXzHjhl.vmVNrVJMogbbrmk",
+            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVScgO4KZD9JlBATTMcR1SE",
             "adms:status": "published",
             "dct:format": "SAP BO Webintelligence",
             "dct:title": {
-                "de": "4000_Fleischkontrolle Kantonale Verrechnung - Belastungen Schlachtbetrieb",
-                "fr": "4000_Fleischkontrolle Kantonale Verrechnung - Belastungen Schlachtbetrieb"
+                "de": "3010_UntersuchungenProJahrUndKanton",
+                "fr": "3010_UntersuchungenProJahrUndKanton"
             },
             "dct:description": {
-                "de": "Hilfsmittel zur monatlichen Verrechnung von Gebühren und Leistungen für kantonale Veterinärdienste, die das Verrechnungsmodul in Fleko aktiviert haben. ",
-                "fr": "Hilfsmittel zur monatlichen Verrechnung von Gebühren und Leistungen für kantonale Veterinärdienste, die das Verrechnungsmodul in Fleko aktiviert haben. "
+                "de": "Laborergebnisse pro Jahr und Kanton. Seuchen können gefiltert werden",
+                "fr": "Laborergebnisse pro Jahr und Kanton. Seuchen können gefiltert werden"
             },
-            "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/Fleko"
+            "schema:comment": "Publikationsort in ALVPH: /3 Shared/BLV - KAV/aRes"
         },
         {
             "dct:identifier": "FSVO_D00031_3",
-            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWzGNfGAIOBDnt9XubMldlc",
+            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYbDIoXl4StIslo9qPxmLyI",
             "adms:status": "published",
             "dct:format": "SAP BO Webintelligence",
             "dct:title": {
-                "de": "4001_Fleischkontrolle Kantonale Verrechnung - Gutschriften Fleischkontrolleur",
-                "fr": "4001_Fleischkontrolle Kantonale Verrechnung - Gutschriften Fleischkontrolleur"
+                "de": "3001_Jahresauswertung Nationales Überwachungsprogramm",
+                "fr": "3001_Jahresauswertung Nationales Überwachungsprogramm"
             },
             "dct:description": {
-                "de": "Hilfsmittel zur monatlichen Verrechnung von Gebühren und Leistungen für kantonale Veterinärdienste, die das Verrechnungsmodul in Fleko aktiviert haben.",
-                "fr": "Hilfsmittel zur monatlichen Verrechnung von Gebühren und Leistungen für kantonale Veterinärdienste, die das Verrechnungsmodul in Fleko aktiviert haben."
+                "de": "Jährliche Anzahl Proben und Betriebe, die im Rahmen des Nationalen\nÜberwachungsprogramms auf bestimmte Tierseuchen untersucht wurden.",
+                "fr": "Jährliche Anzahl Proben und Betriebe, die im Rahmen des Nationalen\nÜberwachungsprogramms auf bestimmte Tierseuchen untersucht wurden."
             },
-            "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/Fleko"
-        },
-        {
-            "dct:identifier": "FSVO_D00031_4",
-            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AaxmQsIUpNJPi6I5eMkg7KA",
-            "adms:status": "published",
-            "dct:format": "SAP BO Webintelligence",
-            "dct:title": {
-                "de": "4002_Rechnungsvorbereitung (Nov 2020)",
-                "fr": "4002_Rechnungsvorbereitung (Nov 2020)"
-            },
-            "dct:description": {
-                "de": "Hilfsmittel zur monatlichen Verrechnung von Gebühren und Leistungen für kantonale Veterinärdienste, die das Verrechnungsmodul in Fleko aktiviert haben: Bereinigung von offenen Einträgen vor dem Erstellen der monatlichen Rechnungen, z.B. noch nicht abgeschlossene oder fehlende Gebühren. ",
-                "fr": "Hilfsmittel zur monatlichen Verrechnung von Gebühren und Leistungen für kantonale Veterinärdienste, die das Verrechnungsmodul in Fleko aktiviert haben: Bereinigung von offenen Einträgen vor dem Erstellen der monatlichen Rechnungen, z.B. noch nicht abgeschlossene oder fehlende Gebühren. "
-            },
-            "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/Fleko"
-        },
-        {
-            "dct:identifier": "FSVO_D00031_5",
-            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVSfpyhTuV9IsfUczqMTUZ8",
-            "adms:status": "published",
-            "dct:format": "SAP BO Webintelligence",
-            "dct:title": {
-                "de": "4003_Abgleich Gebühren- und Leistungseinträge",
-                "fr": "4003_Abgleich Gebühren- und Leistungseinträge"
-            },
-            "dct:description": {
-                "de": "Hilfsmittel zur monatlichen Verrechnung von Gebühren und Leistungen für kantonale Veterinärdienste, die das Verrechnungsmodul in Fleko aktiviert haben: Dieser Bericht zeigt, ob bei vorhandenen Gebühreneinträgen (pro Schlachtdatum) auch eine oder mehrere Leistungen erfasst wurden (und umgekehrt). Die Auswertung erfolgt pro Schlachtbetrieb, Schlachtdatum bzw. Datum Ereignis, und Fleischkontrolle.",
-                "fr": "Hilfsmittel zur monatlichen Verrechnung von Gebühren und Leistungen für kantonale Veterinärdienste, die das Verrechnungsmodul in Fleko aktiviert haben: Dieser Bericht zeigt, ob bei vorhandenen Gebühreneinträgen (pro Schlachtdatum) auch eine oder mehrere Leistungen erfasst wurden (und umgekehrt). Die Auswertung erfolgt pro Schlachtbetrieb, Schlachtdatum bzw. Datum Ereignis, und Fleischkontrolle."
-            },
-            "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/Fleko"
-        },
-        {
-            "dct:identifier": "FSVO_D00031_6",
-            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AZQrtVcZI4hCoJGcfg3Z6KI",
-            "adms:status": "published",
-            "dct:format": "SAP BO Webintelligence",
-            "dct:title": {
-                "de": "4004_Gesamtauswertung nach Schlachtbetrieben und Fleischkontrolle",
-                "fr": "4004_Gesamtauswertung nach Schlachtbetrieben und Fleischkontrolle"
-            },
-            "dct:description": {
-                "de": "Übersicht über die in Fleko erfassten Fleischkontrollen, Anzahl geschlachtete Tiere und die im Rahmen der amtlichen Schlachttieruntersuchung (STU) und Fleischuntersuchung (FU) festgestellten Befunde: STU-Beanstandungen, Genussuntauglichkeitsgründe, Teilkonfiskate.",
-                "fr": "Übersicht über die in Fleko erfassten Fleischkontrollen, Anzahl geschlachtete Tiere und die im Rahmen der amtlichen Schlachttieruntersuchung (STU) und Fleischuntersuchung (FU) festgestellten Befunde: STU-Beanstandungen, Genussuntauglichkeitsgründe, Teilkonfiskate."
-            },
-            "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/Fleko"
-        },
-        {
-            "dct:identifier": "FSVO_D00031_7",
-            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVkvNLM19bRBrbUxAZB826Y",
-            "adms:status": "published",
-            "dct:format": "SAP BO Webintelligence",
-            "dct:title": {
-                "de": "4004b_Gesamtauswertung nach Schlachtbetrieben und Fleischkontrolle mit Einzeltierangaben",
-                "fr": "4004b_Gesamtauswertung nach Schlachtbetrieben und Fleischkontrolle mit Einzeltierangaben"
-            },
-            "dct:description": {
-                "de": "Liste der in Fleko erfassten Fleischkontrollen, bei denen eine Angabe zur Einzeltieridentifikation vorhanden ist.",
-                "fr": "Liste der in Fleko erfassten Fleischkontrollen, bei denen eine Angabe zur Einzeltieridentifikation vorhanden ist."
-            },
-            "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/Fleko"
-        },
-        {
-            "dct:identifier": "FSVO_D00031_8",
-            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVvipC5atIhAvXEi6nYOs6w",
-            "adms:status": "published",
-            "dct:format": "SAP BO Webintelligence",
-            "dct:title": {
-                "de": "4005a_Aggregierte Schlachtungen - Beurteilung Genusstauglichkeit",
-                "fr": "4005a_Aggregierte Schlachtungen - Beurteilung Genusstauglichkeit"
-            },
-            "dct:description": {
-                "de": "Übersicht über die Anzahl geschlachteter Tiere pro Tiergattung, Schlachtungstyp (Normal- bzw. Krankschlachtung) und Beurteilung der Genusstauglichkeit im ausgewählten Zeitraum. Die Auswertung erfolgt entweder auf Stufe Schlachtbetrieb oder auf Stufe Kanton. ",
-                "fr": "Übersicht über die Anzahl geschlachteter Tiere pro Tiergattung, Schlachtungstyp (Normal- bzw. Krankschlachtung) und Beurteilung der Genusstauglichkeit im ausgewählten Zeitraum. Die Auswertung erfolgt entweder auf Stufe Schlachtbetrieb oder auf Stufe Kanton. "
-            },
-            "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/Fleko"
-        },
-        {
-            "dct:identifier": "FSVO_D00031_9",
-            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=Ad70wnNcZCRKgOmbcubB0J8",
-            "adms:status": "published",
-            "dct:format": "SAP BO Webintelligence",
-            "dct:title": {
-                "de": "4005b_Aggregierte Schlachtungen - Beurteilung Genusstauglichkeit",
-                "fr": "4005b_Aggregierte Schlachtungen - Beurteilung Genusstauglichkeit"
-            },
-            "dct:description": {
-                "de": "Übersicht über die Anzahl Befunde pro Genussuntauglichkeitsgrund und Tiergattung im ausgewählten Zeitraum. Die Auswertung erfolgt entweder auf Stufe Schlachtbetrieb oder auf Stufe Kanton. ",
-                "fr": "Übersicht über die Anzahl Befunde pro Genussuntauglichkeitsgrund und Tiergattung im ausgewählten Zeitraum. Die Auswertung erfolgt entweder auf Stufe Schlachtbetrieb oder auf Stufe Kanton. "
-            },
-            "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/Fleko"
-        },
-        {
-            "dct:identifier": "FSVO_D00031_10",
-            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AT_8mFNJyBdEkLPNB9SP4i8",
-            "adms:status": "published",
-            "dct:format": "SAP BO Webintelligence",
-            "dct:title": {
-                "de": "4006_Aggregierte Schlachtungen - Teilkonfiskate",
-                "fr": "4006_Aggregierte Schlachtungen - Teilkonfiskate"
-            },
-            "dct:description": {
-                "de": "Übersicht über die Anzahl Befunde pro Teilkonfiskatsgrund und Tiergattung im ausgewählten Zeitraum. Die Auswertung erfolgt entweder auf Stufe Schlachtbetrieb oder auf Stufe Kanton. ",
-                "fr": "Übersicht über die Anzahl Befunde pro Teilkonfiskatsgrund und Tiergattung im ausgewählten Zeitraum. Die Auswertung erfolgt entweder auf Stufe Schlachtbetrieb oder auf Stufe Kanton. "
-            },
-            "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/Fleko"
-        },
-        {
-            "dct:identifier": "FSVO_D00031_11",
-            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AUI_r3_XwstEim4yHxPMlIg",
-            "adms:status": "published",
-            "dct:format": "SAP BO Webintelligence",
-            "dct:title": {
-                "de": "4007_Aggregierte Schlachtungen - STU Beanstandungen",
-                "fr": "4007_Aggregierte Schlachtungen - STU Beanstandungen"
-            },
-            "dct:description": {
-                "de": "Übersicht über die Anzahl Befunde pro STU-Beanstandungsgrund und Tiergattung im ausgewählten Zeitraum. Die Auswertung erfolgt entweder auf Stufe Schlachtbetrieb oder auf Stufe Kanton. ",
-                "fr": "Übersicht über die Anzahl Befunde pro STU-Beanstandungsgrund und Tiergattung im ausgewählten Zeitraum. Die Auswertung erfolgt entweder auf Stufe Schlachtbetrieb oder auf Stufe Kanton. "
-            },
-            "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/Fleko"
-        },
-        {
-            "dct:identifier": "FSVO_D00031_12",
-            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AfBxVqPEIqZGt_DvBzKnQYI",
-            "adms:status": "published",
-            "dct:format": "SAP BO Webintelligence",
-            "dct:title": {
-                "de": "4009_Auswertung Trichinellen-Untersuchungen",
-                "fr": "4009_Auswertung Trichinellen-Untersuchungen"
-            },
-            "dct:description": {
-                "de": "Angabe pro Schlachtbetrieb, Fleischkontrolle und Schlachtdatum, ob Trichinellen-Untersuchungen für die Tiergattungen Schwein, Wildschwein und Pferd durchgeführt wurden.",
-                "fr": "Angabe pro Schlachtbetrieb, Fleischkontrolle und Schlachtdatum, ob Trichinellen-Untersuchungen für die Tiergattungen Schwein, Wildschwein und Pferd durchgeführt wurden."
-            },
-            "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/Fleko"
-        },
-        {
-            "dct:identifier": "FSVO_D00031_13",
-            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=ARXhvhuS1HdBsIbWk.B1D1s",
-            "adms:status": "published",
-            "dct:format": "SAP BO Webintelligence",
-            "dct:title": {
-                "de": "4010_Schlachtbetriebe ohne Fleischkontrollen",
-                "fr": "4010_Schlachtbetriebe ohne Fleischkontrollen"
-            },
-            "dct:description": {
-                "de": "Ermittlung von Schlachtbetrieben, für die in Fleko keine Fleischkontrollen erfasst wurden.",
-                "fr": "Ermittlung von Schlachtbetrieben, für die in Fleko keine Fleischkontrollen erfasst wurden."
-            },
-            "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/Fleko"
-        },
-        {
-            "dct:identifier": "FSVO_D00031_14",
-            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVhWzHcTG75MqsoVG_ccj2c",
-            "adms:status": "published",
-            "dct:format": "SAP BO Webintelligence",
-            "dct:title": {
-                "de": "4011_Schlachtbetriebe mit gespeicherten, gelöschten oder stornierten Fleischkontrollen",
-                "fr": "4011_Schlachtbetriebe mit gespeicherten, gelöschten oder stornierten Fleischkontrollen"
-            },
-            "dct:description": {
-                "de": "Ermittlung von Schlachtbetrieben, die im ausgewählten Zeitraum eine oder mehrere Fleischkontrollen mit dem Status «gespeichert», «gelöscht» oder «storniert» in der Fleko aufweisen.",
-                "fr": "Ermittlung von Schlachtbetrieben, die im ausgewählten Zeitraum eine oder mehrere Fleischkontrollen mit dem Status «gespeichert», «gelöscht» oder «storniert» in der Fleko aufweisen."
-            },
-            "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/Fleko"
-        },
-        {
-            "dct:identifier": "FSVO_D00031_15",
-            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AW7aAXff6JBNhooxYHYe2W8",
-            "adms:status": "published",
-            "dct:format": "SAP BO Webintelligence",
-            "dct:title": {
-                "de": "4012_Schlachtbetriebe mit unbearbeiteten Schlachtungsmeldungen",
-                "fr": "4012_Schlachtbetriebe mit unbearbeiteten Schlachtungsmeldungen"
-            },
-            "dct:description": {
-                "de": "Ermittlung von Schlachtbetrieben mit unbearbeiteten Schlachtungsmeldungen in Fleko. Unbearbeitet bedeutet, dass diese Schlachtungsmeldungen noch nicht zur Erfassung einer Fleischkontrolle (und der Eingabe von Befunden) verwendet wurden. ",
-                "fr": "Ermittlung von Schlachtbetrieben mit unbearbeiteten Schlachtungsmeldungen in Fleko. Unbearbeitet bedeutet, dass diese Schlachtungsmeldungen noch nicht zur Erfassung einer Fleischkontrolle (und der Eingabe von Befunden) verwendet wurden. "
-            },
-            "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/Fleko"
-        },
-        {
-            "dct:identifier": "FSVO_D00031_16",
-            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AcVEchUScxpEnj3aQLV6MBg",
-            "adms:status": "published",
-            "dct:format": "SAP BO Webintelligence",
-            "dct:title": {
-                "de": "4014_Vergleich Schlachtzahlen TVD und FLEKO",
-                "fr": "4014_Vergleich Schlachtzahlen TVD und FLEKO"
-            },
-            "dct:description": {
-                "de": "Vergleich der Schlachtzahlen in TVD und Fleko sowie Ermittlung von Abweichungen je Schlachtbetrieb, Schlachtdatum, Tiergattung und Herkunftsbetrieb im gewählten Zeitraum. Als Grundlage dienen die Schlachtungsmeldungen aus der TVD und die Fleischkontrollen aus der Fleko. ",
-                "fr": "Vergleich der Schlachtzahlen in TVD und Fleko sowie Ermittlung von Abweichungen je Schlachtbetrieb, Schlachtdatum, Tiergattung und Herkunftsbetrieb im gewählten Zeitraum. Als Grundlage dienen die Schlachtungsmeldungen aus der TVD und die Fleischkontrollen aus der Fleko. "
-            },
-            "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/Fleko"
-        },
-        {
-            "dct:identifier": "FSVO_D00031_17",
-            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=ARJC.xpIQ0pEi.79MRWV.1M",
-            "adms:status": "published",
-            "dct:format": "SAP BO Webintelligence",
-            "dct:title": {
-                "de": "4030_Schlachtungen je Herkunftsbetrieb",
-                "fr": "4030_Schlachtungen je Herkunftsbetrieb"
-            },
-            "dct:description": {
-                "de": "Dieser Bericht bietet eine nach Herkunftsbetrieb geordnete Übersicht über die Anzahl der geschlachteten Tiere, bei deren Schlachtung eine Fleischkontrolle durchgeführt wurde. Dabei ist nachvollziehbar, in welche Schlachtbetriebe die Tiere eines bestimmten Herkunftsbetriebs geliefert wurden. Die Schlachtungen werden nach Herkunftsbetrieb, Tiergattung und Schlachtbetrieb aufgeführt.  Bei den Auswertungen werden nur Einträge mit dem Status «abgeschlossen» in der Fleko berücksichtigt.",
-                "fr": "Dieser Bericht bietet eine nach Herkunftsbetrieb geordnete Übersicht über die Anzahl der geschlachteten Tiere, bei deren Schlachtung eine Fleischkontrolle durchgeführt wurde. Dabei ist nachvollziehbar, in welche Schlachtbetriebe die Tiere eines bestimmten Herkunftsbetriebs geliefert wurden. Die Schlachtungen werden nach Herkunftsbetrieb, Tiergattung und Schlachtbetrieb aufgeführt.  Bei den Auswertungen werden nur Einträge mit dem Status «abgeschlossen» in der Fleko berücksichtigt."
-            },
-            "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/Fleko"
+            "schema:comment": "Publikationsort in ALVPH: /3 Shared/BLV - KAV/aRes"
         }
     ]
 }

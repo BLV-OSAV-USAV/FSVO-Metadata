@@ -2,46 +2,48 @@
     "dct:identifier": "FSVO_D00010",
     "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
     "dct:title": {
-        "fr": "Kontrollen der Lebensmittelhygiene tierischer Herkunft ",
-        "de": "Kontrollen der Lebensmittelhygiene tierischer Herkunft ",
-        "en": "Kontrollen der Lebensmittelhygiene tierischer Herkunft ",
-        "it": "Kontrollen der Lebensmittelhygiene tierischer Herkunft "
+        "fr": "menuCH Kids",
+        "de": "menuCH Kids",
+        "en": "menuCH Kids",
+        "it": "menuCH Kids"
     },
     "dct:description": {
-        "fr": "Die rechtlichen Vorgaben betreffend Hygiene in der tierischen Primärproduktion (z.B. Milchvieh-, Schweine- oder Geflügelhaltungen) und spezifisch betreffend Hygiene in der Milchproduktion werden im Rahmen der Primärproduktionskontrollen durch die kantonalen Veterinärämter oder in deren Auftrag kontrolliert. Die Kontrollergebnisse dieser beiden Rubriken müssen zeitgerecht und umfassend zusammen mit den Ergebnissen der übrigen Rubriken im Rahmen der Primärproduktionskontrolle in Acontrol erfasst und so dem BLV zur Verfügung gestellt werden. Da die  Kontrollpunkte im System vorgegeben sind, ist es möglich über Acontrol einen Überblick über die aktuelle Situation der schweizer tierischen Primärproduktionsbetriebe in Zusammenhang mit der Einhaltung der Hygienevorgaben zu erlangen. Zudem können dem System weiter Informationen zu Kontrollfrequenz, Betriebsart, Hygienestatus, festgestellte Mängel sowie die ergriffenen Massnahmen entnommen werden. Die Sammlung ermöglicht kantonsübergreifende Auswertungen, die Früherkennung systematischer Schwachstellen sowie die gezielte Planung von Schulungen, Beratungen und weiteren Vollzugsmassnahmen zugunsten der Lebensmittelsicherheit. Sie dient der Beurteilung der hygienischen Ausgangslage für die Produktion tierischer Lebensmittel, unterstützt die Risikoeinschätzung und trägt zur kontinuierlichen Verbesserung der Betriebshygiene bei.",
-        "de": "Die rechtlichen Vorgaben betreffend Hygiene in der tierischen Primärproduktion (z.B. Milchvieh-, Schweine- oder Geflügelhaltungen) und spezifisch betreffend Hygiene in der Milchproduktion werden im Rahmen der Primärproduktionskontrollen durch die kantonalen Veterinärämter oder in deren Auftrag kontrolliert. Die Kontrollergebnisse dieser beiden Rubriken müssen zeitgerecht und umfassend zusammen mit den Ergebnissen der übrigen Rubriken im Rahmen der Primärproduktionskontrolle in Acontrol erfasst und so dem BLV zur Verfügung gestellt werden. Da die  Kontrollpunkte im System vorgegeben sind, ist es möglich über Acontrol einen Überblick über die aktuelle Situation der schweizer tierischen Primärproduktionsbetriebe in Zusammenhang mit der Einhaltung der Hygienevorgaben zu erlangen. Zudem können dem System weiter Informationen zu Kontrollfrequenz, Betriebsart, Hygienestatus, festgestellte Mängel sowie die ergriffenen Massnahmen entnommen werden. Die Sammlung ermöglicht kantonsübergreifende Auswertungen, die Früherkennung systematischer Schwachstellen sowie die gezielte Planung von Schulungen, Beratungen und weiteren Vollzugsmassnahmen zugunsten der Lebensmittelsicherheit. Sie dient der Beurteilung der hygienischen Ausgangslage für die Produktion tierischer Lebensmittel, unterstützt die Risikoeinschätzung und trägt zur kontinuierlichen Verbesserung der Betriebshygiene bei."
+        "fr": "Die vorliegende Datensammlung stellt erstmals umfassende und repräsentative Informationen zur Ernährungssituation von Kindern und Jugendlichen im Alter von sechs bis siebzehn Jahren in der Schweiz bereit. Erfasst wurden unter anderem Daten zum Lebensmittelverzehr, zu Mahlzeitenstrukturen, zur Energie- und Nährstoffzufuhr sowie zum Bewegungsverhalten, zur Körpergrösse, zum Körpergewicht und zu weiteren gesundheitsrelevanten Parametern. Die Erhebung erfolgte im Rahmen der nationalen Ernährungserhebung menuCH-Kids unter Anwendung standardisierter Methoden und qualitätsgesicherter Datenaufbereitung. Ziel dieser Datensammlung ist die Generierung evidenzbasierter Erkenntnisse zum Ernährungsverhalten junger Menschen in der Schweiz. Die erhobenen Daten dienen als Grundlage für die Entwicklung wissenschaftlich fundierter Ernährungsempfehlungen, für präventivmedizinische Interventionen sowie für gesundheits- und bildungspolitische Strategien. Darüber hinaus ermöglicht die Datensammlung die frühzeitige Identifikation von Risikogruppen, die Analyse von Unterschieden hinsichtlich Alter, geografischer Herkunft und sozioökonomischem Status sowie die Ableitung gezielter Massnahmen zur Förderung einer ausgewogenen Ernährung im Kindes- und Jugendalter.",
+        "de": "Die vorliegende Datensammlung stellt erstmals umfassende und repräsentative Informationen zur Ernährungssituation von Kindern und Jugendlichen im Alter von sechs bis siebzehn Jahren in der Schweiz bereit. Erfasst wurden unter anderem Daten zum Lebensmittelverzehr, zu Mahlzeitenstrukturen, zur Energie- und Nährstoffzufuhr sowie zum Bewegungsverhalten, zur Körpergrösse, zum Körpergewicht und zu weiteren gesundheitsrelevanten Parametern. Die Erhebung erfolgte im Rahmen der nationalen Ernährungserhebung menuCH-Kids unter Anwendung standardisierter Methoden und qualitätsgesicherter Datenaufbereitung. Ziel dieser Datensammlung ist die Generierung evidenzbasierter Erkenntnisse zum Ernährungsverhalten junger Menschen in der Schweiz. Die erhobenen Daten dienen als Grundlage für die Entwicklung wissenschaftlich fundierter Ernährungsempfehlungen, für präventivmedizinische Interventionen sowie für gesundheits- und bildungspolitische Strategien. Darüber hinaus ermöglicht die Datensammlung die frühzeitige Identifikation von Risikogruppen, die Analyse von Unterschieden hinsichtlich Alter, geografischer Herkunft und sozioökonomischem Status sowie die Ableitung gezielter Massnahmen zur Förderung einer ausgewogenen Ernährung im Kindes- und Jugendalter."
     },
-    "dct:accessRights": "RESTRICTED",
+    "dct:accessRights": "PUBLIC",
     "dct:publisher": "BLV-OSAV-USAV-FSVO",
     "dcat:contactPoint": {
-        "schema:email": "lme@blv.admin.ch",
-        "schema:name": "BLV, LME, Lebensmittelhygiene"
+        "schema:email": "ernaehrung@blv.admin.ch",
+        "schema:name": "BLV, LME, Ernährung"
     },
-    "dct:issued": "2025-09-10",
+    "dct:issued": "2023-01-01",
     "dcatap:availability": "STABLE",
     "dcat:keyword": [
-        "Kontrollen Primärproduktion",
-        "Lebensmittelhygiene"
+        "Lebensmittel",
+        "Ernährung",
+        "Kinder",
+        "Jugendliche"
     ],
-    "dct:accrualPeriodicity": "MONTHLY",
+    "dct:accrualPeriodicity": "IRREGULAR",
     "dct:modified": "2025-09-10",
     "prov:qualifiedAttribution": [
         {
-            "prov:agent": "p-1582170",
+            "prov:agent": "p-7711752",
             "dcat:hadRole": "dataOwner"
         },
         {
-            "prov:agent": "p-9531742",
+            "prov:agent": "p-2708753",
             "dcat:hadRole": "dataSteward"
         }
     ],
     "adms:status": "published",
     "bv:classification": "none",
-    "bv:personalData": "personalData",
+    "bv:personalData": "none",
     "bv:typeOfData": "primaryThematicData",
     "bv:archivalValue": "TRUE",
     "bv:opendata_swiss": {
-        "bv:mustBePublished": "FALSE"
+        "bv:mustBePublished": "TRUE"
     },
     "bv:i14y": {
         "bv:mustBePublished": "TRUE"
@@ -49,10 +51,11 @@
     "dcat:theme": [
         "health"
     ],
-    "dct:spatial": "NO",
+    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/forschung/gesundheitliche-risiken/ernaehrungsrisiken/menuch-kids.html",
+    "dct:spatial": "YES",
     "dct:temporal": {},
     "dcatap:applicableLegislation": [
-        "https://www.fedlex.admin.ch/eli/cc/2020/459/de"
+        ""
     ],
-    "bv:itSystem": "Acontrol"
+    "bv:itSystem": "FSVO Data Repository"
 }

@@ -2,38 +2,39 @@
     "dct:identifier": "FSVO_D00025",
     "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
     "dct:title": {
-        "fr": "menuCH Kids",
-        "de": "menuCH Kids",
-        "en": "menuCH Kids",
-        "it": "menuCH Kids"
+        "fr": "Tierische Lebensmittel aus Drittstaaten Auswertung aus TRACES NT",
+        "de": "Tierische Lebensmittel aus Drittstaaten Auswertung aus TRACES NT",
+        "en": "Tierische Lebensmittel aus Drittstaaten Auswertung aus TRACES NT",
+        "it": "Tierische Lebensmittel aus Drittstaaten Auswertung aus TRACES NT"
     },
     "dct:description": {
-        "fr": "Die vorliegende Datensammlung stellt erstmals umfassende und repräsentative Informationen zur Ernährungssituation von Kindern und Jugendlichen im Alter von sechs bis siebzehn Jahren in der Schweiz bereit. Erfasst wurden unter anderem Daten zum Lebensmittelverzehr, zu Mahlzeitenstrukturen, zur Energie- und Nährstoffzufuhr sowie zum Bewegungsverhalten, zur Körpergrösse, zum Körpergewicht und zu weiteren gesundheitsrelevanten Parametern. Die Erhebung erfolgte im Rahmen der nationalen Ernährungserhebung menuCH-Kids unter Anwendung standardisierter Methoden und qualitätsgesicherter Datenaufbereitung. Ziel dieser Datensammlung ist die Generierung evidenzbasierter Erkenntnisse zum Ernährungsverhalten junger Menschen in der Schweiz. Die erhobenen Daten dienen als Grundlage für die Entwicklung wissenschaftlich fundierter Ernährungsempfehlungen, für präventivmedizinische Interventionen sowie für gesundheits- und bildungspolitische Strategien. Darüber hinaus ermöglicht die Datensammlung die frühzeitige Identifikation von Risikogruppen, die Analyse von Unterschieden hinsichtlich Alter, geografischer Herkunft und sozioökonomischem Status sowie die Ableitung gezielter Massnahmen zur Förderung einer ausgewogenen Ernährung im Kindes- und Jugendalter.",
-        "de": "Die vorliegende Datensammlung stellt erstmals umfassende und repräsentative Informationen zur Ernährungssituation von Kindern und Jugendlichen im Alter von sechs bis siebzehn Jahren in der Schweiz bereit. Erfasst wurden unter anderem Daten zum Lebensmittelverzehr, zu Mahlzeitenstrukturen, zur Energie- und Nährstoffzufuhr sowie zum Bewegungsverhalten, zur Körpergrösse, zum Körpergewicht und zu weiteren gesundheitsrelevanten Parametern. Die Erhebung erfolgte im Rahmen der nationalen Ernährungserhebung menuCH-Kids unter Anwendung standardisierter Methoden und qualitätsgesicherter Datenaufbereitung. Ziel dieser Datensammlung ist die Generierung evidenzbasierter Erkenntnisse zum Ernährungsverhalten junger Menschen in der Schweiz. Die erhobenen Daten dienen als Grundlage für die Entwicklung wissenschaftlich fundierter Ernährungsempfehlungen, für präventivmedizinische Interventionen sowie für gesundheits- und bildungspolitische Strategien. Darüber hinaus ermöglicht die Datensammlung die frühzeitige Identifikation von Risikogruppen, die Analyse von Unterschieden hinsichtlich Alter, geografischer Herkunft und sozioökonomischem Status sowie die Ableitung gezielter Massnahmen zur Förderung einer ausgewogenen Ernährung im Kindes- und Jugendalter."
+        "fr": "Diese Datensammlung basiert auf Informationen aus dem europäischen System TRACES-NT und umfasst Einträge zu Sendungen tierischer Lebensmittel, die aus Drittstaaten in die Schweiz eingeführt werden. Erfasst werden unter anderem die Art, Herkunft, Menge und der Zielort der Waren sowie die Ergebnisse amtlicher Kontrollen an den Grenzkontrollstellen. Die Daten stammen direkt aus den Eingaben der zuständigen Grenzkontrollstellen und dokumentieren sämtliche relevanten Vorgänge im Rahmen der Einfuhrüberwachung. Die Datensammlung dient dem internen Datenmanagement des Bundesamts für Lebensmittelsicherheit und Veterinärwesen (BLV) und stellt eine wichtige Grundlage für den Jahresbericht zum Mehrjährigen Nationalen Kontrollplan (MNKP) sowie für die VKCS-Statistik des Verbands der Kantonschemiker der Schweiz dar. Sie ermöglicht einen schweizweiten Überblick – einschliesslich Liechtenstein – über die Einfuhren tierischer Lebensmittel aus Drittstaaten und liefert eine verlässliche Basis für die risikobasierte Analyse, die Früherkennung von Auffälligkeiten und die gezielte Weiterentwicklung von Kontrollstrategien. Damit trägt sie wesentlich zur Stärkung des Vollzugs und zur Sicherstellung der Lebensmittelsicherheit in der Schweiz bei.",
+        "de": "Diese Datensammlung basiert auf Informationen aus dem europäischen System TRACES-NT und umfasst Einträge zu Sendungen tierischer Lebensmittel, die aus Drittstaaten in die Schweiz eingeführt werden. Erfasst werden unter anderem die Art, Herkunft, Menge und der Zielort der Waren sowie die Ergebnisse amtlicher Kontrollen an den Grenzkontrollstellen. Die Daten stammen direkt aus den Eingaben der zuständigen Grenzkontrollstellen und dokumentieren sämtliche relevanten Vorgänge im Rahmen der Einfuhrüberwachung. Die Datensammlung dient dem internen Datenmanagement des Bundesamts für Lebensmittelsicherheit und Veterinärwesen (BLV) und stellt eine wichtige Grundlage für den Jahresbericht zum Mehrjährigen Nationalen Kontrollplan (MNKP) sowie für die VKCS-Statistik des Verbands der Kantonschemiker der Schweiz dar. Sie ermöglicht einen schweizweiten Überblick – einschliesslich Liechtenstein – über die Einfuhren tierischer Lebensmittel aus Drittstaaten und liefert eine verlässliche Basis für die risikobasierte Analyse, die Früherkennung von Auffälligkeiten und die gezielte Weiterentwicklung von Kontrollstrategien. Damit trägt sie wesentlich zur Stärkung des Vollzugs und zur Sicherstellung der Lebensmittelsicherheit in der Schweiz bei."
     },
-    "dct:accessRights": "PUBLIC",
+    "dct:accessRights": "RESTRICTED",
     "dct:publisher": "BLV-OSAV-USAV-FSVO",
     "dcat:contactPoint": {
-        "schema:email": "ernaehrung@blv.admin.ch",
-        "schema:name": "BLV, LME, Ernährung"
+        "schema:email": "lme@blv.admin.ch",
+        "schema:name": "BLV, LME, Koordination und Überwachung"
     },
-    "dct:issued": "2023-01-01",
+    "dct:issued": "2025-01-01",
     "dcatap:availability": "STABLE",
     "dcat:keyword": [
+        "Kontrolle",
         "Lebensmittel",
-        "Ernährung",
-        "Kinder",
-        "Jugendliche"
+        "Laboranalysen",
+        "Grenze",
+        "Drittstaaten"
     ],
-    "dct:accrualPeriodicity": "IRREGULAR",
+    "dct:accrualPeriodicity": "ANNUAL",
     "dct:modified": "2025-09-10",
     "prov:qualifiedAttribution": [
         {
-            "prov:agent": "p-7711752",
+            "prov:agent": "p-1YFBMPWKZ",
             "dcat:hadRole": "dataOwner"
         },
         {
-            "prov:agent": "p-2708753",
+            "prov:agent": "p-3611054",
             "dcat:hadRole": "dataSteward"
         }
     ],
@@ -43,7 +44,7 @@
     "bv:typeOfData": "primaryThematicData",
     "bv:archivalValue": "TRUE",
     "bv:opendata_swiss": {
-        "bv:mustBePublished": "TRUE"
+        "bv:mustBePublished": "FALSE"
     },
     "bv:i14y": {
         "bv:mustBePublished": "TRUE"
@@ -51,11 +52,33 @@
     "dcat:theme": [
         "health"
     ],
-    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/forschung/gesundheitliche-risiken/ernaehrungsrisiken/menuch-kids.html",
-    "dct:spatial": "YES",
+    "dct:spatial": "NO",
     "dct:temporal": {},
     "dcatap:applicableLegislation": [
         ""
     ],
-    "bv:itSystem": "FSVO Data Repository"
+    "bv:itSystem": "TRACES",
+    "dcat:distribution": [
+        {
+            "dct:identifier": "FSVO_D00025_1",
+            "dcat:accessURL": "https://www.psm.admin.ch/",
+            "dct:title": {
+                "fr": "Produits phytosanitaires",
+                "de": "Pflanzenschutzmittelverzeichnis",
+                "en": "Title",
+                "it": "Prodotti fitosanitari"
+            },
+            "dct:description": {
+                "fr": "Les produits phytosanitaires autorisés figurent dans un index des produits phytosanitaires. Cet index comprend des indications sur l’utilisation prévue, les restrictions d’application, le dosage, les indications relatives aux dangers et les charges liées à l’utilisation.",
+                "de": "Die bewilligten Pflanzenschutzmittel werden im Pflanzenschutzmittelverzeichnis aufgelistet. Das Verzeichnis enthält Angaben zur vorgesehenen Anwendung, zu Anwendungseinschränkungen, Aufwandmengen, Gefahrenkennzeichnung und zu Anwendungsauflagen.",
+                "en": "description_en",
+                "it": "I prodotti fitosanitari autorizzati figurano in un elenco dei prodotti fitosanitari contenente indicazioni sull'applicazione prevista, restrizioni e dosi di applicazione, simboli di pericolo e condizioni d'uso."
+            },
+            "dct:modified": "2024-12-17",
+            "adms:status": "published",
+            "dct:format": "XML",
+            "dct:license": "terms_open",
+            "schema:comment": "Test"
+        }
+    ]
 }

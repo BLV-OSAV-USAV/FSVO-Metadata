@@ -1,64 +1,73 @@
 {
     "dct:identifier": "FSVO_D00044",
-    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/StillLifeWithMouse.jpg",
     "dct:title": {
-        "fr": "Befundstatistik Produktkontrolle",
-        "de": "Befundstatistik Produktkontrolle",
-        "en": "Befundstatistik Produktkontrolle",
-        "it": "Befundstatistik Produktkontrolle"
+        "fr": "Tierversuchsdaten",
+        "de": "Tierversuchsdaten",
+        "en": "Tierversuchsdaten",
+        "it": "Tierversuchsdaten"
     },
     "dct:description": {
-        "fr": "Diese Datensammlung enthält aggregierte Ergebnisse aus den amtlichen Produktkontrollen von Lebensmitteln und Gebrauchsgegenständen, die jährlich von den kantonalen Lebensmittelvollzugsbehörden an das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) übermittelt werden. Erfasst werden dabei unter anderem die Art und Anzahl der analysierten Proben, festgestellte Abweichungen von rechtlichen Anforderungen sowie spezifische Befunde zu einzelnen Produktgruppen wie beispielsweise Trinkwasser, Speisefette oder Gebrauchsgegenstände mit Hautkontakt. Die Befundstatistik dient dem internen Datenmanagement des BLV und bildet eine zentrale Grundlage für die Erstellung des Jahresberichts zum Mehrjährigen Nationalen Kontrollplan (MNKP) sowie für die sogenannte VKCS-Statistik. Letztere wird in Zusammenarbeit mit dem Verband der Kantonschemiker der Schweiz (VKCS) erstellt und ermöglicht eine standardisierte und koordinierte Auswertung der Vollzugsdaten auf nationaler Ebene. Durch die systematische Erfassung und Analyse der Daten lässt sich ein gesamtschweizerischer Überblick – inklusive Liechtenstein – über die Resultate amtlicher Produktkontrollen gewinnen. Die Statistik unterstützt die risikobasierte Beurteilung der Lebensmittelsicherheit, hilft Trends bei Qualitätsmängeln frühzeitig zu erkennen, erleichtert die zielgerichtete Planung von risikomindernden Massnahmen und trägt zur Weiterentwicklung des Vollzugs bei.",
-        "de": "Diese Datensammlung enthält aggregierte Ergebnisse aus den amtlichen Produktkontrollen von Lebensmitteln und Gebrauchsgegenständen, die jährlich von den kantonalen Lebensmittelvollzugsbehörden an das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) übermittelt werden. Erfasst werden dabei unter anderem die Art und Anzahl der analysierten Proben, festgestellte Abweichungen von rechtlichen Anforderungen sowie spezifische Befunde zu einzelnen Produktgruppen wie beispielsweise Trinkwasser, Speisefette oder Gebrauchsgegenstände mit Hautkontakt. Die Befundstatistik dient dem internen Datenmanagement des BLV und bildet eine zentrale Grundlage für die Erstellung des Jahresberichts zum Mehrjährigen Nationalen Kontrollplan (MNKP) sowie für die sogenannte VKCS-Statistik. Letztere wird in Zusammenarbeit mit dem Verband der Kantonschemiker der Schweiz (VKCS) erstellt und ermöglicht eine standardisierte und koordinierte Auswertung der Vollzugsdaten auf nationaler Ebene. Durch die systematische Erfassung und Analyse der Daten lässt sich ein gesamtschweizerischer Überblick – inklusive Liechtenstein – über die Resultate amtlicher Produktkontrollen gewinnen. Die Statistik unterstützt die risikobasierte Beurteilung der Lebensmittelsicherheit, hilft Trends bei Qualitätsmängeln frühzeitig zu erkennen, erleichtert die zielgerichtete Planung von risikomindernden Massnahmen und trägt zur Weiterentwicklung des Vollzugs bei."
+        "fr": "La collecte de données « Expérimentation animale » comprend tous les documents administratifs et toutes les informations relatifs à l'expérimentation animale en Suisse. Elle contient notamment les demandes d'autorisation, les autorisations accordées, les rapports en cours et terminés ainsi que les notifications prescrites par la loi. Outre l'expérimentation animale proprement dite, elle comprend également les autorisations relatives à la détention d'animaux de laboratoire ainsi qu'à l'élevage et à l'utilisation de lignées d'animaux de laboratoire génétiquement modifiés.\n\nLes données servent à la surveillance juridique, au contrôle de l'exécution et à l'évaluation statistique dans le domaine de l'expérimentation animale. Elles permettent une évaluation complète des aspects liés à la protection des animaux dans les projets de recherche ainsi que du respect des prescriptions légales conformément à la législation sur la protection des animaux.\n\nElles constituent en outre une base importante pour l'établissement de rapports nationaux, l'assurance qualité dans l'exécution et le développement de stratégies visant à réduire, affiner et remplacer les expériences sur les animaux (principe des 3R). Les données doivent être archivées aux Archives fédérales.",
+        "de": "Die Datensammlung «Tierversuche» umfasst sämtliche administrativen Unterlagen und Informationen zu Tierversuchen in der Schweiz. Sie beinhaltet insbesondere Bewilligungsgesuche, erteilte Bewilligungen, laufende und abgeschlossene Berichte sowie gesetzlich vorgeschriebene Meldungen. Neben Tierversuchen selbst sind auch Bewilligungen zur Haltung von Versuchstieren sowie zur Zucht und Verwendung genetisch modifizierter Versuchstierlinien enthalten.\n\nDie Daten dienen der rechtlichen Überwachung, der Vollzugskontrolle und der statistischen Auswertung im Bereich Tierversuche. Sie ermöglichen eine umfassende Beurteilung der tierschutzrelevanten Aspekte von Forschungsprojekten sowie der Einhaltung der gesetzlichen Vorgaben gemäss Tierschutzgesetzgebung.\n\nZudem bilden sie eine wichtige Grundlage für die nationale Berichterstattung, die Qualitätssicherung im Vollzug und die Weiterentwicklung von Strategien zur Reduktion, Verfeinerung und zum Ersatz von Tierversuchen (3R-Prinzip). Daten müssen im Bundesarchiv archiviert werden."
     },
     "dct:accessRights": "RESTRICTED",
     "dct:publisher": "BLV-OSAV-USAV-FSVO",
     "dcat:contactPoint": {
-        "schema:name": "BLV, LME, Koordination und Überwachung",
-        "schema:email": "lme@blv.admin.ch"
+        "schema:email": "oberaufsicht-tv@blv.admin.ch",
+        "schema:name": "BLV, TGTS, Tierschutz"
     },
-    "dct:issued": "2014-01-01",
+    "dct:issued": "2025-01-01",
     "dcatap:availability": "STABLE",
     "dcat:keyword": [
-        "Kontrolle",
-        "Lebensmittel",
-        "Laboranalysen"
+        "Tierversuche",
+        "Tierversuchsstatistik",
+        "Versuchstiere",
+        "Versuchstierhaltung",
+        "Tierversuchsbewilligung",
+        "Belastungskategorien",
+        "Berichte",
+        "Versuchsdokumentation",
+        "Tiermodelle",
+        "Forschungsprojekte"
     ],
-    "dct:accrualPeriodicity": "ANNUAL",
-    "dct:modified": "2025-09-10",
+    "dct:accrualPeriodicity": "CONT",
+    "dct:modified": "2025-11-05",
     "prov:qualifiedAttribution": [
         {
-            "prov:agent": "p-1YFBMPWKZ",
+            "prov:agent": "p-9097640",
             "dcat:hadRole": "dataOwner"
         },
         {
-            "prov:agent": "p-2560681",
+            "prov:agent": "p-1YZJ3753C",
             "dcat:hadRole": "dataSteward"
         }
     ],
     "adms:status": "published",
-    "bv:classification": "none",
-    "bv:personalData": "none",
+    "bv:classification": "internal",
+    "bv:personalData": "sensitivePersonalData",
     "bv:typeOfData": "primaryThematicData",
     "bv:archivalValue": "TRUE",
+    "bv:opendata_swiss": {
+        "bv:mustBePublished": "FALSE"
+    },
+    "bv:i14y": {
+        "bv:mustBePublished": "TRUE"
+    },
     "dcat:theme": [
+        "research",
+        "national-economy",
+        "industry",
+        "administration",
         "health"
     ],
-    "dct:spatial": "NO",
-    "dcat:distribution": [
-        {
-            "dct:identifier": "FSVO_D00044_1",
-            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=ATllRBM5seNAl8VdUz1iJ_c",
-            "adms:status": "published",
-            "dct:format": "SAP BO",
-            "dct:title": {
-                "de": "QC aRes Produktkontrollen_Contrôles des produits V2_1",
-                "fr": "QC aRes Produktkontrollen_Contrôles des produits V2_1"
-            },
-            "dct:description": {
-                "de": "Die Kantone und das Fürstentum Liechtenstein übermitteln dem BLV Daten zu folgenden Untersuchungsbereichen:\n\nRückstände von Pflanzenschutzmitteln\nNachweis von gentechnisch veränderten Organismen (GVO)\nKontamination mit Mykotoxinen - giftige Stoffwechselprodukte von Schimmelpilzen",
-                "fr": "Les cantons et la Principauté de Liechtenstein transmettent à l’OSAV des données relatives aux domaines d’analyse suivants :\n\nRésidus de produits phytosanitaires\nDétection d’organismes génétiquement modifiés (OGM)\nContamination par des mycotoxines - métabolites toxiques des moisissures"
-            }
-        }
-    ]
+    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierversuche/forschende.html",
+    "dct:spatial": "YES",
+    "dct:temporal": {},
+    "dcatap:applicableLegislation": [
+        "Tierschutzgesetz (TSchG SR 455) – Art. 3 c",
+        "Art. 17",
+        "Art. 18, Art. 20, Art. 20a, Tierschutzverordnung (TSchV SR 455.1) – Art. 139–152. Tierversuchsverordnung (TVV SR 455.163). Verordnung über das Informationssystem Animex-ch (SR 455.61)"
+    ],
+    "bv:itSystem": "animex-ch"
 }

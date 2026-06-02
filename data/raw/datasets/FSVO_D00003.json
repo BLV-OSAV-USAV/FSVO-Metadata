@@ -1,346 +1,125 @@
 {
     "dct:identifier": "FSVO_D00003",
-    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/YoungHerdsmenwithCows.jpg",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
     "dct:title": {
-        "de": "Tierverkehr",
-        "fr": "Tierverkehr"
+        "fr": "Meldungen an RASFF Kontaktpunkt BLV ",
+        "de": "Meldungen an RASFF Kontaktpunkt BLV ",
+        "en": "Meldungen an RASFF Kontaktpunkt BLV ",
+        "it": "Meldungen an RASFF Kontaktpunkt BLV "
     },
     "dct:description": {
-        "de": "In der Tierverkehrsdatenbank (TVD) gesammelte Meldungen zu Geburten, Abgängen und Bewegungen von Nutztieren (Rinder, Schafe, Ziegen, Equiden, Schweine und Geflügel) in der Schweiz.",
-        "fr": "In der Tierverkehrsdatenbank (TVD) gesammelte Meldungen zu Geburten, Abgängen und Bewegungen von Nutztieren (Rinder, Schafe, Ziegen, Equiden, Schweine und Geflügel) in der Schweiz."
+        "fr": "Diese Datensammlung enthält die Meldungen der kantonalen Vollzugsbehörden an das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) über gesundheitsschädigende Lebensmittel oder Gebrauchsgegenstände. Grundlage bilden Artikel 11 der Lebensmittel- und Gebrauchsgegenständeverordnung (LMVV) sowie Artikel 84 der Lebensmittel- und Gebrauchsgegenständeverordnung (LGV). Erfasst werden Fälle, in denen Produkte an eine unbestimmte Zahl von Konsumentinnen und Konsumenten abgegeben wurden und eine potenzielle Gesundheitsgefährdung für die Bevölkerung mehrerer Kantone besteht oder bestehen könnte. Zudem dokumentiert die Sammlung Informationen aus dem europäischen Schnellwarnsystem RASFF zu gesundheitsgefährdenden Produkten, die in die Schweiz geliefert wurden. Die Daten dienen der schnellen Risikoerkennung, der nationalen und internationalen Koordination sowie der Einleitung von Schutzmassnahmen. Sie ermöglichen dem BLV, zeitnah zu reagieren, Rückrufe auszulösen und die Kantone gezielt zu informieren.   ",
+        "de": "Diese Datensammlung enthält die Meldungen der kantonalen Vollzugsbehörden an das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) über gesundheitsschädigende Lebensmittel oder Gebrauchsgegenstände. Grundlage bilden Artikel 11 der Lebensmittel- und Gebrauchsgegenständeverordnung (LMVV) sowie Artikel 84 der Lebensmittel- und Gebrauchsgegenständeverordnung (LGV). Erfasst werden Fälle, in denen Produkte an eine unbestimmte Zahl von Konsumentinnen und Konsumenten abgegeben wurden und eine potenzielle Gesundheitsgefährdung für die Bevölkerung mehrerer Kantone besteht oder bestehen könnte. Zudem dokumentiert die Sammlung Informationen aus dem europäischen Schnellwarnsystem RASFF zu gesundheitsgefährdenden Produkten, die in die Schweiz geliefert wurden. Die Daten dienen der schnellen Risikoerkennung, der nationalen und internationalen Koordination sowie der Einleitung von Schutzmassnahmen. Sie ermöglichen dem BLV, zeitnah zu reagieren, Rückrufe auszulösen und die Kantone gezielt zu informieren.   "
     },
-    "dct:accessRights": "NON_PUBLIC",
+    "dct:accessRights": "RESTRICTED",
     "dct:publisher": "BLV-OSAV-USAV-FSVO",
     "dcat:contactPoint": {
-        "schema:name": "BLV, Wissensgrundlagen, DCC",
-        "schema:email": "data@blv.admin.ch"
+        "schema:email": "lme@blv.admin.ch",
+        "schema:name": "BLV, LME, Koordination und Überwachung"
     },
+    "dct:issued": "2025-01-01",
+    "dcatap:availability": "STABLE",
     "dcat:keyword": [
-        "animal-owner",
-        "animals"
+        "Lebensmittel",
+        "Gebrauchsgegenstände",
+        "Schutzmassnahmen",
+        "Rückrufe"
     ],
-    "dct:accrualPeriodicity": "DAILY",
+    "dct:accrualPeriodicity": "IRREGULAR",
+    "dct:modified": "2025-09-10",
     "prov:qualifiedAttribution": [
         {
-            "prov:agent": "p-1ZLWBXSJX",
+            "prov:agent": "p-1YFBMPWKZ",
             "dcat:hadRole": "dataOwner"
         },
         {
-            "prov:agent": "p-4636643",
+            "prov:agent": "p-2531965",
             "dcat:hadRole": "dataSteward"
         }
     ],
     "adms:status": "published",
     "bv:classification": "none",
-    "bv:personalData": "personalData",
+    "bv:personalData": "none",
     "bv:typeOfData": "primaryThematicData",
-    "bv:archivalValue": false,
+    "bv:archivalValue": "TRUE",
+    "bv:opendata_swiss": {
+        "bv:mustBePublished": "FALSE"
+    },
+    "bv:i14y": {
+        "bv:mustBePublished": "TRUE"
+    },
     "dcat:theme": [
-        "agriculture",
-        "health",
-        "national-economy"
+        "health"
     ],
-    "dcat:landingPage": "https://www.tierverkehr.ch/",
-    "dct:spatial": "Switzerland",
-    "bv:itSystem": "BI BLV",
+    "dct:spatial": "NO",
+    "dct:temporal": {},
+    "dcatap:applicableLegislation": [
+        ""
+    ],
+    "bv:itSystem": "RASFF",
     "dcat:distribution": [
         {
             "dct:identifier": "FSVO_D00003_1",
-            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=ASoK8CSXZuRHulwwInUcHKc",
-            "adms:status": "published",
-            "dcatap:availability": "AVAILABLE",
-            "dct:format": "SAP BO Webintelligence",
+            "dcat:accessURL": "https://www.dashboard.blv.admin.ch/animals/epizootics/infosm/2025/11",
             "dct:title": {
-                "de": "1000_Betriebsliste TVD/ Liste d'exploitations BDTA",
-                "fr": "1000_Betriebsliste TVD/ Liste d'exploitations BDTA"
+                "fr": "Annonces des cas d‘épizootie en Suisse",
+                "de": "Tierseuchenmeldungen in der Schweiz",
+                "en": "Notifications of epizootics in Switzerland",
+                "it": "Notificie delle epizoozie in Svizzera"
             },
             "dct:description": {
-                "de": "Betriebsliste aus der TVD mit Informationen zur Tierhaltung, Bewirtschafter, Tierzahlen (aus der TVD und AGIS) sowie den in ASAN zugeiteilten BVD-Probenehmer und Kontrolltierärzte. Es wird der aktuelle Bewirtschafter gefiltert, es können aber auch inaktive Betriebe angezeigt werden.",
-                "fr": "Betriebsliste aus der TVD mit Informationen zur Tierhaltung, Bewirtschafter, Tierzahlen (aus der TVD und AGIS) sowie den in ASAN zugeiteilten BVD-Probenehmer und Kontrolltierärzte. Es wird der aktuelle Bewirtschafter gefiltert, es können aber auch inaktive Betriebe angezeigt werden."
+                "fr": "La banque de données InfoSM (= système d’information sur les annonces des cas d‘épizootie) de l’OSAV contient des informations sur tous les foyers d’épizooties soumises à l’annonce obligatoire recensés depuis 1991. Pour pouvoir interpréter correctement les données, il faut intégrer la stratégie de surveillance pour chaque épizootie au moment de la déclaration du cas. N'hésitez pas à nous contacter si vous avez des questions.\n\nLe Bulletin de l'Office fédéral de la sécurité alimentaire et des affaires vétérinaires – appelé aussi bulletin tout court – est le journal où sont publiés, à un intervalle régulier de 7 jours, les derniers cas d’épizooties.\n\nPar « obligation d'annoncer » (ordonnance sur les épizooties art. 61) on entend l'obligation pour toute personne qui détient, assume la garde ou soigne des animaux d'annoncer sans délai à un vétérinaire l'apparition d'une épizootie (loi sur les épizooties, art. 1) et tout symptôme suspect pouvant en faire craindre l’éclosion. Les épizooties des abeilles, des poissons et des animaux sauvages vivant dans la nature doivent elles aussi être annoncées, respectivement à l'inspecteur des ruchers, à l'autorité cantonale compétente pour la pêche, au service vétérinaire cantonal.",
+                "de": "Die Datenbank InfoSM (= Informationssystem Seuchenmeldungen) des BLV enthält Angaben zu sämtlichen Ausbrüchen meldepflichtiger Tierseuchen in der Schweiz seit 1991. Um die Daten korrekt interpretieren zu können, muss die Überwachungsstrategie für die einzelnen Tierseuchen zum Zeitpunkt der Fallmeldung einbezogen werden. Bei Fragen können Sie uns jederzeit Kontaktieren.\n\nDie Mitteilungen des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen – kurz Bulletin – publizieren wöchentlich die aktuellen Seuchenmeldungen.\n\nDie Meldepflicht (Tierseuchenverordnung Art. 61) verpflichtet alle Personen, die Tiere halten, betreuen oder behandeln dazu, Ausbrüche von Tierseuchen (Tierseuchengesetz Art. 1) oder verdächtige Beobachtungen einer Tierärztin oder einem Tierarzt zu melden. Die Meldepflicht gilt auch für Bienen, Fische und freilebende Wildtiere. Meldestellen sind der Bieneninspektor, die für die Fischerei zuständige kantonale Stelle resp. das kantonale Veterinäramt.",
+                "en": "description_en",
+                "it": "La banca dati InfoSM (Sistema d’informazione di notifica delle epizoozie) dell’USAV è uno strumento per la consultazione di dati concernenti tutti i focolai delle epizoozie presenti in Svizzera e soggette all’obbligo di notifica dal 1991. Per interpretare correttamente i dati, è necessario includere la strategia di sorveglianza per le singole epizoozie al momento della segnalazione del caso. ontattateci per qualsiasi domanda.\n\nIl Bollettino dell’USAV pubblica le attuali notifiche di epizoozie a scadenza settimanale.\n\nIn base all'obbligo di notifica (art. 61 dell'ordinanza sulle epizoozie), chi detiene, custodisce o cura animali ha l'obbligo di notificare a un veterinario la comparsa di un'epizoozia (art. 1 della legge sulle epizoozie) e qualsiasi fatto sospetto. L'obbligo di notifica vige anche per api, pesci e animali selvatici in libertà. La notifica può essere effettuata presso l'ispettore degli apiari, l'organo cantonale competente per i pesci o l'Ufficio veterinario cantonale."
             },
-            "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD"
+            "dct:modified": "2025-03-20",
+            "adms:status": "published",
+            "dct:format": "SPARQL, JSON",
+            "dct:license": "terms_open",
+            "schema:comment": "Test"
         },
         {
             "dct:identifier": "FSVO_D00003_2",
-            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AaIs0rePvRlElJ5eWSQyd2c",
-            "adms:status": "published",
-            "dcatap:availability": "AVAILABLE",
-            "dct:format": "SAP BO Webintelligence",
+            "dcat:accessURL": "https://www.dashboard.blv.admin.ch/animals/health/animal_health_statistics",
             "dct:title": {
-                "de": "1002_Schlachtdaten ",
-                "fr": "1002_Schlachtdaten "
+                "fr": "Statistique de la santé animale",
+                "de": "Tiergesundheitsstatistik",
+                "en": "Title",
+                "it": "Statistiche sulla salute degli animali"
             },
             "dct:description": {
-                "de": "Schweizer Schlachtzahlen pro Schlachthof und Gattung (Rinder, Schweine, Schafe, Ziegen). Geflügel werden in kg angegeben.\nUm im Register 'Entwicklung' Vergleichsdaten zu haben, müssen beim laden des Berichts mehrere Jahre ausgewählt werden.\nIm Register 'Par Canton d'Origine' können die Schlachtzahlen nach Herkunftskanton eingesehen werden.",
-                "fr": "Schweizer Schlachtzahlen pro Schlachthof und Gattung (Rinder, Schweine, Schafe, Ziegen). Geflügel werden in kg angegeben.\nUm im Register 'Entwicklung' Vergleichsdaten zu haben, müssen beim laden des Berichts mehrere Jahre ausgewählt werden.\nIm Register 'Par Canton d'Origine' können die Schlachtzahlen nach Herkunftskanton eingesehen werden."
+                "fr": "L'OFAG publie chaque année une statistique de la santé animale. Cette vue d'ensemble montre l'apparition d'épizooties soumises à déclaration et se base sur les prescriptions légales. L'objectif est de donner une image claire de la propagation et de l'évolution des épizooties. L'obligation de déclarer les épizooties et les suspicions d'épizooties est fixée dans la Loi sur les épizooties, article 11 (LFE, RS 916.40) et précisée dans l' Ordonnance sur les épizooties, article 61 (OEp, RS 916.401).",
+                "de": "Das BLV veröffentlicht jährlich eine Tiergesundheitsstatistik. Diese Übersicht zeigt das Auftreten meldepflichtiger Tierseuchen und basiert auf den gesetzlichen Vorgaben. Ziel ist es, ein klares Bild über die Verbreitung und Entwicklung von Tierseuchen zu schaffen. Die Meldepflicht für Tierseuchen und seuchenverdächtigen Erscheinungen ist im Tierseuchengesetz Artikel 11 (TSG, SR 916.40) festgelegt und in der Tierseuchenverordnung Artikel 61(TSV, SR 916.401) präzisiert.",
+                "en": "description_en",
+                "it": "L'USAV pubblica annualmente le statistiche sulla salute degli animali. Questa panoramica mostra l'insorgenza delle malattie animali soggette a obbligo di notifica e si basa sui requisiti di legge. L'obiettivo è quello di creare un quadro chiaro della diffusione e dello sviluppo delle malattie animali. L'obbligo di dichiarare epizoozie e casi sospetti è stabilito nella Legge sulle epizoozie, articolo 11 (LSE, RS 916.40) e specificato nell' Ordinanza sulle epizoozie, articolo 61(OSE, RS 916.401)."
             },
-            "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD"
+            "dct:modified": "2025-03-20",
+            "adms:status": "published",
+            "dct:format": "csv, JSON, PARQUET",
+            "dct:license": "terms_open",
+            "schema:comment": "Test"
         },
         {
             "dct:identifier": "FSVO_D00003_3",
-            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWcxn0ERljZGt38qIUYVncQ",
-            "adms:status": "published",
-            "dcatap:availability": "AVAILABLE",
-            "dct:format": "SAP BO Webintelligence",
+            "dcat:accessURL": "https://www.blv.admin.ch/blv/de/home/tiere/tierseuchen/uebersicht-seuchen/alle-tierseuchen/ai/ai-aktuell.html",
             "dct:title": {
-                "de": "1002a SlaughterNotifications",
-                "fr": "1002a SlaughterNotifications"
+                "fr": "Surveillance de l'influenza aviaire (IA) chez les oiseaux sauvages",
+                "de": "Überwachung von Wildvögeln auf Aviäre Influenza (AI)",
+                "en": "Sorveglianza dei volatili selvatici per l'influenza aviaria (IA)",
+                "it": "Title"
             },
             "dct:description": {
-                "de": "Schlachtungsmedlungen der Schlachhöfe pro Jahr mit Meldedatum. Verspätete Meldungen (mehr als 3 Tage nach Schlachtdatum) werden hervorgehoben.",
-                "fr": "Schlachtungsmedlungen der Schlachhöfe pro Jahr mit Meldedatum. Verspätete Meldungen (mehr als 3 Tage nach Schlachtdatum) werden hervorgehoben."
+                "fr": "L'influenza aviaire (IA) est une maladie virale très contagieuse et aiguë qui touche principalement les espèces aviaires telles que les poulets et les dindes. Les oiseaux sauvages sont considérés comme le réservoir naturel de l'agent pathogène, raison pour laquelle ils jouent un rôle central dans la propagation. Les oiseaux aquatiques et les rapaces en particulier peuvent non seulement être porteurs, mais aussi tomber malades et mourir. Afin de protéger les troupeaux d'animaux d'élevage, les oiseaux sauvages trouvés morts ou malades sont soumis à des tests de dépistage de l'IA. Les données mises à disposition ici contiennent les résultats de ces analyses depuis janvier 2018 et contribuent à mieux surveiller la propagation de la maladie et à soutenir les mesures préventives.",
+                "de": "Die Aviäre Influenza (AI) ist eine hochansteckende und akut verlaufende Viruserkrankung, die vor allem Geflügelarten wie Hühner und Truten betrifft. Wildvögel gelten als natürliches Erregerreservoir, weshalb sie eine zentrale Rolle bei der Verbreitung spielen. Besonders Wasservögel und Greifvögel können nicht nur Träger sein, sondern auch erkranken und sterben. Zum Schutz von Nutztierbeständen werden tot und krank aufgefundene Wildvögel auf AI untersucht. Die hier bereitgestellten Daten enthalten die Ergebnisse dieser Untersuchungen seit Januar 2018 und tragen dazu bei, die Verbreitung der Krankheit besser zu überwachen und präventive Massnahmen zu unterstützen.",
+                "en": "description_en",
+                "it": "L'influenza aviaria (IA) è una malattia virale acuta e altamente contagiosa che colpisce principalmente le specie avicole come polli e tacchini. Gli uccelli selvatici sono considerati un serbatoio naturale dell'agente patogeno, motivo per cui svolgono un ruolo centrale nella diffusione della malattia. In particolare, gli uccelli acquatici e i rapaci possono non solo essere portatori, ma anche ammalarsi e morire. Per proteggere le popolazioni di bestiame, gli uccelli selvatici trovati morti e malati vengono analizzati per l'IA. I dati qui forniti contengono i risultati di questi test da gennaio 2018 e aiutano a monitorare meglio la diffusione della malattia e a sostenere le misure preventive."
             },
-            "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD"
-        },
-        {
-            "dct:identifier": "FSVO_D00003_4",
-            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AX4mArZ2K.tJsDhh5RGVmrI",
+            "dct:modified": "2025-03-20",
             "adms:status": "published",
-            "dcatap:availability": "AVAILABLE",
-            "dct:format": "SAP Webintelligence",
-            "dct:title": {
-                "de": "1006_Soemmerung/Alpage ",
-                "fr": "1006_Soemmerung/Alpage "
-            },
-            "dct:description": {
-                "de": "Der Bericht generiert eine Liste aller Bewegungen im ausgewählten Jahr, die in diesem Jahr vom Kanton 1 in den Kanton 2 und wieder zurück verstellt wurde. Dies zielt insbesondere auf Tiere mit Sömmerung in einem anderen Kanton ab, ohne die Abfrage zu stark einzuschränken (nicht nur Sömmerungsbetriebe). Die Abfrage gibt alle Tiere aus, die Bewegungen von Kanton 1 zu Kanton 2 UND von Kanton 2 zu Kanton 1 hat, wobei die Bewegung von Kanton 2 zu Kanton 1 nach der Bewegung von Kanton 1 zu Kanton 2 stattgefunden hat.",
-                "fr": "Der Bericht generiert eine Liste aller Bewegungen im ausgewählten Jahr, die in diesem Jahr vom Kanton 1 in den Kanton 2 und wieder zurück verstellt wurde. Dies zielt insbesondere auf Tiere mit Sömmerung in einem anderen Kanton ab, ohne die Abfrage zu stark einzuschränken (nicht nur Sömmerungsbetriebe). Die Abfrage gibt alle Tiere aus, die Bewegungen von Kanton 1 zu Kanton 2 UND von Kanton 2 zu Kanton 1 hat, wobei die Bewegung von Kanton 2 zu Kanton 1 nach der Bewegung von Kanton 1 zu Kanton 2 stattgefunden hat."
-            },
-            "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD/Rinder"
-        },
-        {
-            "dct:identifier": "FSVO_D00003_5",
-            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AfuxCOm6869Dmr9IeG2sJ78",
-            "adms:status": "published",
-            "dct:format": "SAP BO Webintelligence",
-            "dct:title": {
-                "de": "1006a_Soemmerung/Alpage_France",
-                "fr": "1006a_Soemmerung/Alpage_France"
-            },
-            "dct:description": {
-                "de": "Der Bericht zeigt alle Aufenthalte mit dem ausgewählten Zugangsjahr in Frankreich. Als Filterkriterium wurden Aufenthaltsbetriebe ausgewählt, die im Gemeindename 'France' enthalten. Es ist uns (BLV) aktuell nicht bekannt, ob alle Sömmerungsbetriebe in FR so abgebildet sind.",
-                "fr": "Der Bericht zeigt alle Aufenthalte mit dem ausgewählten Zugangsjahr in Frankreich. Als Filterkriterium wurden Aufenthaltsbetriebe ausgewählt, die im Gemeindename 'France' enthalten. Es ist uns (BLV) aktuell nicht bekannt, ob alle Sömmerungsbetriebe in FR so abgebildet sind."
-            },
-            "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD/Rinder"
-        },
-        {
-            "dct:identifier": "FSVO_D00003_6",
-            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AXv6yl7cBOBMhGQt_J8tdbw",
-            "adms:status": "published",
-            "dcatap:availability": "AVAILABLE",
-            "dct:format": "SAP BO Webintelligence",
-            "dct:title": {
-                "de": "1007_Datenprüfung bei Rinderhaltungen",
-                "fr": "1007_Datenprüfung bei Rinderhaltungen"
-            },
-            "dct:description": {
-                "de": "Dieser Bericht ermittelt Betriebe mit Rindern, die bestimmte Kriterien erfüllen. Das Ziel ist, möglicherweise veraltete TVD-Daten zu finden und bereinigen zu können. \n\nZudem werden Betriebe angezeigt, die Rinder mit fehlerhafter Tiergeschichte oder verschollene Rinder haben. \n\nFehlerhafte Tiergeschichte:\nKann auch wegen einer fehlenden oder fehlerhaften Meldung eines Vorgängerbetriebs verursacht worden sein, nicht zwingend durch den aktuellen Aufenthaltsbetrieb des Tieres. Der Unterschied ist mit der vorliegenden Auswertung nicht ersichtlich.\n\nVerschollene Rinder:\nWenn für ein Rind 30 Tage nach dem letzten Abgang kein neuer Zugang vorliegt, erhält es in der TVD den Status verschollen. \nDie Anzahl verschollene Rinder wird pro Jahr ausgewiesen, wobei sich das Jahr jeweils auf das Abgangsdatum bezieht.",
-                "fr": "Dieser Bericht ermittelt Betriebe mit Rindern, die bestimmte Kriterien erfüllen. Das Ziel ist, möglicherweise veraltete TVD-Daten zu finden und bereinigen zu können. \n\nZudem werden Betriebe angezeigt, die Rinder mit fehlerhafter Tiergeschichte oder verschollene Rinder haben. \n\nFehlerhafte Tiergeschichte:\nKann auch wegen einer fehlenden oder fehlerhaften Meldung eines Vorgängerbetriebs verursacht worden sein, nicht zwingend durch den aktuellen Aufenthaltsbetrieb des Tieres. Der Unterschied ist mit der vorliegenden Auswertung nicht ersichtlich.\n\nVerschollene Rinder:\nWenn für ein Rind 30 Tage nach dem letzten Abgang kein neuer Zugang vorliegt, erhält es in der TVD den Status verschollen. \nDie Anzahl verschollene Rinder wird pro Jahr ausgewiesen, wobei sich das Jahr jeweils auf das Abgangsdatum bezieht."
-            },
-            "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD/Rinder"
-        },
-        {
-            "dct:identifier": "FSVO_D00003_7",
-            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVp0T4_eQMJDtbbrJZlf8lY",
-            "adms:status": "published",
-            "dct:format": "SAP Webintelligence",
-            "dct:title": {
-                "de": "1032_Rinderkohorte",
-                "fr": "1032_Rinderkohorte"
-            },
-            "dct:description": {
-                "de": "Im vorliegenden Bericht wird die vollständige Tiergeschicht aller Rinder angezeigt, die in einem ausgewählten\nZeitfenster auf ausgewählten Betrieben gestanden sind. Schlachtungsmeldungen sind orange eingefärbt, die\nAufenthalte auf einem ausgewählten Betrieb blau.",
-                "fr": "Im vorliegenden Bericht wird die vollständige Tiergeschicht aller Rinder angezeigt, die in einem ausgewählten\nZeitfenster auf ausgewählten Betrieben gestanden sind. Schlachtungsmeldungen sind orange eingefärbt, die\nAufenthalte auf einem ausgewählten Betrieb blau."
-            },
-            "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD/Rinder"
-        },
-        {
-            "dct:identifier": "FSVO_D00003_8",
-            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWRPgwCSBg5Aqne41OfZy.8",
-            "adms:status": "published",
-            "dcatap:availability": "AVAILABLE",
-            "dct:format": "SAP BO Webintelligence",
-            "dct:title": {
-                "de": "1012 Einstallungsmeldungen/Annonces des mises au poulailler",
-                "fr": "1012 Einstallungsmeldungen/Annonces des mises au poulailler"
-            },
-            "dct:description": {
-                "de": "In der TVD erfasste Einstallungsmeldungen. Diese müssen für Nutzgeflügelherden ab einem bestimmten Schwellenwert (Legehennen: 1000, Mastgeflügel: 500, Zuchttiere: 250) gemacht werden.",
-                "fr": "In der TVD erfasste Einstallungsmeldungen. Diese müssen für Nutzgeflügelherden ab einem bestimmten Schwellenwert (Legehennen: 1000, Mastgeflügel: 500, Zuchttiere: 250) gemacht werden."
-            },
-            "schema:comment": "Speicherort in ALVPH:  /3 Shared/BLV - KAV/TVD/Geflügel"
-        },
-        {
-            "dct:identifier": "FSVO_D00003_9",
-            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=ASzUqNzLCohPsx16wMJqtNs",
-            "adms:status": "published",
-            "dct:format": "SAP BO Webintelligence",
-            "dct:title": {
-                "de": "1013 Wanderherden/ troupeaux en transhumance",
-                "fr": "1013 Wanderherden/ troupeaux en transhumance"
-            },
-            "dct:description": {
-                "de": "Der Bericht listet Schafe in Wanderherden auf mit Information zu Trächtigkeit der weiblichen Tiere. Dafür wird das in der TVD erfasste Datum der letzten Ablammung genommen. Wenn zwischen dem Abgangsdatum aus der Wanderherde und der Lammung weniger als 150 Tage liegen, wird davon ausgegangen, dass das Tier in der Wanderherde trächtig war.",
-                "fr": "Der Bericht listet Schafe in Wanderherden auf mit Information zu Trächtigkeit der weiblichen Tiere. Dafür wird das in der TVD erfasste Datum der letzten Ablammung genommen. Wenn zwischen dem Abgangsdatum aus der Wanderherde und der Lammung weniger als 150 Tage liegen, wird davon ausgegangen, dass das Tier in der Wanderherde trächtig war."
-            },
-            "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD/Schafe und Ziegen"
-        },
-        {
-            "dct:identifier": "FSVO_D00003_10",
-            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYCt2Mp4iwdDryNZpD0YWNk",
-            "adms:status": "published",
-            "dct:format": "SAP BO Webintelligence",
-            "dct:title": {
-                "de": "1014 Schafe_Ziegen/ Moutons_chèvres",
-                "fr": "1014 Schafe_Ziegen/ Moutons_chèvres"
-            },
-            "dct:description": {
-                "de": "Liste der am gewählten Stichtag (default 'Heute') lebendigen Schafe und Ziegen pro Betrieb.\n\nAusserdem gibt es eine Übersicht schweizweit und pro Kanton über die Anzahl Tierhaltungen mit Schafen bzw. die Anzahl Schafe am gewählten Stichtag.",
-                "fr": "Liste der am gewählten Stichtag (default 'Heute') lebendigen Schafe und Ziegen pro Betrieb.\n\nAusserdem gibt es eine Übersicht schweizweit und pro Kanton über die Anzahl Tierhaltungen mit Schafen bzw. die Anzahl Schafe am gewählten Stichtag."
-            },
-            "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD/Schafe und Ziegen"
-        },
-        {
-            "dct:identifier": "FSVO_D00003_11",
-            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AdEKTgqpDNNHmnkWZnUHMAM",
-            "adms:status": "published",
-            "dcatap:availability": "AVAILABLE",
-            "dct:format": "SAP BO Webintelligence",
-            "dct:title": {
-                "de": "1015_Schafe AGIS und TVD _v4",
-                "fr": "1015_Schafe AGIS und TVD _v4"
-            },
-            "dct:description": {
-                "de": "\tAls Grundlage dienen die TVD- Betriebe mit dem Flag 'has sheep'=1, d.h. alle Betriebe in der\nTVD die unter Gattungen 'Schafe' aufgelistet haben. Zusätzlich werden die Tiertage aus der\nTVD für das laufende Jahr (ab 1.1.) das Vorjahr (aktuelles Jahr-1) berechnet und als\nDurchschnittswert angezeigt (geteilt durch die Anzahl Tage der Rechnungsperiode). Die aus\nder Erhebung gemeldeten Schafe aus AGIS werden für die aktuellste verfügbare Erhebung für\ndiesen Betrieb angezeigt (aktuelles Jahr oder Vorjahr). NB: Der Durchschnittswert aus AGIS\nentspricht dem berechneten Wert des Erhebungsjahrs - 1. Also wenn das Erhebungsjahr\n=2023, entspricht die Summe AGIS dem berechneten Wert aus der TVD für 2022.",
-                "fr": "\tAls Grundlage dienen die TVD- Betriebe mit dem Flag 'has sheep'=1, d.h. alle Betriebe in der\nTVD die unter Gattungen 'Schafe' aufgelistet haben. Zusätzlich werden die Tiertage aus der\nTVD für das laufende Jahr (ab 1.1.) das Vorjahr (aktuelles Jahr-1) berechnet und als\nDurchschnittswert angezeigt (geteilt durch die Anzahl Tage der Rechnungsperiode). Die aus\nder Erhebung gemeldeten Schafe aus AGIS werden für die aktuellste verfügbare Erhebung für\ndiesen Betrieb angezeigt (aktuelles Jahr oder Vorjahr). NB: Der Durchschnittswert aus AGIS\nentspricht dem berechneten Wert des Erhebungsjahrs - 1. Also wenn das Erhebungsjahr\n=2023, entspricht die Summe AGIS dem berechneten Wert aus der TVD für 2022."
-            },
-            "schema:comment": "Speicherort in ALVPH:  /3 Shared/BLV - KAV/TVD/Schafe und Ziegen"
-        },
-        {
-            "dct:identifier": "FSVO_D00003_12",
-            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AXlzKyq2YPtFgZO9Vublttc",
-            "adms:status": "published",
-            "dcatap:availability": "AVAILABLE",
-            "dct:format": "SAP BO Webintelligence",
-            "dct:title": {
-                "de": "1016_Animaux péris/ Verendete Tiere",
-                "fr": "1016_Animaux péris/ Verendete Tiere"
-            },
-            "dct:description": {
-                "de": "\tTiere die in der TVD als Verendet gemeldet wurden. Filter Abgangstyp= \"Verendung\" für Rinder, Schafe und Ziegen; Abgangstyp= \"Verendung/Euthanasierung\" für Pferde ",
-                "fr": "\tTiere die in der TVD als Verendet gemeldet wurden. Filter Abgangstyp= \"Verendung\" für Rinder, Schafe und Ziegen; Abgangstyp= \"Verendung/Euthanasierung\" für Pferde "
-            },
-            "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD"
-        },
-        {
-            "dct:identifier": "FSVO_D00003_13",
-            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AQsVTAd_khdNijb2x6ulNBA",
-            "adms:status": "published",
-            "dcatap:availability": "AVAILABLE",
-            "dct:format": "SAP BO Webintelligence",
-            "dct:title": {
-                "de": "1017_Schweine AGIS TVD und FLEKO",
-                "fr": "1017_Schweine AGIS TVD und FLEKO"
-            },
-            "dct:description": {
-                "de": "\tEs werden alle Betriebe aufgelistet die mindestens eine Meldung zu Schweinen haben: \n- Schlachtungsmeldung (FLEKO)\n- Zugangs- oder Abgangsmeldung (TVD)\n- Durchschnittlicher Schweinebestand >0 (Erhebungsdaten, AGIS)",
-                "fr": "\tEs werden alle Betriebe aufgelistet die mindestens eine Meldung zu Schweinen haben: \n- Schlachtungsmeldung (FLEKO)\n- Zugangs- oder Abgangsmeldung (TVD)\n- Durchschnittlicher Schweinebestand >0 (Erhebungsdaten, AGIS)"
-            },
-            "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD/Schweine"
-        },
-        {
-            "dct:identifier": "FSVO_D00003_14",
-            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AfykkR0owDlFiZcySGNp4DI",
-            "adms:status": "published",
-            "dct:format": "SAP BO Webintelligence",
-            "dct:title": {
-                "de": "1018_Schafhaltungen mit Tieren auf Sömmerungsbetrieben",
-                "fr": "1018_Schafhaltungen mit Tieren auf Sömmerungsbetrieben"
-            },
-            "dct:description": {
-                "de": "Dieser ALVPH-Bericht gibt eine Übersicht über alle Schafhaltungen, welche Tiere zur Sömmerung gegeben haben (seit 2021).\nDamit können z.B. Betriebe identifziert werden, die im Rahmen der für die Moderhinke-Bekämpfung erforderlichen Probenahmen zeitlich priorisiert werden sollen.",
-                "fr": "Dieser ALVPH-Bericht gibt eine Übersicht über alle Schafhaltungen, welche Tiere zur Sömmerung gegeben haben (seit 2021).\nDamit können z.B. Betriebe identifziert werden, die im Rahmen der für die Moderhinke-Bekämpfung erforderlichen Probenahmen zeitlich priorisiert werden sollen."
-            },
-            "schema:comment": "Speicherort in ALVPH:  /3 Shared/BLV - KAV/TVD/Schafe und Ziegen"
-        },
-        {
-            "dct:identifier": "FSVO_D00003_15",
-            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=Ad82RiV4II5Ljz7foByFxxg",
-            "adms:status": "published",
-            "dcatap:availability": "AVAILABLE",
-            "dct:format": "SAP BO Webintelligence",
-            "dct:title": {
-                "de": "1020_Naissances Bovins/Ovins",
-                "fr": "1020_Naissances Bovins/Ovins"
-            },
-            "dct:description": {
-                "de": "In der TVD gemeldete Geburten von Rindern und Schafen ab einem gewählten Jahr pro Kanton.",
-                "fr": "In der TVD gemeldete Geburten von Rindern und Schafen ab einem gewählten Jahr pro Kanton."
-            },
-            "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD"
-        },
-        {
-            "dct:identifier": "FSVO_D00003_16",
-            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYZZyXTtxwFJgb38w4A4PD4",
-            "adms:status": "published",
-            "dcatap:availability": "AVAILABLE",
-            "dct:format": "SAP BO Webintelligence",
-            "dct:title": {
-                "de": "1030_Equiden",
-                "fr": "1030_Equiden"
-            },
-            "dct:description": {
-                "de": "Liste der in der TVD registrierten, lebenden Equiden (Todesdatum=NULL). Zum Aufenthaltsbetrieb werden zusätzlich die Anzahl Equiden sowie die Durchschnittswerte und GVE aus der letzten Erhebung angegeben.",
-                "fr": "Liste der in der TVD registrierten, lebenden Equiden (Todesdatum=NULL). Zum Aufenthaltsbetrieb werden zusätzlich die Anzahl Equiden sowie die Durchschnittswerte und GVE aus der letzten Erhebung angegeben."
-            },
-            "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD"
-        },
-        {
-            "dct:identifier": "FSVO_D00003_17",
-            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWjr6fxs59JFhg2FQnV.O6I",
-            "adms:status": "published",
-            "dcatap:availability": "AVAILABLE",
-            "dct:format": "SAP BO Webintelligence",
-            "dct:title": {
-                "de": "1031_Meldeverhalten/Déclarations",
-                "fr": "1031_Meldeverhalten/Déclarations"
-            },
-            "dct:description": {
-                "de": "Auswertung des Meldeverhaltens der Tierhalter. Es werden Zugangs- und Abgangsmeldungen von Rindern,\nSchafen und Ziegen aus der TVD berücksichtigt. Beim öffnen des Berichts muss ein Kanton und der\nauszuwertende Zeitraum angegeben werden.",
-                "fr": "Auswertung des Meldeverhaltens der Tierhalter. Es werden Zugangs- und Abgangsmeldungen von Rindern,\nSchafen und Ziegen aus der TVD berücksichtigt. Beim öffnen des Berichts muss ein Kanton und der\nauszuwertende Zeitraum angegeben werden."
-            },
-            "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD"
-        },
-        {
-            "dct:identifier": "FSVO_D00003_18",
-            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AcKmg5aGOTpNg2o6TtyoTak",
-            "adms:status": "published",
-            "dct:format": "SAP BO Webintelligence",
-            "dct:title": {
-                "de": "1033_Hofschlachtungen",
-                "fr": "1033_Hofschlachtungen"
-            },
-            "dct:description": {
-                "de": "Liste von Betrieben, die in den ausgewählten Jahren «Hofschlachtungen» von\nRindern, Schafen und/oder Ziegen in der TVD gemeldet haben.",
-                "fr": "Liste von Betrieben, die in den ausgewählten Jahren «Hofschlachtungen» von\nRindern, Schafen und/oder Ziegen in der TVD gemeldet haben."
-            },
-            "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD"
-        },
-        {
-            "dct:identifier": "FSVO_D00003_19",
-            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=Aa_qUkoPyx9AlJ51VAbfHM0",
-            "adms:status": "published",
-            "dcatap:availability": "AVAILABLE",
-            "dct:format": "SAP BO Webintelligence",
-            "dct:title": {
-                "de": "1050_BT_Vaccination",
-                "fr": "1050_BT_Vaccination"
-            },
-            "dct:description": {
-                "de": "Alle in der TVD ab April 2026 erfassten Bluetongue Impfungen",
-                "fr": "Alle in der TVD ab April 2026 erfassten Bluetongue Impfungen"
-            },
-            "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD"
+            "dct:format": "CSV, SPARQL, JSON, KML",
+            "dct:license": "terms_open",
+            "schema:comment": "Test"
         }
     ]
 }

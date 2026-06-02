@@ -2,14 +2,14 @@
     "dct:identifier": "FSVO_D00033",
     "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
     "dct:title": {
-        "fr": "Früherkennung kleiner Beutekäfer (Apinella)",
-        "de": "Früherkennung kleiner Beutekäfer (Apinella)",
-        "en": "Früherkennung kleiner Beutekäfer (Apinella)",
-        "it": "Früherkennung kleiner Beutekäfer (Apinella)"
+        "fr": "Tierseuchenmeldungen (InfoSM)",
+        "de": "Tierseuchenmeldungen (InfoSM)",
+        "en": "Tierseuchenmeldungen (InfoSM)",
+        "it": "Tierseuchenmeldungen (InfoSM)"
     },
     "dct:description": {
-        "fr": "La base de données « Apinella » recueille systématiquement des informations sur la surveillance du petit coléoptère (Aethina tumida) en Suisse. Elle contient notamment des données sur l'emplacement des ruchers, les résultats de la surveillance des pièges et des analyses en laboratoire, les signalements des apiculteurs et les schémas historiques d'infestation. Elle intègre également les données de mouvement issues de la banque de données sur le trafic des animaux (BDTA) afin d'analyser les voies de propagation des colonies d'abeilles potentiellement touchées.\n\nCes données servent principalement à détecter précocement une éventuelle introduction ou apparition du petit coléoptère, qui représente un danger considérable pour la santé des abeilles et donc aussi pour l'agriculture. Grâce à la collecte et à l'évaluation systématiques des données, l'OSAV peut réagir rapidement aux cas suspects, effectuer des contrôles ciblés et prendre des mesures de lutte.\n\nLa collecte de données permet une analyse efficace des risques, facilite la planification stratégique en cas d'épidémie et renforce la collaboration avec les apiculteurs et les autorités cantonales chargées de l'exécution. Elle est un élément central pour maintenir la Suisse indemne de maladies dans le domaine de la santé des abeilles.",
-        "de": "Die Datensammlung «Apinella» erfasst systematisch Informationen zur Überwachung des Kleinen Beutekäfers (Aethina tumida) in der Schweiz. Sie beinhaltet unter anderem Standortdaten von Bienenständen, Ergebnisse von Fallenmonitoring und Laboranalysen, Meldungen von Imkerinnen und Imkern sowie historische Befallsmuster. Zusätzlich werden Bewegungsdaten aus der Tierverkehrsdatenbank (TVD) mit einbezogen, um Verbringungswege potenziell betroffener Bienenvölker zu analysieren.\n\nDiese Daten dienen primär der Früherkennung eines möglichen Eintrags oder Ausbruchs des Kleinen Beutekäfers, der eine erhebliche Gefahr für die Bienengesundheit und damit auch für die Landwirtschaft darstellt. Durch die systematische Sammlung und Auswertung kann das BLV rasch auf Verdachtsfälle reagieren, gezielte Kontrollen durchführen und Massnahmen zur Bekämpfung einleiten.\n\nDie Datensammlung ermöglicht eine effiziente Risikoanalyse, unterstützt die strategische Planung im Seuchenfall und stärkt die Zusammenarbeit mit Imkerinnen und Imkern sowie den kantonalen Vollzugsstellen. Sie ist ein zentrales Element zur Aufrechterhaltung der Seuchenfreiheit der Schweiz im Bereich Bienengesundheit."
+        "fr": "La collecte de données « Déclarations d'épizooties » sert à enregistrer, vérifier et gérer les cas d'épizooties soumis à déclaration en Suisse. Elle contient des données structurées sur les cas confirmés d'épizooties, y compris l'espèce animale, le nombre d'animaux concernés, les exploitations concernées, les diagnostics, les mesures prises et la répartition géographique. Les services vétérinaires cantonaux enregistrent ces notifications dans l'application ASAN. Après un examen technique, les cas sont validés pour publication par l'Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV).\n\nLa collecte de données permet d'avoir une vue d'ensemble centralisée et actualisée de la situation épidémiologique et sert de base aux obligations de déclaration nationales et internationales. Elle sert à la détection précoce des foyers, à la coordination des mesures de lutte et à l'évaluation des risques. La collecte de données contribue ainsi de manière décisive à la santé animale, au respect des obligations internationales et au maintien du statut de pays indemne de maladies animales en Suisse.",
+        "de": "Die Datensammlung «Tierseuchenmeldungen» dient der Erfassung, Prüfung und Verwaltung meldepflichtiger Tierseuchenfälle in der Schweiz. Sie enthält strukturierte Daten zu  Bestätigungsfällen von Tierseuchen, inklusive Tierart, Anzahl betroffener Tiere, betroffener Betriebe, Diagnosen, Massnahmen und geografischer Verteilung. Die kantonalen Veterinärdienste erfassen diese Meldungen in der Applikation ASAN. Nach einer fachlichen Prüfung werden die Fälle vom Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) zur Veröffentlichung freigegeben.\n\nDie Datensammlung ermöglicht die zentrale, aktuelle Übersicht über das Seuchengeschehen und bildet die Grundlage für nationale und internationale Meldepflichten. Sie dient der Früherkennung von Ausbrüchen, der Koordination von Bekämpfungsmassnahmen sowie der Risikobewertung. Die Datensammlung trägt damit entscheidend zur Tiergesundheit, zur Einhaltung internationaler Verpflichtungen und zur Aufrechterhaltung des Tierseuchenfreiheitsstatus der Schweiz bei."
     },
     "dct:accessRights": "RESTRICTED",
     "dct:publisher": "BLV-OSAV-USAV-FSVO",
@@ -20,10 +20,10 @@
     "dct:issued": "2025-01-01",
     "dcatap:availability": "STABLE",
     "dcat:keyword": [
-        "Tiergesundheit",
-        "Überwachung",
-        "Beutekäfer",
-        "Bienen"
+        "InfoSM",
+        "Tierseuchen",
+        "meldepflicht",
+        "ASAN"
     ],
     "dct:accrualPeriodicity": "CONT",
     "dct:modified": "2025-12-02",
@@ -33,7 +33,7 @@
             "dcat:hadRole": "dataOwner"
         },
         {
-            "prov:agent": "p-9737669",
+            "prov:agent": "p-1ZWYN10VX",
             "dcat:hadRole": "dataSteward"
         }
     ],
@@ -43,7 +43,9 @@
     "bv:typeOfData": "primaryThematicData",
     "bv:archivalValue": "FALSE",
     "bv:opendata_swiss": {
-        "bv:mustBePublished": "FALSE"
+        "bv:mustBePublished": "FALSE",
+        "dct:identifier": "tierseuchen@bundesamt-fur-lebensmittelsicherheit-und-veterinaerwesen-blv",
+        "dcat:accessURL": "https://opendata.swiss/de/dataset/meldepflichtige-tierseuchen-in-der-schweiz"
     },
     "bv:i14y": {
         "bv:mustBePublished": "TRUE"
@@ -52,11 +54,11 @@
         "agriculture",
         "national-economy"
     ],
-    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierseuchen/uebersicht-seuchen/alle-tierseuchen/kleiner-beutenkaefer.html",
+    "dcat:landingPage": "https://www.dashboard.blv.admin.ch/animals/epizootics/infosm/2025/44",
     "dct:spatial": "YES",
     "dct:temporal": {},
     "dcatap:applicableLegislation": [
-        ""
+        "TSG, TSV (Art. 64, 65), BStatV (Tiergesundheitsstatistik 09.39)"
     ],
-    "bv:itSystem": "APINELLA"
+    "bv:itSystem": "ASAN"
 }
