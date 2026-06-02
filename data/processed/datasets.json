@@ -1,7 +1,7 @@
 [
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D98002",
+        "dct:identifier": "FSVO_D00024",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
             "fr": "Laborergebnisse der kantonalen Lebensmittelkontrolle Produktkontrolle",
@@ -43,7 +43,7 @@
         "bv:itSystem": "ARES",
         "dcat:distribution": [
             {
-                "dct:identifier": "FSVO_D98002_1",
+                "dct:identifier": "FSVO_D00024_1",
                 "dcat:accessURL": "https://opendata.swiss/de/dataset/lebensmittelkontrolle",
                 "adms:status": "validated",
                 "dcatap:availability": "AVAILABLE",
@@ -75,7 +75,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D65613",
+        "dct:identifier": "FSVO_D00023",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
             "fr": "Kontrollergebnisse der kantonalen Lebensmittelkontrolle Prozesskontrolle",
@@ -118,7 +118,7 @@
         "bv:itSystem": "ARES",
         "dcat:distribution": [
             {
-                "dct:identifier": "FSVO_D65613_1",
+                "dct:identifier": "FSVO_D00023_1",
                 "dcat:accessURL": "https://opendata.swiss/de/dataset/lebensmittelkontrolle",
                 "adms:status": "published",
                 "dcatap:availability": "AVAILABLE",
@@ -150,7 +150,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D89055",
+        "dct:identifier": "FSVO_D00039",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
             "fr": "Meldungen an RASFF Kontaktpunkt BLV ",
@@ -200,7 +200,7 @@
         "bv:itSystem": "RASFF",
         "dcat:distribution": [
             {
-                "dct:identifier": "FSVO_D89055_1",
+                "dct:identifier": "FSVO_DIS00391",
                 "dcat:accessURL": "https://www.dashboard.blv.admin.ch/animals/epizootics/infosm/2025/11",
                 "dct:title": {
                     "fr": "Annonces des cas d‘épizootie en Suisse",
@@ -221,7 +221,7 @@
                 "schema:comment": "Test"
             },
             {
-                "dct:identifier": "FSVO_D89055_2",
+                "dct:identifier": "FSVO_DIS00392",
                 "dcat:accessURL": "https://www.dashboard.blv.admin.ch/animals/health/animal_health_statistics",
                 "dct:title": {
                     "fr": "Statistique de la santé animale",
@@ -242,7 +242,7 @@
                 "schema:comment": "Test"
             },
             {
-                "dct:identifier": "FSVO_D89055_3",
+                "dct:identifier": "FSVO_DIS00393",
                 "dcat:accessURL": "https://www.blv.admin.ch/blv/de/home/tiere/tierseuchen/uebersicht-seuchen/alle-tierseuchen/ai/ai-aktuell.html",
                 "dct:title": {
                     "fr": "Surveillance de l'influenza aviaire (IA) chez les oiseaux sauvages",
@@ -277,7 +277,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D79993",
+        "dct:identifier": "FSVO_D00040",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
             "fr": "Einfuhr und Ausfuhrbewilligungen  in Bereich Tiergesundheit und Lebensmittel",
@@ -328,7 +328,7 @@
         "bv:itSystem": "Inpec",
         "dcat:distribution": [
             {
-                "dct:identifier": "FSVO_D79993_1",
+                "dct:identifier": "FSVO_DIS000401",
                 "dcat:accessURL": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/ernaehrung/menuCH/menuch-lebensmittelkonsum-schweiz.html",
                 "dct:title": {
                     "fr": "menuCH: Consommation alimentaire en Suisse",
@@ -360,7 +360,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D89872",
+        "dct:identifier": "FSVO_D00041",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
             "fr": "eCert  Gesundheitsbescheinigungen für den sicheren Export",
@@ -412,7 +412,7 @@
         "bv:itSystem": "ecert",
         "dcat:distribution": [
             {
-                "dct:identifier": "FSVO_D89872_1",
+                "dct:identifier": "FSVO_DIS000411",
                 "dcat:accessURL": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/ernaehrung/menuCH/menuch-konsummengen-und-portionsgroessen.html",
                 "dct:title": {
                     "fr": "menuCH: Taille des portions",
@@ -444,7 +444,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D29793",
+        "dct:identifier": "FSVO_D00036",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
             "fr": "Selenstudie",
@@ -494,7 +494,7 @@
         "bv:itSystem": "METAS",
         "dcat:distribution": [
             {
-                "dct:identifier": "FSVO_D29793_1",
+                "dct:identifier": "FSVO_DIS000361",
                 "dcat:accessURL": "https://kwk.blv.admin.ch/stallliste-de/",
                 "dct:title": {
                     "fr": "Équipements d’étables et systèmes de stabulation",
@@ -527,7 +527,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D25760",
+        "dct:identifier": "FSVO_D00045",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
         "dct:title": {
             "fr": "IBR/EBL NML Stichprobe",
@@ -579,7 +579,7 @@
         "bv:itSystem": "ARES",
         "dcat:distribution": [
             {
-                "dct:identifier": "FSVO_D25760_1",
+                "dct:identifier": "FSVO_DIS000451",
                 "dcat:accessURL": "https://www.dashboard.blv.admin.ch/nutrition/food-safety/meat-inspection-statistics",
                 "dct:title": {
                     "fr": "Statistique du contrôle des viandes",
@@ -612,7 +612,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D70957",
+        "dct:identifier": "FSVO_D00037",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
             "fr": "Salzstudie",
@@ -662,7 +662,7 @@
         "bv:itSystem": "FSVO Data Repository",
         "dcat:distribution": [
             {
-                "dct:identifier": "FSVO_D70957_1",
+                "dct:identifier": "FSVO_DIS000371",
                 "dcat:accessURL": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/rechts-und-vollzugsgrundlagen/bewilligung-und-meldung/listen-bewilligter-betriebe.html",
                 "dct:title": {
                     "fr": "Établissements du secteur alimentaire",
@@ -695,7 +695,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D52097",
+        "dct:identifier": "FSVO_D00046",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
         "dct:title": {
             "fr": "IBR/EBL ML Stichprobe",
@@ -748,7 +748,7 @@
         "bv:itSystem": "ARES",
         "dcat:distribution": [
             {
-                "dct:identifier": "FSVO_D52097_1",
+                "dct:identifier": "FSVO_DIS000461",
                 "dcat:accessURL": "https://www.blv.admin.ch/blv/de/home/tiere/tierseuchen/bekaempfung/projekt-moderhinke.html",
                 "dct:title": {
                     "fr": "Lutte à l’échelle nationale contre le piétin chez les moutons",
@@ -781,7 +781,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D23775",
+        "dct:identifier": "FSVO_D00027",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
             "fr": "Betriebsbewilligungen von Lebensmittelunternehmen",
@@ -823,7 +823,7 @@
         "bv:itSystem": "ASAN",
         "dcat:distribution": [
             {
-                "dct:identifier": "FSVO_D23775_1",
+                "dct:identifier": "FSVO_D00027_1",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWsLmZEKx4hIow_6OsQ7qq4",
                 "adms:status": "published",
                 "dct:format": "SAP BO",
@@ -838,7 +838,7 @@
                 "schema:comment": "Puplikationsort in ALVPH:  /3 Shared/BLV - KAV/ASAN"
             },
             {
-                "dct:identifier": "FSVO_D23775_2",
+                "dct:identifier": "FSVO_D00027_2",
                 "dcat:accessURL": "https://opendata.swiss/de/dataset/lebensmittelbetriebe",
                 "adms:status": "validated",
                 "dcatap:availability": "AVAILABLE",
@@ -871,7 +871,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D50506",
+        "dct:identifier": "FSVO_D00055",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANDChicken.jpg",
         "dct:title": {
             "fr": "Tierhalteverbote",
@@ -928,7 +928,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D31235",
+        "dct:identifier": "FSVO_D00031",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
             "fr": "Tierische Lebensmittel aus Drittstaaten Auswertung aus TRACES NT",
@@ -979,7 +979,7 @@
         "bv:itSystem": "TRACES",
         "dcat:distribution": [
             {
-                "dct:identifier": "FSVO_D31235_1",
+                "dct:identifier": "FSVO_DIS000311",
                 "dcat:accessURL": "https://www.psm.admin.ch/",
                 "dct:title": {
                     "fr": "Produits phytosanitaires",
@@ -1012,7 +1012,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D70301",
+        "dct:identifier": "FSVO_D00032",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
             "fr": "Kontrollen der Lebensmittelhygiene tierischer Herkunft ",
@@ -1069,7 +1069,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D64607",
+        "dct:identifier": "FSVO_D00026",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
             "fr": "Ergebnisse der Fleischkontrolle",
@@ -1112,7 +1112,7 @@
         "bv:itSystem": "FLEKO",
         "dcat:distribution": [
             {
-                "dct:identifier": "FSVO_D64607_1",
+                "dct:identifier": "FSVO_D00026_1",
                 "dcat:accessURL": "https://opendata.swiss/de/dataset/fleischkontrollstatistik",
                 "adms:status": "validated",
                 "dcatap:availability": "AVAILABLE",
@@ -1132,7 +1132,7 @@
                 "dct:license": "terms_by"
             },
             {
-                "dct:identifier": "FSVO_D64607_2",
+                "dct:identifier": "FSVO_D00026_2",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AXzHjhl.vmVNrVJMogbbrmk",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -1147,7 +1147,7 @@
                 "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/Fleko"
             },
             {
-                "dct:identifier": "FSVO_D64607_3",
+                "dct:identifier": "FSVO_D00026_3",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWzGNfGAIOBDnt9XubMldlc",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -1162,7 +1162,7 @@
                 "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/Fleko"
             },
             {
-                "dct:identifier": "FSVO_D64607_4",
+                "dct:identifier": "FSVO_D00026_4",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AaxmQsIUpNJPi6I5eMkg7KA",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -1177,7 +1177,7 @@
                 "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/Fleko"
             },
             {
-                "dct:identifier": "FSVO_D64607_5",
+                "dct:identifier": "FSVO_D00026_5",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVSfpyhTuV9IsfUczqMTUZ8",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -1192,7 +1192,7 @@
                 "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/Fleko"
             },
             {
-                "dct:identifier": "FSVO_D64607_6",
+                "dct:identifier": "FSVO_D00026_6",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AZQrtVcZI4hCoJGcfg3Z6KI",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -1207,7 +1207,7 @@
                 "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/Fleko"
             },
             {
-                "dct:identifier": "FSVO_D64607_7",
+                "dct:identifier": "FSVO_D00026_7",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVkvNLM19bRBrbUxAZB826Y",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -1222,7 +1222,7 @@
                 "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/Fleko"
             },
             {
-                "dct:identifier": "FSVO_D64607_8",
+                "dct:identifier": "FSVO_D00026_8",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVvipC5atIhAvXEi6nYOs6w",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -1237,7 +1237,7 @@
                 "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/Fleko"
             },
             {
-                "dct:identifier": "FSVO_D64607_9",
+                "dct:identifier": "FSVO_D00026_9",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=Ad70wnNcZCRKgOmbcubB0J8",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -1252,7 +1252,7 @@
                 "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/Fleko"
             },
             {
-                "dct:identifier": "FSVO_D64607_10",
+                "dct:identifier": "FSVO_D00026_10",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AT_8mFNJyBdEkLPNB9SP4i8",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -1267,7 +1267,7 @@
                 "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/Fleko"
             },
             {
-                "dct:identifier": "FSVO_D64607_11",
+                "dct:identifier": "FSVO_D00026_11",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AUI_r3_XwstEim4yHxPMlIg",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -1282,7 +1282,7 @@
                 "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/Fleko"
             },
             {
-                "dct:identifier": "FSVO_D64607_12",
+                "dct:identifier": "FSVO_D00026_12",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AfBxVqPEIqZGt_DvBzKnQYI",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -1297,7 +1297,7 @@
                 "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/Fleko"
             },
             {
-                "dct:identifier": "FSVO_D64607_13",
+                "dct:identifier": "FSVO_D00026_13",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=ARXhvhuS1HdBsIbWk.B1D1s",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -1312,7 +1312,7 @@
                 "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/Fleko"
             },
             {
-                "dct:identifier": "FSVO_D64607_14",
+                "dct:identifier": "FSVO_D00026_14",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVhWzHcTG75MqsoVG_ccj2c",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -1327,7 +1327,7 @@
                 "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/Fleko"
             },
             {
-                "dct:identifier": "FSVO_D64607_15",
+                "dct:identifier": "FSVO_D00026_15",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AW7aAXff6JBNhooxYHYe2W8",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -1342,7 +1342,7 @@
                 "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/Fleko"
             },
             {
-                "dct:identifier": "FSVO_D64607_16",
+                "dct:identifier": "FSVO_D00026_16",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AcVEchUScxpEnj3aQLV6MBg",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -1357,7 +1357,7 @@
                 "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/Fleko"
             },
             {
-                "dct:identifier": "FSVO_D64607_17",
+                "dct:identifier": "FSVO_D00026_16",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=ARJC.xpIQ0pEi.79MRWV.1M",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -1400,7 +1400,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D23963",
+        "dct:identifier": "FSVO_D00056",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
         "dct:title": {
             "fr": "Früherkennung kleiner Beutekäfer (Apinella)",
@@ -1461,7 +1461,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D13516",
+        "dct:identifier": "FSVO_D00052",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/Medicine.jpg",
         "dct:title": {
             "fr": "Kontrollen tierärztlicher Privatapotheken",
@@ -1523,7 +1523,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D30311",
+        "dct:identifier": "FSVO_D00047",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
         "dct:title": {
             "fr": "Moderhinkestatus",
@@ -1596,7 +1596,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D30820",
+        "dct:identifier": "FSVO_D00028",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
             "fr": "Rueckstaende und Fremdstoffe in tierischen Lebensmitteln NFUP Schweiz",
@@ -1654,7 +1654,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D18911",
+        "dct:identifier": "FSVO_D00051",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/Medicine.jpg",
         "dct:title": {
             "fr": "Laborergebnisse Antibiotikaresistenzmonitoring",
@@ -1716,7 +1716,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D16356",
+        "dct:identifier": "FSVO_D00029",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
             "fr": "Befundstatistik Produktkontrolle",
@@ -1754,7 +1754,7 @@
         "dct:spatial": "NO",
         "dcat:distribution": [
             {
-                "dct:identifier": "FSVO_D16356_1",
+                "dct:identifier": "FSVO_D00029_01",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=ATllRBM5seNAl8VdUz1iJ_c",
                 "adms:status": "published",
                 "dct:format": "SAP BO",
@@ -1780,7 +1780,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D35857",
+        "dct:identifier": "FSVO_D00059",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
         "dct:title": {
             "fr": "Tierseuchenmeldungen (InfoSM)",
@@ -1843,7 +1843,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D15216",
+        "dct:identifier": "FSVO_D00025",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
             "fr": "Ergebnisse der oeffentlich rechtlichen Milchpruefung",
@@ -1886,7 +1886,7 @@
         "bv:itSystem": "ARES; dBMilch (BLW)",
         "dcat:distribution": [
             {
-                "dct:identifier": "FSVO_D15216_1",
+                "dct:identifier": "FSVO_D00025_01",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AZfTFL4gdo5Gie8SMHqEmKw",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -1901,7 +1901,7 @@
                 "schema:comment": "Publikationsort in ALVPH: /3 Shared/BLV - KAV/aRes"
             },
             {
-                "dct:identifier": "FSVO_D15216_2",
+                "dct:identifier": "FSVO_D00025_02",
                 "dcat:accessURL": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/publikationen/statistik-und-berichte-lebensmittelsicherheit.html",
                 "adms:status": "workInProgress",
                 "dcatap:availability": "AVAILABLE",
@@ -1933,7 +1933,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D38389",
+        "dct:identifier": "FSVO_D00038",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
             "fr": "Stillmonitoring",
@@ -1992,7 +1992,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D27284",
+        "dct:identifier": "FSVO_D00034",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
             "de": "menuCH - die erste Nationale Ernährungserhebung",
@@ -2033,7 +2033,7 @@
         "bv:itSystem": "FSVO Data Repository",
         "dcat:distribution": [
             {
-                "dct:identifier": "FSVO_D27284_1",
+                "dct:identifier": "FSVO_D00034_1",
                 "dcat:accessURL": "https://opendata.swiss/de/dataset/menuch-portionsgrossen",
                 "adms:status": "validated",
                 "dcatap:availability": "AVAILABLE",
@@ -2053,7 +2053,7 @@
                 "dct:license": "terms_by"
             },
             {
-                "dct:identifier": "FSVO_D27284_2",
+                "dct:identifier": "FSVO_D00034_2",
                 "dcat:accessURL": "https://opendata.swiss/de/dataset/menuch_lebensmittelkonsum",
                 "adms:status": "validated",
                 "dcatap:availability": "AVAILABLE",
@@ -2089,7 +2089,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D84034",
+        "dct:identifier": "FSVO_D00050",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/Medicine.jpg",
         "dct:title": {
             "fr": "Vertriebsdaten von Antibiotika",
@@ -2151,7 +2151,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D97899",
+        "dct:identifier": "FSVO_D00030",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
             "fr": "Schwerpunktprogramme an der Grenze Risikobasierte Importkontrollen von Lebensmitteln und Gebrauchsgegenstaenden",
@@ -2211,7 +2211,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D31883",
+        "dct:identifier": "53692279-d8f0-40f9-8c0c-5358cf94a23a",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/YoungHerdsmenwithCows.jpg",
         "dct:title": {
             "de": "Tierverkehr",
@@ -2247,7 +2247,7 @@
         "bv:itSystem": "BI BLV",
         "dcat:distribution": [
             {
-                "dct:identifier": "FSVO_D31883_1",
+                "dct:identifier": "D_FSVO_TVD_1",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=ASoK8CSXZuRHulwwInUcHKc",
                 "adms:status": "published",
                 "dcatap:availability": "AVAILABLE",
@@ -2263,7 +2263,7 @@
                 "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD"
             },
             {
-                "dct:identifier": "FSVO_D31883_2",
+                "dct:identifier": "D_FSVO_TVD_2",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AaIs0rePvRlElJ5eWSQyd2c",
                 "adms:status": "published",
                 "dcatap:availability": "AVAILABLE",
@@ -2279,7 +2279,7 @@
                 "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD"
             },
             {
-                "dct:identifier": "FSVO_D31883_3",
+                "dct:identifier": "D_FSVO_TVD_3",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWcxn0ERljZGt38qIUYVncQ",
                 "adms:status": "published",
                 "dcatap:availability": "AVAILABLE",
@@ -2295,7 +2295,7 @@
                 "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD"
             },
             {
-                "dct:identifier": "FSVO_D31883_4",
+                "dct:identifier": "D_FSVO_TVD_4",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AX4mArZ2K.tJsDhh5RGVmrI",
                 "adms:status": "published",
                 "dcatap:availability": "AVAILABLE",
@@ -2311,7 +2311,7 @@
                 "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD/Rinder"
             },
             {
-                "dct:identifier": "FSVO_D31883_5",
+                "dct:identifier": "D_FSVO_TVD_5",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AfuxCOm6869Dmr9IeG2sJ78",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -2326,7 +2326,7 @@
                 "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD/Rinder"
             },
             {
-                "dct:identifier": "FSVO_D31883_6",
+                "dct:identifier": "D_FSVO_TVD_6",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AXv6yl7cBOBMhGQt_J8tdbw",
                 "adms:status": "published",
                 "dcatap:availability": "AVAILABLE",
@@ -2342,7 +2342,7 @@
                 "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD/Rinder"
             },
             {
-                "dct:identifier": "FSVO_D31883_7",
+                "dct:identifier": "D_FSVO_TVD_7",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVp0T4_eQMJDtbbrJZlf8lY",
                 "adms:status": "published",
                 "dct:format": "SAP Webintelligence",
@@ -2357,7 +2357,7 @@
                 "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD/Rinder"
             },
             {
-                "dct:identifier": "FSVO_D31883_8",
+                "dct:identifier": "D_FSVO_TVD_8",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWRPgwCSBg5Aqne41OfZy.8",
                 "adms:status": "published",
                 "dcatap:availability": "AVAILABLE",
@@ -2373,7 +2373,7 @@
                 "schema:comment": "Speicherort in ALVPH:  /3 Shared/BLV - KAV/TVD/Geflügel"
             },
             {
-                "dct:identifier": "FSVO_D31883_9",
+                "dct:identifier": "D_FSVO_TVD_9",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=ASzUqNzLCohPsx16wMJqtNs",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -2388,7 +2388,7 @@
                 "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD/Schafe und Ziegen"
             },
             {
-                "dct:identifier": "FSVO_D31883_10",
+                "dct:identifier": "D_FSVO_TVD_10",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYCt2Mp4iwdDryNZpD0YWNk",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -2403,7 +2403,7 @@
                 "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD/Schafe und Ziegen"
             },
             {
-                "dct:identifier": "FSVO_D31883_11",
+                "dct:identifier": "D_FSVO_TVD_11",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AdEKTgqpDNNHmnkWZnUHMAM",
                 "adms:status": "published",
                 "dcatap:availability": "AVAILABLE",
@@ -2419,7 +2419,7 @@
                 "schema:comment": "Speicherort in ALVPH:  /3 Shared/BLV - KAV/TVD/Schafe und Ziegen"
             },
             {
-                "dct:identifier": "FSVO_D31883_12",
+                "dct:identifier": "D_FSVO_TVD_12",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AXlzKyq2YPtFgZO9Vublttc",
                 "adms:status": "published",
                 "dcatap:availability": "AVAILABLE",
@@ -2435,7 +2435,7 @@
                 "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD"
             },
             {
-                "dct:identifier": "FSVO_D31883_13",
+                "dct:identifier": "D_FSVO_TVD_13",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AQsVTAd_khdNijb2x6ulNBA",
                 "adms:status": "published",
                 "dcatap:availability": "AVAILABLE",
@@ -2451,7 +2451,7 @@
                 "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD/Schweine"
             },
             {
-                "dct:identifier": "FSVO_D31883_14",
+                "dct:identifier": "D_FSVO_TVD_14",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AfykkR0owDlFiZcySGNp4DI",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -2466,7 +2466,7 @@
                 "schema:comment": "Speicherort in ALVPH:  /3 Shared/BLV - KAV/TVD/Schafe und Ziegen"
             },
             {
-                "dct:identifier": "FSVO_D31883_15",
+                "dct:identifier": "D_FSVO_TVD_15",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=Ad82RiV4II5Ljz7foByFxxg",
                 "adms:status": "published",
                 "dcatap:availability": "AVAILABLE",
@@ -2482,7 +2482,7 @@
                 "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD"
             },
             {
-                "dct:identifier": "FSVO_D31883_16",
+                "dct:identifier": "D_FSVO_TVD_16",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYZZyXTtxwFJgb38w4A4PD4",
                 "adms:status": "published",
                 "dcatap:availability": "AVAILABLE",
@@ -2498,7 +2498,7 @@
                 "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD"
             },
             {
-                "dct:identifier": "FSVO_D31883_17",
+                "dct:identifier": "D_FSVO_TVD_17",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWjr6fxs59JFhg2FQnV.O6I",
                 "adms:status": "published",
                 "dcatap:availability": "AVAILABLE",
@@ -2514,7 +2514,7 @@
                 "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD"
             },
             {
-                "dct:identifier": "FSVO_D31883_18",
+                "dct:identifier": "D_FSVO_TVD_18",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AcKmg5aGOTpNg2o6TtyoTak",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -2529,7 +2529,7 @@
                 "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/TVD"
             },
             {
-                "dct:identifier": "FSVO_D31883_19",
+                "dct:identifier": "D_FSVO_TVD_19",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=Aa_qUkoPyx9AlJ51VAbfHM0",
                 "adms:status": "published",
                 "dcatap:availability": "AVAILABLE",
@@ -2576,7 +2576,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D84677",
+        "dct:identifier": "FSVO_D00033",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
             "fr": "Nährwertdaten",
@@ -2615,7 +2615,7 @@
         "bv:itSystem": "Nährwertdatenbank",
         "dcat:distribution": [
             {
-                "dct:identifier": "FSVO_D84677_1",
+                "dct:identifier": "FSV_D00033_1",
                 "dcat:accessURL": "https://opendata.swiss/de/dataset/naehrwerte_lebensmittel",
                 "adms:status": "workInProgress",
                 "dcatap:availability": "AVAILABLE",
@@ -2647,7 +2647,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D76273",
+        "dct:identifier": "FSVO_D00049",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANDChicken.jpg",
         "dct:title": {
             "fr": "Stalleinrichtungen",
@@ -2714,7 +2714,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D31428",
+        "dct:identifier": "FSVO_D00053",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/Medicine.jpg",
         "dct:title": {
             "fr": "Einfuhr von Tierarzneimittel",
@@ -2761,7 +2761,7 @@
         "bv:itSystem": "TAM-I",
         "dcat:distribution": [
             {
-                "dct:identifier": "FSVO_D31428_1",
+                "dct:identifier": "FSVO_D00053_1",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AQp4uSV4AEJLtLsOCBpr20A",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -2787,7 +2787,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D48999",
+        "dct:identifier": "FSVO_D00060",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
         "dct:title": {
             "fr": "Tierseuchendiagnostik (aRes-DB)",
@@ -2842,7 +2842,7 @@
         "bv:itSystem": "ARES",
         "dcat:distribution": [
             {
-                "dct:identifier": "FSVO_D48999_1",
+                "dct:identifier": "FSVO_D00060_01",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AZfTFL4gdo5Gie8SMHqEmKw",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -2857,7 +2857,7 @@
                 "schema:comment": "Publikationsort in ALVPH: /3 Shared/BLV - KAV/aRes"
             },
             {
-                "dct:identifier": "FSVO_D48999_2",
+                "dct:identifier": "FSVO_D00060_2",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVScgO4KZD9JlBATTMcR1SE",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -2872,7 +2872,7 @@
                 "schema:comment": "Publikationsort in ALVPH: /3 Shared/BLV - KAV/aRes"
             },
             {
-                "dct:identifier": "FSVO_D48999_3",
+                "dct:identifier": "FSVO_D00060_3",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYbDIoXl4StIslo9qPxmLyI",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -2901,7 +2901,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D87337",
+        "dct:identifier": "FSVO_D00042",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/StillLifeWithMouse.jpg",
         "dct:title": {
             "fr": "Tierversuchsdaten",
@@ -2974,7 +2974,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D95461",
+        "dct:identifier": "FSVO_D00065",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
             "fr": "Monitoringprogramm Pestizidrückstände",
@@ -3036,7 +3036,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D88496",
+        "dct:identifier": "FSVO_D00043",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/StillLifeWithMouse.jpg",
         "dct:title": {
             "fr": "Tierversuchsstatistik",
@@ -3100,7 +3100,7 @@
         "bv:itSystem": "BI BLV",
         "dcat:distribution": [
             {
-                "dct:identifier": "FSVO_D88496_1",
+                "dct:identifier": "FSVO_DIS000431",
                 "dcat:accessURL": "https://naehrwertdaten.ch/de/",
                 "dct:title": {
                     "fr": "Valeurs nutritives des aliments",
@@ -3133,7 +3133,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D52629",
+        "dct:identifier": "FSVO_D00054",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/Medicine.jpg",
         "dct:title": {
             "fr": "Antibiotikaeinsatz in der Veterinärmedizin",
@@ -3179,7 +3179,7 @@
         "bv:itSystem": "IS ABV",
         "dcat:distribution": [
             {
-                "dct:identifier": "FSVO_D52629_1",
+                "dct:identifier": "FSVO_D00054_1",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AbpnYbH6NoxHmy6Y3ow0x_w",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -3194,7 +3194,7 @@
                 "schema:comment": "Speicherort in ALVPH: /3 Shared/BLV - KAV/ISABV"
             },
             {
-                "dct:identifier": "FSVO_D52629_2",
+                "dct:identifier": "FSVO_D00054_2",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=Abrzu5Nm_lNMgisU.TE2T4w",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -3209,7 +3209,7 @@
                 "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/ISABV"
             },
             {
-                "dct:identifier": "FSVO_D52629_3",
+                "dct:identifier": "FSVO_D00054_3",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=ARtNz_52_qhOk3RdASDicgI",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -3224,7 +3224,7 @@
                 "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/ISABV"
             },
             {
-                "dct:identifier": "FSVO_D52629_4",
+                "dct:identifier": "FSVO_D00054_4",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AakTjK5IXm5HgOrQ4jJSs9w",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -3239,7 +3239,7 @@
                 "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/ISABV"
             },
             {
-                "dct:identifier": "FSVO_D52629_5",
+                "dct:identifier": "FSVO_D00054_5",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AbST7br5WB1Ji9xzhq2jJoM",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -3254,7 +3254,7 @@
                 "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/ISABV"
             },
             {
-                "dct:identifier": "FSVO_D52629_6",
+                "dct:identifier": "FSVO_D00054_6",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AaW2imFI0SRKgFPU0wGUl3M",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -3269,7 +3269,7 @@
                 "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/ISABV"
             },
             {
-                "dct:identifier": "FSVO_D52629_7",
+                "dct:identifier": "FSVO_D00054_7",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=ARZ06K8qgwNBuZnYBoPvPyA",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -3301,7 +3301,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D36384",
+        "dct:identifier": "FSVO_D00035",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
             "fr": "menuCH Kids",
@@ -3362,7 +3362,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D28486",
+        "dct:identifier": "FSVO_D00048",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
         "dct:title": {
             "de": "Bovine viral diarrhea (BVD)",
@@ -3409,7 +3409,7 @@
         "bv:itSystem": "BI BLW",
         "dcat:distribution": [
             {
-                "dct:identifier": "FSVO_D28486_1",
+                "dct:identifier": "FSVO_D00048_1",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AbGWIG_jzTpGn5UHKA3R73w",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -3424,7 +3424,7 @@
                 "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
             },
             {
-                "dct:identifier": "FSVO_D28486_2",
+                "dct:identifier": "FSVO_D00048_2",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWCDLyOXz4dPlbwZZO6MlFg",
                 "adms:status": "published",
                 "dct:format": "SAP BO CrystalReport",
@@ -3439,7 +3439,7 @@
                 "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
             },
             {
-                "dct:identifier": "FSVO_D28486_3",
+                "dct:identifier": "FSVO_D00048_3",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AaGxbCy54ZBCqdqSO0ZUJY4",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -3454,7 +3454,7 @@
                 "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
             },
             {
-                "dct:identifier": "FSVO_D28486_4",
+                "dct:identifier": "FSVO_D00048_4",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVO4GEu7Xl5Jrpq7firi8LQ",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -3469,7 +3469,7 @@
                 "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
             },
             {
-                "dct:identifier": "FSVO_D28486_5",
+                "dct:identifier": "FSVO_D00048_5",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AUT7ZpmMGOdAld4ry3Xmyf0",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -3484,7 +3484,7 @@
                 "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
             },
             {
-                "dct:identifier": "FSVO_D28486_6",
+                "dct:identifier": "FSVO_D00048_6",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AQUQUjf7b4pLmUdZGuN6.k0",
                 "adms:status": "published",
                 "dct:format": "SAP BO CrystalReport",
@@ -3499,7 +3499,7 @@
                 "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
             },
             {
-                "dct:identifier": "FSVO_D28486_7",
+                "dct:identifier": "FSVO_D00048_7",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=Abrm2t5K..BOrhFWno922LY",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -3514,7 +3514,7 @@
                 "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
             },
             {
-                "dct:identifier": "FSVO_D28486_8",
+                "dct:identifier": "FSVO_D00048_8",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AcAhAdCKR11JkHCEUGrsDIk",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -3529,7 +3529,7 @@
                 "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
             },
             {
-                "dct:identifier": "FSVO_D28486_9",
+                "dct:identifier": "FSVO_D00048_9",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AZVv5jIo9u1BjYNidygH2PI",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -3544,7 +3544,7 @@
                 "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
             },
             {
-                "dct:identifier": "FSVO_D28486_10",
+                "dct:identifier": "FSVO_D00048_10",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AXXOnCQjPkxEjmdQtJ11dUA",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -3559,7 +3559,7 @@
                 "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
             },
             {
-                "dct:identifier": "FSVO_D28486_11",
+                "dct:identifier": "FSVO_D00048_11",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=Aa.xHoTHjfJGhBq6YdJy_88",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -3574,7 +3574,7 @@
                 "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
             },
             {
-                "dct:identifier": "FSVO_D28486_12",
+                "dct:identifier": "FSVO_D00048_12",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AZFKk_3R19tKnxyQfKAcuv8",
                 "adms:status": "published",
                 "dct:format": "SAP BO CrystalReport",
@@ -3589,7 +3589,7 @@
                 "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
             },
             {
-                "dct:identifier": "FSVO_D28486_13",
+                "dct:identifier": "FSVO_D00048_13",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AXCFPr2iLilIvMwDyQUUyXQ",
                 "adms:status": "published",
                 "dct:format": "SAP BO CrystalReport",
@@ -3604,7 +3604,7 @@
                 "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
             },
             {
-                "dct:identifier": "FSVO_D28486_14",
+                "dct:identifier": "FSVO_D00048_14",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AQhmv_PtjjpLjV5hCKixtcw",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -3619,7 +3619,7 @@
                 "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
             },
             {
-                "dct:identifier": "FSVO_D28486_15",
+                "dct:identifier": "FSVO_D00048_15",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AUDcZwFUoF9IumVYYtkkZf0",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -3634,7 +3634,7 @@
                 "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
             },
             {
-                "dct:identifier": "FSVO_D28486_16",
+                "dct:identifier": "FSVO_D00048_16",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=ARq.1QCwiy1GntFYIynJGWY",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -3649,7 +3649,7 @@
                 "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
             },
             {
-                "dct:identifier": "FSVO_D28486_17",
+                "dct:identifier": "FSVO_D00048_17",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=Aah4qbmW7elDhCT597swi6E",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -3664,7 +3664,7 @@
                 "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
             },
             {
-                "dct:identifier": "FSVO_D28486_18",
+                "dct:identifier": "FSVO_D00048_18",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AczOIDUC405FhqnLxnYE3eA",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -3679,7 +3679,7 @@
                 "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
             },
             {
-                "dct:identifier": "FSVO_D28486_19",
+                "dct:identifier": "FSVO_D00048_19",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=ATqrbvN6071BoC1.UFEpjdc",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -3694,7 +3694,7 @@
                 "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
             },
             {
-                "dct:identifier": "FSVO_D28486_20",
+                "dct:identifier": "FSVO_D00048_20",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=ATStqJ1gZA1DoulE_14C4Q4",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -3709,7 +3709,7 @@
                 "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
             },
             {
-                "dct:identifier": "FSVO_D28486_21",
+                "dct:identifier": "FSVO_D00048_21",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYxtXuhjXpVLuOulu6FhZ6Y",
                 "adms:status": "published",
                 "dct:format": "SAP BO CrystalReport",
@@ -3724,7 +3724,7 @@
                 "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
             },
             {
-                "dct:identifier": "FSVO_D28486_22",
+                "dct:identifier": "FSVO_D00048_17",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWN_88Up.rZIh0JxAN2DWQE",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -3739,7 +3739,7 @@
                 "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
             },
             {
-                "dct:identifier": "FSVO_D28486_23",
+                "dct:identifier": "FSVO_D00048_23",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AeIK5MYhGzZNuqoRPRFtCFA",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -3754,7 +3754,7 @@
                 "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
             },
             {
-                "dct:identifier": "FSVO_D28486_24",
+                "dct:identifier": "FSVO_D00048_24",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AbnSIuBmmpREiCJkbz.ETZs",
                 "adms:status": "published",
                 "dct:format": "SAP BO CrystalReport",
@@ -3769,7 +3769,7 @@
                 "schema:comment": "ALVPH   /3 Shared/BLV - KAV/BVD"
             },
             {
-                "dct:identifier": "FSVO_D28486_25",
+                "dct:identifier": "FSVO_D00048_25",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AeM7aFeakkxBpzaC_2RfwuQ",
                 "adms:status": "published",
                 "dct:format": "SAP BO CrystalReport",
@@ -3826,7 +3826,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D32324",
+        "dct:identifier": "FSVO_D00022",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
             "fr": "Stoffdatenbank Anwendungsplattform Verbraucherschutz APVS",
@@ -3885,7 +3885,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D64231",
+        "dct:identifier": "FSVO_D00044",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
         "dct:title": {
             "fr": "Brucellose Stichprobe",
@@ -3929,7 +3929,7 @@
         "bv:itSystem": "ARES",
         "dcat:distribution": [
             {
-                "dct:identifier": "FSVO_D64231_1",
+                "dct:identifier": "FSVO_D00044_01",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AZfTFL4gdo5Gie8SMHqEmKw",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -3944,7 +3944,7 @@
                 "schema:comment": "Publikationsort in ALVPH: /3 Shared/BLV - KAV/aRes"
             },
             {
-                "dct:identifier": "FSVO_D64231_2",
+                "dct:identifier": "FSVO_D00044_2",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVScgO4KZD9JlBATTMcR1SE",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -3959,7 +3959,7 @@
                 "schema:comment": "Publikationsort in ALVPH: /3 Shared/BLV - KAV/aRes"
             },
             {
-                "dct:identifier": "FSVO_D64231_3",
+                "dct:identifier": "FSVO_D00044_3",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYbDIoXl4StIslo9qPxmLyI",
                 "adms:status": "published",
                 "dct:format": "SAP BO Webintelligence",
@@ -3988,7 +3988,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D76908",
+        "dct:identifier": "FSVO_D00061",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANDChicken.jpg",
         "dct:title": {
             "fr": "Bewilligung Ausbildung (SKN und FBA)",
@@ -4030,7 +4030,7 @@
         "bv:itSystem": "ASAN",
         "dcat:distribution": [
             {
-                "dct:identifier": "FSVO_D76908_1",
+                "dct:identifier": "FSVO_D00061_01",
                 "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWsLmZEKx4hIow_6OsQ7qq4",
                 "adms:status": "published",
                 "dct:format": "SAP BO",
@@ -4057,7 +4057,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D49080",
+        "dct:identifier": "FSVO_D00057",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
         "dct:title": {
             "fr": "Salmonellenüberwachung: Liste der Mastpouletbetriebe",
@@ -4117,7 +4117,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D14576",
+        "dct:identifier": "FSVO_D00058",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
         "dct:title": {
             "fr": "Stichprobenplanung AI/ND / Liste Sentinelbetriebe AI/ND",
@@ -4177,7 +4177,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D67935",
+        "dct:identifier": "FSVO_D00062",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
             "fr": "LMS (Learning Management System) ",
@@ -4232,7 +4232,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D22472",
+        "dct:identifier": "FSVO_D00068",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/Red_Vineyard.jpg",
         "dct:title": {
             "fr": "Pflanzenschutzmittelverzeichnis",
@@ -4292,7 +4292,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D86688",
+        "dct:identifier": "FSVO_D00064",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
             "fr": "ARAMIS",
@@ -4356,7 +4356,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D77743",
+        "dct:identifier": "FSVO_D00066",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/Red_Vineyard.jpg",
         "dct:title": {
             "fr": "Zulassung von Pflanzenschutzmittel",
@@ -4415,7 +4415,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D27348",
+        "dct:identifier": "FSVO_D00067",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/Red_Vineyard.jpg",
         "dct:title": {
             "fr": "Risikobewertung von Pflanzenschutzmittel",
@@ -4474,7 +4474,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D44766",
+        "dct:identifier": "8b89586b-bc39-49c3-9853-59b99a809d57",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/YoungHerdsmenwithCows.jpg",
         "dct:title": {
             "de": "Daten des Agrarinformationssystem AGIS",
@@ -4512,7 +4512,7 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D66939",
+        "dct:identifier": "FSVO_D00063",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
             "fr": "Survalyzer",
