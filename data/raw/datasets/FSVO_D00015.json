@@ -1,59 +1,84 @@
 {
     "dct:identifier": "FSVO_D00015",
-    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/Red_Vineyard.jpg",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
     "dct:title": {
-        "fr": "Pflanzenschutzmittelverzeichnis",
-        "de": "Pflanzenschutzmittelverzeichnis",
-        "en": "Pflanzenschutzmittelverzeichnis",
-        "it": "Pflanzenschutzmittelverzeichnis"
+        "fr": "Tierische Lebensmittel aus Drittstaaten Auswertung aus TRACES NT",
+        "de": "Tierische Lebensmittel aus Drittstaaten Auswertung aus TRACES NT",
+        "en": "Tierische Lebensmittel aus Drittstaaten Auswertung aus TRACES NT",
+        "it": "Tierische Lebensmittel aus Drittstaaten Auswertung aus TRACES NT"
     },
     "dct:description": {
-        "fr": "Les produits phytosanitaires autorisés sont répertoriés dans le registre des produits phytosanitaires. Ce registre contient des informations sur les substances actives, les phytoprotecteurs et les synergistes contenus dans les produits, sur le titulaire de l'autorisation, sur l'utilisation prévue, sur les restrictions d'utilisation, sur les doses d'application, sur l'étiquetage des dangers et sur les conditions d'utilisation.\nLes produits phytosanitaires dont l'autorisation a été révoquée restent inscrits dans le registre jusqu'à l'expiration de la période d'utilisation.",
-        "de": "Zugelassene Pflanzenschutzmittel werden im Pflanzenschutzmittelverzeichnis aufgelistet. Das Verzeichnis enthält Angaben zu den enthaltenen Wirkstoffen, Safenern und Synergisten, zur Zulassungsinhaberin, zur vorgesehenen Anwendung, zu Anwendungseinschränkungen, Aufwandmengen, Gefahrenkennzeichnung und zu Anwendungsauflagen.\nPflanzenschutzmittel, deren Zulassung widerrufen wurde werden noch bis zum Ablauf der Verwendungsfrist im Verzeichnis geführt."
+        "fr": "Diese Datensammlung basiert auf Informationen aus dem europäischen System TRACES-NT und umfasst Einträge zu Sendungen tierischer Lebensmittel, die aus Drittstaaten in die Schweiz eingeführt werden. Erfasst werden unter anderem die Art, Herkunft, Menge und der Zielort der Waren sowie die Ergebnisse amtlicher Kontrollen an den Grenzkontrollstellen. Die Daten stammen direkt aus den Eingaben der zuständigen Grenzkontrollstellen und dokumentieren sämtliche relevanten Vorgänge im Rahmen der Einfuhrüberwachung. Die Datensammlung dient dem internen Datenmanagement des Bundesamts für Lebensmittelsicherheit und Veterinärwesen (BLV) und stellt eine wichtige Grundlage für den Jahresbericht zum Mehrjährigen Nationalen Kontrollplan (MNKP) sowie für die VKCS-Statistik des Verbands der Kantonschemiker der Schweiz dar. Sie ermöglicht einen schweizweiten Überblick – einschliesslich Liechtenstein – über die Einfuhren tierischer Lebensmittel aus Drittstaaten und liefert eine verlässliche Basis für die risikobasierte Analyse, die Früherkennung von Auffälligkeiten und die gezielte Weiterentwicklung von Kontrollstrategien. Damit trägt sie wesentlich zur Stärkung des Vollzugs und zur Sicherstellung der Lebensmittelsicherheit in der Schweiz bei.",
+        "de": "Diese Datensammlung basiert auf Informationen aus dem europäischen System TRACES-NT und umfasst Einträge zu Sendungen tierischer Lebensmittel, die aus Drittstaaten in die Schweiz eingeführt werden. Erfasst werden unter anderem die Art, Herkunft, Menge und der Zielort der Waren sowie die Ergebnisse amtlicher Kontrollen an den Grenzkontrollstellen. Die Daten stammen direkt aus den Eingaben der zuständigen Grenzkontrollstellen und dokumentieren sämtliche relevanten Vorgänge im Rahmen der Einfuhrüberwachung. Die Datensammlung dient dem internen Datenmanagement des Bundesamts für Lebensmittelsicherheit und Veterinärwesen (BLV) und stellt eine wichtige Grundlage für den Jahresbericht zum Mehrjährigen Nationalen Kontrollplan (MNKP) sowie für die VKCS-Statistik des Verbands der Kantonschemiker der Schweiz dar. Sie ermöglicht einen schweizweiten Überblick – einschliesslich Liechtenstein – über die Einfuhren tierischer Lebensmittel aus Drittstaaten und liefert eine verlässliche Basis für die risikobasierte Analyse, die Früherkennung von Auffälligkeiten und die gezielte Weiterentwicklung von Kontrollstrategien. Damit trägt sie wesentlich zur Stärkung des Vollzugs und zur Sicherstellung der Lebensmittelsicherheit in der Schweiz bei."
     },
-    "dct:accessRights": "PUBLIC",
+    "dct:accessRights": "RESTRICTED",
     "dct:publisher": "BLV-OSAV-USAV-FSVO",
     "dcat:contactPoint": {
-        "schema:email": "pflanzenschutzmittel@blv.admin.ch",
-        "schema:name": "BLV, Zulassungsstelle PSM"
+        "schema:email": "lme@blv.admin.ch",
+        "schema:name": "BLV, LME, Koordination und Überwachung"
     },
-    "dct:issued": "2026-01-14",
+    "dct:issued": "2025-01-01",
     "dcatap:availability": "STABLE",
     "dcat:keyword": [
-        "Pflanzenschutzmittel, Zulassung, Bewilligung"
+        "Kontrolle",
+        "Lebensmittel",
+        "Laboranalysen",
+        "Grenze",
+        "Drittstaaten"
     ],
-    "dct:accrualPeriodicity": "CONT",
-    "dct:modified": "2026-01-14",
+    "dct:accrualPeriodicity": "ANNUAL",
+    "dct:modified": "2025-09-10",
     "prov:qualifiedAttribution": [
         {
-            "prov:agent": "p-1XHMH0D35",
+            "prov:agent": "p-1YFBMPWKZ",
             "dcat:hadRole": "dataOwner"
         },
         {
-            "prov:agent": "p-1XHMGZCHC",
+            "prov:agent": "p-3611054",
             "dcat:hadRole": "dataSteward"
         }
     ],
     "adms:status": "published",
     "bv:classification": "none",
     "bv:personalData": "none",
-    "bv:typeOfData": "thematicData",
-    "bv:archivalValue": "yes",
+    "bv:typeOfData": "primaryThematicData",
+    "bv:archivalValue": "TRUE",
     "bv:opendata_swiss": {
-        "bv:mustBePublished": "yes",
-        "dct:identifier": "pflanzenschutzmittelverzeichnis@bundesamt-fur-lebensmittelsicherheit-und-veterinaerwesen-blv",
-        "dcat:accessURL": "https://opendata.swiss/de/dataset/pflanzenschutzmittelverzeichnis"
+        "bv:mustBePublished": "FALSE"
     },
     "bv:i14y": {
-        "bv:mustBePublished": "yes"
+        "bv:mustBePublished": "TRUE"
     },
     "dcat:theme": [
-        "agriculture, nantional-economy, territory, health"
+        "health"
     ],
-    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/zulassung-pflanzenschutzmittel/zugelassene-pflanzenschutzmittel/pflanzenschutzmittelverzeichnis.html",
-    "dct:spatial": "no",
+    "dct:spatial": "NO",
     "dct:temporal": {},
     "dcatap:applicableLegislation": [
-        "https://www.fedlex.admin.ch/eli/cc/2025/565/de"
+        ""
+    ],
+    "bv:itSystem": "TRACES",
+    "dcat:distribution": [
+        {
+            "dct:identifier": "FSVO_D00015_1",
+            "dcat:accessURL": "https://www.psm.admin.ch/",
+            "dct:title": {
+                "fr": "Produits phytosanitaires",
+                "de": "Pflanzenschutzmittelverzeichnis",
+                "en": "Title",
+                "it": "Prodotti fitosanitari"
+            },
+            "dct:description": {
+                "fr": "Les produits phytosanitaires autorisés figurent dans un index des produits phytosanitaires. Cet index comprend des indications sur l’utilisation prévue, les restrictions d’application, le dosage, les indications relatives aux dangers et les charges liées à l’utilisation.",
+                "de": "Die bewilligten Pflanzenschutzmittel werden im Pflanzenschutzmittelverzeichnis aufgelistet. Das Verzeichnis enthält Angaben zur vorgesehenen Anwendung, zu Anwendungseinschränkungen, Aufwandmengen, Gefahrenkennzeichnung und zu Anwendungsauflagen.",
+                "en": "description_en",
+                "it": "I prodotti fitosanitari autorizzati figurano in un elenco dei prodotti fitosanitari contenente indicazioni sull'applicazione prevista, restrizioni e dosi di applicazione, simboli di pericolo e condizioni d'uso."
+            },
+            "dct:modified": "2024-12-17",
+            "adms:status": "published",
+            "dct:format": "XML",
+            "dct:license": "terms_open",
+            "schema:comment": "Test"
+        }
     ]
 }

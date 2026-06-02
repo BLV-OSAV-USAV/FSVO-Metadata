@@ -1,47 +1,46 @@
 {
     "dct:identifier": "FSVO_D00018",
-    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
     "dct:title": {
-        "fr": "Rueckstaende und Fremdstoffe in tierischen Lebensmitteln NFUP Schweiz",
-        "de": "Rueckstaende und Fremdstoffe in tierischen Lebensmitteln NFUP Schweiz",
-        "en": "Rueckstaende und Fremdstoffe in tierischen Lebensmitteln NFUP Schweiz",
-        "it": "Rueckstaende und Fremdstoffe in tierischen Lebensmitteln NFUP Schweiz"
+        "fr": "Stichprobenplanung AI/ND / Liste Sentinelbetriebe AI/ND",
+        "de": "Stichprobenplanung AI/ND / Liste Sentinelbetriebe AI/ND",
+        "en": "Stichprobenplanung AI/ND / Liste Sentinelbetriebe AI/ND",
+        "it": "Stichprobenplanung AI/ND / Liste Sentinelbetriebe AI/ND"
     },
     "dct:description": {
-        "fr": "Diese Datensammlung beinhaltet die Ergebnisse der jährlich durchgeführten nationalen Fremdstoffuntersuchungsprogramms (NFUP) in Lebensmitteln tierischer Herkunft. Sie dokumentiert systematisch das Vorkommen von Rückständen pharmakologisch wirksamer Substanzen, von Pflanzenschutzmitteln sowie von Kontaminanten in Tieren und in Lebensmitteln tierischer Herkunft. Erfasst werden unter anderem Rückstände von Antibiotika, Antiparasitika und weiteren Medikamenten, die zur Behandlung oder Vorbeugung von Krankheiten bei Nutztieren eingesetzt werden. Die Daten (Laborergebnisse) stammen aus amtlichen Probenahmen im Rahmen des nationalen Rückstandsüberwachungsprogramms.  Zweck der Datensammlung ist die Überwachung des Vorkommens von Fremdstoffen in tierischen Lebensmitteln in der Schweiz. Sie dient sowohl dem gesundheitlichen Verbraucherschutz als auch der Erfüllung internationaler Verpflichtungen, insbesondere gegenüber der Europäischen Union. Durch das Programm wird die Exportberechtigung der Schweiz für Tiere und daraus gewonnene Lebensmittel in den EU-Raum sichergestellt.  Die Datensammlung ermöglicht nationale Trendanalysen, die frühzeitige Identifikation von Risiken sowie gezielte Kontrollmassnahmen zur Sicherstellung der Lebensmittelsicherheit.",
-        "de": "Diese Datensammlung beinhaltet die Ergebnisse der jährlich durchgeführten nationalen Fremdstoffuntersuchungsprogramms (NFUP) in Lebensmitteln tierischer Herkunft. Sie dokumentiert systematisch das Vorkommen von Rückständen pharmakologisch wirksamer Substanzen, von Pflanzenschutzmitteln sowie von Kontaminanten in Tieren und in Lebensmitteln tierischer Herkunft. Erfasst werden unter anderem Rückstände von Antibiotika, Antiparasitika und weiteren Medikamenten, die zur Behandlung oder Vorbeugung von Krankheiten bei Nutztieren eingesetzt werden. Die Daten (Laborergebnisse) stammen aus amtlichen Probenahmen im Rahmen des nationalen Rückstandsüberwachungsprogramms.  Zweck der Datensammlung ist die Überwachung des Vorkommens von Fremdstoffen in tierischen Lebensmitteln in der Schweiz. Sie dient sowohl dem gesundheitlichen Verbraucherschutz als auch der Erfüllung internationaler Verpflichtungen, insbesondere gegenüber der Europäischen Union. Durch das Programm wird die Exportberechtigung der Schweiz für Tiere und daraus gewonnene Lebensmittel in den EU-Raum sichergestellt.  Die Datensammlung ermöglicht nationale Trendanalysen, die frühzeitige Identifikation von Risiken sowie gezielte Kontrollmassnahmen zur Sicherstellung der Lebensmittelsicherheit."
+        "fr": "Chaque année, des exploitations avicoles sont sélectionnées sur la base de critères définis (facteurs de risque spécifiques) et doivent faire l'objet d'un échantillonnage sentinelle  par les cantons. La liste est importée dans Asan.",
+        "de": "Jährlich werden aufgrund von festgelegten Kriterien (spezifische Risikofaktoren) Geflügelbetriebe ausgewählt, die im Rahmen der Sentinelstichprobe  von den Kantonen beprobt werden müssen. Die Liste wird in Asan eingelesen."
     },
     "dct:accessRights": "RESTRICTED",
     "dct:publisher": "BLV-OSAV-USAV-FSVO",
     "dcat:contactPoint": {
-        "schema:email": "nfup@blv.admin.ch",
-        "schema:name": "BLV, LME, Koordination und Überwachung"
+        "schema:email": "infotgts@blv.admin.ch",
+        "schema:name": "BLV, TGTS, Tiergesundheit"
     },
-    "dct:issued": "2012-01-01",
+    "dct:issued": "2025-01-01",
     "dcatap:availability": "STABLE",
     "dcat:keyword": [
-        "Rückstände",
-        "Veterinärmedizin",
-        "Lebensmittel",
-        "Kontaminanten"
+        "Geflüge",
+        "Überwachung",
+        "Tierseuchen"
     ],
     "dct:accrualPeriodicity": "ANNUAL",
-    "dct:modified": "2025-09-10",
+    "dct:modified": "2025-12-02",
     "prov:qualifiedAttribution": [
         {
-            "prov:agent": "p-1YFBMPWKZ",
+            "prov:agent": "p-9089108",
             "dcat:hadRole": "dataOwner"
         },
         {
-            "prov:agent": "p-2560681",
+            "prov:agent": "p-21CLDTPPV",
             "dcat:hadRole": "dataSteward"
         }
     ],
     "adms:status": "published",
     "bv:classification": "none",
-    "bv:personalData": "none",
+    "bv:personalData": "personalData",
     "bv:typeOfData": "primaryThematicData",
-    "bv:archivalValue": "TRUE",
+    "bv:archivalValue": "FALSE",
     "bv:opendata_swiss": {
         "bv:mustBePublished": "FALSE"
     },
@@ -49,11 +48,14 @@
         "bv:mustBePublished": "TRUE"
     },
     "dcat:theme": [
-        "health"
+        "agriculture",
+        "national-economy"
     ],
-    "dct:spatial": "NO",
+    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tiergesundheit/ueberwachung/nationales-ueberwachungsprogramm.html",
+    "dct:spatial": "YES",
     "dct:temporal": {},
     "dcatap:applicableLegislation": [
-        "Landwirtschaftsabkommen (Anhang 11) mit EU"
-    ]
+        "TSV Art. 76a"
+    ],
+    "bv:itSystem": "ASAN"
 }

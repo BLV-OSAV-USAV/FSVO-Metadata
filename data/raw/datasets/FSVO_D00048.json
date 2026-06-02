@@ -1,101 +1,61 @@
 {
     "dct:identifier": "FSVO_D00048",
-    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
     "dct:title": {
-        "fr": "Brucellose Stichprobe",
-        "de": "Brucellose Stichprobe",
-        "en": "Brucellose Stichprobe",
-        "it": "Brucellose Stichprobe"
+        "fr": "Schwerpunktprogramme an der Grenze Risikobasierte Importkontrollen von Lebensmitteln und Gebrauchsgegenstaenden",
+        "de": "Schwerpunktprogramme an der Grenze Risikobasierte Importkontrollen von Lebensmitteln und Gebrauchsgegenstaenden",
+        "en": "Schwerpunktprogramme an der Grenze Risikobasierte Importkontrollen von Lebensmitteln und Gebrauchsgegenstaenden",
+        "it": "Schwerpunktprogramme an der Grenze Risikobasierte Importkontrollen von Lebensmitteln und Gebrauchsgegenstaenden"
     },
     "dct:description": {
-        "fr": "Une sélection aléatoire annuelle basée sur les risques de n exploitations ovines et caprines selon des critères définis. Sont sélectionnées les exploitations qui n'ont pas fait l'objet d'un dépistage de la brucellose au cours des trois dernières années. Les exploitations sélectionnées pour l'échantillonnage sont enregistrées dans un programme du module des épizooties (TSM) à Asan. \n\nCes données servent à prouver que la population caprine et ovine suisse est indemne de brucellose, conformément aux exigences des accords bilatéraux.",
-        "de": "Eine jährliche risikobasierte Zufallsauswahl von n Schaf- und Ziegenbetrieben auf Basis festgelegter Kriterien. Für die Auswahl werden Betriebe herangezogen, die in den letzten drei Jahren keiner Brucellose-Untersuchung unterzogen wurden. Die ausgewählten zu beprobenden Betriebe werden in einem Programm in Asan Tierseuchenmodul (TSM) geführt. \n\nDiese Daten dienen der Belegung des Freiheitsstatus der Schweizer Ziegen- und Schafpopulation von Brucellose gemäss den Anforderungen der bilateralen Verträge."
+        "fr": "Diese Datensammlung umfasst die Ergebnisse von risikobasierten Probenahmen im Rahmen der jährlichen Schwerpunktprogramme (SPP), die das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) in Zusammenarbeit mit dem Bundesamt für Zoll und Grenzsicherheit (BAZG) durchführt. Dabei werden an der Landesgrenze stichprobenartig ausgewählte Waren bei der Einfuhr kontrolliert. Die Proben werden für gezielte Untersuchungen an kantonale Laboratorien übermittelt. Erfasst werden Art, Herkunft und Menge der Waren, die analysierten Parameter sowie die Untersuchungsergebnisse. Die Daten dienen der Früherkennung potenzieller Risiken bei Importwaren, der Überprüfung der Einhaltung lebensmittelrechtlicher Vorgaben und der gezielten Weiterentwicklung der Risikostrategie. Sie ermöglichen eine evidenzbasierte Planung von Kontrollmassnahmen, die Priorisierung von Produktgruppen mit erhöhtem Risiko und die wirksame Zusammenarbeit zwischen Bund, Kantonen und internationalen Partnern.",
+        "de": "Diese Datensammlung umfasst die Ergebnisse von risikobasierten Probenahmen im Rahmen der jährlichen Schwerpunktprogramme (SPP), die das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) in Zusammenarbeit mit dem Bundesamt für Zoll und Grenzsicherheit (BAZG) durchführt. Dabei werden an der Landesgrenze stichprobenartig ausgewählte Waren bei der Einfuhr kontrolliert. Die Proben werden für gezielte Untersuchungen an kantonale Laboratorien übermittelt. Erfasst werden Art, Herkunft und Menge der Waren, die analysierten Parameter sowie die Untersuchungsergebnisse. Die Daten dienen der Früherkennung potenzieller Risiken bei Importwaren, der Überprüfung der Einhaltung lebensmittelrechtlicher Vorgaben und der gezielten Weiterentwicklung der Risikostrategie. Sie ermöglichen eine evidenzbasierte Planung von Kontrollmassnahmen, die Priorisierung von Produktgruppen mit erhöhtem Risiko und die wirksame Zusammenarbeit zwischen Bund, Kantonen und internationalen Partnern."
     },
     "dct:accessRights": "RESTRICTED",
     "dct:publisher": "BLV-OSAV-USAV-FSVO",
     "dcat:contactPoint": {
-        "schema:name": "BLV, TGTS, Tiergesundheit",
-        "schema:email": "infotgs@blv.admin.ch"
+        "schema:email": "lme@blv.admin.ch",
+        "schema:name": "BLV, LME, Koordination und Überwachung"
     },
-    "dct:issued": "2025-01-01",
+    "dct:issued": "2014-01-01",
     "dcatap:availability": "STABLE",
     "dcat:keyword": [
-        "Tiergesundheit",
-        "Überwachung",
-        "Brucellose"
+        "Kontrolle",
+        "Lebensmittel",
+        "Laboranalysen",
+        "Grenze",
+        "Zoll",
+        "BAZG"
     ],
     "dct:accrualPeriodicity": "ANNUAL",
-    "dct:modified": "2025-11-05",
+    "dct:modified": "2025-09-10",
     "prov:qualifiedAttribution": [
         {
-            "prov:agent": "p-9089108",
+            "prov:agent": "p-1YFBMPWKZ",
             "dcat:hadRole": "dataOwner"
         },
         {
-            "prov:agent": "p-20LQWYS00",
+            "prov:agent": "p-3611054",
             "dcat:hadRole": "dataSteward"
         }
     ],
     "adms:status": "published",
     "bv:classification": "none",
-    "bv:personalData": "personalData",
+    "bv:personalData": "none",
     "bv:typeOfData": "primaryThematicData",
-    "bv:archivalValue": "FALSE",
+    "bv:archivalValue": "TRUE",
+    "bv:opendata_swiss": {
+        "bv:mustBePublished": "FALSE"
+    },
+    "bv:i14y": {
+        "bv:mustBePublished": "TRUE"
+    },
     "dcat:theme": [
-        "agriculture",
-        "national-economy"
+        "health"
     ],
-    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tiergesundheit/ueberwachung/nationales-ueberwachungsprogramm.html",
-    "dct:spatial": "YES",
+    "dct:spatial": "NO",
+    "dct:temporal": {},
     "dcatap:applicableLegislation": [
-        "Tierseuchenverordnung (TSV SR 916.401)"
-    ],
-    "bv:itSystem": "ARES",
-    "dcat:distribution": [
-        {
-            "dct:identifier": "FSVO_D00044_01",
-            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AZfTFL4gdo5Gie8SMHqEmKw",
-            "adms:status": "published",
-            "dct:format": "SAP BO Webintelligence",
-            "dct:title": {
-                "de": "3000_Untersuchungsergebnisse von Tierseuchen aus aRes",
-                "fr": "3000_Untersuchungsergebnisse von Tierseuchen aus aRes"
-            },
-            "dct:description": {
-                "de": "Labordiagnostische Untersuchungsergebnisse einer ausgewählten Tierseuche nach eigenem Bedarf zusammenstellen.",
-                "fr": "Labordiagnostische Untersuchungsergebnisse einer ausgewählten Tierseuche nach eigenem Bedarf zusammenstellen."
-            },
-            "schema:comment": "Publikationsort in ALVPH: /3 Shared/BLV - KAV/aRes"
-        },
-        {
-            "dct:identifier": "FSVO_D00044_2",
-            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVScgO4KZD9JlBATTMcR1SE",
-            "adms:status": "published",
-            "dct:format": "SAP BO Webintelligence",
-            "dct:title": {
-                "de": "3010_UntersuchungenProJahrUndKanton",
-                "fr": "3010_UntersuchungenProJahrUndKanton"
-            },
-            "dct:description": {
-                "de": "Laborergebnisse pro Jahr und Kanton. Seuchen können gefiltert werden",
-                "fr": "Laborergebnisse pro Jahr und Kanton. Seuchen können gefiltert werden"
-            },
-            "schema:comment": "Publikationsort in ALVPH: /3 Shared/BLV - KAV/aRes"
-        },
-        {
-            "dct:identifier": "FSVO_D00044_3",
-            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYbDIoXl4StIslo9qPxmLyI",
-            "adms:status": "published",
-            "dct:format": "SAP BO Webintelligence",
-            "dct:title": {
-                "de": "3001_Jahresauswertung Nationales Überwachungsprogramm",
-                "fr": "3001_Jahresauswertung Nationales Überwachungsprogramm"
-            },
-            "dct:description": {
-                "de": "Jährliche Anzahl Proben und Betriebe, die im Rahmen des Nationalen\nÜberwachungsprogramms auf bestimmte Tierseuchen untersucht wurden.",
-                "fr": "Jährliche Anzahl Proben und Betriebe, die im Rahmen des Nationalen\nÜberwachungsprogramms auf bestimmte Tierseuchen untersucht wurden."
-            },
-            "schema:comment": "Publikationsort in ALVPH: /3 Shared/BLV - KAV/aRes"
-        }
+        ""
     ]
 }

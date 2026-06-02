@@ -51,7 +51,7 @@
     "bv:itSystem": "ASAN",
     "dcat:distribution": [
         {
-            "dct:identifier": "FSVO_D00027_1",
+            "dct:identifier": "FSVO_D00047_1",
             "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AWsLmZEKx4hIow_6OsQ7qq4",
             "adms:status": "published",
             "dct:format": "SAP BO",
@@ -66,7 +66,7 @@
             "schema:comment": "Puplikationsort in ALVPH:  /3 Shared/BLV - KAV/ASAN"
         },
         {
-            "dct:identifier": "FSVO_D00027_2",
+            "dct:identifier": "FSVO_D00047_2",
             "dcat:accessURL": "https://opendata.swiss/de/dataset/lebensmittelbetriebe",
             "adms:status": "validated",
             "dcatap:availability": "AVAILABLE",

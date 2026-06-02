@@ -2,38 +2,36 @@
     "dct:identifier": "FSVO_D00010",
     "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
     "dct:title": {
-        "fr": "Einfuhr und Ausfuhrbewilligungen  in Bereich Tiergesundheit und Lebensmittel",
-        "de": "Einfuhr und Ausfuhrbewilligungen  in Bereich Tiergesundheit und Lebensmittel",
-        "en": "Einfuhr und Ausfuhrbewilligungen  in Bereich Tiergesundheit und Lebensmittel",
-        "it": "Einfuhr und Ausfuhrbewilligungen  in Bereich Tiergesundheit und Lebensmittel"
+        "fr": "Kontrollen der Lebensmittelhygiene tierischer Herkunft ",
+        "de": "Kontrollen der Lebensmittelhygiene tierischer Herkunft ",
+        "en": "Kontrollen der Lebensmittelhygiene tierischer Herkunft ",
+        "it": "Kontrollen der Lebensmittelhygiene tierischer Herkunft "
     },
     "dct:description": {
-        "fr": "Diese Datensammlung umfasst Informationen zu beantragten und erteilten Einfuhr- und Ausfuhrbewilligungen für Tiere, tierische Nebenprodukte und Lebensmittel. Erfasst werden insbesondere Angaben zu Herkunfts- und Bestimmungsländern, Warenkategorien, Gesundheitsbescheinigungen, veterinärrechtlichen Auflagen sowie Ein- und Ausfuhrbedingungen gemäss geltendem Recht. Die Daten dienen der gesundheitlichen Risikoabschätzung sowie der Kontrolle des grenzüberschreitenden Warenverkehrs, um die Einschleppung von Tierseuchen in die Schweiz zu verhindern. Gleichzeitig gewährleisten sie, dass beim Export die veterinär- und lebensmittelrechtlichen Anforderungen der Bestimmungsländer eingehalten werden. Die Datensammlung ermöglicht eine koordinierte Bewilligungsbearbeitung, unterstützt die Nachverfolgbarkeit von Sendungen und erlaubt eine effiziente Zusammenarbeit mit kantonalen, nationalen und internationalen Behörden.",
-        "de": "Diese Datensammlung umfasst Informationen zu beantragten und erteilten Einfuhr- und Ausfuhrbewilligungen für Tiere, tierische Nebenprodukte und Lebensmittel. Erfasst werden insbesondere Angaben zu Herkunfts- und Bestimmungsländern, Warenkategorien, Gesundheitsbescheinigungen, veterinärrechtlichen Auflagen sowie Ein- und Ausfuhrbedingungen gemäss geltendem Recht. Die Daten dienen der gesundheitlichen Risikoabschätzung sowie der Kontrolle des grenzüberschreitenden Warenverkehrs, um die Einschleppung von Tierseuchen in die Schweiz zu verhindern. Gleichzeitig gewährleisten sie, dass beim Export die veterinär- und lebensmittelrechtlichen Anforderungen der Bestimmungsländer eingehalten werden. Die Datensammlung ermöglicht eine koordinierte Bewilligungsbearbeitung, unterstützt die Nachverfolgbarkeit von Sendungen und erlaubt eine effiziente Zusammenarbeit mit kantonalen, nationalen und internationalen Behörden."
+        "fr": "Die rechtlichen Vorgaben betreffend Hygiene in der tierischen Primärproduktion (z.B. Milchvieh-, Schweine- oder Geflügelhaltungen) und spezifisch betreffend Hygiene in der Milchproduktion werden im Rahmen der Primärproduktionskontrollen durch die kantonalen Veterinärämter oder in deren Auftrag kontrolliert. Die Kontrollergebnisse dieser beiden Rubriken müssen zeitgerecht und umfassend zusammen mit den Ergebnissen der übrigen Rubriken im Rahmen der Primärproduktionskontrolle in Acontrol erfasst und so dem BLV zur Verfügung gestellt werden. Da die  Kontrollpunkte im System vorgegeben sind, ist es möglich über Acontrol einen Überblick über die aktuelle Situation der schweizer tierischen Primärproduktionsbetriebe in Zusammenhang mit der Einhaltung der Hygienevorgaben zu erlangen. Zudem können dem System weiter Informationen zu Kontrollfrequenz, Betriebsart, Hygienestatus, festgestellte Mängel sowie die ergriffenen Massnahmen entnommen werden. Die Sammlung ermöglicht kantonsübergreifende Auswertungen, die Früherkennung systematischer Schwachstellen sowie die gezielte Planung von Schulungen, Beratungen und weiteren Vollzugsmassnahmen zugunsten der Lebensmittelsicherheit. Sie dient der Beurteilung der hygienischen Ausgangslage für die Produktion tierischer Lebensmittel, unterstützt die Risikoeinschätzung und trägt zur kontinuierlichen Verbesserung der Betriebshygiene bei.",
+        "de": "Die rechtlichen Vorgaben betreffend Hygiene in der tierischen Primärproduktion (z.B. Milchvieh-, Schweine- oder Geflügelhaltungen) und spezifisch betreffend Hygiene in der Milchproduktion werden im Rahmen der Primärproduktionskontrollen durch die kantonalen Veterinärämter oder in deren Auftrag kontrolliert. Die Kontrollergebnisse dieser beiden Rubriken müssen zeitgerecht und umfassend zusammen mit den Ergebnissen der übrigen Rubriken im Rahmen der Primärproduktionskontrolle in Acontrol erfasst und so dem BLV zur Verfügung gestellt werden. Da die  Kontrollpunkte im System vorgegeben sind, ist es möglich über Acontrol einen Überblick über die aktuelle Situation der schweizer tierischen Primärproduktionsbetriebe in Zusammenhang mit der Einhaltung der Hygienevorgaben zu erlangen. Zudem können dem System weiter Informationen zu Kontrollfrequenz, Betriebsart, Hygienestatus, festgestellte Mängel sowie die ergriffenen Massnahmen entnommen werden. Die Sammlung ermöglicht kantonsübergreifende Auswertungen, die Früherkennung systematischer Schwachstellen sowie die gezielte Planung von Schulungen, Beratungen und weiteren Vollzugsmassnahmen zugunsten der Lebensmittelsicherheit. Sie dient der Beurteilung der hygienischen Ausgangslage für die Produktion tierischer Lebensmittel, unterstützt die Risikoeinschätzung und trägt zur kontinuierlichen Verbesserung der Betriebshygiene bei."
     },
     "dct:accessRights": "RESTRICTED",
     "dct:publisher": "BLV-OSAV-USAV-FSVO",
     "dcat:contactPoint": {
-        "schema:email": "infobew@blv.admin.ch; trade@blv.admin.ch",
-        "schema:name": "BLV, INT, Bewilligungstelle"
+        "schema:email": "lme@blv.admin.ch",
+        "schema:name": "BLV, LME, Lebensmittelhygiene"
     },
-    "dct:issued": "2025-01-01",
+    "dct:issued": "2025-09-10",
     "dcatap:availability": "STABLE",
     "dcat:keyword": [
-        "Tier",
-        "Lebensmittel",
-        "Pflanze",
-        "Bewilligung"
+        "Kontrollen Primärproduktion",
+        "Lebensmittelhygiene"
     ],
-    "dct:accrualPeriodicity": "DAILY",
+    "dct:accrualPeriodicity": "MONTHLY",
     "dct:modified": "2025-09-10",
     "prov:qualifiedAttribution": [
         {
-            "prov:agent": "p-9756818",
+            "prov:agent": "p-1582170",
             "dcat:hadRole": "dataOwner"
         },
         {
-            "prov:agent": "p-9756818",
+            "prov:agent": "p-9531742",
             "dcat:hadRole": "dataSteward"
         }
     ],
@@ -49,36 +47,12 @@
         "bv:mustBePublished": "TRUE"
     },
     "dcat:theme": [
-        "trade"
+        "health"
     ],
-    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/import-und-export.html",
     "dct:spatial": "NO",
     "dct:temporal": {},
     "dcatap:applicableLegislation": [
-        ""
+        "https://www.fedlex.admin.ch/eli/cc/2020/459/de"
     ],
-    "bv:itSystem": "Inpec",
-    "dcat:distribution": [
-        {
-            "dct:identifier": "FSVO_DIS000401",
-            "dcat:accessURL": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/ernaehrung/menuCH/menuch-lebensmittelkonsum-schweiz.html",
-            "dct:title": {
-                "fr": "menuCH: Consommation alimentaire en Suisse",
-                "de": "menuCH: Lebensmittelkonsum in der Schweiz",
-                "en": "menuCH: Food consumption in Switzerland",
-                "it": "menuCH: Consumo alimentarie in Svizzera"
-            },
-            "dct:description": {
-                "fr": "Les données recueillies dans le cadre de menuCH sont d’une grande importance tant pour la science que pour le grand public. C’est pourquoi elles sont mises à disposition, sous une forme codée, accompagnées d’analyses réalisées par ou sur mandat de l’OSAV (Consommation de groupes d'aliments individuels). Les données détaillées de l’étude menuCH peuvent être utilisées sous certaines conditions. Des informations sur les données et les conditions d'utilisation ainsi que le formulaire de candidature sont disponibles sur www.studydata.blv.admin.ch.",
-                "de": "Die im Rahmen von menuCH erhobenen Daten sind sowohl für die Wissenschaft als auch für die Öffentlichkeit von grosser Bedeutung. Sie werden daher zusammen mit vom BLV oder im Auftrag des BLV durchgeführten Auswertungen in codierter Form zur Verfügung gestellt (Konsum einzelner Lebensmittelgruppen). Die detaillierten Daten der Studie menuCH stehen unter bestimmten Bedingungen zur Nutzung zur Verfügung. Die Informationen zu den Daten und den Nutzungsbedingungen sowie das Antragsformular befinden sich auf www.studydata.blv.admin.ch.",
-                "en": "description_en",
-                "it": "I dati raccolti attraverso menuCH sono di grande importanza sia per la scienza sia per il pubblico. Vengono pertanto forniti in forma codificata insieme alle valutazioni effettuate da o per conto dell’USAV (Consumo di singoli gruppi di alimenti). I dati dettagliati dello studio menuCH possono essere utilizzati a determinate condizioni. Informazioni sui dati, sulle condizioni di utilizzo e sul modulo di domanda si trovano su www.studydata.blv.admin.ch."
-            },
-            "dct:modified": "2022-09-07",
-            "adms:status": "published",
-            "dct:format": "XLS",
-            "dct:license": "terms_open",
-            "schema:comment": "Test"
-        }
-    ]
+    "bv:itSystem": "Acontrol"
 }

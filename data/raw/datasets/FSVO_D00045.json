@@ -59,7 +59,7 @@
     "bv:itSystem": "RASFF",
     "dcat:distribution": [
         {
-            "dct:identifier": "FSVO_DIS00391",
+            "dct:identifier": "FSVO_D00045_1",
             "dcat:accessURL": "https://www.dashboard.blv.admin.ch/animals/epizootics/infosm/2025/11",
             "dct:title": {
                 "fr": "Annonces des cas d‘épizootie en Suisse",
@@ -80,7 +80,7 @@
             "schema:comment": "Test"
         },
         {
-            "dct:identifier": "FSVO_DIS00392",
+            "dct:identifier": "FSVO_D00045_2",
             "dcat:accessURL": "https://www.dashboard.blv.admin.ch/animals/health/animal_health_statistics",
             "dct:title": {
                 "fr": "Statistique de la santé animale",
@@ -101,7 +101,7 @@
             "schema:comment": "Test"
         },
         {
-            "dct:identifier": "FSVO_DIS00393",
+            "dct:identifier": "FSVO_D00045_3",
             "dcat:accessURL": "https://www.blv.admin.ch/blv/de/home/tiere/tierseuchen/uebersicht-seuchen/alle-tierseuchen/ai/ai-aktuell.html",
             "dct:title": {
                 "fr": "Surveillance de l'influenza aviaire (IA) chez les oiseaux sauvages",

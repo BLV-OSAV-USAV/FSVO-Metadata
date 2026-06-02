@@ -6,35 +6,40 @@ PREFIX = "FSVO_D"
 
 raw_files = sorted(FSVO_DIR.glob("*.json"))
 
-def extract_num(path):
-    name = path.stem
-    if name.startswith(PREFIX):
-        try:
-            return int(name.replace(PREFIX, ""))
-        except:
-            return 0
-    return 0
-
-counter = max([extract_num(f) for f in raw_files] + [0])
+counter = 0
 
 for raw_file in raw_files:
     raw = json.loads(raw_file.read_text(encoding="utf-8"))
 
-    # already correctly named → skip
-    if "dct:identifier" in raw and raw["dct:identifier"].startswith(PREFIX):
-        print(f"[SKIP] {raw_file.name} already has ID")
-        continue
+    # --- dataset id from filename ---
+    if raw_file.stem.startswith(PREFIX):
+        dataset_id = raw_file.stem
+    else:
+        counter += 1
+        dataset_id = f"{PREFIX}{counter:05d}"
 
-    # assign new ID
-    counter += 1
-    new_id = f"{PREFIX}{counter:05d}"
+    # ensure consistent filename ↔ id
+    new_path = FSVO_DIR / f"{dataset_id}.json"
 
-    old_name = raw_file.name
+    # --- update dataset id ---
+    raw["dct:identifier"] = dataset_id
 
-    raw["dct:identifier"] = new_id
-    new_path = FSVO_DIR / f"{new_id}.json"
+    # --- update distributions ---
+    distributions = raw.get("dcat:distribution", [])
+    if isinstance(distributions, list):
+        for i, dist in enumerate(distributions, start=1):
+            if isinstance(dist, dict):
+                dist["dct:identifier"] = f"{dataset_id}_{i}"
 
-    raw_file.write_text(json.dumps(raw, indent=4, ensure_ascii=False), encoding="utf-8")
-    raw_file.rename(new_path)
+    # write file
+    raw_file.write_text(
+        json.dumps(raw, indent=4, ensure_ascii=False),
+        encoding="utf-8"
+    )
 
-    print(f"[UPDATED] {old_name} -> {new_path.name}")
+    # rename if needed
+    if raw_file.name != new_path.name:
+        raw_file.rename(new_path)
+        print(f"[RENAMED] {raw_file.name} -> {new_path.name}")
+    else:
+        print(f"[UPDATED] {raw_file.name}")

@@ -1,38 +1,43 @@
 {
     "dct:identifier": "FSVO_D00041",
-    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANDChicken.jpg",
     "dct:title": {
-        "fr": "Stoffdatenbank Anwendungsplattform Verbraucherschutz APVS",
-        "de": "Stoffdatenbank Anwendungsplattform Verbraucherschutz APVS",
-        "en": "Stoffdatenbank Anwendungsplattform Verbraucherschutz APVS",
-        "it": "Stoffdatenbank Anwendungsplattform Verbraucherschutz APVS"
+        "fr": "Stalleinrichtungen",
+        "de": "Stalleinrichtungen",
+        "en": "Stalleinrichtungen",
+        "it": "Stalleinrichtungen"
     },
     "dct:description": {
-        "fr": "Die Stoffdatenbank ist eine zentrale Datensammlung der Anwendungsplattform Verbraucherschutz (APVS) und dient als Master-System für Definition und Verwaltung von  Parametern, Matrizen und Höchstwerten im Bereich Lebensmittelsicherheit und Verbraucherschutz. Sie enthält strukturierte Informationen zu chemischen und biologischen Parametern, deren zugehörigen Matrizes wie bspw. Lebensmittel, Trinkwasser oder, Futtermittel, sowie den entsprechenden Höchstwerten. Zudem werden ergänzende Attribute wie z.B. Einheiten dokumentiert. Diese Sammlung dient der Standardisierung und Qualitätssicherung von Daten im Bereich Lebensmittelsicherheit und Verbraucherschutz. ",
-        "de": "Die Stoffdatenbank ist eine zentrale Datensammlung der Anwendungsplattform Verbraucherschutz (APVS) und dient als Master-System für Definition und Verwaltung von  Parametern, Matrizen und Höchstwerten im Bereich Lebensmittelsicherheit und Verbraucherschutz. Sie enthält strukturierte Informationen zu chemischen und biologischen Parametern, deren zugehörigen Matrizes wie bspw. Lebensmittel, Trinkwasser oder, Futtermittel, sowie den entsprechenden Höchstwerten. Zudem werden ergänzende Attribute wie z.B. Einheiten dokumentiert. Diese Sammlung dient der Standardisierung und Qualitätssicherung von Daten im Bereich Lebensmittelsicherheit und Verbraucherschutz. "
+        "fr": "La collecte de données « Équipements d'étable » comprend tous les systèmes d'étable et équipements d'étable fabriqués en série, testés et approuvés pour l'élevage de bovins, porcs, moutons, chèvres, volailles et lapins. Les données sont collectées dans le cadre des activités du Centre pour la détention convenable des animaux :  ruminants et porcs ainsi que du Centre pour la détention convenable des animaux : volailles et lapins. Elle contient des informations sur les fabricants, les types de produits, les utilisations prévues, les résultats des tests, le statut d'autorisation et les conditions à remplir pour se conformer aux exigences de la législation sur la protection des animaux. Elle offre une vue d'ensemble transparente des systèmes autorisés, facilite le choix d'équipements conformes et contribue à promouvoir un élevage respectueux des animaux en Suisse.",
+        "de": "Die Datensammlung «Stalleinrichtungen» beinhaltet sämtliche geprüften und bewilligten serienmässig hergestellten Aufstallungssysteme und Stalleinrichtungen für die Haltung von Rindern, Schweinen, Schafen, Ziegen, Geflügel und Kaninchen. Die Daten werden im Rahmen der Tätigkeiten des Zentrums für tiergerechte Haltung:  Wiederkäuern und Schweinen sowie des Zentrums für tiergerechte Haltung: Geflügel und Kaninchen erfasst. Enthalten sind Informationen zu Herstellerfirmen, Produkttypen, Einsatzzwecken, Prüfergebnissen, Bewilligungsstatus und Auflagen zur Einhaltung der Anforderungen gemäss Tierschutzgesetzgebung.\n\nSie ermöglicht eine transparente Übersicht über zugelassene Systeme, erleichtert die Auswahl konformer Einrichtungen und trägt zur Förderung einer tiergerechten Nutztierhaltung in der Schweiz bei."
     },
-    "dct:accessRights": "RESTRICTED",
+    "dct:accessRights": "PUBLIC",
     "dct:publisher": "BLV-OSAV-USAV-FSVO",
     "dcat:contactPoint": {
-        "schema:email": "lme@blv.admin.ch",
-        "schema:name": "BLV, LME, Koordination und Überwachung"
+        "schema:email": "infotgs@blv.admin.ch",
+        "schema:name": "BLV, TGTS, Tierschutz"
     },
-    "dct:issued": "2013-01-01",
+    "dct:issued": "2025-01-01",
     "dcatap:availability": "STABLE",
     "dcat:keyword": [
-        "Limiten",
-        "Matrix",
-        "Parameter"
+        "Tierhaltung",
+        "Tiergerechtheit",
+        "Stalleinrichtungen",
+        "Aufstallungssysteme",
+        "Widerkäuer",
+        "Schweine",
+        "Geflügel",
+        "Kaninchen"
     ],
-    "dct:accrualPeriodicity": "MONTHLY",
-    "dct:modified": "2025-09-10",
+    "dct:accrualPeriodicity": "AS_NEEDED",
+    "dct:modified": "2025-11-06",
     "prov:qualifiedAttribution": [
         {
-            "prov:agent": "p-1YFBMPWKZ",
+            "prov:agent": "p-1521097",
             "dcat:hadRole": "dataOwner"
         },
         {
-            "prov:agent": "p-2560681",
+            "prov:agent": "p-2971195",
             "dcat:hadRole": "dataSteward"
         }
     ],
@@ -42,19 +47,22 @@
     "bv:typeOfData": "primaryThematicData",
     "bv:archivalValue": "TRUE",
     "bv:opendata_swiss": {
-        "bv:mustBePublished": "FALSE"
+        "bv:mustBePublished": "TRUE",
+        "dct:identifier": "stalleinrichtungen@bundesamt-fur-lebensmittelsicherheit-und-veterinaerwesen-blv",
+        "dcat:accessURL": "https://opendata.swiss/de/dataset/stalleinrichtungen-und-aufstallungssysteme"
     },
     "bv:i14y": {
         "bv:mustBePublished": "TRUE"
     },
     "dcat:theme": [
-        "health"
+        "agriculture"
     ],
-    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/lebensmittelsicherheit/stoffe-im-fokus.html",
+    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierschutz/nutztierhaltung/stalleinrichtungen/stallliste.html",
     "dct:spatial": "NO",
     "dct:temporal": {},
     "dcatap:applicableLegislation": [
-        "LMG Art. 62"
+        "Tierschutzgesetz: Art. 7",
+        "Tierschutzverordnung: Art. 81,82 und 84"
     ],
-    "bv:itSystem": "APVS"
+    "bv:itSystem": "ASAN"
 }
