@@ -1,0 +1,60 @@
+{
+    "dct:identifier": "FSVO_D00003",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
+    "dct:title": {
+        "fr": "Stoffdatenbank Anwendungsplattform Verbraucherschutz APVS",
+        "de": "Stoffdatenbank Anwendungsplattform Verbraucherschutz APVS",
+        "en": "Stoffdatenbank Anwendungsplattform Verbraucherschutz APVS",
+        "it": "Stoffdatenbank Anwendungsplattform Verbraucherschutz APVS"
+    },
+    "dct:description": {
+        "fr": "Die Stoffdatenbank ist eine zentrale Datensammlung der Anwendungsplattform Verbraucherschutz (APVS) und dient als Master-System für Definition und Verwaltung von  Parametern, Matrizen und Höchstwerten im Bereich Lebensmittelsicherheit und Verbraucherschutz. Sie enthält strukturierte Informationen zu chemischen und biologischen Parametern, deren zugehörigen Matrizes wie bspw. Lebensmittel, Trinkwasser oder, Futtermittel, sowie den entsprechenden Höchstwerten. Zudem werden ergänzende Attribute wie z.B. Einheiten dokumentiert. Diese Sammlung dient der Standardisierung und Qualitätssicherung von Daten im Bereich Lebensmittelsicherheit und Verbraucherschutz. ",
+        "de": "Die Stoffdatenbank ist eine zentrale Datensammlung der Anwendungsplattform Verbraucherschutz (APVS) und dient als Master-System für Definition und Verwaltung von  Parametern, Matrizen und Höchstwerten im Bereich Lebensmittelsicherheit und Verbraucherschutz. Sie enthält strukturierte Informationen zu chemischen und biologischen Parametern, deren zugehörigen Matrizes wie bspw. Lebensmittel, Trinkwasser oder, Futtermittel, sowie den entsprechenden Höchstwerten. Zudem werden ergänzende Attribute wie z.B. Einheiten dokumentiert. Diese Sammlung dient der Standardisierung und Qualitätssicherung von Daten im Bereich Lebensmittelsicherheit und Verbraucherschutz. "
+    },
+    "dct:accessRights": "RESTRICTED",
+    "dct:publisher": "BLV-OSAV-USAV-FSVO",
+    "dcat:contactPoint": {
+        "schema:email": "lme@blv.admin.ch",
+        "schema:name": "BLV, LME, Koordination und Überwachung"
+    },
+    "dct:issued": "2013-01-01",
+    "dcatap:availability": "STABLE",
+    "dcat:keyword": [
+        "Limiten",
+        "Matrix",
+        "Parameter"
+    ],
+    "dct:accrualPeriodicity": "MONTHLY",
+    "dct:modified": "2025-09-10",
+    "prov:qualifiedAttribution": [
+        {
+            "prov:agent": "p-1YFBMPWKZ",
+            "dcat:hadRole": "dataOwner"
+        },
+        {
+            "prov:agent": "p-2560681",
+            "dcat:hadRole": "dataSteward"
+        }
+    ],
+    "adms:status": "published",
+    "bv:classification": "none",
+    "bv:personalData": "none",
+    "bv:typeOfData": "primaryThematicData",
+    "bv:archivalValue": "TRUE",
+    "bv:opendata_swiss": {
+        "bv:mustBePublished": "FALSE"
+    },
+    "bv:i14y": {
+        "bv:mustBePublished": "TRUE"
+    },
+    "dcat:theme": [
+        "health"
+    ],
+    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/lebensmittelsicherheit/stoffe-im-fokus.html",
+    "dct:spatial": "NO",
+    "dct:temporal": {},
+    "dcatap:applicableLegislation": [
+        "LMG Art. 62"
+    ],
+    "bv:itSystem": "APVS"
+}

@@ -1,60 +1,61 @@
 {
     "dct:identifier": "FSVO_D00038",
-    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
     "dct:title": {
-        "fr": "Stillmonitoring",
-        "de": "Stillmonitoring",
-        "en": "Stillmonitoring",
-        "it": "Stillmonitoring"
+        "fr": "Salmonellenüberwachung: Liste der Mastpouletbetriebe",
+        "de": "Salmonellenüberwachung: Liste der Mastpouletbetriebe",
+        "en": "Salmonellenüberwachung: Liste der Mastpouletbetriebe",
+        "it": "Salmonellenüberwachung: Liste der Mastpouletbetriebe"
     },
     "dct:description": {
-        "fr": "Die vorliegende Datensammlung basiert auf regelmässig durchgeführten Erhebungen zum Stillverhalten und zur Ernährung von Säuglingen in der Schweiz. Erfasst werden zentrale Parameter wie die Stilldauer, das ausschliessliche Stillen, der Zeitpunkt und die Art der Einführung von Beikost, die Verwendung industriell hergestellter Säuglingsnahrung sowie relevante sozioökonomische und gesundheitliche Einflussfaktoren. Ziel dieser Datensammlung ist die systematische Erfassung des aktuellen Stillverhaltens in der Schweizer Bevölkerung, die Analyse zeitlicher Entwicklungen sowie die Untersuchung gruppenspezifischer Unterschiede. Die erhobenen Daten dienen als evidenzbasierte Grundlage für die Förderung des Stillens, die Entwicklung präventiver Massnahmen und die Formulierung gesundheitspolitischer Empfehlungen durch das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV). Darüber hinaus ermöglicht die Datensammlung die Planung gezielter Interventionsstrategien, die Evaluation bestehender Förderprogramme sowie die nachhaltige Verbesserung der Säuglingsernährung im Kontext der öffentlichen Gesundheitsvorsorge.",
-        "de": "Die vorliegende Datensammlung basiert auf regelmässig durchgeführten Erhebungen zum Stillverhalten und zur Ernährung von Säuglingen in der Schweiz. Erfasst werden zentrale Parameter wie die Stilldauer, das ausschliessliche Stillen, der Zeitpunkt und die Art der Einführung von Beikost, die Verwendung industriell hergestellter Säuglingsnahrung sowie relevante sozioökonomische und gesundheitliche Einflussfaktoren. Ziel dieser Datensammlung ist die systematische Erfassung des aktuellen Stillverhaltens in der Schweizer Bevölkerung, die Analyse zeitlicher Entwicklungen sowie die Untersuchung gruppenspezifischer Unterschiede. Die erhobenen Daten dienen als evidenzbasierte Grundlage für die Förderung des Stillens, die Entwicklung präventiver Massnahmen und die Formulierung gesundheitspolitischer Empfehlungen durch das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV). Darüber hinaus ermöglicht die Datensammlung die Planung gezielter Interventionsstrategien, die Evaluation bestehender Förderprogramme sowie die nachhaltige Verbesserung der Säuglingsernährung im Kontext der öffentlichen Gesundheitsvorsorge."
+        "fr": "Pour planifier la surveillance des salmonelles, les associations d'éleveurs de volaille exigent chaque année une liste des exploitations d'engraissement. Celles-ci ne peuvent pas être couvertes par les déclarations de mise en stabulation dans la BDTA, car les valeurs seuils se réfèrent au nombre de places disponibles.",
+        "de": "Für die Planung der Salmonellenüberwachung wird von den Geflügelzuchtverbänden jährlich eine Liste der Mastbetriebe eingefordert. Diese können nicht über die Einstallungsmeldungen in der TVD abgedeckt werden, da die Schwellenwerte sich auf die Anzahl verfügbaren Plätze bezieht."
     },
-    "dct:accessRights": "PUBLIC",
+    "dct:accessRights": "RESTRICTED",
     "dct:publisher": "BLV-OSAV-USAV-FSVO",
     "dcat:contactPoint": {
-        "schema:email": "ernaehrung@blv.admin.ch",
-        "schema:name": "BLV, LME, Ernährung"
+        "schema:email": "infotgts@blv.admin.ch",
+        "schema:name": "BLV, TGTS, Tiergesundheit"
     },
-    "dct:issued": "2022-01-01",
+    "dct:issued": "2025-01-01",
     "dcatap:availability": "STABLE",
     "dcat:keyword": [
-        "Lebensmittel",
-        "Ernährung",
-        "Stillen"
+        "Geflüge",
+        "Überwachung",
+        "Tierseuchen"
     ],
     "dct:accrualPeriodicity": "ANNUAL",
-    "dct:modified": "2025-09-10",
+    "dct:modified": "2025-12-02",
     "prov:qualifiedAttribution": [
         {
-            "prov:agent": "p-7711752",
+            "prov:agent": "p-9089108",
             "dcat:hadRole": "dataOwner"
         },
         {
-            "prov:agent": "p-5846327",
+            "prov:agent": "p-5484119",
             "dcat:hadRole": "dataSteward"
         }
     ],
     "adms:status": "published",
     "bv:classification": "none",
-    "bv:personalData": "none",
+    "bv:personalData": "personalData",
     "bv:typeOfData": "primaryThematicData",
-    "bv:archivalValue": "TRUE",
+    "bv:archivalValue": "FALSE",
     "bv:opendata_swiss": {
-        "bv:mustBePublished": "TRUE"
+        "bv:mustBePublished": "FALSE"
     },
     "bv:i14y": {
         "bv:mustBePublished": "TRUE"
     },
     "dcat:theme": [
-        "health"
+        "agriculture",
+        "national-economy"
     ],
-    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/forschung/gesundheitliche-risiken/ernaehrungsrisiken/stillmonitoring.html",
+    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tiergesundheit/ueberwachung/nationales-ueberwachungsprogramm.html",
     "dct:spatial": "YES",
     "dct:temporal": {},
     "dcatap:applicableLegislation": [
-        ""
+        "TSV Art. 76a"
     ],
-    "bv:itSystem": "FSVO Data Repository"
+    "bv:itSystem": "ASAN"
 }

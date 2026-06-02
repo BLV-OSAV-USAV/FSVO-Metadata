@@ -1,75 +1,73 @@
 {
-  "dct:identifier": "FSVO_D00023",
-  "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
-  "dct:title": {
-    "fr": "Kontrollergebnisse der kantonalen Lebensmittelkontrolle Prozesskontrolle",
-    "de": "Kontrollergebnisse der kantonalen Lebensmittelkontrolle Prozesskontrolle",
-    "en": "Kontrollergebnisse der kantonalen Lebensmittelkontrolle Prozesskontrolle",
-    "it": "Kontrollergebnisse der kantonalen Lebensmittelkontrolle Prozesskontrolle"
-  },
-  "dct:description": {
-    "fr": "Diese Datensammlung enthält strukturierte Informationen zu den Ergebnissen der amtlichen Inspektionen, die von den kantonalen Lebensmittelvollzugsbehörden durchgeführt und dem BLV gemeldet werden. Erfasst werden unter anderem die kontrollierten Lebensmittelbetriebe, Art der Inspektionen, festgestellte Mängel, sowie ergriffene Massnahmen. Die Daten werden standardisiert und jährlich aus allen Kantonen zusammengeführt. Zweck der Datensammlung ist es, einen nationalen Überblick in Bezug auf geprüfte Betriebe sowie festgestellte Auffälligkeiten zu gewinnen. Sie dient der Früherkennung von Risiken, der Planung risikobasierter Kontrollen und der Berichterstattung an die Öffentlichkeit",
-    "de": "Diese Datensammlung enthält strukturierte Informationen zu den Ergebnissen der amtlichen Inspektionen, die von den kantonalen Lebensmittelvollzugsbehörden durchgeführt und dem BLV gemeldet werden. Erfasst werden unter anderem die kontrollierten Lebensmittelbetriebe, Art der Inspektionen, festgestellte Mängel, sowie ergriffene Massnahmen. Die Daten werden standardisiert und jährlich aus allen Kantonen zusammengeführt. Zweck der Datensammlung ist es, einen nationalen Überblick in Bezug auf geprüfte Betriebe sowie festgestellte Auffälligkeiten zu gewinnen. Sie dient der Früherkennung von Risiken, der Planung risikobasierter Kontrollen und der Berichterstattung an die Öffentlichkeit"
-  },
-  "dct:accessRights": "RESTRICTED",
-  "dct:publisher": "BLV-OSAV-USAV-FSVO",
-  "dcat:contactPoint": {
-    "schema:name": "BLV, LME, Koordination und Überwachung",
-    "schema:email": "ares@blv.admin.ch"
-  },
-  "dct:issued": "2022-01-01",
-  "dcatap:availability": "STABLE",
-  "dcat:keyword": [
-    "Kontrolle",
-    "Inspektion",
-    "Lebensmittel"
-  ],
-  "dct:accrualPeriodicity": "MONTHLY",
-  "dct:modified": "2025-09-10",
-  "prov:qualifiedAttribution": [
-    {
-      "prov:agent": "p-1YFBMPWKZ",
-      "dcat:hadRole": "dataOwner"
+    "dct:identifier": "FSVO_D00023",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/StillLifeWithMouse.jpg",
+    "dct:title": {
+        "fr": "Tierversuchsdaten",
+        "de": "Tierversuchsdaten",
+        "en": "Tierversuchsdaten",
+        "it": "Tierversuchsdaten"
     },
-    {
-      "prov:agent": "p-2560681",
-      "dcat:hadRole": "dataSteward"
-    }
-  ],
-  "adms:status": "published",
-  "bv:classification": "none",
-  "bv:personalData": "personalData",
-  "bv:typeOfData": "primaryThematicData",
-  "bv:archivalValue": "TRUE",
-  "dcat:theme": [
-    "health"
-  ],
-  "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/lebensmittelsicherheit/verantwortlichkeiten.html",
-  "dct:spatial": "NO",
-  "dcatap:applicableLegislation": [
-    "https://fedlex.data.admin.ch/eli/cc/2022/272"
-  ],
-  "bv:itSystem": "ARES",
-  "dcat:distribution": [
-    {
-      "dct:identifier": "FSVO_D00023_1",
-      "dcat:accessURL": "https://opendata.swiss/de/dataset/lebensmittelkontrolle",
-      "adms:status": "published",
-      "dcatap:availability": "AVAILABLE",
-      "dct:format": "CSV",
-      "dct:title": {
-        "de": "Lebensmittelkontrolle",
-        "fr": "Contrôle des aliments",
-        "it": "Controlle delle derrate alimentari",
-        "en": "Food inspection"
-      },
-      "dct:description": {
-        "de": "Die kantonalen Lebensmittelvollzugsbehörden und das Fürstentum Liechtenstein kontrollieren Betriebe und Lebensmittel und melden die Ergebnisse an das BLV. Die meisten amtlichen Kontrollen erfolgen risikobasiert, also gezielt dort, wo das höchste Risiko für Abweichungen von den lebensmittelrechtlichen Vorgaben vermutet wird. Damit sorgen diese Kontrollen für sichere und qualitativ hochwertige Lebensmittel.\n\nDa sich die Datenübermittlung noch in der Entwicklungsphase befindet, sind die verfügbaren Ergebnisse auf bestimmte Untersuchungsbereiche beschränkt.\n\nEine Lebensmittelprobe ist konform, wenn sie den gesetzlichen Vorgaben entspricht. Werden diese nicht eingehalten, gilt die Probe als nicht konform und wird beanstandet. In bestimmten Fällen ist keine Konformitätsbewertung möglich, da zu einem bestimmten Sachverhalt noch keine gesetzlichen Vorgaben bestehen. Dann wird das Ergebnis als nicht bewertet gemeldet. Diese Werte erscheinen nicht in den Visualisierungen.\n\nNicht alle Untersuchungen erscheinen in den Daten: So führen zum Beispiel pendente Schnittstellenoptimierungen und uneinheitliche Erfassung von Werten unterhalb der Nachweisgrenze in den Laborinformationssystemen der Kantone dazu, dass gewisse Ergebnisse nicht an das BLV übermittelt werden.\n\nAn einer Probe können mehrere Untersuchungen (Analysen auf verschiedene Substanzen oder Eigenschaften) durchgeführt werden. Das bedeutet, dass es pro Probe konforme und nicht konforme Untersuchungen geben kann, welche dann auch so in den Auswertungen erscheinen. Mit den von den Kantonen und dem Fürstentum Liechtenstein gemeldeten Daten kann hingegen keine Aussage über den Anteil nicht konformer Proben getroffen werden.",
-        "fr": "Les autorités cantonales d’exécution de la législation sur les denrées alimentaires et la Principauté de Liechtenstein contrôlent les entreprises et les denrées alimentaires et communiquent les résultats des contrôles à l’OSAV. La plupart des contrôles officiels sont réalisés en fonction des risques, c’est-à-dire qu’ils sont ciblés là où le risque d’écarts par rapport aux prescriptions de la législation alimentaire est présumé le plus élevé. Ces contrôles garantissent ainsi que les denrées alimentaires sont sûres et de qualité.\n\nLa transmission des données étant encore en phase de développement, les résultats disponibles sont limités à certains domaines.\n\nUn échantillon de denrée alimentaire est conforme s’il répond aux exigences légales. Si celles-ci ne sont pas respectées, l’échantillon est considéré comme non conforme et fait l’objet d’une contestation. Dans certains cas, il n’est pas possible de procéder à une évaluation de la conformité, car il n’existe pas encore de prescriptions légales concernant une situation donnée. Le résultat est alors notifié comme non évalué. Ces résultats n’apparaissent pas dans les visualisations.\n\nToutes les analyses n’apparaissent pas dans les données : certains résultats ne sont pas transmis à l’OSAV en raison d’une optimisation d’interface en suspens ou d’une saisie non uniforme des valeurs inférieures à la limite de détection dans les systèmes d’information des laboratoires cantonaux.\n\nPlusieurs analyses (analyses de différentes substances ou propriétés) peuvent être effectuées sur un échantillon. Cela signifie qu’il peut y avoir des résultats d’analyses conformes et non conformes pour le même échantillon, qui apparaissent alors tels quels dans les évaluations. Les données communiquées par les cantons et la Principauté de Liechtenstein ne permettent cependant pas de se prononcer sur le pourcentage d’échantillons non conformes.",
-        "it": "Le autorità cantonali di esecuzione della legislazione sulle derrate alimentari e il Principato del Liechtenstein controllano le aziende e le derrate alimentari e notificano i risultati all’USAV. La maggior parte dei controlli ufficiali avviene sulla base dei rischi, ossia in modo mirato laddove si presuppone vi sia il rischio più elevato di non conformità alle prescrizioni della legislazione in materia, garantendo così la disponibilità di derrate alimentari sicure e di alta qualità.\n\nPoiché il sistema di trasmissione dei dati è ancora in fase di sviluppo, i risultati disponibili sono limitati a determinati ambiti.\n\nUn campione di derrata alimentare è ritenuto conforme se soddisfa le disposizioni legali. In caso contrario, il campione viene contestato. Qualora non sia possibile procedere a una valutazione della conformità per mancanza di disposizioni legali riguardanti una fattispecie specifica, il risultato viene notificato come non valutabile e i relativi valori non appaiono nella visualizzazione.\n\nI dati non riportano tutte le analisi, visto che alcuni risultati non sono trasmessi all’USAV. Ciò accade ad esempio perché sono in corso delle ottimizzazioni alle interfacce o perché i sistemi d’informazione cantonali per i dati di laboratorio non prevedono una registrazione standardizzata dei valori inferiori ai limiti di rilevabilità.\n\nUn campione può essere sottoposto a più analisi (per diverse sostanze o proprietà) e quindi per ognuno di essi possono esserci analisi conformi e non, che appaiono come tali nelle valutazioni. Con i dati comunicati dai Cantoni e dal Principato del Liechtenstein non è invece possibile trarre conclusioni sulla percentuale di campioni non conformi.",
-        "en": "The cantonal food enforcement authorities and the Principality of Liechtenstein inspect establishments and foodstuffs and report the results to the FSVO. Most of these official inspections are risk-based, i.e. targeted where there is suspected to be the highest risk of deviations from legal requirements, thus ensuring the safety and quality of foodstuffs.\n\nAs the data transmission is still in development, the results available are limited to certain areas of investigation.\n\nA food sample is deemed compliant if it meets the statutory requirements. If it fails, it is considered non-compliant and is rejected. In some cases, compliance cannot be assessed because there are no regulations governing a particular set of circumstances. The result is then reported as “not evaluated”. These values do not appear in the visualisations.\n\nNot all tests appear in the data: for example, certain results are not transmitted to the FSVO due to pending interface optimisations or inconsistent recording of values below the detection limit in the cantonal laboratory information systems.\n\nA sample may undergo multiple tests (analyses for different substances or properties). This means that each sample may yield both compliant and non-compliant test results, which then appear as such in the evaluations. However, the data reported by the cantons and the Principality of Liechtenstein do not provide information as to the percentage of non-compliant samples."
-      },
-      "dct:license": "terms_by"
-    }
-  ]
+    "dct:description": {
+        "fr": "La collecte de données « Expérimentation animale » comprend tous les documents administratifs et toutes les informations relatifs à l'expérimentation animale en Suisse. Elle contient notamment les demandes d'autorisation, les autorisations accordées, les rapports en cours et terminés ainsi que les notifications prescrites par la loi. Outre l'expérimentation animale proprement dite, elle comprend également les autorisations relatives à la détention d'animaux de laboratoire ainsi qu'à l'élevage et à l'utilisation de lignées d'animaux de laboratoire génétiquement modifiés.\n\nLes données servent à la surveillance juridique, au contrôle de l'exécution et à l'évaluation statistique dans le domaine de l'expérimentation animale. Elles permettent une évaluation complète des aspects liés à la protection des animaux dans les projets de recherche ainsi que du respect des prescriptions légales conformément à la législation sur la protection des animaux.\n\nElles constituent en outre une base importante pour l'établissement de rapports nationaux, l'assurance qualité dans l'exécution et le développement de stratégies visant à réduire, affiner et remplacer les expériences sur les animaux (principe des 3R). Les données doivent être archivées aux Archives fédérales.",
+        "de": "Die Datensammlung «Tierversuche» umfasst sämtliche administrativen Unterlagen und Informationen zu Tierversuchen in der Schweiz. Sie beinhaltet insbesondere Bewilligungsgesuche, erteilte Bewilligungen, laufende und abgeschlossene Berichte sowie gesetzlich vorgeschriebene Meldungen. Neben Tierversuchen selbst sind auch Bewilligungen zur Haltung von Versuchstieren sowie zur Zucht und Verwendung genetisch modifizierter Versuchstierlinien enthalten.\n\nDie Daten dienen der rechtlichen Überwachung, der Vollzugskontrolle und der statistischen Auswertung im Bereich Tierversuche. Sie ermöglichen eine umfassende Beurteilung der tierschutzrelevanten Aspekte von Forschungsprojekten sowie der Einhaltung der gesetzlichen Vorgaben gemäss Tierschutzgesetzgebung.\n\nZudem bilden sie eine wichtige Grundlage für die nationale Berichterstattung, die Qualitätssicherung im Vollzug und die Weiterentwicklung von Strategien zur Reduktion, Verfeinerung und zum Ersatz von Tierversuchen (3R-Prinzip). Daten müssen im Bundesarchiv archiviert werden."
+    },
+    "dct:accessRights": "RESTRICTED",
+    "dct:publisher": "BLV-OSAV-USAV-FSVO",
+    "dcat:contactPoint": {
+        "schema:email": "oberaufsicht-tv@blv.admin.ch",
+        "schema:name": "BLV, TGTS, Tierschutz"
+    },
+    "dct:issued": "2025-01-01",
+    "dcatap:availability": "STABLE",
+    "dcat:keyword": [
+        "Tierversuche",
+        "Tierversuchsstatistik",
+        "Versuchstiere",
+        "Versuchstierhaltung",
+        "Tierversuchsbewilligung",
+        "Belastungskategorien",
+        "Berichte",
+        "Versuchsdokumentation",
+        "Tiermodelle",
+        "Forschungsprojekte"
+    ],
+    "dct:accrualPeriodicity": "CONT",
+    "dct:modified": "2025-11-05",
+    "prov:qualifiedAttribution": [
+        {
+            "prov:agent": "p-9097640",
+            "dcat:hadRole": "dataOwner"
+        },
+        {
+            "prov:agent": "p-1YZJ3753C",
+            "dcat:hadRole": "dataSteward"
+        }
+    ],
+    "adms:status": "published",
+    "bv:classification": "internal",
+    "bv:personalData": "sensitivePersonalData",
+    "bv:typeOfData": "primaryThematicData",
+    "bv:archivalValue": "TRUE",
+    "bv:opendata_swiss": {
+        "bv:mustBePublished": "FALSE"
+    },
+    "bv:i14y": {
+        "bv:mustBePublished": "TRUE"
+    },
+    "dcat:theme": [
+        "research",
+        "national-economy",
+        "industry",
+        "administration",
+        "health"
+    ],
+    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierversuche/forschende.html",
+    "dct:spatial": "YES",
+    "dct:temporal": {},
+    "dcatap:applicableLegislation": [
+        "Tierschutzgesetz (TSchG SR 455) – Art. 3 c",
+        "Art. 17",
+        "Art. 18, Art. 20, Art. 20a, Tierschutzverordnung (TSchV SR 455.1) – Art. 139–152. Tierversuchsverordnung (TVV SR 455.163). Verordnung über das Informationssystem Animex-ch (SR 455.61)"
+    ],
+    "bv:itSystem": "animex-ch"
 }

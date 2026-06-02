@@ -1,68 +1,59 @@
 {
     "dct:identifier": "FSVO_D00049",
-    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANDChicken.jpg",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/Red_Vineyard.jpg",
     "dct:title": {
-        "fr": "Stalleinrichtungen",
-        "de": "Stalleinrichtungen",
-        "en": "Stalleinrichtungen",
-        "it": "Stalleinrichtungen"
+        "fr": "Pflanzenschutzmittelverzeichnis",
+        "de": "Pflanzenschutzmittelverzeichnis",
+        "en": "Pflanzenschutzmittelverzeichnis",
+        "it": "Pflanzenschutzmittelverzeichnis"
     },
     "dct:description": {
-        "fr": "La collecte de données « Équipements d'étable » comprend tous les systèmes d'étable et équipements d'étable fabriqués en série, testés et approuvés pour l'élevage de bovins, porcs, moutons, chèvres, volailles et lapins. Les données sont collectées dans le cadre des activités du Centre pour la détention convenable des animaux :  ruminants et porcs ainsi que du Centre pour la détention convenable des animaux : volailles et lapins. Elle contient des informations sur les fabricants, les types de produits, les utilisations prévues, les résultats des tests, le statut d'autorisation et les conditions à remplir pour se conformer aux exigences de la législation sur la protection des animaux. Elle offre une vue d'ensemble transparente des systèmes autorisés, facilite le choix d'équipements conformes et contribue à promouvoir un élevage respectueux des animaux en Suisse.",
-        "de": "Die Datensammlung «Stalleinrichtungen» beinhaltet sämtliche geprüften und bewilligten serienmässig hergestellten Aufstallungssysteme und Stalleinrichtungen für die Haltung von Rindern, Schweinen, Schafen, Ziegen, Geflügel und Kaninchen. Die Daten werden im Rahmen der Tätigkeiten des Zentrums für tiergerechte Haltung:  Wiederkäuern und Schweinen sowie des Zentrums für tiergerechte Haltung: Geflügel und Kaninchen erfasst. Enthalten sind Informationen zu Herstellerfirmen, Produkttypen, Einsatzzwecken, Prüfergebnissen, Bewilligungsstatus und Auflagen zur Einhaltung der Anforderungen gemäss Tierschutzgesetzgebung.\n\nSie ermöglicht eine transparente Übersicht über zugelassene Systeme, erleichtert die Auswahl konformer Einrichtungen und trägt zur Förderung einer tiergerechten Nutztierhaltung in der Schweiz bei."
+        "fr": "Les produits phytosanitaires autorisés sont répertoriés dans le registre des produits phytosanitaires. Ce registre contient des informations sur les substances actives, les phytoprotecteurs et les synergistes contenus dans les produits, sur le titulaire de l'autorisation, sur l'utilisation prévue, sur les restrictions d'utilisation, sur les doses d'application, sur l'étiquetage des dangers et sur les conditions d'utilisation.\nLes produits phytosanitaires dont l'autorisation a été révoquée restent inscrits dans le registre jusqu'à l'expiration de la période d'utilisation.",
+        "de": "Zugelassene Pflanzenschutzmittel werden im Pflanzenschutzmittelverzeichnis aufgelistet. Das Verzeichnis enthält Angaben zu den enthaltenen Wirkstoffen, Safenern und Synergisten, zur Zulassungsinhaberin, zur vorgesehenen Anwendung, zu Anwendungseinschränkungen, Aufwandmengen, Gefahrenkennzeichnung und zu Anwendungsauflagen.\nPflanzenschutzmittel, deren Zulassung widerrufen wurde werden noch bis zum Ablauf der Verwendungsfrist im Verzeichnis geführt."
     },
     "dct:accessRights": "PUBLIC",
     "dct:publisher": "BLV-OSAV-USAV-FSVO",
     "dcat:contactPoint": {
-        "schema:email": "infotgs@blv.admin.ch",
-        "schema:name": "BLV, TGTS, Tierschutz"
+        "schema:email": "pflanzenschutzmittel@blv.admin.ch",
+        "schema:name": "BLV, Zulassungsstelle PSM"
     },
-    "dct:issued": "2025-01-01",
+    "dct:issued": "2026-01-14",
     "dcatap:availability": "STABLE",
     "dcat:keyword": [
-        "Tierhaltung",
-        "Tiergerechtheit",
-        "Stalleinrichtungen",
-        "Aufstallungssysteme",
-        "Widerkäuer",
-        "Schweine",
-        "Geflügel",
-        "Kaninchen"
+        "Pflanzenschutzmittel, Zulassung, Bewilligung"
     ],
-    "dct:accrualPeriodicity": "AS_NEEDED",
-    "dct:modified": "2025-11-06",
+    "dct:accrualPeriodicity": "CONT",
+    "dct:modified": "2026-01-14",
     "prov:qualifiedAttribution": [
         {
-            "prov:agent": "p-1521097",
+            "prov:agent": "p-1XHMH0D35",
             "dcat:hadRole": "dataOwner"
         },
         {
-            "prov:agent": "p-2971195",
+            "prov:agent": "p-1XHMGZCHC",
             "dcat:hadRole": "dataSteward"
         }
     ],
     "adms:status": "published",
     "bv:classification": "none",
     "bv:personalData": "none",
-    "bv:typeOfData": "primaryThematicData",
-    "bv:archivalValue": "TRUE",
+    "bv:typeOfData": "thematicData",
+    "bv:archivalValue": "yes",
     "bv:opendata_swiss": {
-        "bv:mustBePublished": "TRUE",
-        "dct:identifier": "stalleinrichtungen@bundesamt-fur-lebensmittelsicherheit-und-veterinaerwesen-blv",
-        "dcat:accessURL": "https://opendata.swiss/de/dataset/stalleinrichtungen-und-aufstallungssysteme"
+        "bv:mustBePublished": "yes",
+        "dct:identifier": "pflanzenschutzmittelverzeichnis@bundesamt-fur-lebensmittelsicherheit-und-veterinaerwesen-blv",
+        "dcat:accessURL": "https://opendata.swiss/de/dataset/pflanzenschutzmittelverzeichnis"
     },
     "bv:i14y": {
-        "bv:mustBePublished": "TRUE"
+        "bv:mustBePublished": "yes"
     },
     "dcat:theme": [
-        "agriculture"
+        "agriculture, nantional-economy, territory, health"
     ],
-    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierschutz/nutztierhaltung/stalleinrichtungen/stallliste.html",
-    "dct:spatial": "NO",
+    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/zulassung-pflanzenschutzmittel/zugelassene-pflanzenschutzmittel/pflanzenschutzmittelverzeichnis.html",
+    "dct:spatial": "no",
     "dct:temporal": {},
     "dcatap:applicableLegislation": [
-        "Tierschutzgesetz: Art. 7",
-        "Tierschutzverordnung: Art. 81,82 und 84"
-    ],
-    "bv:itSystem": "ASAN"
+        "https://www.fedlex.admin.ch/eli/cc/2025/565/de"
+    ]
 }

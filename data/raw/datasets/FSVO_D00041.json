@@ -1,40 +1,41 @@
 {
     "dct:identifier": "FSVO_D00041",
-    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
     "dct:title": {
-        "fr": "eCert  Gesundheitsbescheinigungen für den sicheren Export",
-        "de": "eCert  Gesundheitsbescheinigungen für den sicheren Export",
-        "en": "eCert  Gesundheitsbescheinigungen für den sicheren Export",
-        "it": "eCert  Gesundheitsbescheinigungen für den sicheren Export"
+        "fr": "Tierseuchendiagnostik (aRes-DB)",
+        "de": "Tierseuchendiagnostik (aRes-DB)",
+        "en": "Tierseuchendiagnostik (aRes-DB)",
+        "it": "Tierseuchendiagnostik (aRes-DB)"
     },
     "dct:description": {
-        "fr": "Die Datensammlung «eCert» umfasst strukturierte Informationen zu elektronischen Gesundheitsbescheinigungen, die für den Export von Tieren, tierischen Produkten und Lebensmittel aus der Schweiz in Drittstaaten benötigt werden. Sie enthält die vom BLV mit den jeweiligen Drittstaaten verhandelten Vorlagen sowie die zugehörigen Zertifizierungs- und Übermittlungsdaten. Die Datensammlung dient der digitalen Abwicklung und Nachverfolgung des Zertifizierungsprozesses und unterstützt damit sowohl Schweizer Exportbetriebe als auch kantonale Vollzugsbehörden. Durch die zentrale Bereitstellung harmonisierter Vorlagen und standardisierter Abläufe ermöglicht «eCert» eine einheitliche Anwendung der rechtlichen Anforderungen, erhöht die Effizienz im Vollzug und minimiert Fehlerquellen. Zudem verbessert das System die internationale Anerkennung der Schweizer Gesundheitsbescheinigungen und erleichtert den sicheren, rechtlich konformen Handel mit Tieren, tierischen Produkten und Lebensmitteln.",
-        "de": "Die Datensammlung «eCert» umfasst strukturierte Informationen zu elektronischen Gesundheitsbescheinigungen, die für den Export von Tieren, tierischen Produkten und Lebensmittel aus der Schweiz in Drittstaaten benötigt werden. Sie enthält die vom BLV mit den jeweiligen Drittstaaten verhandelten Vorlagen sowie die zugehörigen Zertifizierungs- und Übermittlungsdaten. Die Datensammlung dient der digitalen Abwicklung und Nachverfolgung des Zertifizierungsprozesses und unterstützt damit sowohl Schweizer Exportbetriebe als auch kantonale Vollzugsbehörden. Durch die zentrale Bereitstellung harmonisierter Vorlagen und standardisierter Abläufe ermöglicht «eCert» eine einheitliche Anwendung der rechtlichen Anforderungen, erhöht die Effizienz im Vollzug und minimiert Fehlerquellen. Zudem verbessert das System die internationale Anerkennung der Schweizer Gesundheitsbescheinigungen und erleichtert den sicheren, rechtlich konformen Handel mit Tieren, tierischen Produkten und Lebensmitteln."
+        "fr": "La collecte de données « Ares » comprend les résultats de laboratoire liés au diagnostic, à la surveillance et à la lutte contre les épizooties en Suisse. Elle recense les résultats d'analyses positifs et négatifs provenant de laboratoires de diagnostic accrédités, complétés par des informations sur l'espèce animale, l'exploitation d'origine, le matériel d'échantillonnage, la date de l'analyse et la méthode utilisée. Les données proviennent de programmes nationaux de surveillance, d'enquêtes ciblées en cas d'épidémie et d'examens diagnostiques individuels en cas de suspicion.\n\nL'objectif de cette base de données est de créer une vue d'ensemble centralisée, structurée et exploitable de la santé animale. Les données servent à prouver l'absence de certaines épizooties et le succès des mesures de lutte contre celles-ci, à identifier les foyers de maladie, à analyser les risques et à soutenir les enquêtes épidémiologiques. Ares permet une surveillance ciblée, améliore la coordination des mesures de lutte et fournit la base scientifique pour les décisions stratégiques de l'OSAV dans le domaine de la santé animale.",
+        "de": "Die Datensammlung «Ares» beinhaltet die Laborresultate im Zusammenhang mit der Diagnostik, Überwachung und Bekämpfung von Tierseuchen in der Schweiz. Erfasst werden sowohl positive wie negative Untersuchungsergebnisse aus akkreditierten Diagnostiklaboratorien, ergänzt durch Angaben zu Tierart, Herkunftsbetrieb, Probenmaterial, Untersuchungsdatum sowie angewandter Methodik. Die Daten stammen aus nationalen Überwachungsprogrammen, gezielten Abklärungen im Seuchenfall sowie aus diagnostischen Einzeluntersuchungen bei Verdachtsmeldungen.\n\nZiel der Datensammlung ist es, eine zentrale, strukturierte und auswertbare Übersicht zur Tiergesundheit zu schaffen. Die Daten dienen dem Freiheitsnachweis und dem Bekämpfungserfolg bestimmter Tierseuchen, der Identifikation von Krankheitsausbrüchen, der Risikoanalyse und der Unterstützung bei epidemiologischen Abklärungen. Ares ermöglicht ein gezieltes Monitoring, verbessert die Koordination von Bekämpfungsmassnahmen und liefert die wissenschaftliche Grundlage für strategische Entscheidungen des BLV im Bereich Tiergesundheit."
     },
     "dct:accessRights": "RESTRICTED",
     "dct:publisher": "BLV-OSAV-USAV-FSVO",
     "dcat:contactPoint": {
-        "schema:email": "ecert@blv.admin.ch",
-        "schema:name": "BLV, INT, Fachbereich IntBez "
+        "schema:email": "infotgts@blv.admin.ch",
+        "schema:name": "BLV, TGTS, Tiergesundheit"
     },
     "dct:issued": "2025-01-01",
     "dcatap:availability": "STABLE",
     "dcat:keyword": [
-        "Tier",
-        "Tierische Produkte",
-        "Lebensmittel",
-        "Drittstaat",
-        "Export"
+        "Tierseuchendiagnostik",
+        "Tierseuchen",
+        "Überwachung",
+        "Bekämpfung",
+        "Labore",
+        "Laborresultate"
     ],
-    "dct:accrualPeriodicity": "DAILY",
-    "dct:modified": "2025-09-10",
+    "dct:accrualPeriodicity": "CONT",
+    "dct:modified": "2025-12-02",
     "prov:qualifiedAttribution": [
         {
-            "prov:agent": "p-8859490",
+            "prov:agent": "p-9089108",
             "dcat:hadRole": "dataOwner"
         },
         {
-            "prov:agent": "p-4501168",
+            "prov:agent": "p-9737669",
             "dcat:hadRole": "dataSteward"
         }
     ],
@@ -50,36 +51,62 @@
         "bv:mustBePublished": "TRUE"
     },
     "dcat:theme": [
-        "trade"
+        "agriculture",
+        "national-economy",
+        "health"
     ],
-    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/import-und-export.html",
-    "dct:spatial": "NO",
+    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tiergesundheit/ueberwachung.html",
+    "dct:spatial": "YES",
     "dct:temporal": {},
     "dcatap:applicableLegislation": [
-        ""
+        "TSV Art 312c Abs 2: ISLMK-V Art1 Abs 1 b"
     ],
-    "bv:itSystem": "ecert",
+    "bv:itSystem": "ARES",
     "dcat:distribution": [
         {
-            "dct:identifier": "FSVO_DIS000411",
-            "dcat:accessURL": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/ernaehrung/menuCH/menuch-konsummengen-und-portionsgroessen.html",
+            "dct:identifier": "FSVO_D00060_01",
+            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AZfTFL4gdo5Gie8SMHqEmKw",
+            "adms:status": "published",
+            "dct:format": "SAP BO Webintelligence",
             "dct:title": {
-                "fr": "menuCH: Taille des portions",
-                "de": "menuCH: Portionsgrössen",
-                "en": "menuCH: Portion sizes",
-                "it": "menuCH: Dimensioni delle porzioni"
+                "de": "3000_Untersuchungsergebnisse von Tierseuchen aus aRes",
+                "fr": "3000_Untersuchungsergebnisse von Tierseuchen aus aRes"
             },
             "dct:description": {
-                "fr": "Dès lors que l’on consomme un aliment, cela correspond à une portion. Pour cette analyse, ce sont le nombre de portions consommées mais aussi la quantité par portion qui ont été déterminés en grammes par catégorie et sous-catégorie d’aliments. Les données détaillées de l’étude menuCH peuvent être utilisées sous certaines conditions. Des informations sur les données et les conditions d'utilisation ainsi que le formulaire de candidature sont disponibles sur www.studydata.blv.admin.ch.",
-                "de": "Wann immer ein Lebensmittel gegessen wurde, gilt dies als Portion. In dieser Auswertung wurden sowohl die Anzahl verzehrter Portionen als auch die Menge pro Portion nach Lebensmittelkategorie und -unterkategorie in Gramm bestimmt. Die detaillierten Daten der Studie menuCH stehen unter bestimmten Bedingungen zur Nutzung zur Verfügung. Die Informationen zu den Daten und den Nutzungsbedingungen sowie das Antragsformular befinden sich auf www.studydata.blv.admin.ch.",
-                "en": "description_en",
-                "it": "Indipendentemente da quando un alimento è stato consumato, vale come porzione. Nella valutazione sono stati determinati in grammi sia il numero delle porzioni consumate sia la quantità per porzione in funzione della categoria e sottocategoria alimentare. I dati dettagliati dello studio menuCH possono essere utilizzati a determinate condizioni. Informazioni sui dati, sulle condizioni di utilizzo e sul modulo di domanda si trovano su www.studydata.blv.admin.ch."
+                "de": "Labordiagnostische Untersuchungsergebnisse einer ausgewählten Tierseuche nach eigenem Bedarf zusammenstellen.",
+                "fr": "Labordiagnostische Untersuchungsergebnisse einer ausgewählten Tierseuche nach eigenem Bedarf zusammenstellen."
             },
-            "dct:modified": "2022-09-14",
+            "schema:comment": "Publikationsort in ALVPH: /3 Shared/BLV - KAV/aRes"
+        },
+        {
+            "dct:identifier": "FSVO_D00060_2",
+            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AVScgO4KZD9JlBATTMcR1SE",
             "adms:status": "published",
-            "dct:format": "XLS",
-            "dct:license": "terms_open",
-            "schema:comment": "Test"
+            "dct:format": "SAP BO Webintelligence",
+            "dct:title": {
+                "de": "3010_UntersuchungenProJahrUndKanton",
+                "fr": "3010_UntersuchungenProJahrUndKanton"
+            },
+            "dct:description": {
+                "de": "Laborergebnisse pro Jahr und Kanton. Seuchen können gefiltert werden",
+                "fr": "Laborergebnisse pro Jahr und Kanton. Seuchen können gefiltert werden"
+            },
+            "schema:comment": "Publikationsort in ALVPH: /3 Shared/BLV - KAV/aRes"
+        },
+        {
+            "dct:identifier": "FSVO_D00060_3",
+            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AYbDIoXl4StIslo9qPxmLyI",
+            "adms:status": "published",
+            "dct:format": "SAP BO Webintelligence",
+            "dct:title": {
+                "de": "3001_Jahresauswertung Nationales Überwachungsprogramm",
+                "fr": "3001_Jahresauswertung Nationales Überwachungsprogramm"
+            },
+            "dct:description": {
+                "de": "Jährliche Anzahl Proben und Betriebe, die im Rahmen des Nationalen\nÜberwachungsprogramms auf bestimmte Tierseuchen untersucht wurden.",
+                "fr": "Jährliche Anzahl Proben und Betriebe, die im Rahmen des Nationalen\nÜberwachungsprogramms auf bestimmte Tierseuchen untersucht wurden."
+            },
+            "schema:comment": "Publikationsort in ALVPH: /3 Shared/BLV - KAV/aRes"
         }
     ]
 }

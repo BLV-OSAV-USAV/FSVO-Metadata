@@ -1,46 +1,46 @@
 {
     "dct:identifier": "FSVO_D00031",
-    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/Medicine.jpg",
     "dct:title": {
-        "fr": "Tierische Lebensmittel aus Drittstaaten Auswertung aus TRACES NT",
-        "de": "Tierische Lebensmittel aus Drittstaaten Auswertung aus TRACES NT",
-        "en": "Tierische Lebensmittel aus Drittstaaten Auswertung aus TRACES NT",
-        "it": "Tierische Lebensmittel aus Drittstaaten Auswertung aus TRACES NT"
+        "fr": "Vertriebsdaten von Antibiotika",
+        "de": "Vertriebsdaten von Antibiotika",
+        "en": "Vertriebsdaten von Antibiotika",
+        "it": "Vertriebsdaten von Antibiotika"
     },
     "dct:description": {
-        "fr": "Diese Datensammlung basiert auf Informationen aus dem europäischen System TRACES-NT und umfasst Einträge zu Sendungen tierischer Lebensmittel, die aus Drittstaaten in die Schweiz eingeführt werden. Erfasst werden unter anderem die Art, Herkunft, Menge und der Zielort der Waren sowie die Ergebnisse amtlicher Kontrollen an den Grenzkontrollstellen. Die Daten stammen direkt aus den Eingaben der zuständigen Grenzkontrollstellen und dokumentieren sämtliche relevanten Vorgänge im Rahmen der Einfuhrüberwachung. Die Datensammlung dient dem internen Datenmanagement des Bundesamts für Lebensmittelsicherheit und Veterinärwesen (BLV) und stellt eine wichtige Grundlage für den Jahresbericht zum Mehrjährigen Nationalen Kontrollplan (MNKP) sowie für die VKCS-Statistik des Verbands der Kantonschemiker der Schweiz dar. Sie ermöglicht einen schweizweiten Überblick – einschliesslich Liechtenstein – über die Einfuhren tierischer Lebensmittel aus Drittstaaten und liefert eine verlässliche Basis für die risikobasierte Analyse, die Früherkennung von Auffälligkeiten und die gezielte Weiterentwicklung von Kontrollstrategien. Damit trägt sie wesentlich zur Stärkung des Vollzugs und zur Sicherstellung der Lebensmittelsicherheit in der Schweiz bei.",
-        "de": "Diese Datensammlung basiert auf Informationen aus dem europäischen System TRACES-NT und umfasst Einträge zu Sendungen tierischer Lebensmittel, die aus Drittstaaten in die Schweiz eingeführt werden. Erfasst werden unter anderem die Art, Herkunft, Menge und der Zielort der Waren sowie die Ergebnisse amtlicher Kontrollen an den Grenzkontrollstellen. Die Daten stammen direkt aus den Eingaben der zuständigen Grenzkontrollstellen und dokumentieren sämtliche relevanten Vorgänge im Rahmen der Einfuhrüberwachung. Die Datensammlung dient dem internen Datenmanagement des Bundesamts für Lebensmittelsicherheit und Veterinärwesen (BLV) und stellt eine wichtige Grundlage für den Jahresbericht zum Mehrjährigen Nationalen Kontrollplan (MNKP) sowie für die VKCS-Statistik des Verbands der Kantonschemiker der Schweiz dar. Sie ermöglicht einen schweizweiten Überblick – einschliesslich Liechtenstein – über die Einfuhren tierischer Lebensmittel aus Drittstaaten und liefert eine verlässliche Basis für die risikobasierte Analyse, die Früherkennung von Auffälligkeiten und die gezielte Weiterentwicklung von Kontrollstrategien. Damit trägt sie wesentlich zur Stärkung des Vollzugs und zur Sicherstellung der Lebensmittelsicherheit in der Schweiz bei."
+        "fr": "Cette collecte de données contient des informations sur les antibiotiques commercialisés en Suisse dans le domaine vétérinaire par les titulaires d'autorisations et les grossistes. Tous les distributeurs sont tenus d'enregistrer chaque année tous les médicaments vétérinaires antibiotiques qu'ils commercialisent. Sont enregistrés le principe actif, le nom commercial, les quantités vendues, le titulaire de l'autorisation et l'utilisation prévue par espèce animale.\n \n\nLes données servent à la surveillance nationale de la distribution d'antibiotiques et constituent un élément central de la stratégie suisse de lutte contre la résistance aux antibiotiques (StAR). Elles permettent d'analyser les évolutions dans la distribution et facilitent la planification ciblée de mesures visant à réduire l'utilisation d'antibiotiques. En outre, ces données constituent une base importante pour les rapports internationaux, par exemple à l'Organisation mondiale de la santé animale (OIE). L'ISABV contribue ainsi à promouvoir une utilisation responsable des antibiotiques et à lutter contre la résistance.",
+        "de": "Diese Datensammlung enthält Informationen zu in der Schweiz für den Veterinärbereich vertriebenen Antibiotika von Zulassungsinhabern und Grosshändlern. Alle Inverkehrbringer sind verpflichtet, alle von ihnen vertriebenen antibiotischen Tierarzneimittel jedes Jahr obligatorisch zu erfassen. Erfasst werden Wirkstoff, Handelsname, abgegebene Mengen, Zulassungsinhaber sowie Verwendungszweck nach Tierart. \n\nDie Daten dienen der nationalen Überwachung des Antibiotikavertriebs und sind ein zentrales Element der Strategie Antibiotikaresistenzen Schweiz (StAR). Sie ermöglichen die Analyse von Entwicklungen im Vertrieb und unterstützen die gezielte Planung von Massnahmen zur Reduktion des Antibiotikaeinsatzes. Zudem bilden die Daten eine wichtige Grundlage für internationale Berichterstattungen, beispielsweise an die Weltorganisation für Tiergesundheit (WOAH). ISABV leistet somit einen Beitrag zur Förderung einer verantwortungsvollen Anwendung von Antibiotika und zur Bekämpfung von Resistenzen."
     },
     "dct:accessRights": "RESTRICTED",
     "dct:publisher": "BLV-OSAV-USAV-FSVO",
     "dcat:contactPoint": {
-        "schema:email": "lme@blv.admin.ch",
-        "schema:name": "BLV, LME, Koordination und Überwachung"
+        "schema:email": "tam@blv.admin.ch",
+        "schema:name": "BLV, TGTS, Tierarzneimittel"
     },
     "dct:issued": "2025-01-01",
     "dcatap:availability": "STABLE",
     "dcat:keyword": [
-        "Kontrolle",
-        "Lebensmittel",
-        "Laboranalysen",
-        "Grenze",
-        "Drittstaaten"
+        "Tiergesundheit",
+        "Antibiotika",
+        "Tierarzneimittel",
+        "Veterinärmedizin",
+        "Resistenzmonitoring"
     ],
-    "dct:accrualPeriodicity": "ANNUAL",
-    "dct:modified": "2025-09-10",
+    "dct:accrualPeriodicity": "CONT",
+    "dct:modified": "2025-11-06",
     "prov:qualifiedAttribution": [
         {
-            "prov:agent": "p-1YFBMPWKZ",
+            "prov:agent": "p-9079817",
             "dcat:hadRole": "dataOwner"
         },
         {
-            "prov:agent": "p-3611054",
+            "prov:agent": "p-7891691",
             "dcat:hadRole": "dataSteward"
         }
     ],
     "adms:status": "published",
     "bv:classification": "none",
-    "bv:personalData": "none",
+    "bv:personalData": "personalData",
     "bv:typeOfData": "primaryThematicData",
     "bv:archivalValue": "TRUE",
     "bv:opendata_swiss": {
@@ -50,35 +50,14 @@
         "bv:mustBePublished": "TRUE"
     },
     "dcat:theme": [
+        "agriculture",
         "health"
     ],
-    "dct:spatial": "NO",
+    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierarzneimittel/antibiotika/ueberwachung.html",
+    "dct:spatial": "YES",
     "dct:temporal": {},
     "dcatap:applicableLegislation": [
-        ""
+        "Tierarzneimittelverordnung"
     ],
-    "bv:itSystem": "TRACES",
-    "dcat:distribution": [
-        {
-            "dct:identifier": "FSVO_DIS000311",
-            "dcat:accessURL": "https://www.psm.admin.ch/",
-            "dct:title": {
-                "fr": "Produits phytosanitaires",
-                "de": "Pflanzenschutzmittelverzeichnis",
-                "en": "Title",
-                "it": "Prodotti fitosanitari"
-            },
-            "dct:description": {
-                "fr": "Les produits phytosanitaires autorisés figurent dans un index des produits phytosanitaires. Cet index comprend des indications sur l’utilisation prévue, les restrictions d’application, le dosage, les indications relatives aux dangers et les charges liées à l’utilisation.",
-                "de": "Die bewilligten Pflanzenschutzmittel werden im Pflanzenschutzmittelverzeichnis aufgelistet. Das Verzeichnis enthält Angaben zur vorgesehenen Anwendung, zu Anwendungseinschränkungen, Aufwandmengen, Gefahrenkennzeichnung und zu Anwendungsauflagen.",
-                "en": "description_en",
-                "it": "I prodotti fitosanitari autorizzati figurano in un elenco dei prodotti fitosanitari contenente indicazioni sull'applicazione prevista, restrizioni e dosi di applicazione, simboli di pericolo e condizioni d'uso."
-            },
-            "dct:modified": "2024-12-17",
-            "adms:status": "published",
-            "dct:format": "XML",
-            "dct:license": "terms_open",
-            "schema:comment": "Test"
-        }
-    ]
+    "bv:itSystem": "IS ABV"
 }

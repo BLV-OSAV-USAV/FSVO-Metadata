@@ -1,93 +1,73 @@
 {
-  "dct:identifier": "FSVO_D00034",
-  "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
-  "dct:title": {
-    "de": "menuCH - die erste Nationale Ernährungserhebung",
-    "fr": "menuCH - die erste Nationale Ernährungserhebung",
-    "it": "menuCH",
-    "en": "menuCH"
-  },
-  "dct:description": {
-    "fr": "Die vorliegende Datensammlung basiert auf den Ergebnissen der nationalen Ernährungserhebung menuCH und stellt erstmals repräsentative Daten zum Lebensmittelverzehr, Ernährungsverhalten sowie zu sozioökonomischen und gesundheitsbezogenen Merkmalen der erwachsenen Bevölkerung in der Schweiz bereit. Erfasst wurden unter anderem Informationen zu konsumierten Lebensmittelmengen, Mahlzeitenstrukturen, Energie- und Nährstoffzufuhr, körperlicher Aktivität sowie zum Body-Mass-Index (BMI). Die erhobenen Daten dienen der wissenschaftlichen Analyse des Ernährungsverhaltens in der Schweiz und bilden eine evidenzbasierte Grundlage für die Weiterentwicklung von Ernährungsempfehlungen, gesundheitspräventiven Programmen und politischen Strategien – einschliesslich der Schweizer Ernährungsstrategie. Darüber hinaus ermöglicht die Datensammlung die Identifikation vulnerabler Bevölkerungsgruppen, den Vergleich mit internationalen Studien sowie die Ableitung gezielter Massnahmen zur Förderung einer ausgewogenen und nachhaltigen Ernährung. Sie stellt ein zentrales Instrument für die evidenzbasierte Ernährungspolitik und die öffentliche Gesundheitsförderung dar.",
-    "de": "Die vorliegende Datensammlung basiert auf den Ergebnissen der nationalen Ernährungserhebung menuCH und stellt erstmals repräsentative Daten zum Lebensmittelverzehr, Ernährungsverhalten sowie zu sozioökonomischen und gesundheitsbezogenen Merkmalen der erwachsenen Bevölkerung in der Schweiz bereit. Erfasst wurden unter anderem Informationen zu konsumierten Lebensmittelmengen, Mahlzeitenstrukturen, Energie- und Nährstoffzufuhr, körperlicher Aktivität sowie zum Body-Mass-Index (BMI). Die erhobenen Daten dienen der wissenschaftlichen Analyse des Ernährungsverhaltens in der Schweiz und bilden eine evidenzbasierte Grundlage für die Weiterentwicklung von Ernährungsempfehlungen, gesundheitspräventiven Programmen und politischen Strategien – einschliesslich der Schweizer Ernährungsstrategie. Darüber hinaus ermöglicht die Datensammlung die Identifikation vulnerabler Bevölkerungsgruppen, den Vergleich mit internationalen Studien sowie die Ableitung gezielter Massnahmen zur Förderung einer ausgewogenen und nachhaltigen Ernährung. Sie stellt ein zentrales Instrument für die evidenzbasierte Ernährungspolitik und die öffentliche Gesundheitsförderung dar."
-  },
-  "dct:accessRights": "PUBLIC",
-  "dct:publisher": "BLV-OSAV-USAV-FSVO",
-  "dcat:contactPoint": {
-    "schema:name": "BLV, LME, Ernährung",
-    "schema:email": "ernaehrung@blv.admin.ch"
-  },
-  "dct:issued": "2014-01-01",
-  "dcatap:availability": "STABLE",
-  "dcat:keyword": [
-    "Lebensmittel",
-    "Ernährung",
-    "Konsum",
-    "Portionsgrössen"
-  ],
-  "dct:accrualPeriodicity": "IRREGULAR",
-  "dct:modified": "2025-09-10",
-  "prov:qualifiedAttribution": [
-    {
-      "prov:agent": "p-7711752",
-      "dcat:hadRole": "dataOwner"
+    "dct:identifier": "FSVO_D00034",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/Medicine.jpg",
+    "dct:title": {
+        "fr": "Einfuhr von Tierarzneimittel",
+        "de": "Einfuhr von Tierarzneimittel",
+        "en": "Einfuhr von Tierarzneimittel",
+        "it": "Einfuhr von Tierarzneimittel"
     },
-    {
-      "prov:agent": "p-3922768",
-      "dcat:hadRole": "dataSteward"
-    }
-  ],
-  "adms:status": "published",
-  "bv:classification": "none",
-  "bv:personalData": "none",
-  "bv:typeOfData": "primaryThematicData",
-  "bv:archivalValue": "TRUE",
-  "dcat:theme": [
-    "health"
-  ],
-  "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/ernaehrung/menuCH.html",
-  "dct:spatial": "YES",
-  "bv:itSystem": "FSVO Data Repository",
-  "dcat:distribution": [
-    {
-      "dct:identifier": "FSVO_D00034_1",
-      "dcat:accessURL": "https://opendata.swiss/de/dataset/menuch-portionsgrossen",
-      "adms:status": "validated",
-      "dcatap:availability": "AVAILABLE",
-      "dct:format": "XLS",
-      "dct:title": {
-        "de": "menuCH: Konsummengen und Portionsgrössen",
-        "fr": "menuCH: Quantités consommées et taille des portions",
-        "it": "menuCH: Quantità di consumo e dimensioni delle porzioni",
-        "en": "menuCH: Consumption quantities and portion sizes"
-      },
-      "dct:description": {
-        "de": "Wann immer ein Lebensmittel gegessen wurde, gilt dies als Portion. In dieser Auswertung wurden sowohl die Anzahl verzehrter Portionen als auch die Menge pro Portion nach Lebensmittelkategorie und -unterkategorie in Gramm bestimmt. Die detaillierten Daten der Studie menuCH stehen unter bestimmten Bedingungen zur Nutzung zur Verfügung. Die Informationen zu den Daten und den Nutzungsbedingungen sowie das Antragsformular befinden sich auf www.studydata.blv.admin.ch.",
-        "fr": "Dès lors que l’on consomme un aliment, cela correspond à une portion. Pour cette analyse, ce sont le nombre de portions consommées mais aussi la quantité par portion qui ont été déterminés en grammes par catégorie et sous-catégorie d’aliments. Les données détaillées de l’étude menuCH peuvent être utilisées sous certaines conditions. Des informations sur les données et les conditions d'utilisation ainsi que le formulaire de candidature sont disponibles sur www.studydata.blv.admin.ch.",
-        "it": "Indipendentemente da quando un alimento è stato consumato, vale come porzione. Nella valutazione sono stati determinati in grammi sia il numero delle porzioni consumate sia la quantità per porzione in funzione della categoria e sottocategoria alimentare. I dati dettagliati dello studio menuCH possono essere utilizzati a determinate condizioni. Informazioni sui dati, sulle condizioni di utilizzo e sul modulo di domanda si trovano su www.studydata.blv.admin.ch.",
-        "en": "Whenever a food item was eaten, this counts as one portion. In this analysis, both the number of portions consumed and the quantity per portion were determined in grams, broken down by food category and subcategory. The detailed data from the menuCH study are available for use subject to certain conditions. Information on the data and the terms of use, as well as the application form, can be found at www.studydata.blv.admin.ch."
-      },
-      "dct:license": "terms_by"
+    "dct:description": {
+        "fr": "Cette collecte de données recense les déclarations des vétérinaires qui importent des médicaments vétérinaires (MV) depuis l'étranger. L'importation de MVA est autorisée lorsqu'aucun MVA alternatif ou médicalement équivalent n'est autorisé, que les MVA alternatifs sont autorisés mais non disponibles ou que les MVA autorisés ne conviennent pas dans certains cas particuliers (p. ex. galénique ou dosage). Selon la catégorie, les importations nécessitent ou non une autorisation. Sont enregistrées les informations relatives à la préparation importée, à la substance active, à l'espèce animale concernée, au nombre d'emballages, à la taille des emballages, à l'établissement utilisateur, au pays d'autorisation, au pays d'importation ainsi qu'à la justification médicale de l'importation.\n\nLa collecte de données sert au contrôle et à la traçabilité des importations exceptionnelles de médicaments vétérinaires. Elle permet de surveiller les risques liés aux médicaments non autorisés et de vérifier le respect des conditions légales. Elle fournit également des informations précieuses sur les lacunes en matière d'approvisionnement sur le marché suisse des médicaments vétérinaires et soutient le développement de stratégies réglementaires visant à garantir la santé animale.",
+        "de": "In dieser Datensammlung sind Meldungen von Tierärztinnen und Tierätzten erfasst, die Tierarzneimittel (TAM) aus dem Ausland importieren. Ein Import von TAM ist zulässig, wenn kein alternativ einsetzbares oder medizinisch gleichwertiges TAM zugelassen ist, alternative TAM zugelassen, aber nicht verfügbar sind oder zugelassene TAM für gewisse Einzelfälle ungeeignet sind (bspw. Galenik oder Dosisstärke). Je nach Kategorie benötigen Importe eine Bewilligung oder nicht. Erfasst werden Angaben zum eingeführten Präparat, Wirkstoff, vorgesehener Tierart, Anzahl Packungen, Packungsgrösse, Anwendugsbetrieb, Zulassungsland, Importland sowie die medizinische Begründung für die Einfuhr.\n\nDie Datensammlung dient der Kontrolle und Nachverfolgbarkeit ausserordentlicher Arzneimitteleinfuhren in der Veterinärmedizin. Sie ermöglicht es, Risiken im Zusammenhang mit nicht zugelassenen Arzneimitteln zu überwachen und die Einhaltung der rechtlichen Voraussetzungen zu prüfen. Zudem liefert sie wertvolle Hinweise zu Versorgungslücken auf dem Schweizer Tierarzneimittelmarkt und unterstützt die Weiterentwicklung regulatorischer Strategien zur Sicherstellung der Tiergesundheit."
     },
-    {
-      "dct:identifier": "FSVO_D00034_2",
-      "dcat:accessURL": "https://opendata.swiss/de/dataset/menuch_lebensmittelkonsum",
-      "adms:status": "validated",
-      "dcatap:availability": "AVAILABLE",
-      "dct:format": "XLS",
-      "dct:title": {
-        "de": "menuCH: Lebensmittelkonsum in der Schweiz",
-        "fr": "menuCH: Consommation alimentaire en Suisse",
-        "it": "menuCH: Consumo alimentarie in Svizzera",
-        "en": "menuCH: Food consumption in Switzerland"
-      },
-      "dct:description": {
-        "de": "Die im Rahmen von menuCH erhobenen Daten sind sowohl für die Wissenschaft als auch für die Öffentlichkeit von grosser Bedeutung. Sie werden daher zusammen mit vom BLV oder im Auftrag des BLV durchgeführten Auswertungen in codierter Form zur Verfügung gestellt (Konsum einzelner Lebensmittelgruppen). Die detaillierten Daten der Studie menuCH stehen unter bestimmten Bedingungen zur Nutzung zur Verfügung. Die Informationen zu den Daten und den Nutzungsbedingungen sowie das Antragsformular befinden sich auf www.studydata.blv.admin.ch.",
-        "fr": "Les données recueillies dans le cadre de menuCH sont d’une grande importance tant pour la science que pour le grand public. C’est pourquoi elles sont mises à disposition, sous une forme codée, accompagnées d’analyses réalisées par ou sur mandat de l’OSAV (Consommation de groupes d'aliments individuels). Les données détaillées de l’étude menuCH peuvent être utilisées sous certaines conditions. Des informations sur les données et les conditions d'utilisation ainsi que le formulaire de candidature sont disponibles sur www.studydata.blv.admin.ch.",
-        "it": "I dati raccolti attraverso menuCH sono di grande importanza sia per la scienza sia per il pubblico. Vengono pertanto forniti in forma codificata insieme alle valutazioni effettuate da o per conto dell’USAV (Consumo di singoli gruppi di alimenti). I dati dettagliati dello studio menuCH possono essere utilizzati a determinate condizioni. Informazioni sui dati, sulle condizioni di utilizzo e sul modulo di domanda si trovano su www.studydata.blv.admin.ch.",
-        "en": "The data collected as part of the menuCH study is of great importance to both the scientific community and the general public. It is therefore made available in coded form, together with analyses carried out by the FSVO or on its behalf (consumption of individual food groups). The detailed data from the menuCH study is available for use subject to certain conditions. Information on the data and the terms of use, as well as the application form, can be found at www.studydata.blv.admin.ch."
-      },
-      "dct:license": "terms_by"
-    }
-  ]
+    "dct:accessRights": "RESTRICTED",
+    "dct:publisher": "BLV-OSAV-USAV-FSVO",
+    "dcat:contactPoint": {
+        "schema:name": "BLV, TGTS, Tierarzneimittel",
+        "schema:email": "tam@blv.admin.ch"
+    },
+    "dct:issued": "2025-01-01",
+    "dcatap:availability": "STABLE",
+    "dcat:keyword": [
+        "Tiergesundheit",
+        "Antibiotika",
+        "Tierarzneimittel",
+        "Veterinärmedizin",
+        "Resistenzmonitoring",
+        "Einfuhr"
+    ],
+    "dct:accrualPeriodicity": "CONT",
+    "dct:modified": "2025-11-06",
+    "prov:qualifiedAttribution": [
+        {
+            "prov:agent": "p-9079817",
+            "dcat:hadRole": "dataOwner"
+        },
+        {
+            "prov:agent": "p-7891691",
+            "dcat:hadRole": "dataSteward"
+        }
+    ],
+    "adms:status": "published",
+    "bv:classification": "none",
+    "bv:personalData": "personalData",
+    "bv:typeOfData": "primaryThematicData",
+    "bv:archivalValue": "TRUE",
+    "dcat:theme": [
+        "agriculture",
+        "health"
+    ],
+    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierarzneimittel/fachgerechter-umgang-mit-tierarzneimitteln/einfuhr-tam.html",
+    "dct:spatial": "YES",
+    "dcatap:applicableLegislation": [
+        "Tierarzneimittelverordnung"
+    ],
+    "bv:itSystem": "TAM-I",
+    "dcat:distribution": [
+        {
+            "dct:identifier": "FSVO_D00053_1",
+            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AQp4uSV4AEJLtLsOCBpr20A",
+            "adms:status": "published",
+            "dct:format": "SAP BO Webintelligence",
+            "dct:title": {
+                "de": "7101 TAM-I Kontrolle",
+                "fr": "7101 TAM-I Kontrolle"
+            },
+            "dct:description": {
+                "de": "Liste der Tierarzneimittelimporte die über TAM-I gemeldet wurden. Das Zeitfenster kann gewählt werden.",
+                "fr": "Liste der Tierarzneimittelimporte die über TAM-I gemeldet wurden. Das Zeitfenster kann gewählt werden."
+            }
+        }
+    ]
 }

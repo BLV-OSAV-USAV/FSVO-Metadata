@@ -1,85 +1,61 @@
 {
     "dct:identifier": "FSVO_D00045",
-    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
     "dct:title": {
-        "fr": "IBR/EBL NML Stichprobe",
-        "de": "IBR/EBL NML Stichprobe",
-        "en": "IBR/EBL NML Stichprobe",
-        "it": "IBR/EBL NML Stichprobe"
+        "fr": "ARAMIS",
+        "de": "ARAMIS Administration Research Actions Management Information System",
+        "en": "ARAMIS",
+        "it": "ARAMIS"
     },
     "dct:description": {
-        "fr": "Chaque année, sur la base de critères définis, des exploitations bovines non laitières sont sélectionnées pour être testées à l'abattoir dans le cadre des programmes nationaux de surveillance de l'IBR/EBL. La liste de ces exploitations est transmise à RiBeS. Elle comprend les exploitations et les animaux éligibles pour l'échantillonnage aléatoire ainsi que la liste des exploitations sentinelles.\n \n\nCes données servent à prouver le statut indemne de la population bovine suisse en matière d'IBR/EBL, conformément aux exigences des accords bilatéraux.",
-        "de": "Jährlich werden aufgrund von festglegten Kriterien nicht milchliefernden Rinderbetriebe ausgewählt, die im Rahmen der nationalen Überwachungsprogramme IBR/EBL am Schlachthof beprobt werden sollen - diese Betriebsliste wird RiBeS übergeben. Dazu gehören die für die Zufallsstichprobe geeigneten Betriebe und Tiere sowie die Liste der Sentinelbetriebe. \n\nDiese Daten dienen der Belegung des Freiheitsstatus der Schweizer Rinderpopulation von IBR/EBL gemäss den Anforderungen der bilateralen Verträge."
+        "fr": "Le système d'information ARAMIS est en service depuis 1997 et comprend une saisie systématique des projets de recherche, d'innovation et d'évaluation financés ou réalisés par la Confédération. Son introduction a été précédée de plusieurs interventions parlementaires demandant plus de transparence et une amélioration de la coopération dans la recherche de l'administration fédérale. ARAMIS fonctionne comme une application de base de données dans laquelle les projets de recherche et les évaluations de l'administration fédérale sont représentés sous forme de projets individuels ou reliés entre eux. Ces projets contiennent, outre des informations de base telles que le titre et la durée, des données descriptives telles que les objectifs du projet ou les rapports finaux ainsi que des données financières. La banque de données sert à l'information du public ainsi que de base pour des évaluations statistiques et complémentaires.",
+        "de": "Das Informationssystem ARAMIS ist seit 1997 in Betrieb und beinhaltet eine systematische Erfassung der Forschungs- Innovations- und Evaluationsprojekte, welche vom Bund finanziert oder durchgeführt werden. Der Einführung waren mehrere parlamentarische Vorstösse vorangegangen, die mehr Transparenz und eine Verbesserung der Kooperation in der Ressortforschung verlangten. ARAMIS funktioniert als Datenbankanwendung, in der die Forschungsvorhaben und Evaluationen der Bundesverwaltung als einzelne oder miteinander verknüpfte Projekte abgebildet werden. Diese Projekte enthalten dabei neben Grundinformationen wie Titel und Laufzeit auch beschreibende Angaben wie Projektziele oder Abschlussberichte sowie Finanzdaten. Die Datenbank dient zur Information der Öffentlichkeit sowie als Grundlage für statistische und weiterführende Auswertungen."
     },
-    "dct:accessRights": "RESTRICTED",
+    "dct:accessRights": "OPEN",
     "dct:publisher": "BLV-OSAV-USAV-FSVO",
     "dcat:contactPoint": {
-        "schema:email": "infotgs@blv.admin.ch",
-        "schema:name": "BLV, TGTS, Tiergesundheit"
+        "schema:email": "formation@blv.admin.ch",
+        "schema:name": "BLV, Bildung und Forschung"
     },
     "dct:issued": "2025-01-01",
     "dcatap:availability": "STABLE",
     "dcat:keyword": [
-        "Tiergesundheit",
-        "Überwachung",
-        "IBR",
-        "EBL"
+        "Forschung, ARAMIS"
     ],
-    "dct:accrualPeriodicity": "ANNUAL",
-    "dct:modified": "2025-11-05",
+    "dct:accrualPeriodicity": "CONT",
+    "dct:modified": "2025-12-09",
     "prov:qualifiedAttribution": [
         {
-            "prov:agent": "p-9089108",
+            "prov:agent": "p-2870835",
             "dcat:hadRole": "dataOwner"
         },
         {
-            "prov:agent": "p-20LQWYS00",
+            "prov:agent": "p-8552269",
             "dcat:hadRole": "dataSteward"
         }
     ],
     "adms:status": "published",
     "bv:classification": "none",
-    "bv:personalData": "personalData",
-    "bv:typeOfData": "primaryThematicData",
-    "bv:archivalValue": "FALSE",
+    "bv:personalData": "none",
+    "bv:typeOfData": "unstructuredData",
+    "bv:archivalValue": "TRUE",
     "bv:opendata_swiss": {
-        "bv:mustBePublished": "FALSE"
+        "bv:mustBePublished": "TRUE",
+        "dct:identifier": "aramis@sbfi",
+        "dcat:accessURL": "https://opendata.swiss/de/dataset/aramis"
     },
     "bv:i14y": {
-        "bv:mustBePublished": "TRUE"
+        "bv:mustBePublished": "TRUE",
+        "dct:identifier": "f039638b-560a-4364-913b-bd3f0f10085c",
+        "dcat:accessURL": "https://www.i14y.admin.ch/de/catalog/dataservices/f039638b-560a-4364-913b-bd3f0f10085c/description"
     },
     "dcat:theme": [
-        "agriculture",
-        "national-economy"
+        "education"
     ],
-    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tiergesundheit/ueberwachung/nationales-ueberwachungsprogramm.html",
-    "dct:spatial": "YES",
+    "dcat:landingPage": "https://www.aramis.admin.ch/",
+    "dct:spatial": "NO",
     "dct:temporal": {},
     "dcatap:applicableLegislation": [
-        "Tierseuchenverordnung (TSV SR 916.401)"
-    ],
-    "bv:itSystem": "ARES",
-    "dcat:distribution": [
-        {
-            "dct:identifier": "FSVO_DIS000451",
-            "dcat:accessURL": "https://www.dashboard.blv.admin.ch/nutrition/food-safety/meat-inspection-statistics",
-            "dct:title": {
-                "fr": "Statistique du contrôle des viandes",
-                "de": "Fleischkontrollstatistik",
-                "en": "Title",
-                "it": "Statistica del controllo delle carni"
-            },
-            "dct:description": {
-                "fr": "Tous les animaux qui doivent être abattus dans un abattoir autorisé doivent être examinés au préalable. Après l’abattage, les personnes officielles mandatées effectuent en outre un examen des viandes. Les résultats des examens visant à déterminer si une viande est propre ou non à la consommation sont saisis dans la banque de données du contrôle des viandes (Fleko). La saisie normalisée des résultats du contrôle des animaux avant l’abattage, des motifs justifiant le caractère impropre à la consommation et des parties confisquées permettent de se faire une idée plus claire de la sécurité alimentaire, la santé et la protection des animaux. Les données du contrôle de la viande sont évaluées chaque année pour les statistiques de contrôle de la viande et les résultats sont publiés sur le tableau de bord de l'OSAV.",
-                "de": "Alle Tiere, die in einem bewilligten Schlachtbetrieb geschlachtet werden sollen, müssen vor der Schlachtung durch eine amtliche Vollzugsperson untersucht werden (Schlachttieruntersuchung). Nach der Schlachtung führen die damit beauftragten amtlichen Personen zudem eine Fleischuntersuchung durch. Die Ergebnisse der Untersuchungen zur Genusstauglichkeit werden in einer Fleischkontrolldatenbank (Fleko) erfasst. Basierend auf der standardisierten Erfassung von Befunden der Schlachttieruntersuchung, Genussuntauglichkeitsgründen und Teilkonfiskaten sind verbesserte Aussagen zur Lebensmittelsicherheit, zur Tiergesundheit und zum Tierschutz möglich. Die Daten der Fleischkontrolle werden jährlich für die Fleischkontrollstatistik ausgewertet und die Ergebnisse auf dem Dashboard des BLV veröffentlicht.",
-                "en": "description_en",
-                "it": "Prima della macellazione in una struttura autorizzata, tutti gli animali devono essere controllati. Inoltre, dopo la macellazione, le persone ufficialmente incaricate effettuano un controllo delle carni. I risultati delle analisi per l’idoneità al consumo vengono registrati nella Banca dati del controllo delle carni (Fleko). Sulla base della registrazione standardizzata dei risultati del controllo degli animali da macello, dei motivi di non idoneità al consumo e dei pezzi confiscati, è possibile ottenere informazioni più precise sulla sicurezza alimentare, la salute e la protezione degli animali. I dati del controllo della carne vengono valutati annualmente per le statistiche del controllo della carne e i risultati vengono pubblicati sul cruscotto dell'USAV."
-            },
-            "dct:modified": "2024-08-27",
-            "adms:status": "published",
-            "dct:format": "JSON, PARQUET, CSV",
-            "dct:license": "terms_open",
-            "schema:comment": "Test"
-        }
+        ""
     ]
 }
