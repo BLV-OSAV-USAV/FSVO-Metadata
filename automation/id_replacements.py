@@ -3,28 +3,14 @@ from pathlib import Path
 
 FILE = Path("data/processed/datasets.json")
 FSVO_DIR = Path("data/raw/datasets/")
-MAP_FILE = Path("data/processed/id_map.json")
 PREFIX = "FSVO_D"
-
-# Load or initialise the map
-id_map: dict[str, str] = json.loads(MAP_FILE.read_text(encoding="utf-8")) if MAP_FILE.exists() else {}
-
-def next_id() -> str:
-    n = len(id_map) + 1
-    return f"{PREFIX}{n:05d}"
-
-def assign_id(original_id: str) -> str:
-    if original_id in id_map:
-        return id_map[original_id]
-    new_id = next_id()
-    id_map[original_id] = new_id
-    return new_id
 
 data = json.loads(FILE.read_text(encoding="utf-8"))
 
-for dataset in data:
+for i, dataset in enumerate(data, start=1):
     original_id = dataset["dct:identifier"]
-    parent_id = assign_id(original_id)
+    parent_id = f"{PREFIX}{i:05d}"
+
     dataset["dct:identifier"] = parent_id
 
     raw_file = FSVO_DIR / f"{original_id}.json"
@@ -49,5 +35,4 @@ for dataset in data:
             raw_dist.rename(new_raw_dist)
 
 FILE.write_text(json.dumps(data, indent=4, ensure_ascii=False), encoding="utf-8")
-MAP_FILE.write_text(json.dumps(id_map, indent=4, ensure_ascii=False), encoding="utf-8")
-print(f"Done. {len(data)} datasets processed, {len(id_map)} total in map.")
+print(f"Done. Renumbered {len(data)} datasets.")
