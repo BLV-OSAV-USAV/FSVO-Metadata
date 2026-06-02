@@ -1,38 +1,15 @@
 import json
 from pathlib import Path
 
-FILE = Path("data/processed/datasets.json")
 FSVO_DIR = Path("data/raw/datasets/")
 PREFIX = "FSVO_D"
 
-data = json.loads(FILE.read_text(encoding="utf-8"))
+raw_files = sorted(FSVO_DIR.glob("*.json"))
 
-for i, dataset in enumerate(data, start=1):
-    original_id = dataset["dct:identifier"]
-    parent_id = f"{PREFIX}{i:05d}"
-
-    dataset["dct:identifier"] = parent_id
-
-    raw_file = FSVO_DIR / f"{original_id}.json"
-    if raw_file.exists():
-        raw = json.loads(raw_file.read_text(encoding="utf-8"))
-        raw["dct:identifier"] = parent_id
-        new_raw_file = FSVO_DIR / f"{parent_id}.json"
-        raw_file.write_text(json.dumps(raw, indent=4, ensure_ascii=False), encoding="utf-8")
-        raw_file.rename(new_raw_file)
-
-    for j, dist in enumerate(dataset.get("dcat:distribution", []), start=1):
-        original_dist_id = dist["dct:identifier"]
-        new_dist_id = f"{parent_id}_{j}"
-        dist["dct:identifier"] = new_dist_id
-
-        raw_dist = FSVO_DIR / f"{original_dist_id}.json"
-        if raw_dist.exists():
-            raw = json.loads(raw_dist.read_text(encoding="utf-8"))
-            raw["dct:identifier"] = new_dist_id
-            new_raw_dist = FSVO_DIR / f"{new_dist_id}.json"
-            raw_dist.write_text(json.dumps(raw, indent=4, ensure_ascii=False), encoding="utf-8")
-            raw_dist.rename(new_raw_dist)
-
-FILE.write_text(json.dumps(data, indent=4, ensure_ascii=False), encoding="utf-8")
-print(f"Done. Renumbered {len(data)} datasets.")
+for i, raw_file in enumerate(raw_files, start=1):
+    new_id = f"{PREFIX}{i:05d}"
+    raw = json.loads(raw_file.read_text(encoding="utf-8"))
+    raw["dct:identifier"] = new_id
+    raw_file.write_text(json.dumps(raw, indent=4, ensure_ascii=False), encoding="utf-8")
+    raw_file.rename(FSVO_DIR / f"{new_id}.json")
+    print(f"{raw_file.name} -> {new_id}.json")
