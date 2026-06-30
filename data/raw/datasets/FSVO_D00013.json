@@ -1,142 +1,142 @@
 {
-  "dct:identifier": "FSVO_D00013",
-  "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/YoungHerdsmenwithCows.jpg",
-  "dct:title": {
-    "de": "Daten des Agrarinformationssystem AGIS",
-    "fr": "Registerdaten des Agrarinformationssystem AGIS"
-  },
-  "dct:description": {
-    "de": "Register- und Strukturdaten, die in AGIS erfasst werden. Die Daten werden durch die kantonalen Landwirtschaftsämter laufend gepflegt. Der Datensatz beinhaltet Informationen zu landwirtschaftlichen Unternehmen (Betriebsstruktur, Standorte, Bewirtschafter). ",
-    "fr": "Register- und Strukturdaten, die in AGIS erfasst werden. Die Daten werden durch die kantonalen Landwirtschaftsämter laufend gepflegt. Der Datensatz beinhaltet Informationen zu landwirtschaftlichen Unternehmen (Betriebsstruktur, Standorte, Bewirtschafter). "
-  },
-  "dct:accessRights": "NON_PUBLIC",
-  "dct:publisher": "BLV-OSAV-USAV-FSVO",
-  "dcat:contactPoint": {
-    "schema:name": "Wissensgrundlagen, DCC",
-    "schema:email": "data@blv.admin.ch"
-  },
-  "dct:issued": "2026-06-01",
-  "dcatap:availability": "AVAILABLE",
-  "dcat:keyword": [
-    "AGIS",
-    "agriculture",
-    "animal-owner",
-    "register-data",
-    "structural-data"
-  ],
-  "dct:accrualPeriodicity": "DAILY",
-  "prov:qualifiedAttribution": [
-    {
-      "prov:agent": "p-1ZLWBXSJX",
-      "dcat:hadRole": "dataOwner"
+    "dct:identifier": "FSVO_D00013",
+    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/YoungHerdsmenwithCows.jpg",
+    "dct:title": {
+        "de": "Daten des Agrarinformationssystem AGIS",
+        "fr": "Registerdaten des Agrarinformationssystem AGIS"
     },
-    {
-      "prov:agent": "p-4636643",
-      "dcat:hadRole": "dataSteward"
-    }
-  ],
-  "adms:status": "published",
-  "bv:classification": "none",
-  "bv:personalData": "personalData",
-  "bv:typeOfData": "primaryThematicData",
-  "bv:archivalValue": false,
-  "dcat:theme": [
-    "agriculture"
-  ],
-  "dct:spatial": "Switzerland",
-  "bv:itSystem": "AGIS",
-  "dcat:distribution": [
-    {
-      "dct:identifier": "1",
-      "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AQPFOtFZZkpLjToDP_lv.VM",
-      "adms:status": "published",
-      "dcatap:availability": "AVAILABLE",
-      "dct:format": "SAP BO",
-      "dct:title": {
-        "de": "1100 AGIS Tierzahlen/ SIPA no d'animaux",
-        "fr": "1100 AGIS Tierzahlen/ SIPA no d'animaux"
-      },
-      "dct:description": {
-        "de": "Alle Informationen zu Tieren und Betrieben aus der landwirtschaftlichen Erhebung. Die Daten stammen aus AGIS. Das Erhebungsjahr muss beim öffnen des Berichts gewählt werden. NB: die Durchschnittswerte beziehen sich auf das Vorjahr (Erhebungsjahr -1), der Stichtag auf den Tierbestand am 1.1. des Erhebungsjahres.",
-        "fr": "Alle Informationen zu Tieren und Betrieben aus der landwirtschaftlichen Erhebung. Die Daten stammen aus AGIS. Das Erhebungsjahr muss beim öffnen des Berichts gewählt werden. NB: die Durchschnittswerte beziehen sich auf das Vorjahr (Erhebungsjahr -1), der Stichtag auf den Tierbestand am 1.1. des Erhebungsjahres."
-      },
-      "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/AGIS"
+    "dct:description": {
+        "de": "Register- und Strukturdaten, die in AGIS erfasst werden. Die Daten werden durch die kantonalen Landwirtschaftsämter laufend gepflegt. Der Datensatz beinhaltet Informationen zu landwirtschaftlichen Unternehmen (Betriebsstruktur, Standorte, Bewirtschafter). ",
+        "fr": "Register- und Strukturdaten, die in AGIS erfasst werden. Die Daten werden durch die kantonalen Landwirtschaftsämter laufend gepflegt. Der Datensatz beinhaltet Informationen zu landwirtschaftlichen Unternehmen (Betriebsstruktur, Standorte, Bewirtschafter). "
     },
-    {
-      "dct:identifier": "2",
-      "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=ARBF5SmpOiFOjY68xOWlNA0",
-      "adms:status": "published",
-      "dct:format": "SAP BO",
-      "dct:title": {
-        "de": "1101 Grösste Betriebe/ les plus grandes exploitations ",
-        "fr": "1101 Grösste Betriebe/ les plus grandes exploitations "
-      },
-      "dct:description": {
-        "de": "Liste der X grössten Tierhaltungen mit Rindern, Schweinen oder Geflügel pro Kanton. Die Grösse der Tierbestände basiert auf den Tierzahlen der jährlichen Erhebung (Durchschnittswert in AGIS). Der Wert von X kann selber gewählt werden, als Standardwert ist 10 definiert.",
-        "fr": "Liste der X grössten Tierhaltungen mit Rindern, Schweinen oder Geflügel pro Kanton. Die Grösse der Tierbestände basiert auf den Tierzahlen der jährlichen Erhebung (Durchschnittswert in AGIS). Der Wert von X kann selber gewählt werden, als Standardwert ist 10 definiert."
-      },
-      "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/AGIS"
+    "dct:accessRights": "NON_PUBLIC",
+    "dct:publisher": "BLV-OSAV-USAV-FSVO",
+    "dcat:contactPoint": {
+        "schema:name": "Wissensgrundlagen, DCC",
+        "schema:email": "data@blv.admin.ch"
     },
-    {
-      "dct:identifier": "3",
-      "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=Aaq9kx5kLfVKkhhOk1.1yZo",
-      "adms:status": "published",
-      "dct:format": "SAP BO",
-      "dct:title": {
-        "de": "1102 Bienenvoelker pro Jahr/ Ruchers Par Année",
-        "fr": "1102 Bienenvoelker pro Jahr/ Ruchers Par Année"
-      },
-      "dct:description": {
-        "de": "Liste der Bienenstände und Anzahl Völker über die Jahre (2014-aktuellste Erhebung) aus AGIS.",
-        "fr": "Liste der Bienenstände und Anzahl Völker über die Jahre (2014-aktuellste Erhebung) aus AGIS."
-      },
-      "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/AGIS"
-    },
-    {
-      "dct:identifier": "4",
-      "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=ASnZUJ6r5zlMvWyaBq47bS8",
-      "adms:status": "published",
-      "dcatap:availability": "AVAILABLE",
-      "dct:format": "SAP BO",
-      "dct:title": {
-        "de": "1103_Bienenstände aktuell/ Ruchers actuels",
-        "fr": "1103_Bienenstände aktuell/ Ruchers actuels"
-      },
-      "dct:description": {
-        "de": "Alle Standorte, die in einer Erhebung Bienen gemeldet haben (das letze Erhebungsjahr mit Bienendaten wird angezeigt) . ",
-        "fr": "Alle Standorte, die in einer Erhebung Bienen gemeldet haben (das letze Erhebungsjahr mit Bienendaten wird angezeigt) . "
-      },
-      "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/AGIS"
-    },
-    {
-      "dct:identifier": "5",
-      "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=Abu9O4MHsklEi.lY18ZAqns",
-      "adms:status": "published",
-      "dct:format": "SAP BO",
-      "dct:title": {
-        "de": "1104_Meldungen Schweine/ Notifications cochons",
-        "fr": "1104_Meldungen Schweine/ Notifications cochons"
-      },
-      "dct:description": {
-        "de": "Der Bericht kombiniert Daten aus AGIS und der TVD, um Betriebe zu finden, die zwar Schlachtungen, aber keine Zugänge melden und keine Zuchtsauen haben. ",
-        "fr": "Der Bericht kombiniert Daten aus AGIS und der TVD, um Betriebe zu finden, die zwar Schlachtungen, aber keine Zugänge melden und keine Zuchtsauen haben. "
-      },
-      "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/AGIS"
-    },
-    {
-      "dct:identifier": "6",
-      "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=ATfADnNrP6VFueLRBNFO5TY",
-      "adms:status": "published",
-      "dct:format": "SAP BO",
-      "dct:title": {
-        "de": "1105_Gefluegelhaltungen_v2",
-        "fr": "1105_Gefluegelhaltungen_v2"
-      },
-      "dct:description": {
-        "de": "Liste der in der TVD registrierten Standorte mit Flag \"Hat Geflügel\"=1. Die AGIS-Informationen wurden hinzugefügt (Flags 'Nutzgeflügel' und 'Uebriges Geflügel' sowie Geflügelmeldungen in der Erhebung ab Erhebungsjahr).",
-        "fr": "Liste der in der TVD registrierten Standorte mit Flag \"Hat Geflügel\"=1. Die AGIS-Informationen wurden hinzugefügt (Flags 'Nutzgeflügel' und 'Uebriges Geflügel' sowie Geflügelmeldungen in der Erhebung ab Erhebungsjahr)."
-      },
-      "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/AGIS"
-    }
-  ]
+    "dct:issued": "2026-06-01",
+    "dcatap:availability": "AVAILABLE",
+    "dcat:keyword": [
+        "AGIS",
+        "agriculture",
+        "animal-owner",
+        "register-data",
+        "structural-data"
+    ],
+    "dct:accrualPeriodicity": "DAILY",
+    "prov:qualifiedAttribution": [
+        {
+            "prov:agent": "p-1ZLWBXSJX",
+            "dcat:hadRole": "dataOwner"
+        },
+        {
+            "prov:agent": "p-4636643",
+            "dcat:hadRole": "dataSteward"
+        }
+    ],
+    "adms:status": "published",
+    "bv:classification": "none",
+    "bv:personalData": "personalData",
+    "bv:typeOfData": "primaryThematicData",
+    "bv:archivalValue": false,
+    "dcat:theme": [
+        "agriculture"
+    ],
+    "dct:spatial": "Switzerland",
+    "bv:itSystem": "AGIS",
+    "dcat:distribution": [
+        {
+            "dct:identifier": "FSVO_D00013_1",
+            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=AQPFOtFZZkpLjToDP_lv.VM",
+            "adms:status": "published",
+            "dcatap:availability": "AVAILABLE",
+            "dct:format": "SAP BO",
+            "dct:title": {
+                "de": "1100 AGIS Tierzahlen/ SIPA no d'animaux",
+                "fr": "1100 AGIS Tierzahlen/ SIPA no d'animaux"
+            },
+            "dct:description": {
+                "de": "Alle Informationen zu Tieren und Betrieben aus der landwirtschaftlichen Erhebung. Die Daten stammen aus AGIS. Das Erhebungsjahr muss beim öffnen des Berichts gewählt werden. NB: die Durchschnittswerte beziehen sich auf das Vorjahr (Erhebungsjahr -1), der Stichtag auf den Tierbestand am 1.1. des Erhebungsjahres.",
+                "fr": "Alle Informationen zu Tieren und Betrieben aus der landwirtschaftlichen Erhebung. Die Daten stammen aus AGIS. Das Erhebungsjahr muss beim öffnen des Berichts gewählt werden. NB: die Durchschnittswerte beziehen sich auf das Vorjahr (Erhebungsjahr -1), der Stichtag auf den Tierbestand am 1.1. des Erhebungsjahres."
+            },
+            "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/AGIS"
+        },
+        {
+            "dct:identifier": "FSVO_D00013_2",
+            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=ARBF5SmpOiFOjY68xOWlNA0",
+            "adms:status": "published",
+            "dct:format": "SAP BO",
+            "dct:title": {
+                "de": "1101 Grösste Betriebe/ les plus grandes exploitations ",
+                "fr": "1101 Grösste Betriebe/ les plus grandes exploitations "
+            },
+            "dct:description": {
+                "de": "Liste der X grössten Tierhaltungen mit Rindern, Schweinen oder Geflügel pro Kanton. Die Grösse der Tierbestände basiert auf den Tierzahlen der jährlichen Erhebung (Durchschnittswert in AGIS). Der Wert von X kann selber gewählt werden, als Standardwert ist 10 definiert.",
+                "fr": "Liste der X grössten Tierhaltungen mit Rindern, Schweinen oder Geflügel pro Kanton. Die Grösse der Tierbestände basiert auf den Tierzahlen der jährlichen Erhebung (Durchschnittswert in AGIS). Der Wert von X kann selber gewählt werden, als Standardwert ist 10 definiert."
+            },
+            "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/AGIS"
+        },
+        {
+            "dct:identifier": "FSVO_D00013_3",
+            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=Aaq9kx5kLfVKkhhOk1.1yZo",
+            "adms:status": "published",
+            "dct:format": "SAP BO",
+            "dct:title": {
+                "de": "1102 Bienenvoelker pro Jahr/ Ruchers Par Année",
+                "fr": "1102 Bienenvoelker pro Jahr/ Ruchers Par Année"
+            },
+            "dct:description": {
+                "de": "Liste der Bienenstände und Anzahl Völker über die Jahre (2014-aktuellste Erhebung) aus AGIS.",
+                "fr": "Liste der Bienenstände und Anzahl Völker über die Jahre (2014-aktuellste Erhebung) aus AGIS."
+            },
+            "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/AGIS"
+        },
+        {
+            "dct:identifier": "FSVO_D00013_4",
+            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=ASnZUJ6r5zlMvWyaBq47bS8",
+            "adms:status": "published",
+            "dcatap:availability": "AVAILABLE",
+            "dct:format": "SAP BO",
+            "dct:title": {
+                "de": "1103_Bienenstände aktuell/ Ruchers actuels",
+                "fr": "1103_Bienenstände aktuell/ Ruchers actuels"
+            },
+            "dct:description": {
+                "de": "Alle Standorte, die in einer Erhebung Bienen gemeldet haben (das letze Erhebungsjahr mit Bienendaten wird angezeigt) . ",
+                "fr": "Alle Standorte, die in einer Erhebung Bienen gemeldet haben (das letze Erhebungsjahr mit Bienendaten wird angezeigt) . "
+            },
+            "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/AGIS"
+        },
+        {
+            "dct:identifier": "FSVO_D00013_5",
+            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=Abu9O4MHsklEi.lY18ZAqns",
+            "adms:status": "published",
+            "dct:format": "SAP BO",
+            "dct:title": {
+                "de": "1104_Meldungen Schweine/ Notifications cochons",
+                "fr": "1104_Meldungen Schweine/ Notifications cochons"
+            },
+            "dct:description": {
+                "de": "Der Bericht kombiniert Daten aus AGIS und der TVD, um Betriebe zu finden, die zwar Schlachtungen, aber keine Zugänge melden und keine Zuchtsauen haben. ",
+                "fr": "Der Bericht kombiniert Daten aus AGIS und der TVD, um Betriebe zu finden, die zwar Schlachtungen, aber keine Zugänge melden und keine Zuchtsauen haben. "
+            },
+            "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/AGIS"
+        },
+        {
+            "dct:identifier": "FSVO_D00013_6",
+            "dcat:accessURL": "https://www.alvph.blv.admin.ch/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=ATfADnNrP6VFueLRBNFO5TY",
+            "adms:status": "published",
+            "dct:format": "SAP BO",
+            "dct:title": {
+                "de": "1105_Gefluegelhaltungen_v2",
+                "fr": "1105_Gefluegelhaltungen_v2"
+            },
+            "dct:description": {
+                "de": "Liste der in der TVD registrierten Standorte mit Flag \"Hat Geflügel\"=1. Die AGIS-Informationen wurden hinzugefügt (Flags 'Nutzgeflügel' und 'Uebriges Geflügel' sowie Geflügelmeldungen in der Erhebung ab Erhebungsjahr).",
+                "fr": "Liste der in der TVD registrierten Standorte mit Flag \"Hat Geflügel\"=1. Die AGIS-Informationen wurden hinzugefügt (Flags 'Nutzgeflügel' und 'Uebriges Geflügel' sowie Geflügelmeldungen in der Erhebung ab Erhebungsjahr)."
+            },
+            "schema:comment": "Speicherort ALVPH: /3 Shared/BLV - KAV/AGIS"
+        }
+    ]
 }

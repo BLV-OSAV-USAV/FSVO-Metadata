@@ -1,5 +1,7 @@
 {
     "dcat:keyword": [
+        "AGIS",
+        "agriculture",
         "animal-owner",
         "animals",
         "Antibiotika",
@@ -65,6 +67,7 @@
         "Pflanzenschutzmittel, Risikobewertung",
         "Pflanzenschutzmittel, Zulassung, Bewilligung",
         "Portionsgrössen",
+        "register-data",
         "Resistenzmonitoring",
         "Rückrufe",
         "Rückstände",
@@ -80,6 +83,7 @@
         "SKN",
         "Stalleinrichtungen",
         "Stillen",
+        "structural-data",
         "Tier",
         "Tierarzneimittel",
         "Tiergerechtheit",
