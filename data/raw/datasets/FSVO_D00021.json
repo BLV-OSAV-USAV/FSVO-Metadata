@@ -56,28 +56,5 @@
     "dcatap:applicableLegislation": [
         ""
     ],
-    "bv:itSystem": "FSVO Data Repository",
-    "dcat:distribution": [
-        {
-            "dct:identifier": "FSVO_D00021_1",
-            "dcat:accessURL": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/rechts-und-vollzugsgrundlagen/bewilligung-und-meldung/listen-bewilligter-betriebe.html",
-            "dct:title": {
-                "fr": "Établissements du secteur alimentaire",
-                "de": "Lebensmittelbetriebe",
-                "en": "Title",
-                "it": "Aziende alimentari"
-            },
-            "dct:description": {
-                "fr": "Les établissements qui fabriquent, transforment, traitent, entreposent ou remettent des aliments d’origine animale ont besoin d’une autorisation délivrée par l’autorité cantonale d’exécution compétente. Cette autorisation leur permet d’exporter vers l’UE.",
-                "de": "Betriebe, die Lebensmittel tierischer Herkunft herstellen, verarbeiten, behandeln, lagern oder abgeben, benötigen eine Bewilligung. Diese erteilt die zuständige kantonale Vollzugsbehörde. Mit der Bewilligung verknüpft ist die Möglichkeit, in die EU zu exportieren.",
-                "en": "description_en",
-                "it": "Le aziende che fabbricano, trasformano, trattano, depositano o consegnano derrate alimentari di origine animale necessitano di un’autorizzazione, rilasciata dall’autorità cantonale di esecuzione competente. La possibilità di esportare nell’UE è legata a tale autorizzazione."
-            },
-            "dct:modified": "2025-03-20",
-            "adms:status": "published",
-            "dct:format": "CSV",
-            "dct:license": "terms_open",
-            "schema:comment": "Test"
-        }
-    ]
+    "bv:itSystem": "FSVO Data Repository"
 }

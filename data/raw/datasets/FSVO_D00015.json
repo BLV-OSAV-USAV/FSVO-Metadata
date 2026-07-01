@@ -58,28 +58,5 @@
     "dcatap:applicableLegislation": [
         ""
     ],
-    "bv:itSystem": "ecert",
-    "dcat:distribution": [
-        {
-            "dct:identifier": "FSVO_D00015_1",
-            "dcat:accessURL": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/ernaehrung/menuCH/menuch-konsummengen-und-portionsgroessen.html",
-            "dct:title": {
-                "fr": "menuCH: Taille des portions",
-                "de": "menuCH: Portionsgrössen",
-                "en": "menuCH: Portion sizes",
-                "it": "menuCH: Dimensioni delle porzioni"
-            },
-            "dct:description": {
-                "fr": "Dès lors que l’on consomme un aliment, cela correspond à une portion. Pour cette analyse, ce sont le nombre de portions consommées mais aussi la quantité par portion qui ont été déterminés en grammes par catégorie et sous-catégorie d’aliments. Les données détaillées de l’étude menuCH peuvent être utilisées sous certaines conditions. Des informations sur les données et les conditions d'utilisation ainsi que le formulaire de candidature sont disponibles sur www.studydata.blv.admin.ch.",
-                "de": "Wann immer ein Lebensmittel gegessen wurde, gilt dies als Portion. In dieser Auswertung wurden sowohl die Anzahl verzehrter Portionen als auch die Menge pro Portion nach Lebensmittelkategorie und -unterkategorie in Gramm bestimmt. Die detaillierten Daten der Studie menuCH stehen unter bestimmten Bedingungen zur Nutzung zur Verfügung. Die Informationen zu den Daten und den Nutzungsbedingungen sowie das Antragsformular befinden sich auf www.studydata.blv.admin.ch.",
-                "en": "description_en",
-                "it": "Indipendentemente da quando un alimento è stato consumato, vale come porzione. Nella valutazione sono stati determinati in grammi sia il numero delle porzioni consumate sia la quantità per porzione in funzione della categoria e sottocategoria alimentare. I dati dettagliati dello studio menuCH possono essere utilizzati a determinate condizioni. Informazioni sui dati, sulle condizioni di utilizzo e sul modulo di domanda si trovano su www.studydata.blv.admin.ch."
-            },
-            "dct:modified": "2022-09-14",
-            "adms:status": "published",
-            "dct:format": "XLS",
-            "dct:license": "terms_open",
-            "schema:comment": "Test"
-        }
-    ]
+    "bv:itSystem": "ecert"
 }

@@ -57,28 +57,5 @@
     "dcatap:applicableLegislation": [
         ""
     ],
-    "bv:itSystem": "Inpec",
-    "dcat:distribution": [
-        {
-            "dct:identifier": "FSVO_D00036_1",
-            "dcat:accessURL": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/ernaehrung/menuCH/menuch-lebensmittelkonsum-schweiz.html",
-            "dct:title": {
-                "fr": "menuCH: Consommation alimentaire en Suisse",
-                "de": "menuCH: Lebensmittelkonsum in der Schweiz",
-                "en": "menuCH: Food consumption in Switzerland",
-                "it": "menuCH: Consumo alimentarie in Svizzera"
-            },
-            "dct:description": {
-                "fr": "Les données recueillies dans le cadre de menuCH sont d’une grande importance tant pour la science que pour le grand public. C’est pourquoi elles sont mises à disposition, sous une forme codée, accompagnées d’analyses réalisées par ou sur mandat de l’OSAV (Consommation de groupes d'aliments individuels). Les données détaillées de l’étude menuCH peuvent être utilisées sous certaines conditions. Des informations sur les données et les conditions d'utilisation ainsi que le formulaire de candidature sont disponibles sur www.studydata.blv.admin.ch.",
-                "de": "Die im Rahmen von menuCH erhobenen Daten sind sowohl für die Wissenschaft als auch für die Öffentlichkeit von grosser Bedeutung. Sie werden daher zusammen mit vom BLV oder im Auftrag des BLV durchgeführten Auswertungen in codierter Form zur Verfügung gestellt (Konsum einzelner Lebensmittelgruppen). Die detaillierten Daten der Studie menuCH stehen unter bestimmten Bedingungen zur Nutzung zur Verfügung. Die Informationen zu den Daten und den Nutzungsbedingungen sowie das Antragsformular befinden sich auf www.studydata.blv.admin.ch.",
-                "en": "description_en",
-                "it": "I dati raccolti attraverso menuCH sono di grande importanza sia per la scienza sia per il pubblico. Vengono pertanto forniti in forma codificata insieme alle valutazioni effettuate da o per conto dell’USAV (Consumo di singoli gruppi di alimenti). I dati dettagliati dello studio menuCH possono essere utilizzati a determinate condizioni. Informazioni sui dati, sulle condizioni di utilizzo e sul modulo di domanda si trovano su www.studydata.blv.admin.ch."
-            },
-            "dct:modified": "2022-09-07",
-            "adms:status": "published",
-            "dct:format": "XLS",
-            "dct:license": "terms_open",
-            "schema:comment": "Test"
-        }
-    ]
+    "bv:itSystem": "Inpec"
 }

@@ -56,28 +56,5 @@
     "dcatap:applicableLegislation": [
         ""
     ],
-    "bv:itSystem": "METAS",
-    "dcat:distribution": [
-        {
-            "dct:identifier": "FSVO_D00016_1",
-            "dcat:accessURL": "https://kwk.blv.admin.ch/stallliste-de/",
-            "dct:title": {
-                "fr": "Équipements d’étables et systèmes de stabulation",
-                "de": "Stalleinrichtungen und Aufstallungssysteme",
-                "en": "Title",
-                "it": "Impianti e i sistemi di stabulazione"
-            },
-            "dct:description": {
-                "fr": "Les équipements d’étables et les systèmes de stabulation fabriqués en série ne peuvent être commercialisés en Suisse que s’ils ont été autorisés conformément à la loi sur la protection des animaux.Le Centre spécialisé dans la détention convenable des ruminants et des porcs (ZTHT) examine et autorise les systèmes de stabulation et les équipements d’étables fabriqués en série pour la détention de bovins, de porcs, de moutons et de chèvres. La même tâche incombe au Centre spécialisé dans la détention convenable de la volaille et des lapins (ZTHZ), mais pour les volailles et les lapins.",
-                "de": "Serienmässig hergestellte Stalleinrichtungen und Aufstallungssysteme dürfen in der Schweiz nur angeboten und verkauft werden, wenn sie gemäss Tierschutzgesetz bewilligt sind. Das Zentrum für tiergerechte Haltung von Wiederkäuern und Schweinen (ZTHT) prüft und bewilligt serienmässig hergestellte Aufstallungssysteme und Stalleinrichtungen zum Halten von Rindern, Schweinen, Schafen und Ziegen. Dieselbe Aufgabe übernimmt das Zentrum für tiergerechte Haltung von Geflügel und Kaninchen (ZTHZ) für Kaninchen und Geflügel.",
-                "en": "description_en",
-                "it": "Gli impianti e i sistemi di stabulazione fabbricati in serie possono essere offerti e venduti in Svizzera soltanto se sono stati autorizzati secondo la legge sulla protezione degli animali. Il Centro per la detenzione adeguata dei ruminanti e dei suini (ZTHT) verifica e autorizza i sistemi e gli impianti di stabulazione fabbricati in serie per la detenzione di bovini, suini, ovini e caprini. Per i conigli e il pollame lo stesso compito è svolto dal Centro per la detenzione adeguata del pollame e dei conigli (ZTHZ)."
-            },
-            "dct:modified": "2025-03-20",
-            "adms:status": "published",
-            "dct:format": "CSV",
-            "dct:license": "terms_open",
-            "schema:comment": "Test"
-        }
-    ]
+    "bv:itSystem": "METAS"
 }

@@ -59,28 +59,5 @@
     "dcatap:applicableLegislation": [
         "Tierseuchenverordnung (TSV SR 916.401)"
     ],
-    "bv:itSystem": "ARES",
-    "dcat:distribution": [
-        {
-            "dct:identifier": "FSVO_D00006_1",
-            "dcat:accessURL": "https://www.blv.admin.ch/blv/de/home/tiere/tierseuchen/bekaempfung/projekt-moderhinke.html",
-            "dct:title": {
-                "fr": "Lutte à l’échelle nationale contre le piétin chez les moutons",
-                "de": "Schweizweite Bekämpfung der Moderhinke bei Schafen",
-                "en": "Title",
-                "it": "Lotta nazionale contro la zoppina negli ovini"
-            },
-            "dct:description": {
-                "fr": "Le 1er octobre 2024 la lutte à l’échelle nationale contre le piétin a commencé. Cette maladie contagieuse et douloureuse affecte les troupeaux ovins. L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV), en collaboration avec les services vétérinaires cantonaux et les acteurs importants de la branche, a élaboré les différentes étapes du programme de lutte. Cette initiative stratégique vise à faire baisser le nombre d’exploitations touchées à moins de 1 %sur cinq ans au maximum. Elle permettra ainsi d’améliorer le bien-être des moutons et de soutenir les éleveurs suisses. Pendand les cinq ans à venir, durant la période allant du 1er octobre au 31 mars, toutes les exploitations ovines seront contrôlées. Les données fournies contiennent les résultats de ces périodes d'étude.",
-                "de": "Am 1. Oktober 2024 begann die schweizweite Bekämpfung der Moderhinke. Diese ansteckende und schmerzhafte Krankheit befällt vor allem Schafe. Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) hat in Zusammenarbeit mit den kantonalen Veterinärdiensten und den wichtigsten Akteuren der Branche die verschiedenen Schritte des Bekämpfungsprogramms erarbeitet. Mit dieser strategischen Initiative soll die Zahl der von Moderhinke betroffenen Betriebe in maximal fünf Jahren auf unter ein Prozent gesenkt werden. Dies ermöglicht, das Wohlbefinden der Schafe zu verbessern und die Schafhalterinnen und Schafhalter zu unterstützen. In den kommenden fünf Jahren werden daher zwischen dem 1. Oktober und dem 31. März alle Schafhaltungen untersucht. Die bereitgestellten Daten enthalten die Ergebnisse dieser Untersuchungsperioden.",
-                "en": "description_en",
-                "it": "L'influenza aviaire (IA) est une maladie virale très contagieuse et aiguë qui touche principalement les espèces aviaires telles que les poulets et les dindes. Les oiseaux sauvages sont considérés comme le réservoir naturel de l'agent pathogène, raison pour laquelle ils jouent un rôle central dans la propagation. Les oiseaux aquatiques et les rapaces en particulier peuvent non seulement être porteurs, mais aussi tomber malades et mourir. Afin de protéger les troupeaux d'animaux d'élevage, les oiseaux sauvages trouvés morts ou malades sont soumis à des tests de dépistage de l'IA. Les données mises à disposition ici contiennent les résultats de ces analyses depuis janvier 2018 et contribuent à mieux surveiller la propagation de la maladie et à soutenir les mesures préventives."
-            },
-            "dct:modified": "2025-03-20",
-            "adms:status": "published",
-            "dct:format": "CSV",
-            "dct:license": "terms_open",
-            "schema:comment": "Test"
-        }
-    ]
+    "bv:itSystem": "ARES"
 }

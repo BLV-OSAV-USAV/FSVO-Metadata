@@ -57,28 +57,5 @@
     "dcatap:applicableLegislation": [
         ""
     ],
-    "bv:itSystem": "TRACES",
-    "dcat:distribution": [
-        {
-            "dct:identifier": "FSVO_D00025_1",
-            "dcat:accessURL": "https://www.psm.admin.ch/",
-            "dct:title": {
-                "fr": "Produits phytosanitaires",
-                "de": "Pflanzenschutzmittelverzeichnis",
-                "en": "Title",
-                "it": "Prodotti fitosanitari"
-            },
-            "dct:description": {
-                "fr": "Les produits phytosanitaires autorisés figurent dans un index des produits phytosanitaires. Cet index comprend des indications sur l’utilisation prévue, les restrictions d’application, le dosage, les indications relatives aux dangers et les charges liées à l’utilisation.",
-                "de": "Die bewilligten Pflanzenschutzmittel werden im Pflanzenschutzmittelverzeichnis aufgelistet. Das Verzeichnis enthält Angaben zur vorgesehenen Anwendung, zu Anwendungseinschränkungen, Aufwandmengen, Gefahrenkennzeichnung und zu Anwendungsauflagen.",
-                "en": "description_en",
-                "it": "I prodotti fitosanitari autorizzati figurano in un elenco dei prodotti fitosanitari contenente indicazioni sull'applicazione prevista, restrizioni e dosi di applicazione, simboli di pericolo e condizioni d'uso."
-            },
-            "dct:modified": "2024-12-17",
-            "adms:status": "published",
-            "dct:format": "XML",
-            "dct:license": "terms_open",
-            "schema:comment": "Test"
-        }
-    ]
+    "bv:itSystem": "TRACES"
 }

@@ -70,28 +70,5 @@
         "Art. 17",
         "Art. 18, Art. 20, Art. 20a, Tierschutzverordnung (TSchV SR 455.1) – Art. 139–152. Tierversuchsverordnung (TVV SR 455.163). Verordnung über das Informationssystem Animex-ch (SR 455.61)"
     ],
-    "bv:itSystem": "BI BLV",
-    "dcat:distribution": [
-        {
-            "dct:identifier": "FSVO_D00030_1",
-            "dcat:accessURL": "https://naehrwertdaten.ch/de/",
-            "dct:title": {
-                "fr": "Valeurs nutritives des aliments",
-                "de": "Nährwerte von Lebensmittel",
-                "en": "Composition of food",
-                "it": "Valori nutritivi delle derrate alimentari"
-            },
-            "dct:description": {
-                "fr": "La base de données suisse des valeurs nutritives librement consultable en ligne sur le présent site est un fichier de l’Office fédéral de la securité alimentaire et des affaires vétérinaires OSAV consacré à la composition des aliments disponibles en Suisse.",
-                "de": "Die Schweizer Nährwertdatenbank ist eine Datensammlung des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen BLV über die Zusammensetzung von in der Schweiz erhältlichen Lebensmitteln.",
-                "en": "The Swiss Food Composition Database is a data collection of the Federal Food Safety and Veterinary Office FSVO on the composition of foods that are available in Switzerland.",
-                "it": "La Banca dati svizzera dei valori nutritivi è una raccolta di dati dell’Ufficio federale della sicurezza alimentare e di veterinaria USAV sulla composizione delle derrate alimentari disponibili in Svizzera"
-            },
-            "dct:modified": "2023-06-27",
-            "adms:status": "published",
-            "dct:format": "XLS",
-            "dct:license": "terms_open",
-            "schema:comment": "Test"
-        }
-    ]
+    "bv:itSystem": "BI BLV"
 }
