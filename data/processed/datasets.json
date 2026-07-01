@@ -150,383 +150,6 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00003",
-        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
-        "dct:title": {
-            "fr": "Meldungen an RASFF Kontaktpunkt BLV ",
-            "de": "Meldungen an RASFF Kontaktpunkt BLV ",
-            "en": "Meldungen an RASFF Kontaktpunkt BLV ",
-            "it": "Meldungen an RASFF Kontaktpunkt BLV "
-        },
-        "dct:description": {
-            "fr": "Diese Datensammlung enthält die Meldungen der kantonalen Vollzugsbehörden an das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) über gesundheitsschädigende Lebensmittel oder Gebrauchsgegenstände. Grundlage bilden Artikel 11 der Lebensmittel- und Gebrauchsgegenständeverordnung (LMVV) sowie Artikel 84 der Lebensmittel- und Gebrauchsgegenständeverordnung (LGV). Erfasst werden Fälle, in denen Produkte an eine unbestimmte Zahl von Konsumentinnen und Konsumenten abgegeben wurden und eine potenzielle Gesundheitsgefährdung für die Bevölkerung mehrerer Kantone besteht oder bestehen könnte. Zudem dokumentiert die Sammlung Informationen aus dem europäischen Schnellwarnsystem RASFF zu gesundheitsgefährdenden Produkten, die in die Schweiz geliefert wurden. Die Daten dienen der schnellen Risikoerkennung, der nationalen und internationalen Koordination sowie der Einleitung von Schutzmassnahmen. Sie ermöglichen dem BLV, zeitnah zu reagieren, Rückrufe auszulösen und die Kantone gezielt zu informieren.   ",
-            "de": "Diese Datensammlung enthält die Meldungen der kantonalen Vollzugsbehörden an das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) über gesundheitsschädigende Lebensmittel oder Gebrauchsgegenstände. Grundlage bilden Artikel 11 der Lebensmittel- und Gebrauchsgegenständeverordnung (LMVV) sowie Artikel 84 der Lebensmittel- und Gebrauchsgegenständeverordnung (LGV). Erfasst werden Fälle, in denen Produkte an eine unbestimmte Zahl von Konsumentinnen und Konsumenten abgegeben wurden und eine potenzielle Gesundheitsgefährdung für die Bevölkerung mehrerer Kantone besteht oder bestehen könnte. Zudem dokumentiert die Sammlung Informationen aus dem europäischen Schnellwarnsystem RASFF zu gesundheitsgefährdenden Produkten, die in die Schweiz geliefert wurden. Die Daten dienen der schnellen Risikoerkennung, der nationalen und internationalen Koordination sowie der Einleitung von Schutzmassnahmen. Sie ermöglichen dem BLV, zeitnah zu reagieren, Rückrufe auszulösen und die Kantone gezielt zu informieren.   "
-        },
-        "dct:accessRights": "RESTRICTED",
-        "dct:publisher": "BLV-OSAV-USAV-FSVO",
-        "dcat:contactPoint": {
-            "schema:email": "lme@blv.admin.ch",
-            "schema:name": "BLV, LME, Koordination und Überwachung"
-        },
-        "dct:issued": "2025-01-01",
-        "dcatap:availability": "STABLE",
-        "dcat:keyword": [
-            "Lebensmittel",
-            "Gebrauchsgegenstände",
-            "Schutzmassnahmen",
-            "Rückrufe"
-        ],
-        "dct:accrualPeriodicity": "IRREGULAR",
-        "dct:modified": "2025-09-10",
-        "adms:status": "published",
-        "bv:classification": "none",
-        "bv:personalData": "none",
-        "bv:typeOfData": "primaryThematicData",
-        "bv:archivalValue": "TRUE",
-        "bv:opendata_swiss": {
-            "bv:mustBePublished": "FALSE"
-        },
-        "bv:i14y": {
-            "bv:mustBePublished": "TRUE"
-        },
-        "dcat:theme": [
-            "health"
-        ],
-        "dct:spatial": "NO",
-        "dct:temporal": {},
-        "dcatap:applicableLegislation": [
-            ""
-        ],
-        "bv:itSystem": "RASFF",
-        "dcat:distribution": [
-            {
-                "dct:identifier": "FSVO_D00003_1",
-                "dcat:accessURL": "https://www.dashboard.blv.admin.ch/animals/epizootics/infosm/2025/11",
-                "dct:title": {
-                    "fr": "Annonces des cas d‘épizootie en Suisse",
-                    "de": "Tierseuchenmeldungen in der Schweiz",
-                    "en": "Notifications of epizootics in Switzerland",
-                    "it": "Notificie delle epizoozie in Svizzera"
-                },
-                "dct:description": {
-                    "fr": "La banque de données InfoSM (= système d’information sur les annonces des cas d‘épizootie) de l’OSAV contient des informations sur tous les foyers d’épizooties soumises à l’annonce obligatoire recensés depuis 1991. Pour pouvoir interpréter correctement les données, il faut intégrer la stratégie de surveillance pour chaque épizootie au moment de la déclaration du cas. N'hésitez pas à nous contacter si vous avez des questions.\n\nLe Bulletin de l'Office fédéral de la sécurité alimentaire et des affaires vétérinaires – appelé aussi bulletin tout court – est le journal où sont publiés, à un intervalle régulier de 7 jours, les derniers cas d’épizooties.\n\nPar « obligation d'annoncer » (ordonnance sur les épizooties art. 61) on entend l'obligation pour toute personne qui détient, assume la garde ou soigne des animaux d'annoncer sans délai à un vétérinaire l'apparition d'une épizootie (loi sur les épizooties, art. 1) et tout symptôme suspect pouvant en faire craindre l’éclosion. Les épizooties des abeilles, des poissons et des animaux sauvages vivant dans la nature doivent elles aussi être annoncées, respectivement à l'inspecteur des ruchers, à l'autorité cantonale compétente pour la pêche, au service vétérinaire cantonal.",
-                    "de": "Die Datenbank InfoSM (= Informationssystem Seuchenmeldungen) des BLV enthält Angaben zu sämtlichen Ausbrüchen meldepflichtiger Tierseuchen in der Schweiz seit 1991. Um die Daten korrekt interpretieren zu können, muss die Überwachungsstrategie für die einzelnen Tierseuchen zum Zeitpunkt der Fallmeldung einbezogen werden. Bei Fragen können Sie uns jederzeit Kontaktieren.\n\nDie Mitteilungen des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen – kurz Bulletin – publizieren wöchentlich die aktuellen Seuchenmeldungen.\n\nDie Meldepflicht (Tierseuchenverordnung Art. 61) verpflichtet alle Personen, die Tiere halten, betreuen oder behandeln dazu, Ausbrüche von Tierseuchen (Tierseuchengesetz Art. 1) oder verdächtige Beobachtungen einer Tierärztin oder einem Tierarzt zu melden. Die Meldepflicht gilt auch für Bienen, Fische und freilebende Wildtiere. Meldestellen sind der Bieneninspektor, die für die Fischerei zuständige kantonale Stelle resp. das kantonale Veterinäramt.",
-                    "en": "description_en",
-                    "it": "La banca dati InfoSM (Sistema d’informazione di notifica delle epizoozie) dell’USAV è uno strumento per la consultazione di dati concernenti tutti i focolai delle epizoozie presenti in Svizzera e soggette all’obbligo di notifica dal 1991. Per interpretare correttamente i dati, è necessario includere la strategia di sorveglianza per le singole epizoozie al momento della segnalazione del caso. ontattateci per qualsiasi domanda.\n\nIl Bollettino dell’USAV pubblica le attuali notifiche di epizoozie a scadenza settimanale.\n\nIn base all'obbligo di notifica (art. 61 dell'ordinanza sulle epizoozie), chi detiene, custodisce o cura animali ha l'obbligo di notificare a un veterinario la comparsa di un'epizoozia (art. 1 della legge sulle epizoozie) e qualsiasi fatto sospetto. L'obbligo di notifica vige anche per api, pesci e animali selvatici in libertà. La notifica può essere effettuata presso l'ispettore degli apiari, l'organo cantonale competente per i pesci o l'Ufficio veterinario cantonale."
-                },
-                "dct:modified": "2025-03-20",
-                "adms:status": "published",
-                "dct:format": "SPARQL, JSON",
-                "dct:license": "terms_open",
-                "schema:comment": "Test"
-            },
-            {
-                "dct:identifier": "FSVO_D00003_2",
-                "dcat:accessURL": "https://www.dashboard.blv.admin.ch/animals/health/animal_health_statistics",
-                "dct:title": {
-                    "fr": "Statistique de la santé animale",
-                    "de": "Tiergesundheitsstatistik",
-                    "en": "Title",
-                    "it": "Statistiche sulla salute degli animali"
-                },
-                "dct:description": {
-                    "fr": "L'OFAG publie chaque année une statistique de la santé animale. Cette vue d'ensemble montre l'apparition d'épizooties soumises à déclaration et se base sur les prescriptions légales. L'objectif est de donner une image claire de la propagation et de l'évolution des épizooties. L'obligation de déclarer les épizooties et les suspicions d'épizooties est fixée dans la Loi sur les épizooties, article 11 (LFE, RS 916.40) et précisée dans l' Ordonnance sur les épizooties, article 61 (OEp, RS 916.401).",
-                    "de": "Das BLV veröffentlicht jährlich eine Tiergesundheitsstatistik. Diese Übersicht zeigt das Auftreten meldepflichtiger Tierseuchen und basiert auf den gesetzlichen Vorgaben. Ziel ist es, ein klares Bild über die Verbreitung und Entwicklung von Tierseuchen zu schaffen. Die Meldepflicht für Tierseuchen und seuchenverdächtigen Erscheinungen ist im Tierseuchengesetz Artikel 11 (TSG, SR 916.40) festgelegt und in der Tierseuchenverordnung Artikel 61(TSV, SR 916.401) präzisiert.",
-                    "en": "description_en",
-                    "it": "L'USAV pubblica annualmente le statistiche sulla salute degli animali. Questa panoramica mostra l'insorgenza delle malattie animali soggette a obbligo di notifica e si basa sui requisiti di legge. L'obiettivo è quello di creare un quadro chiaro della diffusione e dello sviluppo delle malattie animali. L'obbligo di dichiarare epizoozie e casi sospetti è stabilito nella Legge sulle epizoozie, articolo 11 (LSE, RS 916.40) e specificato nell' Ordinanza sulle epizoozie, articolo 61(OSE, RS 916.401)."
-                },
-                "dct:modified": "2025-03-20",
-                "adms:status": "published",
-                "dct:format": "csv, JSON, PARQUET",
-                "dct:license": "terms_open",
-                "schema:comment": "Test"
-            },
-            {
-                "dct:identifier": "FSVO_D00003_3",
-                "dcat:accessURL": "https://www.blv.admin.ch/blv/de/home/tiere/tierseuchen/uebersicht-seuchen/alle-tierseuchen/ai/ai-aktuell.html",
-                "dct:title": {
-                    "fr": "Surveillance de l'influenza aviaire (IA) chez les oiseaux sauvages",
-                    "de": "Überwachung von Wildvögeln auf Aviäre Influenza (AI)",
-                    "en": "Sorveglianza dei volatili selvatici per l'influenza aviaria (IA)",
-                    "it": "Title"
-                },
-                "dct:description": {
-                    "fr": "L'influenza aviaire (IA) est une maladie virale très contagieuse et aiguë qui touche principalement les espèces aviaires telles que les poulets et les dindes. Les oiseaux sauvages sont considérés comme le réservoir naturel de l'agent pathogène, raison pour laquelle ils jouent un rôle central dans la propagation. Les oiseaux aquatiques et les rapaces en particulier peuvent non seulement être porteurs, mais aussi tomber malades et mourir. Afin de protéger les troupeaux d'animaux d'élevage, les oiseaux sauvages trouvés morts ou malades sont soumis à des tests de dépistage de l'IA. Les données mises à disposition ici contiennent les résultats de ces analyses depuis janvier 2018 et contribuent à mieux surveiller la propagation de la maladie et à soutenir les mesures préventives.",
-                    "de": "Die Aviäre Influenza (AI) ist eine hochansteckende und akut verlaufende Viruserkrankung, die vor allem Geflügelarten wie Hühner und Truten betrifft. Wildvögel gelten als natürliches Erregerreservoir, weshalb sie eine zentrale Rolle bei der Verbreitung spielen. Besonders Wasservögel und Greifvögel können nicht nur Träger sein, sondern auch erkranken und sterben. Zum Schutz von Nutztierbeständen werden tot und krank aufgefundene Wildvögel auf AI untersucht. Die hier bereitgestellten Daten enthalten die Ergebnisse dieser Untersuchungen seit Januar 2018 und tragen dazu bei, die Verbreitung der Krankheit besser zu überwachen und präventive Massnahmen zu unterstützen.",
-                    "en": "description_en",
-                    "it": "L'influenza aviaria (IA) è una malattia virale acuta e altamente contagiosa che colpisce principalmente le specie avicole come polli e tacchini. Gli uccelli selvatici sono considerati un serbatoio naturale dell'agente patogeno, motivo per cui svolgono un ruolo centrale nella diffusione della malattia. In particolare, gli uccelli acquatici e i rapaci possono non solo essere portatori, ma anche ammalarsi e morire. Per proteggere le popolazioni di bestiame, gli uccelli selvatici trovati morti e malati vengono analizzati per l'IA. I dati qui forniti contengono i risultati di questi test da gennaio 2018 e aiutano a monitorare meglio la diffusione della malattia e a sostenere le misure preventive."
-                },
-                "dct:modified": "2025-03-20",
-                "adms:status": "published",
-                "dct:format": "CSV, SPARQL, JSON, KML",
-                "dct:license": "terms_open",
-                "schema:comment": "Test"
-            }
-        ],
-        "businessDataOwner": null,
-        "schemaViolations": 6,
-        "schemaViolationMessages": [
-            "'IRREGULAR' is not one of ['', 'OTHER', 'HOURLY', 'UNKNOWN', 'QUARTERLY', 'NEVER', 'MONTHLY', 'ANNUAL', 'DAILY', 'AS_NEEDED', 'WEEKLY', 'IRREG', 'CONT']",
-            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
-            "None of [{'prov:agent': 'p-1YFBMPWKZ', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-2531965', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
-            "'TRUE' is not of type 'boolean'",
-            "'Title' does not match '[a-zA-Z0-9_\\\\-\\\\s]{10,75}'",
-            "'Title' does not match '[a-zA-Z0-9_\\\\-\\\\s]{10,75}'"
-        ],
-        "quality": 1910.5714285714287
-    },
-    {
-        "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00036",
-        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
-        "dct:title": {
-            "fr": "Einfuhr und Ausfuhrbewilligungen  in Bereich Tiergesundheit und Lebensmittel",
-            "de": "Einfuhr und Ausfuhrbewilligungen  in Bereich Tiergesundheit und Lebensmittel",
-            "en": "Einfuhr und Ausfuhrbewilligungen  in Bereich Tiergesundheit und Lebensmittel",
-            "it": "Einfuhr und Ausfuhrbewilligungen  in Bereich Tiergesundheit und Lebensmittel"
-        },
-        "dct:description": {
-            "fr": "Diese Datensammlung umfasst Informationen zu beantragten und erteilten Einfuhr- und Ausfuhrbewilligungen für Tiere, tierische Nebenprodukte und Lebensmittel. Erfasst werden insbesondere Angaben zu Herkunfts- und Bestimmungsländern, Warenkategorien, Gesundheitsbescheinigungen, veterinärrechtlichen Auflagen sowie Ein- und Ausfuhrbedingungen gemäss geltendem Recht. Die Daten dienen der gesundheitlichen Risikoabschätzung sowie der Kontrolle des grenzüberschreitenden Warenverkehrs, um die Einschleppung von Tierseuchen in die Schweiz zu verhindern. Gleichzeitig gewährleisten sie, dass beim Export die veterinär- und lebensmittelrechtlichen Anforderungen der Bestimmungsländer eingehalten werden. Die Datensammlung ermöglicht eine koordinierte Bewilligungsbearbeitung, unterstützt die Nachverfolgbarkeit von Sendungen und erlaubt eine effiziente Zusammenarbeit mit kantonalen, nationalen und internationalen Behörden.",
-            "de": "Diese Datensammlung umfasst Informationen zu beantragten und erteilten Einfuhr- und Ausfuhrbewilligungen für Tiere, tierische Nebenprodukte und Lebensmittel. Erfasst werden insbesondere Angaben zu Herkunfts- und Bestimmungsländern, Warenkategorien, Gesundheitsbescheinigungen, veterinärrechtlichen Auflagen sowie Ein- und Ausfuhrbedingungen gemäss geltendem Recht. Die Daten dienen der gesundheitlichen Risikoabschätzung sowie der Kontrolle des grenzüberschreitenden Warenverkehrs, um die Einschleppung von Tierseuchen in die Schweiz zu verhindern. Gleichzeitig gewährleisten sie, dass beim Export die veterinär- und lebensmittelrechtlichen Anforderungen der Bestimmungsländer eingehalten werden. Die Datensammlung ermöglicht eine koordinierte Bewilligungsbearbeitung, unterstützt die Nachverfolgbarkeit von Sendungen und erlaubt eine effiziente Zusammenarbeit mit kantonalen, nationalen und internationalen Behörden."
-        },
-        "dct:accessRights": "RESTRICTED",
-        "dct:publisher": "BLV-OSAV-USAV-FSVO",
-        "dcat:contactPoint": {
-            "schema:email": "infobew@blv.admin.ch; trade@blv.admin.ch",
-            "schema:name": "BLV, INT, Bewilligungstelle"
-        },
-        "dct:issued": "2025-01-01",
-        "dcatap:availability": "STABLE",
-        "dcat:keyword": [
-            "Tier",
-            "Lebensmittel",
-            "Pflanze",
-            "Bewilligung"
-        ],
-        "dct:accrualPeriodicity": "DAILY",
-        "dct:modified": "2025-09-10",
-        "adms:status": "published",
-        "bv:classification": "none",
-        "bv:personalData": "personalData",
-        "bv:typeOfData": "primaryThematicData",
-        "bv:archivalValue": "TRUE",
-        "bv:opendata_swiss": {
-            "bv:mustBePublished": "FALSE"
-        },
-        "bv:i14y": {
-            "bv:mustBePublished": "TRUE"
-        },
-        "dcat:theme": [
-            "trade"
-        ],
-        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/import-und-export.html",
-        "dct:spatial": "NO",
-        "dct:temporal": {},
-        "dcatap:applicableLegislation": [
-            ""
-        ],
-        "bv:itSystem": "Inpec",
-        "dcat:distribution": [
-            {
-                "dct:identifier": "FSVO_D00036_1",
-                "dcat:accessURL": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/ernaehrung/menuCH/menuch-lebensmittelkonsum-schweiz.html",
-                "dct:title": {
-                    "fr": "menuCH: Consommation alimentaire en Suisse",
-                    "de": "menuCH: Lebensmittelkonsum in der Schweiz",
-                    "en": "menuCH: Food consumption in Switzerland",
-                    "it": "menuCH: Consumo alimentarie in Svizzera"
-                },
-                "dct:description": {
-                    "fr": "Les données recueillies dans le cadre de menuCH sont d’une grande importance tant pour la science que pour le grand public. C’est pourquoi elles sont mises à disposition, sous une forme codée, accompagnées d’analyses réalisées par ou sur mandat de l’OSAV (Consommation de groupes d'aliments individuels). Les données détaillées de l’étude menuCH peuvent être utilisées sous certaines conditions. Des informations sur les données et les conditions d'utilisation ainsi que le formulaire de candidature sont disponibles sur www.studydata.blv.admin.ch.",
-                    "de": "Die im Rahmen von menuCH erhobenen Daten sind sowohl für die Wissenschaft als auch für die Öffentlichkeit von grosser Bedeutung. Sie werden daher zusammen mit vom BLV oder im Auftrag des BLV durchgeführten Auswertungen in codierter Form zur Verfügung gestellt (Konsum einzelner Lebensmittelgruppen). Die detaillierten Daten der Studie menuCH stehen unter bestimmten Bedingungen zur Nutzung zur Verfügung. Die Informationen zu den Daten und den Nutzungsbedingungen sowie das Antragsformular befinden sich auf www.studydata.blv.admin.ch.",
-                    "en": "description_en",
-                    "it": "I dati raccolti attraverso menuCH sono di grande importanza sia per la scienza sia per il pubblico. Vengono pertanto forniti in forma codificata insieme alle valutazioni effettuate da o per conto dell’USAV (Consumo di singoli gruppi di alimenti). I dati dettagliati dello studio menuCH possono essere utilizzati a determinate condizioni. Informazioni sui dati, sulle condizioni di utilizzo e sul modulo di domanda si trovano su www.studydata.blv.admin.ch."
-                },
-                "dct:modified": "2022-09-07",
-                "adms:status": "published",
-                "dct:format": "XLS",
-                "dct:license": "terms_open",
-                "schema:comment": "Test"
-            }
-        ],
-        "businessDataOwner": null,
-        "schemaViolations": 3,
-        "schemaViolationMessages": [
-            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
-            "None of [{'prov:agent': 'p-9756818', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-9756818', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
-            "'TRUE' is not of type 'boolean'"
-        ],
-        "quality": 1575.25
-    },
-    {
-        "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00015",
-        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
-        "dct:title": {
-            "fr": "eCert  Gesundheitsbescheinigungen für den sicheren Export",
-            "de": "eCert  Gesundheitsbescheinigungen für den sicheren Export",
-            "en": "eCert  Gesundheitsbescheinigungen für den sicheren Export",
-            "it": "eCert  Gesundheitsbescheinigungen für den sicheren Export"
-        },
-        "dct:description": {
-            "fr": "Die Datensammlung «eCert» umfasst strukturierte Informationen zu elektronischen Gesundheitsbescheinigungen, die für den Export von Tieren, tierischen Produkten und Lebensmittel aus der Schweiz in Drittstaaten benötigt werden. Sie enthält die vom BLV mit den jeweiligen Drittstaaten verhandelten Vorlagen sowie die zugehörigen Zertifizierungs- und Übermittlungsdaten. Die Datensammlung dient der digitalen Abwicklung und Nachverfolgung des Zertifizierungsprozesses und unterstützt damit sowohl Schweizer Exportbetriebe als auch kantonale Vollzugsbehörden. Durch die zentrale Bereitstellung harmonisierter Vorlagen und standardisierter Abläufe ermöglicht «eCert» eine einheitliche Anwendung der rechtlichen Anforderungen, erhöht die Effizienz im Vollzug und minimiert Fehlerquellen. Zudem verbessert das System die internationale Anerkennung der Schweizer Gesundheitsbescheinigungen und erleichtert den sicheren, rechtlich konformen Handel mit Tieren, tierischen Produkten und Lebensmitteln.",
-            "de": "Die Datensammlung «eCert» umfasst strukturierte Informationen zu elektronischen Gesundheitsbescheinigungen, die für den Export von Tieren, tierischen Produkten und Lebensmittel aus der Schweiz in Drittstaaten benötigt werden. Sie enthält die vom BLV mit den jeweiligen Drittstaaten verhandelten Vorlagen sowie die zugehörigen Zertifizierungs- und Übermittlungsdaten. Die Datensammlung dient der digitalen Abwicklung und Nachverfolgung des Zertifizierungsprozesses und unterstützt damit sowohl Schweizer Exportbetriebe als auch kantonale Vollzugsbehörden. Durch die zentrale Bereitstellung harmonisierter Vorlagen und standardisierter Abläufe ermöglicht «eCert» eine einheitliche Anwendung der rechtlichen Anforderungen, erhöht die Effizienz im Vollzug und minimiert Fehlerquellen. Zudem verbessert das System die internationale Anerkennung der Schweizer Gesundheitsbescheinigungen und erleichtert den sicheren, rechtlich konformen Handel mit Tieren, tierischen Produkten und Lebensmitteln."
-        },
-        "dct:accessRights": "RESTRICTED",
-        "dct:publisher": "BLV-OSAV-USAV-FSVO",
-        "dcat:contactPoint": {
-            "schema:email": "ecert@blv.admin.ch",
-            "schema:name": "BLV, INT, Fachbereich IntBez "
-        },
-        "dct:issued": "2025-01-01",
-        "dcatap:availability": "STABLE",
-        "dcat:keyword": [
-            "Tier",
-            "Tierische Produkte",
-            "Lebensmittel",
-            "Drittstaat",
-            "Export"
-        ],
-        "dct:accrualPeriodicity": "DAILY",
-        "dct:modified": "2025-09-10",
-        "adms:status": "published",
-        "bv:classification": "none",
-        "bv:personalData": "personalData",
-        "bv:typeOfData": "primaryThematicData",
-        "bv:archivalValue": "TRUE",
-        "bv:opendata_swiss": {
-            "bv:mustBePublished": "FALSE"
-        },
-        "bv:i14y": {
-            "bv:mustBePublished": "TRUE"
-        },
-        "dcat:theme": [
-            "trade"
-        ],
-        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/import-und-export.html",
-        "dct:spatial": "NO",
-        "dct:temporal": {},
-        "dcatap:applicableLegislation": [
-            ""
-        ],
-        "bv:itSystem": "ecert",
-        "dcat:distribution": [
-            {
-                "dct:identifier": "FSVO_D00015_1",
-                "dcat:accessURL": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/ernaehrung/menuCH/menuch-konsummengen-und-portionsgroessen.html",
-                "dct:title": {
-                    "fr": "menuCH: Taille des portions",
-                    "de": "menuCH: Portionsgrössen",
-                    "en": "menuCH: Portion sizes",
-                    "it": "menuCH: Dimensioni delle porzioni"
-                },
-                "dct:description": {
-                    "fr": "Dès lors que l’on consomme un aliment, cela correspond à une portion. Pour cette analyse, ce sont le nombre de portions consommées mais aussi la quantité par portion qui ont été déterminés en grammes par catégorie et sous-catégorie d’aliments. Les données détaillées de l’étude menuCH peuvent être utilisées sous certaines conditions. Des informations sur les données et les conditions d'utilisation ainsi que le formulaire de candidature sont disponibles sur www.studydata.blv.admin.ch.",
-                    "de": "Wann immer ein Lebensmittel gegessen wurde, gilt dies als Portion. In dieser Auswertung wurden sowohl die Anzahl verzehrter Portionen als auch die Menge pro Portion nach Lebensmittelkategorie und -unterkategorie in Gramm bestimmt. Die detaillierten Daten der Studie menuCH stehen unter bestimmten Bedingungen zur Nutzung zur Verfügung. Die Informationen zu den Daten und den Nutzungsbedingungen sowie das Antragsformular befinden sich auf www.studydata.blv.admin.ch.",
-                    "en": "description_en",
-                    "it": "Indipendentemente da quando un alimento è stato consumato, vale come porzione. Nella valutazione sono stati determinati in grammi sia il numero delle porzioni consumate sia la quantità per porzione in funzione della categoria e sottocategoria alimentare. I dati dettagliati dello studio menuCH possono essere utilizzati a determinate condizioni. Informazioni sui dati, sulle condizioni di utilizzo e sul modulo di domanda si trovano su www.studydata.blv.admin.ch."
-                },
-                "dct:modified": "2022-09-14",
-                "adms:status": "published",
-                "dct:format": "XLS",
-                "dct:license": "terms_open",
-                "schema:comment": "Test"
-            }
-        ],
-        "businessDataOwner": null,
-        "schemaViolations": 3,
-        "schemaViolationMessages": [
-            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
-            "None of [{'prov:agent': 'p-8859490', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-4501168', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
-            "'TRUE' is not of type 'boolean'"
-        ],
-        "quality": 1551.5
-    },
-    {
-        "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00016",
-        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
-        "dct:title": {
-            "fr": "Selenstudie",
-            "de": "Selenstudie",
-            "en": "Selenstudie",
-            "it": "Selenstudie"
-        },
-        "dct:description": {
-            "fr": "Die vorliegende Datensammlung basiert auf den Ergebnissen des nationalen Monitorings zur Versorgung der Schweizer Bevölkerung mit dem essenziellen Spurenelement Selen. Erfasst werden unter anderem die Selengehalte ausgewählter Lebensmittel, Biomarker aus Blut- und Urinanalysen im Rahmen des Humanbiomonitorings sowie ernährungsbezogene Angaben der teilnehmenden Personen. Ein besonderer analytischer Schwerpunkt liegt auf Bevölkerungsgruppen mit vegetarischer oder veganer Ernährungsweise, da bei diesen eine potenziell reduzierte Selenzufuhr angenommen wird. Ziel der Datenerhebung ist die umfassende Bewertung der aktuellen Versorgungslage mit Selen in der Schweiz sowie die frühzeitige Identifikation möglicher Defizite in der Nährstoffzufuhr. Die erhobenen Daten dienen der wissenschaftlichen Analyse, der evidenzbasierten Ableitung von Ernährungsempfehlungen sowie der gezielten Kommunikation potenzieller gesundheitlicher Risiken. Darüber hinaus ermöglicht die Datensammlung die Untersuchung langfristiger Entwicklungen, die Konzeption risikoorientierter Präventionsstrategien und die fundierte Unterstützung gesundheitsbezogener Entscheidungen im Bereich der öffentlichen Ernährungspolitik.",
-            "de": "Die vorliegende Datensammlung basiert auf den Ergebnissen des nationalen Monitorings zur Versorgung der Schweizer Bevölkerung mit dem essenziellen Spurenelement Selen. Erfasst werden unter anderem die Selengehalte ausgewählter Lebensmittel, Biomarker aus Blut- und Urinanalysen im Rahmen des Humanbiomonitorings sowie ernährungsbezogene Angaben der teilnehmenden Personen. Ein besonderer analytischer Schwerpunkt liegt auf Bevölkerungsgruppen mit vegetarischer oder veganer Ernährungsweise, da bei diesen eine potenziell reduzierte Selenzufuhr angenommen wird. Ziel der Datenerhebung ist die umfassende Bewertung der aktuellen Versorgungslage mit Selen in der Schweiz sowie die frühzeitige Identifikation möglicher Defizite in der Nährstoffzufuhr. Die erhobenen Daten dienen der wissenschaftlichen Analyse, der evidenzbasierten Ableitung von Ernährungsempfehlungen sowie der gezielten Kommunikation potenzieller gesundheitlicher Risiken. Darüber hinaus ermöglicht die Datensammlung die Untersuchung langfristiger Entwicklungen, die Konzeption risikoorientierter Präventionsstrategien und die fundierte Unterstützung gesundheitsbezogener Entscheidungen im Bereich der öffentlichen Ernährungspolitik."
-        },
-        "dct:accessRights": "PUBLIC",
-        "dct:publisher": "BLV-OSAV-USAV-FSVO",
-        "dcat:contactPoint": {
-            "schema:email": "ernaehrung@blv.admin.ch",
-            "schema:name": "BLV, LME, Ernährung"
-        },
-        "dct:issued": "2019-01-01",
-        "dcatap:availability": "STABLE",
-        "dcat:keyword": [
-            "Lebensmittel",
-            "Ernährung",
-            "Selen"
-        ],
-        "dct:accrualPeriodicity": "ANNUAL",
-        "dct:modified": "2025-09-10",
-        "adms:status": "published",
-        "bv:classification": "none",
-        "bv:personalData": "none",
-        "bv:typeOfData": "primaryThematicData",
-        "bv:archivalValue": "TRUE",
-        "bv:opendata_swiss": {
-            "bv:mustBePublished": "TRUE"
-        },
-        "bv:i14y": {
-            "bv:mustBePublished": "TRUE"
-        },
-        "dcat:theme": [
-            "health"
-        ],
-        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/forschung/gesundheitliche-risiken/ernaehrungsrisiken/biomonitoring-selenstatus-bevoelkerung-schweiz.html",
-        "dct:spatial": "YES",
-        "dct:temporal": {},
-        "dcatap:applicableLegislation": [
-            ""
-        ],
-        "bv:itSystem": "METAS",
-        "dcat:distribution": [
-            {
-                "dct:identifier": "FSVO_D00016_1",
-                "dcat:accessURL": "https://kwk.blv.admin.ch/stallliste-de/",
-                "dct:title": {
-                    "fr": "Équipements d’étables et systèmes de stabulation",
-                    "de": "Stalleinrichtungen und Aufstallungssysteme",
-                    "en": "Title",
-                    "it": "Impianti e i sistemi di stabulazione"
-                },
-                "dct:description": {
-                    "fr": "Les équipements d’étables et les systèmes de stabulation fabriqués en série ne peuvent être commercialisés en Suisse que s’ils ont été autorisés conformément à la loi sur la protection des animaux.Le Centre spécialisé dans la détention convenable des ruminants et des porcs (ZTHT) examine et autorise les systèmes de stabulation et les équipements d’étables fabriqués en série pour la détention de bovins, de porcs, de moutons et de chèvres. La même tâche incombe au Centre spécialisé dans la détention convenable de la volaille et des lapins (ZTHZ), mais pour les volailles et les lapins.",
-                    "de": "Serienmässig hergestellte Stalleinrichtungen und Aufstallungssysteme dürfen in der Schweiz nur angeboten und verkauft werden, wenn sie gemäss Tierschutzgesetz bewilligt sind. Das Zentrum für tiergerechte Haltung von Wiederkäuern und Schweinen (ZTHT) prüft und bewilligt serienmässig hergestellte Aufstallungssysteme und Stalleinrichtungen zum Halten von Rindern, Schweinen, Schafen und Ziegen. Dieselbe Aufgabe übernimmt das Zentrum für tiergerechte Haltung von Geflügel und Kaninchen (ZTHZ) für Kaninchen und Geflügel.",
-                    "en": "description_en",
-                    "it": "Gli impianti e i sistemi di stabulazione fabbricati in serie possono essere offerti e venduti in Svizzera soltanto se sono stati autorizzati secondo la legge sulla protezione degli animali. Il Centro per la detenzione adeguata dei ruminanti e dei suini (ZTHT) verifica e autorizza i sistemi e gli impianti di stabulazione fabbricati in serie per la detenzione di bovini, suini, ovini e caprini. Per i conigli e il pollame lo stesso compito è svolto dal Centro per la detenzione adeguata del pollame e dei conigli (ZTHZ)."
-                },
-                "dct:modified": "2025-03-20",
-                "adms:status": "published",
-                "dct:format": "CSV",
-                "dct:license": "terms_open",
-                "schema:comment": "Test"
-            }
-        ],
-        "businessDataOwner": null,
-        "schemaViolations": 4,
-        "schemaViolationMessages": [
-            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
-            "None of [{'prov:agent': 'p-7711752', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-3922768', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
-            "'TRUE' is not of type 'boolean'",
-            "'Title' does not match '[a-zA-Z0-9_\\\\-\\\\s]{10,75}'"
-        ],
-        "quality": 1332.0
-    },
-    {
-        "rdf:type": "dcat:Dataset",
         "dct:identifier": "FSVO_D00029",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
@@ -614,260 +237,6 @@
             "'dct:modified' is a required property"
         ],
         "quality": 1242.3333333333333
-    },
-    {
-        "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00017",
-        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
-        "dct:title": {
-            "fr": "IBR/EBL NML Stichprobe",
-            "de": "IBR/EBL NML Stichprobe",
-            "en": "IBR/EBL NML Stichprobe",
-            "it": "IBR/EBL NML Stichprobe"
-        },
-        "dct:description": {
-            "fr": "Chaque année, sur la base de critères définis, des exploitations bovines non laitières sont sélectionnées pour être testées à l'abattoir dans le cadre des programmes nationaux de surveillance de l'IBR/EBL. La liste de ces exploitations est transmise à RiBeS. Elle comprend les exploitations et les animaux éligibles pour l'échantillonnage aléatoire ainsi que la liste des exploitations sentinelles.\n \n\nCes données servent à prouver le statut indemne de la population bovine suisse en matière d'IBR/EBL, conformément aux exigences des accords bilatéraux.",
-            "de": "Jährlich werden aufgrund von festglegten Kriterien nicht milchliefernden Rinderbetriebe ausgewählt, die im Rahmen der nationalen Überwachungsprogramme IBR/EBL am Schlachthof beprobt werden sollen - diese Betriebsliste wird RiBeS übergeben. Dazu gehören die für die Zufallsstichprobe geeigneten Betriebe und Tiere sowie die Liste der Sentinelbetriebe. \n\nDiese Daten dienen der Belegung des Freiheitsstatus der Schweizer Rinderpopulation von IBR/EBL gemäss den Anforderungen der bilateralen Verträge."
-        },
-        "dct:accessRights": "RESTRICTED",
-        "dct:publisher": "BLV-OSAV-USAV-FSVO",
-        "dcat:contactPoint": {
-            "schema:email": "infotgs@blv.admin.ch",
-            "schema:name": "BLV, TGTS, Tiergesundheit"
-        },
-        "dct:issued": "2025-01-01",
-        "dcatap:availability": "STABLE",
-        "dcat:keyword": [
-            "Tiergesundheit",
-            "Überwachung",
-            "IBR",
-            "EBL"
-        ],
-        "dct:accrualPeriodicity": "ANNUAL",
-        "dct:modified": "2025-11-05",
-        "adms:status": "published",
-        "bv:classification": "none",
-        "bv:personalData": "personalData",
-        "bv:typeOfData": "primaryThematicData",
-        "bv:archivalValue": "FALSE",
-        "bv:opendata_swiss": {
-            "bv:mustBePublished": "FALSE"
-        },
-        "bv:i14y": {
-            "bv:mustBePublished": "TRUE"
-        },
-        "dcat:theme": [
-            "agriculture",
-            "national-economy"
-        ],
-        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tiergesundheit/ueberwachung/nationales-ueberwachungsprogramm.html",
-        "dct:spatial": "YES",
-        "dct:temporal": {},
-        "dcatap:applicableLegislation": [
-            "Tierseuchenverordnung (TSV SR 916.401)"
-        ],
-        "bv:itSystem": "ARES",
-        "dcat:distribution": [
-            {
-                "dct:identifier": "FSVO_D00017_1",
-                "dcat:accessURL": "https://www.dashboard.blv.admin.ch/nutrition/food-safety/meat-inspection-statistics",
-                "dct:title": {
-                    "fr": "Statistique du contrôle des viandes",
-                    "de": "Fleischkontrollstatistik",
-                    "en": "Title",
-                    "it": "Statistica del controllo delle carni"
-                },
-                "dct:description": {
-                    "fr": "Tous les animaux qui doivent être abattus dans un abattoir autorisé doivent être examinés au préalable. Après l’abattage, les personnes officielles mandatées effectuent en outre un examen des viandes. Les résultats des examens visant à déterminer si une viande est propre ou non à la consommation sont saisis dans la banque de données du contrôle des viandes (Fleko). La saisie normalisée des résultats du contrôle des animaux avant l’abattage, des motifs justifiant le caractère impropre à la consommation et des parties confisquées permettent de se faire une idée plus claire de la sécurité alimentaire, la santé et la protection des animaux. Les données du contrôle de la viande sont évaluées chaque année pour les statistiques de contrôle de la viande et les résultats sont publiés sur le tableau de bord de l'OSAV.",
-                    "de": "Alle Tiere, die in einem bewilligten Schlachtbetrieb geschlachtet werden sollen, müssen vor der Schlachtung durch eine amtliche Vollzugsperson untersucht werden (Schlachttieruntersuchung). Nach der Schlachtung führen die damit beauftragten amtlichen Personen zudem eine Fleischuntersuchung durch. Die Ergebnisse der Untersuchungen zur Genusstauglichkeit werden in einer Fleischkontrolldatenbank (Fleko) erfasst. Basierend auf der standardisierten Erfassung von Befunden der Schlachttieruntersuchung, Genussuntauglichkeitsgründen und Teilkonfiskaten sind verbesserte Aussagen zur Lebensmittelsicherheit, zur Tiergesundheit und zum Tierschutz möglich. Die Daten der Fleischkontrolle werden jährlich für die Fleischkontrollstatistik ausgewertet und die Ergebnisse auf dem Dashboard des BLV veröffentlicht.",
-                    "en": "description_en",
-                    "it": "Prima della macellazione in una struttura autorizzata, tutti gli animali devono essere controllati. Inoltre, dopo la macellazione, le persone ufficialmente incaricate effettuano un controllo delle carni. I risultati delle analisi per l’idoneità al consumo vengono registrati nella Banca dati del controllo delle carni (Fleko). Sulla base della registrazione standardizzata dei risultati del controllo degli animali da macello, dei motivi di non idoneità al consumo e dei pezzi confiscati, è possibile ottenere informazioni più precise sulla sicurezza alimentare, la salute e la protezione degli animali. I dati del controllo della carne vengono valutati annualmente per le statistiche del controllo della carne e i risultati vengono pubblicati sul cruscotto dell'USAV."
-                },
-                "dct:modified": "2024-08-27",
-                "adms:status": "published",
-                "dct:format": "JSON, PARQUET, CSV",
-                "dct:license": "terms_open",
-                "schema:comment": "Test"
-            }
-        ],
-        "businessDataOwner": null,
-        "schemaViolations": 4,
-        "schemaViolationMessages": [
-            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
-            "None of [{'prov:agent': 'p-9089108', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-20LQWYS00', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
-            "'FALSE' is not of type 'boolean'",
-            "'Title' does not match '[a-zA-Z0-9_\\\\-\\\\s]{10,75}'"
-        ],
-        "quality": 1237.6
-    },
-    {
-        "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00021",
-        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
-        "dct:title": {
-            "fr": "Salzstudie",
-            "de": "Salzstudie",
-            "en": "Salzstudie",
-            "it": "Salzstudie"
-        },
-        "dct:description": {
-            "fr": "Die vorliegende Datensammlung basiert auf den Ergebnissen der vom Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) initiierten nationalen Salzstudie. Im Rahmen dieser Erhebung wurden unter anderem der tägliche Salzkonsum von Erwachsenen in der Schweiz mittels 24-Stunden-Urinanalysen erfasst. Ergänzend wurden gesundheitsrelevante Parameter wie die Kaliumaufnahme, der Blutdruck sowie der Body-Mass-Index (BMI) dokumentiert. Die Datenerhebung erfolgte auf Basis einer repräsentativen Stichprobe und wurde unter Anwendung standardisierter und qualitätsgesicherter Verfahren durchgeführt. Ziel dieser Datensammlung ist die umfassende Erfassung des aktuellen Status der Salzaufnahme in der Bevölkerung, die Analyse potenzieller gesundheitlicher Zusammenhänge sowie die Ableitung des Handlungsbedarfs im Bereich der öffentlichen Ernährungsgesundheit. Die erhobenen Daten bilden eine evidenzbasierte Grundlage für die Entwicklung und Umsetzung von Massnahmen zur Reduktion des Salzkonsums sowie zur Prävention nichtübertragbarer Erkrankungen, insbesondere arterieller Hypertonie und kardiovaskulärer Erkrankungen. Darüber hinaus ermöglicht die Datensammlung die Analyse zeitlicher Trends, die Identifikation spezifischer Risikogruppen sowie die Evaluation bestehender und zukünftiger Interventionsstrategien im Kontext der Schweizer Ernährungsstrategie.",
-            "de": "Die vorliegende Datensammlung basiert auf den Ergebnissen der vom Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) initiierten nationalen Salzstudie. Im Rahmen dieser Erhebung wurden unter anderem der tägliche Salzkonsum von Erwachsenen in der Schweiz mittels 24-Stunden-Urinanalysen erfasst. Ergänzend wurden gesundheitsrelevante Parameter wie die Kaliumaufnahme, der Blutdruck sowie der Body-Mass-Index (BMI) dokumentiert. Die Datenerhebung erfolgte auf Basis einer repräsentativen Stichprobe und wurde unter Anwendung standardisierter und qualitätsgesicherter Verfahren durchgeführt. Ziel dieser Datensammlung ist die umfassende Erfassung des aktuellen Status der Salzaufnahme in der Bevölkerung, die Analyse potenzieller gesundheitlicher Zusammenhänge sowie die Ableitung des Handlungsbedarfs im Bereich der öffentlichen Ernährungsgesundheit. Die erhobenen Daten bilden eine evidenzbasierte Grundlage für die Entwicklung und Umsetzung von Massnahmen zur Reduktion des Salzkonsums sowie zur Prävention nichtübertragbarer Erkrankungen, insbesondere arterieller Hypertonie und kardiovaskulärer Erkrankungen. Darüber hinaus ermöglicht die Datensammlung die Analyse zeitlicher Trends, die Identifikation spezifischer Risikogruppen sowie die Evaluation bestehender und zukünftiger Interventionsstrategien im Kontext der Schweizer Ernährungsstrategie."
-        },
-        "dct:accessRights": "PUBLIC",
-        "dct:publisher": "BLV-OSAV-USAV-FSVO",
-        "dcat:contactPoint": {
-            "schema:email": "ernaehrung@blv.admin.ch",
-            "schema:name": "BLV, LME, Ernährung"
-        },
-        "dct:issued": "2023-01-01",
-        "dcatap:availability": "STABLE",
-        "dcat:keyword": [
-            "Lebensmittel",
-            "Ernährung",
-            "Salz"
-        ],
-        "dct:accrualPeriodicity": "ANNUAL",
-        "dct:modified": "2025-09-10",
-        "adms:status": "published",
-        "bv:classification": "none",
-        "bv:personalData": "none",
-        "bv:typeOfData": "primaryThematicData",
-        "bv:archivalValue": "TRUE",
-        "bv:opendata_swiss": {
-            "bv:mustBePublished": "TRUE"
-        },
-        "bv:i14y": {
-            "bv:mustBePublished": "TRUE"
-        },
-        "dcat:theme": [
-            "health"
-        ],
-        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/forschung/gesundheitliche-risiken/ernaehrungsrisiken/salzstudie.html",
-        "dct:spatial": "YES",
-        "dct:temporal": {},
-        "dcatap:applicableLegislation": [
-            ""
-        ],
-        "bv:itSystem": "FSVO Data Repository",
-        "dcat:distribution": [
-            {
-                "dct:identifier": "FSVO_D00021_1",
-                "dcat:accessURL": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/rechts-und-vollzugsgrundlagen/bewilligung-und-meldung/listen-bewilligter-betriebe.html",
-                "dct:title": {
-                    "fr": "Établissements du secteur alimentaire",
-                    "de": "Lebensmittelbetriebe",
-                    "en": "Title",
-                    "it": "Aziende alimentari"
-                },
-                "dct:description": {
-                    "fr": "Les établissements qui fabriquent, transforment, traitent, entreposent ou remettent des aliments d’origine animale ont besoin d’une autorisation délivrée par l’autorité cantonale d’exécution compétente. Cette autorisation leur permet d’exporter vers l’UE.",
-                    "de": "Betriebe, die Lebensmittel tierischer Herkunft herstellen, verarbeiten, behandeln, lagern oder abgeben, benötigen eine Bewilligung. Diese erteilt die zuständige kantonale Vollzugsbehörde. Mit der Bewilligung verknüpft ist die Möglichkeit, in die EU zu exportieren.",
-                    "en": "description_en",
-                    "it": "Le aziende che fabbricano, trasformano, trattano, depositano o consegnano derrate alimentari di origine animale necessitano di un’autorizzazione, rilasciata dall’autorità cantonale di esecuzione competente. La possibilità di esportare nell’UE è legata a tale autorizzazione."
-                },
-                "dct:modified": "2025-03-20",
-                "adms:status": "published",
-                "dct:format": "CSV",
-                "dct:license": "terms_open",
-                "schema:comment": "Test"
-            }
-        ],
-        "businessDataOwner": null,
-        "schemaViolations": 4,
-        "schemaViolationMessages": [
-            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
-            "None of [{'prov:agent': 'p-7711752', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-3922768', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
-            "'TRUE' is not of type 'boolean'",
-            "'Title' does not match '[a-zA-Z0-9_\\\\-\\\\s]{10,75}'"
-        ],
-        "quality": 1235.2
-    },
-    {
-        "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00006",
-        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
-        "dct:title": {
-            "fr": "IBR/EBL ML Stichprobe",
-            "de": "IBR/EBL ML Stichprobe",
-            "en": "IBR/EBL ML Stichprobe",
-            "it": "IBR/EBL ML Stichprobe"
-        },
-        "dct:description": {
-            "fr": "Chaque année, des exploitations laitières sont sélectionnées sur la base de critères définis et font l'objet d'analyses dans le cadre des programmes nationaux de surveillance du lait en citerne. La liste de ces exploitations est transmise à Suisselab. Les exploitations sentinelles IBR/EBL en font partie.\n\nCes données servent à prouver le statut indemne de la population bovine suisse en matière d'IBR/EBL, conformément aux exigences des accords bilatéraux.",
-            "de": "Jährlich werden aufgrund von festglegten Kriterien milchliefernden Rinderbetriebe ausgewählt, die im Rahmen der nationalen Überwachungsprogramme mittels Tankmilch untersucht werden. Diese Betriebsliste wird Suisselab übergeben. Dazu gehören die Sentinelbetriebe IBR/EBL.\n\nDiese Daten dienen der Belegung des Freiheitsstatus der Schweizer Rinderpopulation von IBR/EBL gemäss den Anforderungen der bilateralen Verträge."
-        },
-        "dct:accessRights": "RESTRICTED",
-        "dct:publisher": "BLV-OSAV-USAV-FSVO",
-        "dcat:contactPoint": {
-            "schema:email": "infotgs@blv.admin.ch",
-            "schema:name": "BLV, TGTS, Tiergesundheit"
-        },
-        "dct:issued": "2025-01-01",
-        "dcatap:availability": "STABLE",
-        "dcat:keyword": [
-            "Tiergesundheit",
-            "Überwachung",
-            "IBR",
-            "EBL",
-            "Milchproduzenten"
-        ],
-        "dct:accrualPeriodicity": "ANNUAL",
-        "dct:modified": "2025-11-05",
-        "adms:status": "published",
-        "bv:classification": "none",
-        "bv:personalData": "personalData",
-        "bv:typeOfData": "primaryThematicData",
-        "bv:archivalValue": "FALSE",
-        "bv:opendata_swiss": {
-            "bv:mustBePublished": "FALSE"
-        },
-        "bv:i14y": {
-            "bv:mustBePublished": "TRUE"
-        },
-        "dcat:theme": [
-            "agriculture",
-            "national-economy"
-        ],
-        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tiergesundheit/ueberwachung/nationales-ueberwachungsprogramm.html",
-        "dct:spatial": "YES",
-        "dct:temporal": {},
-        "dcatap:applicableLegislation": [
-            "Tierseuchenverordnung (TSV SR 916.401)"
-        ],
-        "bv:itSystem": "ARES",
-        "dcat:distribution": [
-            {
-                "dct:identifier": "FSVO_D00006_1",
-                "dcat:accessURL": "https://www.blv.admin.ch/blv/de/home/tiere/tierseuchen/bekaempfung/projekt-moderhinke.html",
-                "dct:title": {
-                    "fr": "Lutte à l’échelle nationale contre le piétin chez les moutons",
-                    "de": "Schweizweite Bekämpfung der Moderhinke bei Schafen",
-                    "en": "Title",
-                    "it": "Lotta nazionale contro la zoppina negli ovini"
-                },
-                "dct:description": {
-                    "fr": "Le 1er octobre 2024 la lutte à l’échelle nationale contre le piétin a commencé. Cette maladie contagieuse et douloureuse affecte les troupeaux ovins. L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV), en collaboration avec les services vétérinaires cantonaux et les acteurs importants de la branche, a élaboré les différentes étapes du programme de lutte. Cette initiative stratégique vise à faire baisser le nombre d’exploitations touchées à moins de 1 %sur cinq ans au maximum. Elle permettra ainsi d’améliorer le bien-être des moutons et de soutenir les éleveurs suisses. Pendand les cinq ans à venir, durant la période allant du 1er octobre au 31 mars, toutes les exploitations ovines seront contrôlées. Les données fournies contiennent les résultats de ces périodes d'étude.",
-                    "de": "Am 1. Oktober 2024 begann die schweizweite Bekämpfung der Moderhinke. Diese ansteckende und schmerzhafte Krankheit befällt vor allem Schafe. Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) hat in Zusammenarbeit mit den kantonalen Veterinärdiensten und den wichtigsten Akteuren der Branche die verschiedenen Schritte des Bekämpfungsprogramms erarbeitet. Mit dieser strategischen Initiative soll die Zahl der von Moderhinke betroffenen Betriebe in maximal fünf Jahren auf unter ein Prozent gesenkt werden. Dies ermöglicht, das Wohlbefinden der Schafe zu verbessern und die Schafhalterinnen und Schafhalter zu unterstützen. In den kommenden fünf Jahren werden daher zwischen dem 1. Oktober und dem 31. März alle Schafhaltungen untersucht. Die bereitgestellten Daten enthalten die Ergebnisse dieser Untersuchungsperioden.",
-                    "en": "description_en",
-                    "it": "L'influenza aviaire (IA) est une maladie virale très contagieuse et aiguë qui touche principalement les espèces aviaires telles que les poulets et les dindes. Les oiseaux sauvages sont considérés comme le réservoir naturel de l'agent pathogène, raison pour laquelle ils jouent un rôle central dans la propagation. Les oiseaux aquatiques et les rapaces en particulier peuvent non seulement être porteurs, mais aussi tomber malades et mourir. Afin de protéger les troupeaux d'animaux d'élevage, les oiseaux sauvages trouvés morts ou malades sont soumis à des tests de dépistage de l'IA. Les données mises à disposition ici contiennent les résultats de ces analyses depuis janvier 2018 et contribuent à mieux surveiller la propagation de la maladie et à soutenir les mesures préventives."
-                },
-                "dct:modified": "2025-03-20",
-                "adms:status": "published",
-                "dct:format": "CSV",
-                "dct:license": "terms_open",
-                "schema:comment": "Test"
-            }
-        ],
-        "businessDataOwner": null,
-        "schemaViolations": 4,
-        "schemaViolationMessages": [
-            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
-            "None of [{'prov:agent': 'p-9089108', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-20LQWYS00', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
-            "'FALSE' is not of type 'boolean'",
-            "'Title' does not match '[a-zA-Z0-9_\\\\-\\\\s]{10,75}'"
-        ],
-        "quality": 1229.4
     },
     {
         "rdf:type": "dcat:Dataset",
@@ -1202,90 +571,6 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00025",
-        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
-        "dct:title": {
-            "fr": "Tierische Lebensmittel aus Drittstaaten Auswertung aus TRACES NT",
-            "de": "Tierische Lebensmittel aus Drittstaaten Auswertung aus TRACES NT",
-            "en": "Tierische Lebensmittel aus Drittstaaten Auswertung aus TRACES NT",
-            "it": "Tierische Lebensmittel aus Drittstaaten Auswertung aus TRACES NT"
-        },
-        "dct:description": {
-            "fr": "Diese Datensammlung basiert auf Informationen aus dem europäischen System TRACES-NT und umfasst Einträge zu Sendungen tierischer Lebensmittel, die aus Drittstaaten in die Schweiz eingeführt werden. Erfasst werden unter anderem die Art, Herkunft, Menge und der Zielort der Waren sowie die Ergebnisse amtlicher Kontrollen an den Grenzkontrollstellen. Die Daten stammen direkt aus den Eingaben der zuständigen Grenzkontrollstellen und dokumentieren sämtliche relevanten Vorgänge im Rahmen der Einfuhrüberwachung. Die Datensammlung dient dem internen Datenmanagement des Bundesamts für Lebensmittelsicherheit und Veterinärwesen (BLV) und stellt eine wichtige Grundlage für den Jahresbericht zum Mehrjährigen Nationalen Kontrollplan (MNKP) sowie für die VKCS-Statistik des Verbands der Kantonschemiker der Schweiz dar. Sie ermöglicht einen schweizweiten Überblick – einschliesslich Liechtenstein – über die Einfuhren tierischer Lebensmittel aus Drittstaaten und liefert eine verlässliche Basis für die risikobasierte Analyse, die Früherkennung von Auffälligkeiten und die gezielte Weiterentwicklung von Kontrollstrategien. Damit trägt sie wesentlich zur Stärkung des Vollzugs und zur Sicherstellung der Lebensmittelsicherheit in der Schweiz bei.",
-            "de": "Diese Datensammlung basiert auf Informationen aus dem europäischen System TRACES-NT und umfasst Einträge zu Sendungen tierischer Lebensmittel, die aus Drittstaaten in die Schweiz eingeführt werden. Erfasst werden unter anderem die Art, Herkunft, Menge und der Zielort der Waren sowie die Ergebnisse amtlicher Kontrollen an den Grenzkontrollstellen. Die Daten stammen direkt aus den Eingaben der zuständigen Grenzkontrollstellen und dokumentieren sämtliche relevanten Vorgänge im Rahmen der Einfuhrüberwachung. Die Datensammlung dient dem internen Datenmanagement des Bundesamts für Lebensmittelsicherheit und Veterinärwesen (BLV) und stellt eine wichtige Grundlage für den Jahresbericht zum Mehrjährigen Nationalen Kontrollplan (MNKP) sowie für die VKCS-Statistik des Verbands der Kantonschemiker der Schweiz dar. Sie ermöglicht einen schweizweiten Überblick – einschliesslich Liechtenstein – über die Einfuhren tierischer Lebensmittel aus Drittstaaten und liefert eine verlässliche Basis für die risikobasierte Analyse, die Früherkennung von Auffälligkeiten und die gezielte Weiterentwicklung von Kontrollstrategien. Damit trägt sie wesentlich zur Stärkung des Vollzugs und zur Sicherstellung der Lebensmittelsicherheit in der Schweiz bei."
-        },
-        "dct:accessRights": "RESTRICTED",
-        "dct:publisher": "BLV-OSAV-USAV-FSVO",
-        "dcat:contactPoint": {
-            "schema:email": "lme@blv.admin.ch",
-            "schema:name": "BLV, LME, Koordination und Überwachung"
-        },
-        "dct:issued": "2025-01-01",
-        "dcatap:availability": "STABLE",
-        "dcat:keyword": [
-            "Kontrolle",
-            "Lebensmittel",
-            "Laboranalysen",
-            "Grenze",
-            "Drittstaaten"
-        ],
-        "dct:accrualPeriodicity": "ANNUAL",
-        "dct:modified": "2025-09-10",
-        "adms:status": "published",
-        "bv:classification": "none",
-        "bv:personalData": "none",
-        "bv:typeOfData": "primaryThematicData",
-        "bv:archivalValue": "TRUE",
-        "bv:opendata_swiss": {
-            "bv:mustBePublished": "FALSE"
-        },
-        "bv:i14y": {
-            "bv:mustBePublished": "TRUE"
-        },
-        "dcat:theme": [
-            "health"
-        ],
-        "dct:spatial": "NO",
-        "dct:temporal": {},
-        "dcatap:applicableLegislation": [
-            ""
-        ],
-        "bv:itSystem": "TRACES",
-        "dcat:distribution": [
-            {
-                "dct:identifier": "FSVO_D00025_1",
-                "dcat:accessURL": "https://www.psm.admin.ch/",
-                "dct:title": {
-                    "fr": "Produits phytosanitaires",
-                    "de": "Pflanzenschutzmittelverzeichnis",
-                    "en": "Title",
-                    "it": "Prodotti fitosanitari"
-                },
-                "dct:description": {
-                    "fr": "Les produits phytosanitaires autorisés figurent dans un index des produits phytosanitaires. Cet index comprend des indications sur l’utilisation prévue, les restrictions d’application, le dosage, les indications relatives aux dangers et les charges liées à l’utilisation.",
-                    "de": "Die bewilligten Pflanzenschutzmittel werden im Pflanzenschutzmittelverzeichnis aufgelistet. Das Verzeichnis enthält Angaben zur vorgesehenen Anwendung, zu Anwendungseinschränkungen, Aufwandmengen, Gefahrenkennzeichnung und zu Anwendungsauflagen.",
-                    "en": "description_en",
-                    "it": "I prodotti fitosanitari autorizzati figurano in un elenco dei prodotti fitosanitari contenente indicazioni sull'applicazione prevista, restrizioni e dosi di applicazione, simboli di pericolo e condizioni d'uso."
-                },
-                "dct:modified": "2024-12-17",
-                "adms:status": "published",
-                "dct:format": "XML",
-                "dct:license": "terms_open",
-                "schema:comment": "Test"
-            }
-        ],
-        "businessDataOwner": null,
-        "schemaViolations": 4,
-        "schemaViolationMessages": [
-            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
-            "None of [{'prov:agent': 'p-1YFBMPWKZ', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-3611054', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
-            "'TRUE' is not of type 'boolean'",
-            "'Title' does not match '[a-zA-Z0-9_\\\\-\\\\s]{10,75}'"
-        ],
-        "quality": 1168.4
-    },
-    {
-        "rdf:type": "dcat:Dataset",
         "dct:identifier": "FSVO_D00039",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANDChicken.jpg",
         "dct:title": {
@@ -1397,6 +682,65 @@
             "'TRUE' is not of type 'boolean'"
         ],
         "quality": 1154.5
+    },
+    {
+        "rdf:type": "dcat:Dataset",
+        "dct:identifier": "FSVO_D00021",
+        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
+        "dct:title": {
+            "fr": "Salzstudie",
+            "de": "Salzstudie",
+            "en": "Salzstudie",
+            "it": "Salzstudie"
+        },
+        "dct:description": {
+            "fr": "Die vorliegende Datensammlung basiert auf den Ergebnissen der vom Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) initiierten nationalen Salzstudie. Im Rahmen dieser Erhebung wurden unter anderem der tägliche Salzkonsum von Erwachsenen in der Schweiz mittels 24-Stunden-Urinanalysen erfasst. Ergänzend wurden gesundheitsrelevante Parameter wie die Kaliumaufnahme, der Blutdruck sowie der Body-Mass-Index (BMI) dokumentiert. Die Datenerhebung erfolgte auf Basis einer repräsentativen Stichprobe und wurde unter Anwendung standardisierter und qualitätsgesicherter Verfahren durchgeführt. Ziel dieser Datensammlung ist die umfassende Erfassung des aktuellen Status der Salzaufnahme in der Bevölkerung, die Analyse potenzieller gesundheitlicher Zusammenhänge sowie die Ableitung des Handlungsbedarfs im Bereich der öffentlichen Ernährungsgesundheit. Die erhobenen Daten bilden eine evidenzbasierte Grundlage für die Entwicklung und Umsetzung von Massnahmen zur Reduktion des Salzkonsums sowie zur Prävention nichtübertragbarer Erkrankungen, insbesondere arterieller Hypertonie und kardiovaskulärer Erkrankungen. Darüber hinaus ermöglicht die Datensammlung die Analyse zeitlicher Trends, die Identifikation spezifischer Risikogruppen sowie die Evaluation bestehender und zukünftiger Interventionsstrategien im Kontext der Schweizer Ernährungsstrategie.",
+            "de": "Die vorliegende Datensammlung basiert auf den Ergebnissen der vom Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) initiierten nationalen Salzstudie. Im Rahmen dieser Erhebung wurden unter anderem der tägliche Salzkonsum von Erwachsenen in der Schweiz mittels 24-Stunden-Urinanalysen erfasst. Ergänzend wurden gesundheitsrelevante Parameter wie die Kaliumaufnahme, der Blutdruck sowie der Body-Mass-Index (BMI) dokumentiert. Die Datenerhebung erfolgte auf Basis einer repräsentativen Stichprobe und wurde unter Anwendung standardisierter und qualitätsgesicherter Verfahren durchgeführt. Ziel dieser Datensammlung ist die umfassende Erfassung des aktuellen Status der Salzaufnahme in der Bevölkerung, die Analyse potenzieller gesundheitlicher Zusammenhänge sowie die Ableitung des Handlungsbedarfs im Bereich der öffentlichen Ernährungsgesundheit. Die erhobenen Daten bilden eine evidenzbasierte Grundlage für die Entwicklung und Umsetzung von Massnahmen zur Reduktion des Salzkonsums sowie zur Prävention nichtübertragbarer Erkrankungen, insbesondere arterieller Hypertonie und kardiovaskulärer Erkrankungen. Darüber hinaus ermöglicht die Datensammlung die Analyse zeitlicher Trends, die Identifikation spezifischer Risikogruppen sowie die Evaluation bestehender und zukünftiger Interventionsstrategien im Kontext der Schweizer Ernährungsstrategie."
+        },
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BLV-OSAV-USAV-FSVO",
+        "dcat:contactPoint": {
+            "schema:email": "ernaehrung@blv.admin.ch",
+            "schema:name": "BLV, LME, Ernährung"
+        },
+        "dct:issued": "2023-01-01",
+        "dcatap:availability": "STABLE",
+        "dcat:keyword": [
+            "Lebensmittel",
+            "Ernährung",
+            "Salz"
+        ],
+        "dct:accrualPeriodicity": "ANNUAL",
+        "dct:modified": "2025-09-10",
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:typeOfData": "primaryThematicData",
+        "bv:archivalValue": "TRUE",
+        "bv:opendata_swiss": {
+            "bv:mustBePublished": "TRUE"
+        },
+        "bv:i14y": {
+            "bv:mustBePublished": "TRUE"
+        },
+        "dcat:theme": [
+            "health"
+        ],
+        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/forschung/gesundheitliche-risiken/ernaehrungsrisiken/salzstudie.html",
+        "dct:spatial": "YES",
+        "dct:temporal": {},
+        "dcatap:applicableLegislation": [
+            ""
+        ],
+        "bv:itSystem": "FSVO Data Repository",
+        "businessDataOwner": null,
+        "schemaViolations": 3,
+        "schemaViolationMessages": [
+            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
+            "None of [{'prov:agent': 'p-7711752', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-3922768', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
+            "'TRUE' is not of type 'boolean'"
+        ],
+        "quality": 1120.25
     },
     {
         "rdf:type": "dcat:Dataset",
@@ -1805,6 +1149,66 @@
             "'TRUE' is not of type 'boolean'"
         ],
         "quality": 1100.5
+    },
+    {
+        "rdf:type": "dcat:Dataset",
+        "dct:identifier": "FSVO_D00025",
+        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
+        "dct:title": {
+            "fr": "Tierische Lebensmittel aus Drittstaaten Auswertung aus TRACES NT",
+            "de": "Tierische Lebensmittel aus Drittstaaten Auswertung aus TRACES NT",
+            "en": "Tierische Lebensmittel aus Drittstaaten Auswertung aus TRACES NT",
+            "it": "Tierische Lebensmittel aus Drittstaaten Auswertung aus TRACES NT"
+        },
+        "dct:description": {
+            "fr": "Diese Datensammlung basiert auf Informationen aus dem europäischen System TRACES-NT und umfasst Einträge zu Sendungen tierischer Lebensmittel, die aus Drittstaaten in die Schweiz eingeführt werden. Erfasst werden unter anderem die Art, Herkunft, Menge und der Zielort der Waren sowie die Ergebnisse amtlicher Kontrollen an den Grenzkontrollstellen. Die Daten stammen direkt aus den Eingaben der zuständigen Grenzkontrollstellen und dokumentieren sämtliche relevanten Vorgänge im Rahmen der Einfuhrüberwachung. Die Datensammlung dient dem internen Datenmanagement des Bundesamts für Lebensmittelsicherheit und Veterinärwesen (BLV) und stellt eine wichtige Grundlage für den Jahresbericht zum Mehrjährigen Nationalen Kontrollplan (MNKP) sowie für die VKCS-Statistik des Verbands der Kantonschemiker der Schweiz dar. Sie ermöglicht einen schweizweiten Überblick – einschliesslich Liechtenstein – über die Einfuhren tierischer Lebensmittel aus Drittstaaten und liefert eine verlässliche Basis für die risikobasierte Analyse, die Früherkennung von Auffälligkeiten und die gezielte Weiterentwicklung von Kontrollstrategien. Damit trägt sie wesentlich zur Stärkung des Vollzugs und zur Sicherstellung der Lebensmittelsicherheit in der Schweiz bei.",
+            "de": "Diese Datensammlung basiert auf Informationen aus dem europäischen System TRACES-NT und umfasst Einträge zu Sendungen tierischer Lebensmittel, die aus Drittstaaten in die Schweiz eingeführt werden. Erfasst werden unter anderem die Art, Herkunft, Menge und der Zielort der Waren sowie die Ergebnisse amtlicher Kontrollen an den Grenzkontrollstellen. Die Daten stammen direkt aus den Eingaben der zuständigen Grenzkontrollstellen und dokumentieren sämtliche relevanten Vorgänge im Rahmen der Einfuhrüberwachung. Die Datensammlung dient dem internen Datenmanagement des Bundesamts für Lebensmittelsicherheit und Veterinärwesen (BLV) und stellt eine wichtige Grundlage für den Jahresbericht zum Mehrjährigen Nationalen Kontrollplan (MNKP) sowie für die VKCS-Statistik des Verbands der Kantonschemiker der Schweiz dar. Sie ermöglicht einen schweizweiten Überblick – einschliesslich Liechtenstein – über die Einfuhren tierischer Lebensmittel aus Drittstaaten und liefert eine verlässliche Basis für die risikobasierte Analyse, die Früherkennung von Auffälligkeiten und die gezielte Weiterentwicklung von Kontrollstrategien. Damit trägt sie wesentlich zur Stärkung des Vollzugs und zur Sicherstellung der Lebensmittelsicherheit in der Schweiz bei."
+        },
+        "dct:accessRights": "RESTRICTED",
+        "dct:publisher": "BLV-OSAV-USAV-FSVO",
+        "dcat:contactPoint": {
+            "schema:email": "lme@blv.admin.ch",
+            "schema:name": "BLV, LME, Koordination und Überwachung"
+        },
+        "dct:issued": "2025-01-01",
+        "dcatap:availability": "STABLE",
+        "dcat:keyword": [
+            "Kontrolle",
+            "Lebensmittel",
+            "Laboranalysen",
+            "Grenze",
+            "Drittstaaten"
+        ],
+        "dct:accrualPeriodicity": "ANNUAL",
+        "dct:modified": "2025-09-10",
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:typeOfData": "primaryThematicData",
+        "bv:archivalValue": "TRUE",
+        "bv:opendata_swiss": {
+            "bv:mustBePublished": "FALSE"
+        },
+        "bv:i14y": {
+            "bv:mustBePublished": "TRUE"
+        },
+        "dcat:theme": [
+            "health"
+        ],
+        "dct:spatial": "NO",
+        "dct:temporal": {},
+        "dcatap:applicableLegislation": [
+            ""
+        ],
+        "bv:itSystem": "TRACES",
+        "businessDataOwner": null,
+        "schemaViolations": 3,
+        "schemaViolationMessages": [
+            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
+            "None of [{'prov:agent': 'p-1YFBMPWKZ', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-3611054', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
+            "'TRUE' is not of type 'boolean'"
+        ],
+        "quality": 1090.0
     },
     {
         "rdf:type": "dcat:Dataset",
@@ -2395,6 +1799,65 @@
     },
     {
         "rdf:type": "dcat:Dataset",
+        "dct:identifier": "FSVO_D00016",
+        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
+        "dct:title": {
+            "fr": "Selenstudie",
+            "de": "Selenstudie",
+            "en": "Selenstudie",
+            "it": "Selenstudie"
+        },
+        "dct:description": {
+            "fr": "Die vorliegende Datensammlung basiert auf den Ergebnissen des nationalen Monitorings zur Versorgung der Schweizer Bevölkerung mit dem essenziellen Spurenelement Selen. Erfasst werden unter anderem die Selengehalte ausgewählter Lebensmittel, Biomarker aus Blut- und Urinanalysen im Rahmen des Humanbiomonitorings sowie ernährungsbezogene Angaben der teilnehmenden Personen. Ein besonderer analytischer Schwerpunkt liegt auf Bevölkerungsgruppen mit vegetarischer oder veganer Ernährungsweise, da bei diesen eine potenziell reduzierte Selenzufuhr angenommen wird. Ziel der Datenerhebung ist die umfassende Bewertung der aktuellen Versorgungslage mit Selen in der Schweiz sowie die frühzeitige Identifikation möglicher Defizite in der Nährstoffzufuhr. Die erhobenen Daten dienen der wissenschaftlichen Analyse, der evidenzbasierten Ableitung von Ernährungsempfehlungen sowie der gezielten Kommunikation potenzieller gesundheitlicher Risiken. Darüber hinaus ermöglicht die Datensammlung die Untersuchung langfristiger Entwicklungen, die Konzeption risikoorientierter Präventionsstrategien und die fundierte Unterstützung gesundheitsbezogener Entscheidungen im Bereich der öffentlichen Ernährungspolitik.",
+            "de": "Die vorliegende Datensammlung basiert auf den Ergebnissen des nationalen Monitorings zur Versorgung der Schweizer Bevölkerung mit dem essenziellen Spurenelement Selen. Erfasst werden unter anderem die Selengehalte ausgewählter Lebensmittel, Biomarker aus Blut- und Urinanalysen im Rahmen des Humanbiomonitorings sowie ernährungsbezogene Angaben der teilnehmenden Personen. Ein besonderer analytischer Schwerpunkt liegt auf Bevölkerungsgruppen mit vegetarischer oder veganer Ernährungsweise, da bei diesen eine potenziell reduzierte Selenzufuhr angenommen wird. Ziel der Datenerhebung ist die umfassende Bewertung der aktuellen Versorgungslage mit Selen in der Schweiz sowie die frühzeitige Identifikation möglicher Defizite in der Nährstoffzufuhr. Die erhobenen Daten dienen der wissenschaftlichen Analyse, der evidenzbasierten Ableitung von Ernährungsempfehlungen sowie der gezielten Kommunikation potenzieller gesundheitlicher Risiken. Darüber hinaus ermöglicht die Datensammlung die Untersuchung langfristiger Entwicklungen, die Konzeption risikoorientierter Präventionsstrategien und die fundierte Unterstützung gesundheitsbezogener Entscheidungen im Bereich der öffentlichen Ernährungspolitik."
+        },
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BLV-OSAV-USAV-FSVO",
+        "dcat:contactPoint": {
+            "schema:email": "ernaehrung@blv.admin.ch",
+            "schema:name": "BLV, LME, Ernährung"
+        },
+        "dct:issued": "2019-01-01",
+        "dcatap:availability": "STABLE",
+        "dcat:keyword": [
+            "Lebensmittel",
+            "Ernährung",
+            "Selen"
+        ],
+        "dct:accrualPeriodicity": "ANNUAL",
+        "dct:modified": "2025-09-10",
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:typeOfData": "primaryThematicData",
+        "bv:archivalValue": "TRUE",
+        "bv:opendata_swiss": {
+            "bv:mustBePublished": "TRUE"
+        },
+        "bv:i14y": {
+            "bv:mustBePublished": "TRUE"
+        },
+        "dcat:theme": [
+            "health"
+        ],
+        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/lebensmittel-und-ernaehrung/forschung/gesundheitliche-risiken/ernaehrungsrisiken/biomonitoring-selenstatus-bevoelkerung-schweiz.html",
+        "dct:spatial": "YES",
+        "dct:temporal": {},
+        "dcatap:applicableLegislation": [
+            ""
+        ],
+        "bv:itSystem": "METAS",
+        "businessDataOwner": null,
+        "schemaViolations": 3,
+        "schemaViolationMessages": [
+            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
+            "None of [{'prov:agent': 'p-7711752', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-3922768', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
+            "'TRUE' is not of type 'boolean'"
+        ],
+        "quality": 1043.25
+    },
+    {
+        "rdf:type": "dcat:Dataset",
         "dct:identifier": "FSVO_D00011",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
@@ -2834,6 +2297,67 @@
     },
     {
         "rdf:type": "dcat:Dataset",
+        "dct:identifier": "FSVO_D00015",
+        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
+        "dct:title": {
+            "fr": "eCert  Gesundheitsbescheinigungen für den sicheren Export",
+            "de": "eCert  Gesundheitsbescheinigungen für den sicheren Export",
+            "en": "eCert  Gesundheitsbescheinigungen für den sicheren Export",
+            "it": "eCert  Gesundheitsbescheinigungen für den sicheren Export"
+        },
+        "dct:description": {
+            "fr": "Die Datensammlung «eCert» umfasst strukturierte Informationen zu elektronischen Gesundheitsbescheinigungen, die für den Export von Tieren, tierischen Produkten und Lebensmittel aus der Schweiz in Drittstaaten benötigt werden. Sie enthält die vom BLV mit den jeweiligen Drittstaaten verhandelten Vorlagen sowie die zugehörigen Zertifizierungs- und Übermittlungsdaten. Die Datensammlung dient der digitalen Abwicklung und Nachverfolgung des Zertifizierungsprozesses und unterstützt damit sowohl Schweizer Exportbetriebe als auch kantonale Vollzugsbehörden. Durch die zentrale Bereitstellung harmonisierter Vorlagen und standardisierter Abläufe ermöglicht «eCert» eine einheitliche Anwendung der rechtlichen Anforderungen, erhöht die Effizienz im Vollzug und minimiert Fehlerquellen. Zudem verbessert das System die internationale Anerkennung der Schweizer Gesundheitsbescheinigungen und erleichtert den sicheren, rechtlich konformen Handel mit Tieren, tierischen Produkten und Lebensmitteln.",
+            "de": "Die Datensammlung «eCert» umfasst strukturierte Informationen zu elektronischen Gesundheitsbescheinigungen, die für den Export von Tieren, tierischen Produkten und Lebensmittel aus der Schweiz in Drittstaaten benötigt werden. Sie enthält die vom BLV mit den jeweiligen Drittstaaten verhandelten Vorlagen sowie die zugehörigen Zertifizierungs- und Übermittlungsdaten. Die Datensammlung dient der digitalen Abwicklung und Nachverfolgung des Zertifizierungsprozesses und unterstützt damit sowohl Schweizer Exportbetriebe als auch kantonale Vollzugsbehörden. Durch die zentrale Bereitstellung harmonisierter Vorlagen und standardisierter Abläufe ermöglicht «eCert» eine einheitliche Anwendung der rechtlichen Anforderungen, erhöht die Effizienz im Vollzug und minimiert Fehlerquellen. Zudem verbessert das System die internationale Anerkennung der Schweizer Gesundheitsbescheinigungen und erleichtert den sicheren, rechtlich konformen Handel mit Tieren, tierischen Produkten und Lebensmitteln."
+        },
+        "dct:accessRights": "RESTRICTED",
+        "dct:publisher": "BLV-OSAV-USAV-FSVO",
+        "dcat:contactPoint": {
+            "schema:email": "ecert@blv.admin.ch",
+            "schema:name": "BLV, INT, Fachbereich IntBez "
+        },
+        "dct:issued": "2025-01-01",
+        "dcatap:availability": "STABLE",
+        "dcat:keyword": [
+            "Tier",
+            "Tierische Produkte",
+            "Lebensmittel",
+            "Drittstaat",
+            "Export"
+        ],
+        "dct:accrualPeriodicity": "DAILY",
+        "dct:modified": "2025-09-10",
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "personalData",
+        "bv:typeOfData": "primaryThematicData",
+        "bv:archivalValue": "TRUE",
+        "bv:opendata_swiss": {
+            "bv:mustBePublished": "FALSE"
+        },
+        "bv:i14y": {
+            "bv:mustBePublished": "TRUE"
+        },
+        "dcat:theme": [
+            "trade"
+        ],
+        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/import-und-export.html",
+        "dct:spatial": "NO",
+        "dct:temporal": {},
+        "dcatap:applicableLegislation": [
+            ""
+        ],
+        "bv:itSystem": "ecert",
+        "businessDataOwner": null,
+        "schemaViolations": 3,
+        "schemaViolationMessages": [
+            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
+            "None of [{'prov:agent': 'p-8859490', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-4501168', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
+            "'TRUE' is not of type 'boolean'"
+        ],
+        "quality": 973.0
+    },
+    {
+        "rdf:type": "dcat:Dataset",
         "dct:identifier": "FSVO_D00008",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANDChicken.jpg",
         "dct:title": {
@@ -3066,6 +2590,66 @@
             "'dct:modified' is a required property"
         ],
         "quality": 953.7272727272727
+    },
+    {
+        "rdf:type": "dcat:Dataset",
+        "dct:identifier": "FSVO_D00036",
+        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
+        "dct:title": {
+            "fr": "Einfuhr und Ausfuhrbewilligungen  in Bereich Tiergesundheit und Lebensmittel",
+            "de": "Einfuhr und Ausfuhrbewilligungen  in Bereich Tiergesundheit und Lebensmittel",
+            "en": "Einfuhr und Ausfuhrbewilligungen  in Bereich Tiergesundheit und Lebensmittel",
+            "it": "Einfuhr und Ausfuhrbewilligungen  in Bereich Tiergesundheit und Lebensmittel"
+        },
+        "dct:description": {
+            "fr": "Diese Datensammlung umfasst Informationen zu beantragten und erteilten Einfuhr- und Ausfuhrbewilligungen für Tiere, tierische Nebenprodukte und Lebensmittel. Erfasst werden insbesondere Angaben zu Herkunfts- und Bestimmungsländern, Warenkategorien, Gesundheitsbescheinigungen, veterinärrechtlichen Auflagen sowie Ein- und Ausfuhrbedingungen gemäss geltendem Recht. Die Daten dienen der gesundheitlichen Risikoabschätzung sowie der Kontrolle des grenzüberschreitenden Warenverkehrs, um die Einschleppung von Tierseuchen in die Schweiz zu verhindern. Gleichzeitig gewährleisten sie, dass beim Export die veterinär- und lebensmittelrechtlichen Anforderungen der Bestimmungsländer eingehalten werden. Die Datensammlung ermöglicht eine koordinierte Bewilligungsbearbeitung, unterstützt die Nachverfolgbarkeit von Sendungen und erlaubt eine effiziente Zusammenarbeit mit kantonalen, nationalen und internationalen Behörden.",
+            "de": "Diese Datensammlung umfasst Informationen zu beantragten und erteilten Einfuhr- und Ausfuhrbewilligungen für Tiere, tierische Nebenprodukte und Lebensmittel. Erfasst werden insbesondere Angaben zu Herkunfts- und Bestimmungsländern, Warenkategorien, Gesundheitsbescheinigungen, veterinärrechtlichen Auflagen sowie Ein- und Ausfuhrbedingungen gemäss geltendem Recht. Die Daten dienen der gesundheitlichen Risikoabschätzung sowie der Kontrolle des grenzüberschreitenden Warenverkehrs, um die Einschleppung von Tierseuchen in die Schweiz zu verhindern. Gleichzeitig gewährleisten sie, dass beim Export die veterinär- und lebensmittelrechtlichen Anforderungen der Bestimmungsländer eingehalten werden. Die Datensammlung ermöglicht eine koordinierte Bewilligungsbearbeitung, unterstützt die Nachverfolgbarkeit von Sendungen und erlaubt eine effiziente Zusammenarbeit mit kantonalen, nationalen und internationalen Behörden."
+        },
+        "dct:accessRights": "RESTRICTED",
+        "dct:publisher": "BLV-OSAV-USAV-FSVO",
+        "dcat:contactPoint": {
+            "schema:email": "infobew@blv.admin.ch; trade@blv.admin.ch",
+            "schema:name": "BLV, INT, Bewilligungstelle"
+        },
+        "dct:issued": "2025-01-01",
+        "dcatap:availability": "STABLE",
+        "dcat:keyword": [
+            "Tier",
+            "Lebensmittel",
+            "Pflanze",
+            "Bewilligung"
+        ],
+        "dct:accrualPeriodicity": "DAILY",
+        "dct:modified": "2025-09-10",
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "personalData",
+        "bv:typeOfData": "primaryThematicData",
+        "bv:archivalValue": "TRUE",
+        "bv:opendata_swiss": {
+            "bv:mustBePublished": "FALSE"
+        },
+        "bv:i14y": {
+            "bv:mustBePublished": "TRUE"
+        },
+        "dcat:theme": [
+            "trade"
+        ],
+        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/import-und-export.html",
+        "dct:spatial": "NO",
+        "dct:temporal": {},
+        "dcatap:applicableLegislation": [
+            ""
+        ],
+        "bv:itSystem": "Inpec",
+        "businessDataOwner": null,
+        "schemaViolations": 3,
+        "schemaViolationMessages": [
+            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
+            "None of [{'prov:agent': 'p-9756818', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-9756818', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
+            "'TRUE' is not of type 'boolean'"
+        ],
+        "quality": 953.0
     },
     {
         "rdf:type": "dcat:Dataset",
@@ -3668,103 +3252,6 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00030",
-        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/StillLifeWithMouse.jpg",
-        "dct:title": {
-            "fr": "Tierversuchsstatistik",
-            "de": "Tierversuchsstatistik",
-            "en": "Tierversuchsstatistik",
-            "it": "Tierversuchsstatistik"
-        },
-        "dct:description": {
-            "fr": "Base de données pour les statistiques publiques sur l'expérimentation animale - « gel des données » annuel ; données historiques ; les données doivent être archivées aux Archives fédérales.",
-            "de": "Datengrundlage für die öffentliche Tierversuchsstatistik - jährlicher 'Data-Freeze'; Historische Daten; Daten müssen im Bundesarchiv archiviert werden."
-        },
-        "dct:accessRights": "RESTRICTED",
-        "dct:publisher": "BLV-OSAV-USAV-FSVO",
-        "dcat:contactPoint": {
-            "schema:email": "oberaufsicht-tv@blv.admin.ch",
-            "schema:name": "BLV, TGTS, Tierschutz"
-        },
-        "dct:issued": "2025-01-01",
-        "dcatap:availability": "STABLE",
-        "dcat:keyword": [
-            "Tierversuche",
-            "Tierversuchsstatistik",
-            "Versuchstiere",
-            "Versuchstierhaltung",
-            "Belastungskategorien",
-            "Berichte",
-            "Versuchsdokumentation",
-            "Tiermodelle",
-            "Forschungsprojekte"
-        ],
-        "dct:accrualPeriodicity": "ANNUAL",
-        "dct:modified": "2025-11-05",
-        "adms:status": "published",
-        "bv:classification": "none",
-        "bv:personalData": "none",
-        "bv:typeOfData": "primaryThematicData",
-        "bv:archivalValue": "FALSE",
-        "bv:opendata_swiss": {
-            "bv:mustBePublished": "TRUE",
-            "dct:identifier": "tierversuchsstatistik@bundesamt-fur-lebensmittelsicherheit-und-veterinaerwesen-blv",
-            "dcat:accessURL": "Tierversuche: Tierversuchsstatistik | opendata.swiss"
-        },
-        "bv:i14y": {
-            "bv:mustBePublished": "TRUE"
-        },
-        "dcat:theme": [
-            "research",
-            "national-economy",
-            "industry",
-            "administration",
-            "health"
-        ],
-        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierversuche/forschende.html",
-        "dct:spatial": "NO",
-        "dct:temporal": {},
-        "dcatap:applicableLegislation": [
-            "Tierschutzgesetz (TSchG SR 455) – Art. 3 c",
-            "Art. 17",
-            "Art. 18, Art. 20, Art. 20a, Tierschutzverordnung (TSchV SR 455.1) – Art. 139–152. Tierversuchsverordnung (TVV SR 455.163). Verordnung über das Informationssystem Animex-ch (SR 455.61)"
-        ],
-        "bv:itSystem": "BI BLV",
-        "dcat:distribution": [
-            {
-                "dct:identifier": "FSVO_D00030_1",
-                "dcat:accessURL": "https://naehrwertdaten.ch/de/",
-                "dct:title": {
-                    "fr": "Valeurs nutritives des aliments",
-                    "de": "Nährwerte von Lebensmittel",
-                    "en": "Composition of food",
-                    "it": "Valori nutritivi delle derrate alimentari"
-                },
-                "dct:description": {
-                    "fr": "La base de données suisse des valeurs nutritives librement consultable en ligne sur le présent site est un fichier de l’Office fédéral de la securité alimentaire et des affaires vétérinaires OSAV consacré à la composition des aliments disponibles en Suisse.",
-                    "de": "Die Schweizer Nährwertdatenbank ist eine Datensammlung des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen BLV über die Zusammensetzung von in der Schweiz erhältlichen Lebensmitteln.",
-                    "en": "The Swiss Food Composition Database is a data collection of the Federal Food Safety and Veterinary Office FSVO on the composition of foods that are available in Switzerland.",
-                    "it": "La Banca dati svizzera dei valori nutritivi è una raccolta di dati dell’Ufficio federale della sicurezza alimentare e di veterinaria USAV sulla composizione delle derrate alimentari disponibili in Svizzera"
-                },
-                "dct:modified": "2023-06-27",
-                "adms:status": "published",
-                "dct:format": "XLS",
-                "dct:license": "terms_open",
-                "schema:comment": "Test"
-            }
-        ],
-        "businessDataOwner": null,
-        "schemaViolations": 4,
-        "schemaViolationMessages": [
-            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
-            "None of [{'prov:agent': 'p-9097640', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-1YZJ3753C', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
-            "'FALSE' is not of type 'boolean'",
-            "'research' is not one of ['', 'work', 'construction', 'population', 'education', 'energy', 'finances', 'geography', 'legislation', 'health', 'trade', 'industry', 'crime', 'culture', 'agriculture', 'mobility', 'public-order', 'politics', 'prices', 'territory', 'social-security', 'statistical-basis', 'tourism', 'administration', 'national-economy']"
-        ],
-        "quality": 882.6
-    },
-    {
-        "rdf:type": "dcat:Dataset",
         "dct:identifier": "FSVO_D00010",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
@@ -4135,6 +3622,66 @@
     },
     {
         "rdf:type": "dcat:Dataset",
+        "dct:identifier": "FSVO_D00003",
+        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
+        "dct:title": {
+            "fr": "Meldungen an RASFF Kontaktpunkt BLV ",
+            "de": "Meldungen an RASFF Kontaktpunkt BLV ",
+            "en": "Meldungen an RASFF Kontaktpunkt BLV ",
+            "it": "Meldungen an RASFF Kontaktpunkt BLV "
+        },
+        "dct:description": {
+            "fr": "Diese Datensammlung enthält die Meldungen der kantonalen Vollzugsbehörden an das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) über gesundheitsschädigende Lebensmittel oder Gebrauchsgegenstände. Grundlage bilden Artikel 11 der Lebensmittel- und Gebrauchsgegenständeverordnung (LMVV) sowie Artikel 84 der Lebensmittel- und Gebrauchsgegenständeverordnung (LGV). Erfasst werden Fälle, in denen Produkte an eine unbestimmte Zahl von Konsumentinnen und Konsumenten abgegeben wurden und eine potenzielle Gesundheitsgefährdung für die Bevölkerung mehrerer Kantone besteht oder bestehen könnte. Zudem dokumentiert die Sammlung Informationen aus dem europäischen Schnellwarnsystem RASFF zu gesundheitsgefährdenden Produkten, die in die Schweiz geliefert wurden. Die Daten dienen der schnellen Risikoerkennung, der nationalen und internationalen Koordination sowie der Einleitung von Schutzmassnahmen. Sie ermöglichen dem BLV, zeitnah zu reagieren, Rückrufe auszulösen und die Kantone gezielt zu informieren.   ",
+            "de": "Diese Datensammlung enthält die Meldungen der kantonalen Vollzugsbehörden an das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) über gesundheitsschädigende Lebensmittel oder Gebrauchsgegenstände. Grundlage bilden Artikel 11 der Lebensmittel- und Gebrauchsgegenständeverordnung (LMVV) sowie Artikel 84 der Lebensmittel- und Gebrauchsgegenständeverordnung (LGV). Erfasst werden Fälle, in denen Produkte an eine unbestimmte Zahl von Konsumentinnen und Konsumenten abgegeben wurden und eine potenzielle Gesundheitsgefährdung für die Bevölkerung mehrerer Kantone besteht oder bestehen könnte. Zudem dokumentiert die Sammlung Informationen aus dem europäischen Schnellwarnsystem RASFF zu gesundheitsgefährdenden Produkten, die in die Schweiz geliefert wurden. Die Daten dienen der schnellen Risikoerkennung, der nationalen und internationalen Koordination sowie der Einleitung von Schutzmassnahmen. Sie ermöglichen dem BLV, zeitnah zu reagieren, Rückrufe auszulösen und die Kantone gezielt zu informieren.   "
+        },
+        "dct:accessRights": "RESTRICTED",
+        "dct:publisher": "BLV-OSAV-USAV-FSVO",
+        "dcat:contactPoint": {
+            "schema:email": "lme@blv.admin.ch",
+            "schema:name": "BLV, LME, Koordination und Überwachung"
+        },
+        "dct:issued": "2025-01-01",
+        "dcatap:availability": "STABLE",
+        "dcat:keyword": [
+            "Lebensmittel",
+            "Gebrauchsgegenstände",
+            "Schutzmassnahmen",
+            "Rückrufe"
+        ],
+        "dct:accrualPeriodicity": "IRREGULAR",
+        "dct:modified": "2025-09-10",
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:typeOfData": "primaryThematicData",
+        "bv:archivalValue": "TRUE",
+        "bv:opendata_swiss": {
+            "bv:mustBePublished": "FALSE"
+        },
+        "bv:i14y": {
+            "bv:mustBePublished": "TRUE"
+        },
+        "dcat:theme": [
+            "health"
+        ],
+        "dct:spatial": "NO",
+        "dct:temporal": {},
+        "dcatap:applicableLegislation": [
+            ""
+        ],
+        "bv:itSystem": "RASFF",
+        "businessDataOwner": null,
+        "schemaViolations": 4,
+        "schemaViolationMessages": [
+            "'IRREGULAR' is not one of ['', 'OTHER', 'HOURLY', 'UNKNOWN', 'QUARTERLY', 'NEVER', 'MONTHLY', 'ANNUAL', 'DAILY', 'AS_NEEDED', 'WEEKLY', 'IRREG', 'CONT']",
+            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
+            "None of [{'prov:agent': 'p-1YFBMPWKZ', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-2531965', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
+            "'TRUE' is not of type 'boolean'"
+        ],
+        "quality": 757.2
+    },
+    {
+        "rdf:type": "dcat:Dataset",
         "dct:identifier": "FSVO_D00037",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANDChicken.jpg",
         "dct:title": {
@@ -4201,6 +3748,129 @@
             "'dct:modified' is a required property"
         ],
         "quality": 732.6
+    },
+    {
+        "rdf:type": "dcat:Dataset",
+        "dct:identifier": "FSVO_D00017",
+        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
+        "dct:title": {
+            "fr": "IBR/EBL NML Stichprobe",
+            "de": "IBR/EBL NML Stichprobe",
+            "en": "IBR/EBL NML Stichprobe",
+            "it": "IBR/EBL NML Stichprobe"
+        },
+        "dct:description": {
+            "fr": "Chaque année, sur la base de critères définis, des exploitations bovines non laitières sont sélectionnées pour être testées à l'abattoir dans le cadre des programmes nationaux de surveillance de l'IBR/EBL. La liste de ces exploitations est transmise à RiBeS. Elle comprend les exploitations et les animaux éligibles pour l'échantillonnage aléatoire ainsi que la liste des exploitations sentinelles.\n \n\nCes données servent à prouver le statut indemne de la population bovine suisse en matière d'IBR/EBL, conformément aux exigences des accords bilatéraux.",
+            "de": "Jährlich werden aufgrund von festglegten Kriterien nicht milchliefernden Rinderbetriebe ausgewählt, die im Rahmen der nationalen Überwachungsprogramme IBR/EBL am Schlachthof beprobt werden sollen - diese Betriebsliste wird RiBeS übergeben. Dazu gehören die für die Zufallsstichprobe geeigneten Betriebe und Tiere sowie die Liste der Sentinelbetriebe. \n\nDiese Daten dienen der Belegung des Freiheitsstatus der Schweizer Rinderpopulation von IBR/EBL gemäss den Anforderungen der bilateralen Verträge."
+        },
+        "dct:accessRights": "RESTRICTED",
+        "dct:publisher": "BLV-OSAV-USAV-FSVO",
+        "dcat:contactPoint": {
+            "schema:email": "infotgs@blv.admin.ch",
+            "schema:name": "BLV, TGTS, Tiergesundheit"
+        },
+        "dct:issued": "2025-01-01",
+        "dcatap:availability": "STABLE",
+        "dcat:keyword": [
+            "Tiergesundheit",
+            "Überwachung",
+            "IBR",
+            "EBL"
+        ],
+        "dct:accrualPeriodicity": "ANNUAL",
+        "dct:modified": "2025-11-05",
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "personalData",
+        "bv:typeOfData": "primaryThematicData",
+        "bv:archivalValue": "FALSE",
+        "bv:opendata_swiss": {
+            "bv:mustBePublished": "FALSE"
+        },
+        "bv:i14y": {
+            "bv:mustBePublished": "TRUE"
+        },
+        "dcat:theme": [
+            "agriculture",
+            "national-economy"
+        ],
+        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tiergesundheit/ueberwachung/nationales-ueberwachungsprogramm.html",
+        "dct:spatial": "YES",
+        "dct:temporal": {},
+        "dcatap:applicableLegislation": [
+            "Tierseuchenverordnung (TSV SR 916.401)"
+        ],
+        "bv:itSystem": "ARES",
+        "businessDataOwner": null,
+        "schemaViolations": 3,
+        "schemaViolationMessages": [
+            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
+            "None of [{'prov:agent': 'p-9089108', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-20LQWYS00', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
+            "'FALSE' is not of type 'boolean'"
+        ],
+        "quality": 728.5
+    },
+    {
+        "rdf:type": "dcat:Dataset",
+        "dct:identifier": "FSVO_D00006",
+        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/HorsesANdCattle.jpg",
+        "dct:title": {
+            "fr": "IBR/EBL ML Stichprobe",
+            "de": "IBR/EBL ML Stichprobe",
+            "en": "IBR/EBL ML Stichprobe",
+            "it": "IBR/EBL ML Stichprobe"
+        },
+        "dct:description": {
+            "fr": "Chaque année, des exploitations laitières sont sélectionnées sur la base de critères définis et font l'objet d'analyses dans le cadre des programmes nationaux de surveillance du lait en citerne. La liste de ces exploitations est transmise à Suisselab. Les exploitations sentinelles IBR/EBL en font partie.\n\nCes données servent à prouver le statut indemne de la population bovine suisse en matière d'IBR/EBL, conformément aux exigences des accords bilatéraux.",
+            "de": "Jährlich werden aufgrund von festglegten Kriterien milchliefernden Rinderbetriebe ausgewählt, die im Rahmen der nationalen Überwachungsprogramme mittels Tankmilch untersucht werden. Diese Betriebsliste wird Suisselab übergeben. Dazu gehören die Sentinelbetriebe IBR/EBL.\n\nDiese Daten dienen der Belegung des Freiheitsstatus der Schweizer Rinderpopulation von IBR/EBL gemäss den Anforderungen der bilateralen Verträge."
+        },
+        "dct:accessRights": "RESTRICTED",
+        "dct:publisher": "BLV-OSAV-USAV-FSVO",
+        "dcat:contactPoint": {
+            "schema:email": "infotgs@blv.admin.ch",
+            "schema:name": "BLV, TGTS, Tiergesundheit"
+        },
+        "dct:issued": "2025-01-01",
+        "dcatap:availability": "STABLE",
+        "dcat:keyword": [
+            "Tiergesundheit",
+            "Überwachung",
+            "IBR",
+            "EBL",
+            "Milchproduzenten"
+        ],
+        "dct:accrualPeriodicity": "ANNUAL",
+        "dct:modified": "2025-11-05",
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "personalData",
+        "bv:typeOfData": "primaryThematicData",
+        "bv:archivalValue": "FALSE",
+        "bv:opendata_swiss": {
+            "bv:mustBePublished": "FALSE"
+        },
+        "bv:i14y": {
+            "bv:mustBePublished": "TRUE"
+        },
+        "dcat:theme": [
+            "agriculture",
+            "national-economy"
+        ],
+        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tiergesundheit/ueberwachung/nationales-ueberwachungsprogramm.html",
+        "dct:spatial": "YES",
+        "dct:temporal": {},
+        "dcatap:applicableLegislation": [
+            "Tierseuchenverordnung (TSV SR 916.401)"
+        ],
+        "bv:itSystem": "ARES",
+        "businessDataOwner": null,
+        "schemaViolations": 3,
+        "schemaViolationMessages": [
+            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
+            "None of [{'prov:agent': 'p-9089108', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-20LQWYS00', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
+            "'FALSE' is not of type 'boolean'"
+        ],
+        "quality": 688.5
     },
     {
         "rdf:type": "dcat:Dataset",
@@ -4321,6 +3991,80 @@
             "'FALSE' is not of type 'boolean'"
         ],
         "quality": 598.0
+    },
+    {
+        "rdf:type": "dcat:Dataset",
+        "dct:identifier": "FSVO_D00030",
+        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/StillLifeWithMouse.jpg",
+        "dct:title": {
+            "fr": "Tierversuchsstatistik",
+            "de": "Tierversuchsstatistik",
+            "en": "Tierversuchsstatistik",
+            "it": "Tierversuchsstatistik"
+        },
+        "dct:description": {
+            "fr": "Base de données pour les statistiques publiques sur l'expérimentation animale - « gel des données » annuel ; données historiques ; les données doivent être archivées aux Archives fédérales.",
+            "de": "Datengrundlage für die öffentliche Tierversuchsstatistik - jährlicher 'Data-Freeze'; Historische Daten; Daten müssen im Bundesarchiv archiviert werden."
+        },
+        "dct:accessRights": "RESTRICTED",
+        "dct:publisher": "BLV-OSAV-USAV-FSVO",
+        "dcat:contactPoint": {
+            "schema:email": "oberaufsicht-tv@blv.admin.ch",
+            "schema:name": "BLV, TGTS, Tierschutz"
+        },
+        "dct:issued": "2025-01-01",
+        "dcatap:availability": "STABLE",
+        "dcat:keyword": [
+            "Tierversuche",
+            "Tierversuchsstatistik",
+            "Versuchstiere",
+            "Versuchstierhaltung",
+            "Belastungskategorien",
+            "Berichte",
+            "Versuchsdokumentation",
+            "Tiermodelle",
+            "Forschungsprojekte"
+        ],
+        "dct:accrualPeriodicity": "ANNUAL",
+        "dct:modified": "2025-11-05",
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:typeOfData": "primaryThematicData",
+        "bv:archivalValue": "FALSE",
+        "bv:opendata_swiss": {
+            "bv:mustBePublished": "TRUE",
+            "dct:identifier": "tierversuchsstatistik@bundesamt-fur-lebensmittelsicherheit-und-veterinaerwesen-blv",
+            "dcat:accessURL": "Tierversuche: Tierversuchsstatistik | opendata.swiss"
+        },
+        "bv:i14y": {
+            "bv:mustBePublished": "TRUE"
+        },
+        "dcat:theme": [
+            "research",
+            "national-economy",
+            "industry",
+            "administration",
+            "health"
+        ],
+        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierversuche/forschende.html",
+        "dct:spatial": "NO",
+        "dct:temporal": {},
+        "dcatap:applicableLegislation": [
+            "Tierschutzgesetz (TSchG SR 455) – Art. 3 c",
+            "Art. 17",
+            "Art. 18, Art. 20, Art. 20a, Tierschutzverordnung (TSchV SR 455.1) – Art. 139–152. Tierversuchsverordnung (TVV SR 455.163). Verordnung über das Informationssystem Animex-ch (SR 455.61)"
+        ],
+        "bv:itSystem": "BI BLV",
+        "businessDataOwner": null,
+        "schemaViolations": 4,
+        "schemaViolationMessages": [
+            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
+            "None of [{'prov:agent': 'p-9097640', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-1YZJ3753C', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
+            "'FALSE' is not of type 'boolean'",
+            "'research' is not one of ['', 'work', 'construction', 'population', 'education', 'energy', 'finances', 'geography', 'legislation', 'health', 'trade', 'industry', 'crime', 'culture', 'agriculture', 'mobility', 'public-order', 'politics', 'prices', 'territory', 'social-security', 'statistical-basis', 'tourism', 'administration', 'national-economy']"
+        ],
+        "quality": 559.2
     },
     {
         "rdf:type": "dcat:Dataset",
