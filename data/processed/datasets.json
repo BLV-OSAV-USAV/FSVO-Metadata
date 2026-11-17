@@ -869,75 +869,13 @@
     },
     {
         "rdf:type": "dcat:Dataset",
-        "dct:identifier": "FSVO_D00005",
-        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/Medicine.jpg",
-        "dct:title": {
-            "fr": "Kontrollen tierärztlicher Privatapotheken",
-            "de": "Kontrollen tierärztlicher Privatapotheken",
-            "en": "Kontrollen tierärztlicher Privatapotheken",
-            "it": "Kontrollen tierärztlicher Privatapotheken"
-        },
-        "dct:description": {
-            "fr": "Cette collecte de données comprend les résultats des contrôles officiels des pharmacies vétérinaires privées, tels qu'ils sont effectués et documentés par les autorités cantonales d'exécution. Elle recense des informations sur le type d'exploitation, le stockage, la remise et l'utilisation des médicaments vétérinaires, le respect des obligations d'enregistrement ainsi que les éventuelles réclamations et les mesures prises. Des informations sur la fréquence et le type de contrôles ainsi que sur le vétérinaire responsable sont également incluses dans la collecte de données.\n\nLes données relatives à la distribution et à la consommation servent à surveiller l'utilisation des antibiotiques et constituent une base essentielle de la Stratégie nationale suisse de lutte contre la résistance aux antibiotiques (StAR). Elles permettent d'identifier les tendances en matière d'utilisation des antibiotiques, d'évaluer les risques de manière ciblée et de planifier des mesures réglementaires et préventives fondées sur des données probantes. En outre, ces données sont nécessaires pour l'établissement de rapports internationaux (p. ex. à l'OIE) et contribuent à endiguer le développement de résistances chez les animaux et les risques qui en découlent pour la santé publique.",
-            "de": "Diese Datensammlung umfasst die Ergebnisse der amtlichen Kontrollen tierärztlicher Privatapotheken, wie sie durch die kantonalen Vollzugsbehörden durchgeführt und dokumentiert werden. Erfasst werden dabei Informationen zu Betriebstyp, Lagerung, Abgabe und Anwendung von Tierarzneimitteln, zur Einhaltung der Aufzeichnungspflichten sowie zu allfälligen Beanstandungen und ergriffenen Massnahmen. Auch Angaben zur Häufigkeit und Art der Kontrollen sowie zur verantwortlichen Tierärztin oder zum Tierarzt fliessen in die Datensammlung ein.\n\nVetriebs- und Verbrauchsdaten dienen der Überwachung des Antibiotikaverbrauchs und bilden eine zentrale Grundlage der Nationalen Strategie Antibiotikaresistenzen Schweiz (StAR). Sie ermöglichen es, Trends im Einsatz von Antibiotika zu erkennen, Risiken gezielt zu bewerten und regulatorische sowie präventive Massnahmen evidenzbasiert zu planen. Zudem sind die Daten für die internationale Berichterstattung (z. B. an die WOAH) erforderlich und tragen dazu bei, die Entwicklung von Resistenzen bei Tieren und die damit verbundenen Risiken für die öffentliche Gesundheit einzudämmen."
-        },
-        "dct:accessRights": "RESTRICTED",
-        "dct:publisher": "BLV-OSAV-USAV-FSVO",
-        "dcat:contactPoint": {
-            "schema:email": "infotgs@blv.admin.ch",
-            "schema:name": "BLV, TGTS, Tierarzneimittel"
-        },
-        "dct:issued": "2025-01-01",
-        "dcatap:availability": "STABLE",
-        "dcat:keyword": [
-            "Tiergesundheit",
-            "Antibiotika",
-            "Tierarzneimittel",
-            "Veterinärmedizin",
-            "Resistenzmonitoring"
-        ],
-        "dct:accrualPeriodicity": "CONT",
-        "dct:modified": "2025-11-06",
-        "adms:status": "published",
-        "bv:classification": "none",
-        "bv:personalData": "personalData",
-        "bv:typeOfData": "primaryThematicData",
-        "bv:archivalValue": "TRUE",
-        "bv:opendata_swiss": {
-            "bv:mustBePublished": "FALSE"
-        },
-        "bv:i14y": {
-            "bv:mustBePublished": "TRUE"
-        },
-        "dcat:theme": [
-            "agriculture",
-            "health"
-        ],
-        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierarzneimittel/fachgerechter-umgang-mit-tierarzneimitteln/verschreibung--abgabe-und-anwendung.html",
-        "dct:spatial": "YES",
-        "dct:temporal": {},
-        "dcatap:applicableLegislation": [
-            "Tierarzneimittelverordnung"
-        ],
-        "bv:itSystem": "ACONTROL",
-        "businessDataOwner": null,
-        "schemaViolations": 3,
-        "schemaViolationMessages": [
-            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
-            "None of [{'prov:agent': 'p-9079817', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-7891691', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
-            "'TRUE' is not of type 'boolean'"
-        ],
-        "quality": 1107.75
-    },
-    {
-        "rdf:type": "dcat:Dataset",
         "dct:identifier": "FSVO_D00004",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
+            "de": "Ergebnisse der öffentlich rechtlichen Milchprüfung",
             "fr": "Ergebnisse der oeffentlich rechtlichen Milchpruefung",
-            "de": "Ergebnisse der oeffentlich rechtlichen Milchpruefung",
-            "en": "Ergebnisse der oeffentlich rechtlichen Milchpruefung",
-            "it": "Ergebnisse der oeffentlich rechtlichen Milchpruefung"
+            "it": "Ergebnisse der oeffentlich rechtlichen Milchpruefung",
+            "en": "Ergebnisse der oeffentlich rechtlichen Milchpruefung"
         },
         "dct:description": {
             "fr": "Diese Datensammlung umfasst die Ergebnisse der von Suisselab im Rahmen der öffentlich-rechtlichen Milchprüfung durchgeführten Laboranalysen. Dabei werden die Keimzahl und die Zellzahl pro Einzelprobe sowie der geometrisch gemittelte Wert pro Monat erfasst. Zudem wird angegeben, ob der Hemmstofftest bei den Einzelproben positiv oder negativ ausfiel. Parallel dazu werden dieselben Ergebnisse zusammen mit den Ergebnisse privatrechtliche Untersuchungen (z. B. Gefrierpunkt) über eine andere Datenbank (dBMilch) den betroffenen Betrieben zur Verfügung gestellt. Über AGATE haben das BLV und die kantonalen Vollzugsbehörden ebenfalls Zugriff auf diese Datenbank, jedoch sehen sie nicht alle Daten. Die Daten aus den Milchprüfungen zeigen, ob die vorgeschriebenen Untersuchungen gemäss Milchprüfungsverordnung durchgeführt werden und ob die Anforderungen an die Rohmilch gemäss Hygieneverordnung eingehalten sind. Sie ermöglichen es kantonalen Vollzugsbehörden, gezielte Massnahmen einzuleiten (inklusive Milchliefersperren nach Art. 15 MiPV). Diese Datensammlung trägt zur Transparenz in der Wertschöpfungskette bei und unterstützt die behördliche Risikobewertung.",
@@ -1007,6 +945,7 @@
                 "dct:license": "terms_by"
             }
         ],
+        "productType": "dataset",
         "businessDataOwner": null,
         "schemaViolations": 6,
         "schemaViolationMessages": [
@@ -1017,7 +956,69 @@
             "'dct:modified' is a required property",
             "'Milchprüfung' does not match '[a-zA-Z0-9_\\\\-\\\\s]{10,75}'"
         ],
-        "quality": 1104.7142857142858
+        "quality": 1109.0
+    },
+    {
+        "rdf:type": "dcat:Dataset",
+        "dct:identifier": "FSVO_D00005",
+        "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/Medicine.jpg",
+        "dct:title": {
+            "fr": "Kontrollen tierärztlicher Privatapotheken",
+            "de": "Kontrollen tierärztlicher Privatapotheken",
+            "en": "Kontrollen tierärztlicher Privatapotheken",
+            "it": "Kontrollen tierärztlicher Privatapotheken"
+        },
+        "dct:description": {
+            "fr": "Cette collecte de données comprend les résultats des contrôles officiels des pharmacies vétérinaires privées, tels qu'ils sont effectués et documentés par les autorités cantonales d'exécution. Elle recense des informations sur le type d'exploitation, le stockage, la remise et l'utilisation des médicaments vétérinaires, le respect des obligations d'enregistrement ainsi que les éventuelles réclamations et les mesures prises. Des informations sur la fréquence et le type de contrôles ainsi que sur le vétérinaire responsable sont également incluses dans la collecte de données.\n\nLes données relatives à la distribution et à la consommation servent à surveiller l'utilisation des antibiotiques et constituent une base essentielle de la Stratégie nationale suisse de lutte contre la résistance aux antibiotiques (StAR). Elles permettent d'identifier les tendances en matière d'utilisation des antibiotiques, d'évaluer les risques de manière ciblée et de planifier des mesures réglementaires et préventives fondées sur des données probantes. En outre, ces données sont nécessaires pour l'établissement de rapports internationaux (p. ex. à l'OIE) et contribuent à endiguer le développement de résistances chez les animaux et les risques qui en découlent pour la santé publique.",
+            "de": "Diese Datensammlung umfasst die Ergebnisse der amtlichen Kontrollen tierärztlicher Privatapotheken, wie sie durch die kantonalen Vollzugsbehörden durchgeführt und dokumentiert werden. Erfasst werden dabei Informationen zu Betriebstyp, Lagerung, Abgabe und Anwendung von Tierarzneimitteln, zur Einhaltung der Aufzeichnungspflichten sowie zu allfälligen Beanstandungen und ergriffenen Massnahmen. Auch Angaben zur Häufigkeit und Art der Kontrollen sowie zur verantwortlichen Tierärztin oder zum Tierarzt fliessen in die Datensammlung ein.\n\nVetriebs- und Verbrauchsdaten dienen der Überwachung des Antibiotikaverbrauchs und bilden eine zentrale Grundlage der Nationalen Strategie Antibiotikaresistenzen Schweiz (StAR). Sie ermöglichen es, Trends im Einsatz von Antibiotika zu erkennen, Risiken gezielt zu bewerten und regulatorische sowie präventive Massnahmen evidenzbasiert zu planen. Zudem sind die Daten für die internationale Berichterstattung (z. B. an die WOAH) erforderlich und tragen dazu bei, die Entwicklung von Resistenzen bei Tieren und die damit verbundenen Risiken für die öffentliche Gesundheit einzudämmen."
+        },
+        "dct:accessRights": "RESTRICTED",
+        "dct:publisher": "BLV-OSAV-USAV-FSVO",
+        "dcat:contactPoint": {
+            "schema:email": "infotgs@blv.admin.ch",
+            "schema:name": "BLV, TGTS, Tierarzneimittel"
+        },
+        "dct:issued": "2025-01-01",
+        "dcatap:availability": "STABLE",
+        "dcat:keyword": [
+            "Tiergesundheit",
+            "Antibiotika",
+            "Tierarzneimittel",
+            "Veterinärmedizin",
+            "Resistenzmonitoring"
+        ],
+        "dct:accrualPeriodicity": "CONT",
+        "dct:modified": "2025-11-06",
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "personalData",
+        "bv:typeOfData": "primaryThematicData",
+        "bv:archivalValue": "TRUE",
+        "bv:opendata_swiss": {
+            "bv:mustBePublished": "FALSE"
+        },
+        "bv:i14y": {
+            "bv:mustBePublished": "TRUE"
+        },
+        "dcat:theme": [
+            "agriculture",
+            "health"
+        ],
+        "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/tiere/tierarzneimittel/fachgerechter-umgang-mit-tierarzneimitteln/verschreibung--abgabe-und-anwendung.html",
+        "dct:spatial": "YES",
+        "dct:temporal": {},
+        "dcatap:applicableLegislation": [
+            "Tierarzneimittelverordnung"
+        ],
+        "bv:itSystem": "ACONTROL",
+        "businessDataOwner": null,
+        "schemaViolations": 3,
+        "schemaViolationMessages": [
+            "'dataOwner' is not one of ['DataOwner', 'dataSteward', 'dataCustodian']",
+            "None of [{'prov:agent': 'p-9079817', 'dcat:hadRole': 'dataOwner'}, {'prov:agent': 'p-7891691', 'dcat:hadRole': 'dataSteward'}] are valid under the given schema",
+            "'TRUE' is not of type 'boolean'"
+        ],
+        "quality": 1107.75
     },
     {
         "rdf:type": "dcat:Dataset",
