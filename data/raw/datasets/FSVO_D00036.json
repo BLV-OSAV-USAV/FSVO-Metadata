@@ -1,56 +1,56 @@
 {
-    "dct:identifier": "FSVO_D00036",
-    "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
-    "dct:title": {
-        "de": "Einfuhr und Ausfuhrbewilligungen im Bereich Tiergesundheit und Lebensmittel",
-        "fr": "Einfuhr und Ausfuhrbewilligungen  in Bereich Tiergesundheit und Lebensmittel",
-        "it": "Einfuhr und Ausfuhrbewilligungen  in Bereich Tiergesundheit und Lebensmittel",
-        "en": "Einfuhr und Ausfuhrbewilligungen  in Bereich Tiergesundheit und Lebensmittel"
+  "dct:identifier": "FSVO_D00036",
+  "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
+  "dct:title": {
+    "de": "Einfuhr und Ausfuhrbewilligungen im Bereich Tiergesundheit und Lebensmittel",
+    "fr": "Einfuhr und Ausfuhrbewilligungen im Bereich Tiergesundheit und Lebensmittel",
+    "it": "Einfuhr und Ausfuhrbewilligungen im Bereich Tiergesundheit und Lebensmittel",
+    "en": "Einfuhr und Ausfuhrbewilligungen im Bereich Tiergesundheit und Lebensmittel"
+  },
+  "dct:description": {
+    "fr": "Diese Datensammlung umfasst Informationen zu beantragten und erteilten Einfuhr- und Ausfuhrbewilligungen für Tiere, tierische Nebenprodukte und Lebensmittel. Erfasst werden insbesondere Angaben zu Herkunfts- und Bestimmungsländern, Warenkategorien, Gesundheitsbescheinigungen, veterinärrechtlichen Auflagen sowie Ein- und Ausfuhrbedingungen gemäss geltendem Recht. Die Daten dienen der gesundheitlichen Risikoabschätzung sowie der Kontrolle des grenzüberschreitenden Warenverkehrs, um die Einschleppung von Tierseuchen in die Schweiz zu verhindern. Gleichzeitig gewährleisten sie, dass beim Export die veterinär- und lebensmittelrechtlichen Anforderungen der Bestimmungsländer eingehalten werden. Die Datensammlung ermöglicht eine koordinierte Bewilligungsbearbeitung, unterstützt die Nachverfolgbarkeit von Sendungen und erlaubt eine effiziente Zusammenarbeit mit kantonalen, nationalen und internationalen Behörden.",
+    "de": "Diese Datensammlung umfasst Informationen zu beantragten und erteilten Einfuhr- und Ausfuhrbewilligungen für Tiere, tierische Nebenprodukte und Lebensmittel. Erfasst werden insbesondere Angaben zu Herkunfts- und Bestimmungsländern, Warenkategorien, Gesundheitsbescheinigungen, veterinärrechtlichen Auflagen sowie Ein- und Ausfuhrbedingungen gemäss geltendem Recht. Die Daten dienen der gesundheitlichen Risikoabschätzung sowie der Kontrolle des grenzüberschreitenden Warenverkehrs, um die Einschleppung von Tierseuchen in die Schweiz zu verhindern. Gleichzeitig gewährleisten sie, dass beim Export die veterinär- und lebensmittelrechtlichen Anforderungen der Bestimmungsländer eingehalten werden. Die Datensammlung ermöglicht eine koordinierte Bewilligungsbearbeitung, unterstützt die Nachverfolgbarkeit von Sendungen und erlaubt eine effiziente Zusammenarbeit mit kantonalen, nationalen und internationalen Behörden."
+  },
+  "dct:accessRights": "RESTRICTED",
+  "dct:publisher": "BLV-OSAV-USAV-FSVO",
+  "dcat:contactPoint": {
+    "schema:name": "BLV, INT, Bewilligungstelle",
+    "schema:email": "infobew@blv.admin.ch"
+  },
+  "dct:issued": "2025-01-01",
+  "dcatap:availability": "STABLE",
+  "dcat:keyword": [
+    "food",
+    "animals"
+  ],
+  "dct:accrualPeriodicity": "DAILY",
+  "dct:modified": "2025-09-10",
+  "prov:qualifiedAttribution": [
+    {
+      "prov:agent": "p-9756818",
+      "dcat:hadRole": "dataOwner"
     },
-    "dct:description": {
-        "fr": "Diese Datensammlung umfasst Informationen zu beantragten und erteilten Einfuhr- und Ausfuhrbewilligungen für Tiere, tierische Nebenprodukte und Lebensmittel. Erfasst werden insbesondere Angaben zu Herkunfts- und Bestimmungsländern, Warenkategorien, Gesundheitsbescheinigungen, veterinärrechtlichen Auflagen sowie Ein- und Ausfuhrbedingungen gemäss geltendem Recht. Die Daten dienen der gesundheitlichen Risikoabschätzung sowie der Kontrolle des grenzüberschreitenden Warenverkehrs, um die Einschleppung von Tierseuchen in die Schweiz zu verhindern. Gleichzeitig gewährleisten sie, dass beim Export die veterinär- und lebensmittelrechtlichen Anforderungen der Bestimmungsländer eingehalten werden. Die Datensammlung ermöglicht eine koordinierte Bewilligungsbearbeitung, unterstützt die Nachverfolgbarkeit von Sendungen und erlaubt eine effiziente Zusammenarbeit mit kantonalen, nationalen und internationalen Behörden.",
-        "de": "Diese Datensammlung umfasst Informationen zu beantragten und erteilten Einfuhr- und Ausfuhrbewilligungen für Tiere, tierische Nebenprodukte und Lebensmittel. Erfasst werden insbesondere Angaben zu Herkunfts- und Bestimmungsländern, Warenkategorien, Gesundheitsbescheinigungen, veterinärrechtlichen Auflagen sowie Ein- und Ausfuhrbedingungen gemäss geltendem Recht. Die Daten dienen der gesundheitlichen Risikoabschätzung sowie der Kontrolle des grenzüberschreitenden Warenverkehrs, um die Einschleppung von Tierseuchen in die Schweiz zu verhindern. Gleichzeitig gewährleisten sie, dass beim Export die veterinär- und lebensmittelrechtlichen Anforderungen der Bestimmungsländer eingehalten werden. Die Datensammlung ermöglicht eine koordinierte Bewilligungsbearbeitung, unterstützt die Nachverfolgbarkeit von Sendungen und erlaubt eine effiziente Zusammenarbeit mit kantonalen, nationalen und internationalen Behörden."
-    },
-    "dct:accessRights": "RESTRICTED",
-    "dct:publisher": "BLV-OSAV-USAV-FSVO",
-    "dcat:contactPoint": {
-        "schema:name": "BLV, INT, Bewilligungstelle",
-        "schema:email": "infobew@blv.admin.ch"
-    },
-    "dct:issued": "2025-01-01",
-    "dcatap:availability": "STABLE",
-    "dcat:keyword": [
-        "food",
-        "animals"
-    ],
-    "dct:accrualPeriodicity": "DAILY",
-    "dct:modified": "2025-09-10",
-    "prov:qualifiedAttribution": [
-        {
-            "prov:agent": "p-9756818",
-            "dcat:hadRole": "dataOwner"
-        },
-        {
-            "prov:agent": "p-9756818",
-            "dcat:hadRole": "dataSteward"
-        }
-    ],
-    "adms:status": "published",
-    "bv:classification": "none",
-    "bv:personalData": "personalData",
-    "bv:typeOfData": "primaryThematicData",
-    "bv:archivalValue": "TRUE",
-    "dcat:theme": [
-        "trade"
-    ],
-    "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/import-und-export.html",
-    "dct:spatial": "NO",
-    "bv:itSystem": "Inpec",
-    "bv:opendata_swiss": {
-        "bv:mustBePublished": "FALSE"
-    },
-    "bv:i14y": {
-        "bv:mustBePublished": "TRUE"
-    },
-    "productType": "dataset"
+    {
+      "prov:agent": "p-9756818",
+      "dcat:hadRole": "dataSteward"
+    }
+  ],
+  "adms:status": "published",
+  "bv:classification": "none",
+  "bv:personalData": "personalData",
+  "bv:typeOfData": "primaryThematicData",
+  "bv:archivalValue": "TRUE",
+  "dcat:theme": [
+    "trade"
+  ],
+  "dcat:landingPage": "https://www.blv.admin.ch/blv/de/home/import-und-export.html",
+  "dct:spatial": "NO",
+  "bv:itSystem": "Inpec",
+  "bv:opendata_swiss": {
+    "bv:mustBePublished": "FALSE"
+  },
+  "bv:i14y": {
+    "bv:mustBePublished": "TRUE"
+  },
+  "productType": "dataset"
 }
