@@ -4369,14 +4369,14 @@
             "it": "Survalyzer"
         },
         "dct:description": {
-            "fr": "Tous les cours sont évalués par les participants dans l'outil Survalyzer. ",
-            "de": "Alle Kurse werden durch teilnehmenden in Survalyzer Tool evaluiert. "
+            "de": "Alle Kurse werden durch die Teilnehmenden im Survalyzer Tool evaluiert. ",
+            "fr": "Tous les cours sont évalués par les participants dans l'outil Survalyzer. "
         },
         "dct:accessRights": "RESTRICTED ",
         "dct:publisher": "BLV-OSAV-USAV-FSVO",
         "dcat:contactPoint": {
-            "schema:email": "formation@blv.admin.ch",
-            "schema:name": "BLV, Bildung und Forschung"
+            "schema:name": "BLV, Bildung und Forschung",
+            "schema:email": "formation@blv.admin.ch"
         },
         "dct:issued": "2025-01-01",
         "dcatap:availability": "STABLE ",
@@ -4390,20 +4390,20 @@
         "bv:personalData": "personalData",
         "bv:typeOfData": "unstructuredData ",
         "bv:archivalValue": "FALSE",
+        "dcat:theme": [
+            "education"
+        ],
+        "dct:spatial": "NO",
+        "dcatap:applicableLegislation": [
+            "SR 916.402 - Verordnung vom 16. November 2011 über die Aus-, Weiter- und Fortbildung der Personen im öffentlichen Veterinärwesen | Fedlex"
+        ],
         "bv:opendata_swiss": {
             "bv:mustBePublished": "FALSE"
         },
         "bv:i14y": {
             "bv:mustBePublished": "TRUE"
         },
-        "dcat:theme": [
-            "education"
-        ],
-        "dct:spatial": "NO",
-        "dct:temporal": {},
-        "dcatap:applicableLegislation": [
-            "SR 916.402 - Verordnung vom 16. November 2011 über die Aus-, Weiter- und Fortbildung der Personen im öffentlichen Veterinärwesen | Fedlex"
-        ],
+        "productType": "dataset",
         "businessDataOwner": null,
         "schemaViolations": 6,
         "schemaViolationMessages": [
@@ -4414,6 +4414,6 @@
             "'unstructuredData ' is not one of ['', 'primaryThematicData', 'secondaryThematicData', 'referenceData', 'masterData', 'unstructuredData']",
             "'FALSE' is not of type 'boolean'"
         ],
-        "quality": 255.0
+        "quality": 256.42857142857144
     }
 ]
