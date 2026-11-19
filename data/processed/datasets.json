@@ -4,10 +4,10 @@
         "dct:identifier": "FSVO_D00046",
         "schema:image": "https://raw.githubusercontent.com/BLV-OSAV-USAV/FSVO-Metadata/refs/heads/main/data/images/FSVO_Default_Image.jpg",
         "dct:title": {
+            "de": "Laborergebnisse der kantonalen Lebensmittelkontrolle (Produktkontrolle)",
             "fr": "Laborergebnisse der kantonalen Lebensmittelkontrolle Produktkontrolle",
-            "de": "Laborergebnisse der kantonalen Lebensmittelkontrolle Produktkontrolle",
-            "en": "Laborergebnisse der kantonalen Lebensmittelkontrolle Produktkontrolle",
-            "it": "Laborergebnisse der kantonalen Lebensmittelkontrolle Produktkontrolle"
+            "it": "Laborergebnisse der kantonalen Lebensmittelkontrolle Produktkontrolle",
+            "en": "Laborergebnisse der kantonalen Lebensmittelkontrolle Produktkontrolle"
         },
         "dct:description": {
             "fr": "Diese Datensammlung beinhaltet die Ergebnisse der Laboruntersuchungen von Lebensmittelproben, die im Rahmen der kantonalen Lebensmittelkontrolle in den Untersuchungsbereichen Pflanzenschutzmittelrückstände, Mykotoxine, GVO, Trink- und Badewasser erhoben und untersucht wurden und die an das BLV gemeldet wurden. Dabei werden unter anderem die Produktart, die Herkunft, die Analyseparameter, die Messwerte, die rechtliche Beurteilung (konform/nicht konform) sowie allfällige Beanstandungsgründe erfasst. Die Laborergebnisse  geben einen Überblick über die gesamte Schweiz und das Fürstentum Liechtenstein in Bezug auf geprüfte Lebensmittel sowie festgestellte Auffälligkeiten. Sie bilden eine Grundlage für risikobasierte Planung künftiger Kontrollen, für die Beurteilung von Trends (z. B. wiederholte Höchstwertüberschreitungen) und für die Kommunikation gegenüber Konsumentinnen und Konsumenten, Medien und internationalen Partnern.",
@@ -63,6 +63,7 @@
                 "dct:license": "terms_by"
             }
         ],
+        "productType": "dataset",
         "businessDataOwner": null,
         "schemaViolations": 4,
         "schemaViolationMessages": [
@@ -71,7 +72,7 @@
             "'TRUE' is not of type 'boolean'",
             "'dct:modified' is a required property"
         ],
-        "quality": 2281.8
+        "quality": 2288.2
     },
     {
         "rdf:type": "dcat:Dataset",
