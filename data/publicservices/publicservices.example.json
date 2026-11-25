@@ -13,6 +13,36 @@
     },
     "publisher": {
       "identifier": "CH_BLV"
-    }
+    },
+    "businessEvents": [{"code": "BE-ImportExport"}],
+    "lifeEvents": [],
+    "channels": [
+      {
+        "identifier": "FSVO_SERVICE_EXAMPLE_WEB",
+        "type": {"code": "b37115f83e"},
+        "description": {
+          "de": "Online-Zugang zur Leistung",
+          "fr": "Accès en ligne à la prestation",
+          "it": "Accesso online alla prestazione"
+        },
+        "url": "https://example.org/service",
+        "ownedBy": [{"identifier": "CH_BLV"}]
+      }
+    ],
+    "keywords": [
+      {
+        "label": {"de": "Import", "fr": "Importation", "it": "Importazione"}
+      }
+    ],
+    "languages": [{"code": "de"}, {"code": "fr"}, {"code": "it"}],
+    "sectors": [{"code": "109"}],
+    "thematicAreas": [{"code": "109"}],
+    "spatial": ["CH"],
+    "spatialCH": [],
+    "isDescribedAt": [],
+    "relations": [],
+    "requires": [],
+    "responsiblePerson": {"email": "service-owner@example.org"},
+    "responsibleDeputy": {"email": "service-deputy@example.org"}
   }
 ]

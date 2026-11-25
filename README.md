@@ -23,7 +23,9 @@ The metadata you find here is displayed in a more user-friendly way by our [data
 The harvesters in [`i14y/`](i14y/) send dataset and public service metadata to the I14Y Partner API. Each resource type has separate GitHub Actions workflows for ABN (acceptance) and PROD (production).
 
 - **Datasets** are read from [`data/processed/datasets.json`](data/processed/datasets.json), which the Combine Datasets workflow generates. Set `I14Y_DATASET_IDENTIFIERS` in [`i14y/config.py`](i14y/config.py) to the `dct:identifier` values to harvest. An empty set selects zero datasets.
-- **Public services** are read from [`data/publicservices/publicservices.json`](data/publicservices/publicservices.json). Add entries using the [example JSON](data/publicservices/publicservices.example.json) as a template. Keep each service's first identifier stable so the harvester can find and update the existing I14Y entry.
+- **Public services** are read from [`data/publicservices/publicservices.json`](data/publicservices/publicservices.json). Add entries using the [example JSON](data/publicservices/publicservices.example.json) as a template. Keep each service's first identifier stable so the harvester can find and update the existing I14Y entry. [Public services entry guide](data/publicservices/README.md)
+
+The public services template uses the I14Y write format. Use objects such as `{"code": "de"}` for coded fields and `{"identifier": "CH_BLV"}` for publisher and channel owners. For `isDescribedAt`, `relations` and `requires`, use `{"id": "<I14Y UUID>"}` for an existing I14Y resource. Replace the example URL, email addresses and codes with values for the service, or omit optional fields that do not apply. [I14Y Partner API write schema](https://apiconsole.i14y.admin.ch/partner/v1/Release.json)
 
 To check the public service input locally, run `python -m i14y.publicservices.harvester` from the repository root. This checks the input structure and required fields. API writes require `--apply` and an `ACCESS_TOKEN`. Local runs target ABN by default. Set `I14Y_ENVIRONMENT=PROD` to target production.
 
