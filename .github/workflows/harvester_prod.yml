@@ -58,7 +58,10 @@ jobs:
 
         result = get_token_without_refresh(client_id,client_secret)
         
-        print(f"::set-output name=access_token::{result['access_token']}")
+        access_token = result['access_token']
+        print(f"::add-mask::{access_token}")
+        with open(os.environ['GITHUB_OUTPUT'], 'a', encoding='utf-8') as output:
+            print(f"access_token={access_token}", file=output)
         EOF
 
     - name: Run harvester script

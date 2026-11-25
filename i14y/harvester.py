@@ -138,8 +138,6 @@ if __name__ == "__main__":
     rows = [
         row for row in catalog
         if row.get('dct:identifier') in config.I14Y_DATASET_IDENTIFIERS
-        and str((row.get('bv:i14y') or {}).get('bv:mustBePublished')).strip().lower()
-        in {'true', 'yes'}
     ]
 
     created_datasets = []
