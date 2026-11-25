@@ -3,6 +3,9 @@ name: I14Y public services ABN
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   harvest-publicservices:
     runs-on: ubuntu-latest
@@ -52,8 +55,12 @@ jobs:
 
       - name: Upload log
         if: ${{ always() }}
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           name: harvest-publicservices-log
           path: harvest_publicservices_log.txt
           if-no-files-found: ignore
+
+      - name: Commit and push harvest log
+        if: ${{ success() && github.ref_type == 'branch' }}
+        run: bash .github/scripts/push-harvest-log.sh harvest_publicservices_log.txt publicservices abn

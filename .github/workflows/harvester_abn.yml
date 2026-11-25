@@ -5,6 +5,9 @@ on:
   #  - cron: '0 0 * * *'  # Runs every day at midnight
   workflow_dispatch:  # Allows manual triggering
 
+permissions:
+  contents: write
+
 jobs:
   harvest-data:
     runs-on: ubuntu-latest
@@ -67,7 +70,11 @@ jobs:
       run: python -m i14y.datasets.harvester
     
     - name: Upload log
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v6
       with:
         name: harvest-log
         path: harvest_log.txt
+
+    - name: Commit and push harvest log
+      if: ${{ success() && github.ref_type == 'branch' }}
+      run: bash .github/scripts/push-harvest-log.sh harvest_log.txt datasets abn
