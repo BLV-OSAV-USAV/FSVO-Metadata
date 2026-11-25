@@ -2,7 +2,7 @@ import calendar
 import datetime
 import re
 
-import config
+from i14y import config
 
 
 # Crosswalk from the FSVO catalogue vocabulary to the I14Y theme codes.

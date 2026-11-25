@@ -1,0 +1,59 @@
+name: I14Y public services ABN
+
+on:
+  workflow_dispatch:
+
+jobs:
+  harvest-publicservices:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: '3.13'
+
+      - name: Install dependencies
+        run: python -m pip install requests
+
+      - name: Get access token
+        id: get-token
+        env:
+          CLIENT_ID: ${{ secrets.CLIENT_ID_ABN }}
+          CLIENT_SECRET: ${{ secrets.CLIENT_SECRET_ABN }}
+        run: |
+          python - <<'PYTHON'
+          import os
+
+          import requests
+
+          response = requests.post(
+              "https://identity.i14y.a.c.bfs.admin.ch/realms/bfs-sis-a/protocol/openid-connect/token",
+              data={"grant_type": "client_credentials"},
+              auth=(os.environ["CLIENT_ID"], os.environ["CLIENT_SECRET"]),
+              timeout=40,
+          )
+          response.raise_for_status()
+          access_token = response.json()["access_token"]
+          print(f"::add-mask::{access_token}")
+          with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as output:
+              print(f"access_token={access_token}", file=output)
+          PYTHON
+
+      - name: Run public services harvester
+        env:
+          I14Y_ENVIRONMENT: ABN
+          ACCESS_TOKEN: ${{ steps.get-token.outputs.access_token }}
+        shell: bash
+        run: python -m i14y.publicservices.harvester --apply 2>&1 | tee harvest_publicservices_log.txt
+
+      - name: Upload log
+        if: ${{ always() }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: harvest-publicservices-log
+          path: harvest_publicservices_log.txt
+          if-no-files-found: ignore

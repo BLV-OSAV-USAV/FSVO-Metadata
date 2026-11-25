@@ -16,13 +16,13 @@ jobs:
 
     - name: Set up Python
       uses: actions/setup-python@v7
-      # with:
-      #  python-version: '3.9'
+      with:
+        python-version: '3.13'
 
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install -r requirements.txt
+        python -m pip install requests
         
     - name: Get access token
       id: get-token
@@ -66,8 +66,9 @@ jobs:
 
     - name: Run harvester script
       env:
+        I14Y_ENVIRONMENT: PROD
         ACCESS_TOKEN: ${{ steps.get-token.outputs.access_token }}
-      run: python src/harvester.py
+      run: python -m i14y.datasets.harvester
     
     - name: Upload log
       uses: actions/upload-artifact@v4

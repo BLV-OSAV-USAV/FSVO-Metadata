@@ -62,8 +62,9 @@ jobs:
 
     - name: Run harvester script
       env:
+        I14Y_ENVIRONMENT: ABN
         ACCESS_TOKEN: ${{ steps.get-token.outputs.access_token }}
-      run: python i14y/harvester.py
+      run: python -m i14y.datasets.harvester
     
     - name: Upload log
       uses: actions/upload-artifact@v4

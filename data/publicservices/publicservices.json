@@ -1,0 +1,18 @@
+[
+  {
+    "identifiers": ["FSVO_SERVICE_EXAMPLE"],
+    "name": {
+      "de": "Beispiel einer öffentlichen Leistung",
+      "fr": "Exemple de prestation publique",
+      "it": "Esempio di prestazione pubblica"
+    },
+    "description": {
+      "de": "Beschreiben Sie die Leistung und für wen sie bestimmt ist.",
+      "fr": "Décrivez la prestation et ses destinataires.",
+      "it": "Descrivete la prestazione e i suoi destinatari."
+    },
+    "publisher": {
+      "identifier": "CH_BLV"
+    }
+  }
+]
